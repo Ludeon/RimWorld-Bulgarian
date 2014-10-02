@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Времe</ClockTime>
+  <ClockDate>Дата</ClockDate>
+  <ClockYear>Година</ClockYear>
+  <DateReadoutTip>Дни изминали от момента на вашето пристигането: {0}\nВ всеки месец {1} дни.</DateReadoutTip>
+
+
+
+  <FullDate>{0} {1}, година {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>Януари</MonthFullJanuary>
+  <MonthFullFebruary>Февруари</MonthFullFebruary>
+  <MonthFullMarch>Март</MonthFullMarch>
+  <MonthFullApril>Април</MonthFullApril>
+  <MonthFullMay>Май</MonthFullMay>
+  <MonthFullJune>Юни</MonthFullJune>
+  <MonthFullJuly>Юли</MonthFullJuly>
+  <MonthFullAugust>Август</MonthFullAugust>
+  <MonthFullSeptember>Септември</MonthFullSeptember>
+  <MonthFullOctober>Октомври</MonthFullOctober>
+  <MonthFullNovember>Ноември</MonthFullNovember>
+  <MonthFullDecember>Декември</MonthFullDecember>
+  
+  <MonthShortJanuary>Яну</MonthShortJanuary>
+  <MonthShortFebruary>Фев</MonthShortFebruary>
+  <MonthShortMarch>Мар</MonthShortMarch>
+  <MonthShortApril>Апр</MonthShortApril>
+  <MonthShortMay>Май</MonthShortMay>
+  <MonthShortJune>Юни</MonthShortJune>
+  <MonthShortJuly>Юли</MonthShortJuly>
+  <MonthShortAugust>Авг</MonthShortAugust>
+  <MonthShortSeptember>Сеп</MonthShortSeptember>
+  <MonthShortOctober>Окт</MonthShortOctober>
+  <MonthShortNovember>Ное</MonthShortNovember>
+  <MonthShortDecember>Дек</MonthShortDecember>
+    
+    
+</LanguageData>
