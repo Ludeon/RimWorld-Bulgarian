@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>{0} изстрелва няколко нецензурни епитета и се изключва.</FactionGreetingHostile>
+  <FactionGreetingWary>{0} поздравява {1} внимателно и пита за целта на срещата.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} поздравява {1} топло и питат как е колонията.</FactionGreetingWarm>
+
+  <Disconnect>Изключи</Disconnect>
+
+  <OfferGift>Предложи подарък</OfferGift>
+  <NeedSilverLaunchable>трябват {0} сребро в близост до Търговските постове</NeedSilverLaunchable>
+  <NotEnoughSilver>Недостатъчно сребро.</NotEnoughSilver>
+  <SilverForGoodwill>{0} сребро за {1} Доброжелание</SilverForGoodwill>
+  <SilverGiftSent>Председателят на {0} благодари.\n\n(Доброжеланието се повишава с {1}).</SilverGiftSent>
+
+
+  <RequestMilitaryAid>Помоли за незабавна военна помощ ({0} Доброжелание)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} няма да помогне срещу фракции което не са им врагове. Това включва и тези, които те заплашват, {1}. Желаеш ли помощ все още?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Да, обади им се все пак.</CallConfirm>
+  <CallCancel>Не, няма нужда.</CallCancel>
+  <MilitaryAidSent>Председателят на {0} се съгласява да изпрати бойци да ти помогнат.</MilitaryAidSent>
+  
+  
+</LanguageData>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Задачи</TabBills>
+  <TabGrowing>Засяване</TabGrowing>
+  <TabCharacter>Характер</TabCharacter>
+  <TabTraining>Дресировка</TabTraining>
+  <TabPrisoner>Затворник</TabPrisoner>
+  <TabGuest>Гост</TabGuest>
+  <TabGear>Екипировка</TabGear>
+  <TabNeeds>Нужди</TabNeeds>
+  <TabStorage>Склад</TabStorage>
+  <TabHealth>Здраве</TabHealth>
+  <TabRace>Раса</TabRace>
+  <TabBasics>Основни</TabBasics>
+  <TabStats>Статистика</TabStats>
+  <TabRecords>История</TabRecords>
+  <TabArt>Изкуство</TabArt>
+  <TabSocial>Социални</TabSocial>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Добави задача</AddBill>
+  <RecipeRequiresSkills>Рецептата {0} се нуждае от следните умения. Никой от заселниците ти не ги притежава, и съответно никой няма да я изпълни.</RecipeRequiresSkills>
+  <MinimumSkill>Минимално Умение</MinimumSkill>
+  <SuspendedCaps>ОТЛОЖЕНО</SuspendedCaps>
+  <BoundWorkerIs>Работник: {0}</BoundWorkerIs>
+  <PlantVerb>Растение</PlantVerb>
+
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>Трудност на вербуване</RecruitmentDifficulty>
+  <GetsFood>Получава храна</GetsFood>
+  <DoctorsCare>Докторска грижа</DoctorsCare>
+  <GetsMedicine>Получава лекарства</GetsMedicine>
+  <ShouldTryToRecruit>Опитай да вербуваш</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Без взаимодействие</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Приятелски разговор</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Разговаряй и вербувай</PrisonerAttemptRecruit>
+  <PrisonerRelease>Освободи</PrisonerRelease>
+  <PrisonerExecution>Екзекутирай</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Скорост на движение</MoveSpeed>
+  <Efficiency>Ефикасност</Efficiency>
+  <MissingBodyPart>Отсъства</MissingBodyPart>
+  <DestroyedBodyPart>Унищожен</DestroyedBodyPart>
+  <ShatteredBodyPart>Разбит</ShatteredBodyPart>
+  <RemovedBodyPart>Премахнат</RemovedBodyPart>
+  <Healthy>Здрав</Healthy>
+  <InPain>В болка</InPain>
+  <PainLevel>Болка</PainLevel>
+  <Dead>мъртъв</Dead>
+  <Unconscious>В безсъзнание</Unconscious>
+  <PainShock>В шок</PainShock>
+  <Injured>Наранен</Injured>
+  <NoInjuries>(без наранявания)</NoInjuries>
+  <WholeBody>Цяло тяло</WholeBody>
+  <DataProcessing>Процес на данни</DataProcessing>
+  <Communication>Комуникация</Communication>
+  <AffectsLower>засяга</AffectsLower>
+  <BleedingRate>Степен на кръвотечение</BleedingRate>
+  <HealthOverview>Преглед</HealthOverview>
+  <MedicalOperationsShort>Операции ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Модификации ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Медицински операции</MedicalOperations>
+  <Amputate>Ампутирай</Amputate>
+  <Harvest>Придобий</Harvest>
+  <MemoryLower>памет</MemoryLower>
+  <SocialInteractionsLower>социални връзки</SocialInteractionsLower>
+  <HungerRate>Степен на огладняване</HungerRate>
+  <Tiredness>Умора</Tiredness>
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>Никакви</None>
+  <VeryPoor>Много слаби</VeryPoor>
+  <Poor>Слаби</Poor>
+  <Weakened>Отслабени</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Подсилени</Enhanced>
+  <SeriouslyImpaired>Сериозно увредени</SeriouslyImpaired>
+  <Impaired>Увредени</Impaired>
+  <SlightlyImpaired>Леко увредени</SlightlyImpaired>
+  <NoPain>Никаква</NoPain>
+  <LittlePain>Лека</LittlePain>
+  <MediumPain>Средна</MediumPain>
+  <SeverePain>Сериозна</SeverePain>
+  <ExtremePain>Екстремна</ExtremePain>
+
+
+  <!-- Training tab-->
+  <TrainableIntelligence>Интелигентност за дресировка</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Изисква интелигентност за дресировка {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} е много малък за да бъде обучен на това.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Необходимо условие: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <NoRelationships>(няма връзки)</NoRelationships>
+  <Kidnapped>Отвлечен</Kidnapped>
+  <Slave>Роб</Slave>
+  <FactionLeader>Лидер на фракция</FactionLeader>
+  <OpinionOf>Мнение за {0}</OpinionOf>
+  <SomeonesOpinionOfMe>мнението на {0} за мен</SomeonesOpinionOfMe>
+  <IAmDead>Мъртъв съм</IAmDead>
+  <IAmPsychopath>Аз съм психопат</IAmPsychopath>
+
+</LanguageData>

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ClickToJumpToProblem>Цъкни тук да видиш проблема</ClickToJumpToProblem>
+
+  
+  
+  <NeedSawmill>Нужна е дъскорезница</NeedSawmill>
+  <NeedSawmillDesc>Трябва ти дъскорезница за да превърнеш дървата в трупи.\n\n Построй Ръчна Дъскорезница или Електрическа Дъскорезница.</NeedSawmillDesc>
+
+  <PoorMood>Лошо настроение</PoorMood>
+  <PoorMoodDesc>Следните заселници са в лошо настроение и може да се пречупят всеки момент:\n\n{0}</PoorMoodDesc>
+  <TerribleMood>Много лошо настроение</TerribleMood>
+  <TerribleMoodDesc>Следните заселници са критично стресирани и може да преживеят ментален срив с опасни последици всеки момент:\n\n{0}</TerribleMoodDesc>
+  <LowMoodDescEnding>Провери тези заселници за да видиш какво ги тормози.</LowMoodDescEnding>
+  
+  <ColonistNeedsRescue>Заселник се нуждае от спасение</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Заселници се нуждаят от спасение</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  Следните заселници са безсилни на земята:\n\n{0}\nИзпрати заселник да ги спаси и отнесе до легло.\n\nЗа да ги спасиш, избери заселник и цъкни с десния бутон върху жертвата и избери Спаси.</ColonistsNeedRescueDesc>
+
+  <BuildARoom>Построй стая</BuildARoom>
+  <BuildARoomDesc>Стаята се състои от отделни стени и врата.\n\nИзползвай менюто Архитект долу вляво за да отбележиш къде желаеш да се построят стените и вратата. След като направиш това, заселниците ще свършат работата при първа възможност.</BuildARoomDesc>
+
+  <NeedDefenses>Трябва ти защита</NeedDefenses>
+  <NeedDefensesDesc>Тук сте от известно време и със сигурност са ви забелязали. Враговете скоро ще ви нападнат.\n\nТрябва да подготвиш защитни постройки.\n\nПострой няколко Огневи Кули.</NeedDefensesDesc>
+
+  <NeedDoctor>Трябва ти доктор</NeedDoctor>
+  <NeedDoctorDesc>Следните заселници се имат от медицински нужди, но нямаш здрави заселници, които са зададени като доктори.\n\n{0}\nЗадай на здрав заселник ролята на Доктор. Ако не бъдат излекувани, раните могат да не се излекуват или се превърнат в постоянни.</NeedDoctorDesc>
+
+  <NeedMiner>Трябва ти миньор</NeedMiner>
+  <NeedMinerDesc>Задал си определени скали да се изкопаят, но нямаш заселник определен като Миньор.\n\nЗадай на заселник ролята на Миньор.</NeedMinerDesc>
+
+  <NeedWarden>Трябва ти Пазач</NeedWarden>
+  <NeedWardenDesc>Имаш затворник, но няма заселник, на когото е зададена ролята на Пазач.\n\nзадай на заселник ролята на Пазач.</NeedWardenDesc>
+
+  <LowFood>Храната свършва</LowFood>
+  <LowFoodDesc>Имаш само {0} порции храна в складовете. Това е опасно малко.\n\nЗасей, купи, намери, или убий дивеч за храна.</LowFoodDesc>
+
+  <LowMedicine>Лекарствата свършват</LowMedicine>
+  <LowMedicineDesc>Имаш само {0} Лекарства в складовете.\n\nКупи Лекарства от търговците.</LowMedicineDesc>
+  <NoMedicineDesc>Нямаш никакви Лекарства в складовете.\n\nКупи Лекарства от търговците..</NoMedicineDesc>
+  
+  <NeedColonistBeds>Нямаш легла за заселниците</NeedColonistBeds>
+  <NeedColonistBedsDesc>Имаш повече заселници отколкото легла. Някои от тях няма да имат място за спане.\n\nПострой допълнителни легла или промени затворническите легла в заселнически.\n\nАко ти липсват ресурси, If you have no resources, можеш да поставиш Места за Спане веднага.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>Ловец няма оръжие</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Заселник е сзс зададена роля на Ловец, но няма оръжие. Те няма да отидат на лов преди да им бъде дадено оръжие.\n\nЗа да намалиш шанса за поражения, препоръчваме да им се даде далекобойно оръжие.</HunterLacksWeaponDesc>
+
+  <Starvation>Глад</Starvation>
+  <StarvationDesc>Следните заселници са изгладнели:\n\n{0}\nОсигури им храна.</StarvationDesc>
+
+  <StarvationAnimals>Животно е гладно</StarvationAnimals>
+  <StarvationAnimalsDesc>Следните животни на колонията са гладни.:\n\n{0}\nОсигури им храна.</StarvationAnimalsDesc>
+
+  <Exhaustion>Изтощение</Exhaustion>
+  <ExhaustionDesc>Следните заселници са изтощени и имат нужда от почивка:\n\n{0}\nОсигури им почивка. Те се нуждаят от лего определено за ползване от заселници. Провери дали не са Командвани.</ExhaustionDesc>
+
+  <NeedFoodHopper>Необходимо е Табло за Храна</NeedFoodHopper>
+  <NeedFoodHopperDesc>Притежаваш Разпределител на Храна, но нямаш Табло за Храна до него.\n\nЗа да може да работи, Разпределителят се нуждае от Табло за Храна до себе си, пълно със Сурова Храна.\n\nПострой Табло за Храна в съседство с Разпределителя за Храна.</NeedFoodHopperDesc>
+
+  <BuildingNeedsPower>Постройка се нуждае от енергия</BuildingNeedsPower>
+  <BuildingsNeedPower>Постройки се нуждаят от енергия</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Следните постройки не са свързани с източници на енергия:\n\n{0}\nСвзржи ги с генератор на енергия или Батерия.</BuildingsNeedPowerDesc>
+  <AndMore>и още</AndMore>
+
+  <NeedMealSource>Необходим е източник на Храна</NeedMealSource>
+  <NeedMealSourceDesc>Нямаш възможност да приготвиш подходящи ястия от Сурова Храна.\n\nПострой Печка, Огън, или Разпределител на Храна.\n\n(Не може да се намира(т) в Затворническа клетка, зашото заселниците но могат да ги използват)</NeedMealSourceDesc>
+
+  <NeedHomeArea>Необходима е Основна Зона</NeedHomeArea>
+  <NeedHomeAreaDesc>Трябва да зададеш ОСНОВНА ЗОНА, която заселниците да почистват, поправят, или да потушават огньове.\n\nОпредели ОСНОВНА ЗОНА използвайки секцията ЗОНИ чрез секцията Зони на менюто АРХИТЕКТ.</NeedHomeAreaDesc>
+
+  <NeedBatteries>Необходими са Батерии</NeedBatteries>
+  <NeedBatteriesDesc>Притежаваш Слънчеви Генератори, но нямаш Батерии. Това означава, че ще останеш без енергия след залез.\n\nПострой Батерии за да изкараш нощта.</NeedBatteriesDesc>
+
+  <NoTradingCapacity>Няма възможност за търговия</NoTradingCapacity>
+  <NoTradingCapacityDesc>Нямаш възможност да търгуваш с минаващи космически кораби.\n\nПострой Конзола за Комуникации.</NoTradingCapacityDesc>
+
+  <BrawlerHasRangedWeapon>Ръкопашен боец има Далекобкойно Оръжие</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Един от заселниците ти има способността Ръкопашен Боец, но ноци далекобойно оръжие. Това ги прави недоволни.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Заселник с Енергиен Щит има далекобойно оръжие</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Един от заселниците ти има Енергиен Щит, но носи далекобойно оръжие. Те не могат да стрелят с него през щита (с изключение на цели до себе си).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Необходим е изследователски проект</NeedResearchProject>
+  <NeedResearchProjectDesc>Имаш оборудване за изследване, но нямаш определен проект.\n\nОтвори менюто Изследване и определи проект.</NeedResearchProjectDesc>
+  
+  <NeedDump>Необходим е Склад за Отпадъци</NeedDump>
+  <NeedDumpDesc>Задал си {0} да се изнесат, но заселниците нямат къде да ги занесат.\n\n Определи Склад за Отпадъци и задай опция за приемане {0}.</NeedDumpDesc>
+
+  <!-- Removed
+  <NeedGrave>Необходим е гроб</NeedGrave>
+  <NeedGraveDesc>Има труп, който не може да бзде погребан.\n\nПострой гроб или Склад за Отпадъци.</NeedGraveDesc>
+  -->
+
+  <ColonistsIdle>{0} Безработни Заселници</ColonistsIdle>
+  <ColonistsIdleDesc>Слените заселници са без работа:\n\n{0}\nНяма да е зле, ако намериш възможност да свършат нешо полезно.</ColonistsIdleDesc>
+
+  <!-- Removed
+  <HaltedConstructions>{0} постройки нямат материали</HaltedConstructions>
+  <HaltedConstructionsDesc>Следните постройки нямат материали:\n\n{0}\nТрябва да набавиш липсващите материали.</HaltedConstructionsDesc>
+  -->
+  
+  <ColonistNeedsTreatment>Заселник се нуждае от лечение</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Следните заселници се нуждаят от лечение. Без него, те може да умрат от раните си, или раните им да станат постоянни.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Хипотермия</AlertHypothermia>
+  <AlertHypothermiaDesc>TСледните заселници страдат от измръзване.\n\n{0}\nОсигури им дрехи, подходящи за сезона и стаи, които са подобаващо отоплени.</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>{0} пациенти очакват операция</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Следните пациенти очакват операция:\n\n{0}\nОсигури необходимите медицински инструменти и Доктор.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Огън!</FireInHomeArea>
+  <FireInHomeAreaDesc>Има огън в Основната Зона.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Серизна болест</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Следните хора са в опасност от смърт поради сериозна болест:\n\n{0}\nОсигури им най-доброто лечение.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Следните хора са в опасност от смърт поради сериозна болест:\n\n{0}\nПо възможност, ампутирай инфектираните крайници за да останат живи.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Билярдна Маса се нуждае от пространство</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Билярдна Маса е в сзседство с непроходим обект и заселниците не могат да я ползват.\n\nБилядрната Маса се нуждае от място от всички страни за да се използва.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Ловец с Енергиен Щит има далекобойно оръжие</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Един от Ловджиите ти има Енергиен Щит, но носи далекобойно оръжие, което им пречи да стрелят отдалеч.\n\nТе не могат да ловуват ако не махнещ Щита им.</HunterHasShieldAndRangedWeaponDesc>
+  
+</LanguageData>

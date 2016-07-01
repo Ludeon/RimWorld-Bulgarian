@@ -1,41 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClockTime>Времe</ClockTime>
+  <ClockTime>Време</ClockTime>
   <ClockDate>Дата</ClockDate>
   <ClockYear>Година</ClockYear>
-  <DateReadoutTip>Дни изминали от момента на вашето пристигането: {0}\nВ всеки месец {1} дни.</DateReadoutTip>
+  <DateReadoutTip>Изминали дни от кацането: {0}\nИма {1} дни във всеки сезон.\nНастоящ сезон: {2}</DateReadoutTip>
 
-
-
-  <FullDate>{0} {1}, година {2}</FullDate>
-  <MonthFullDate>{0} {1}</MonthFullDate>
+  <FullDate>{0} , {1}, {2}</FullDate>
+	<DateReadout>{0} , {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} , {1}</SeasonFullDate>
+  <WholeYear>Цяла година</WholeYear>
   
-  <MonthFullJanuary>Януари</MonthFullJanuary>
-  <MonthFullFebruary>Февруари</MonthFullFebruary>
-  <MonthFullMarch>Март</MonthFullMarch>
-  <MonthFullApril>Април</MonthFullApril>
-  <MonthFullMay>Май</MonthFullMay>
-  <MonthFullJune>Юни</MonthFullJune>
-  <MonthFullJuly>Юли</MonthFullJuly>
-  <MonthFullAugust>Август</MonthFullAugust>
-  <MonthFullSeptember>Септември</MonthFullSeptember>
-  <MonthFullOctober>Октомври</MonthFullOctober>
-  <MonthFullNovember>Ноември</MonthFullNovember>
-  <MonthFullDecember>Декември</MonthFullDecember>
-  
-  <MonthShortJanuary>Яну</MonthShortJanuary>
-  <MonthShortFebruary>Фев</MonthShortFebruary>
-  <MonthShortMarch>Мар</MonthShortMarch>
-  <MonthShortApril>Апр</MonthShortApril>
-  <MonthShortMay>Май</MonthShortMay>
-  <MonthShortJune>Юни</MonthShortJune>
-  <MonthShortJuly>Юли</MonthShortJuly>
-  <MonthShortAugust>Авг</MonthShortAugust>
-  <MonthShortSeptember>Сеп</MonthShortSeptember>
-  <MonthShortOctober>Окт</MonthShortOctober>
-  <MonthShortNovember>Ное</MonthShortNovember>
-  <MonthShortDecember>Дек</MonthShortDecember>
-    
-    
 </LanguageData>

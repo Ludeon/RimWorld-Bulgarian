@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Тъмно</Dark>
+  <Lit>Осветено</Lit>
+  <LitBrightly>Силно осветено</LitBrightly>
+  
+  <!-- history upload pref -->
+  <Unspecified>Несигурен</Unspecified>
+  <Always>Позволи</Always>
+  <Never>Не позволявай</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>много евтин</PriceTypeVeryCheap>
+  <PriceTypeCheap>евтин</PriceTypeCheap>
+  <PriceTypeNormal>среден</PriceTypeNormal>
+  <PriceTypeExpensive>скъп</PriceTypeExpensive>
+  <PriceTypeExorbitant>изключително скъп</PriceTypeExorbitant>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>зеленчуци</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>сурово месо</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>трупове</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>семена</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>животински продукти</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>растения</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>дървета</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>ястия</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>обработени храни</FoodTypeFlags_Processed>
+  <FoodTypeFlags_NutritionalDrug>алкохол</FoodTypeFlags_NutritionalDrug>
+  <FoodTypeFlags_AnimalKibble>животинска храна</FoodTypeFlags_AnimalKibble>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>ужасен</QualityCategory_Awful>
+  <QualityCategory_Shoddy>занемарен</QualityCategory_Shoddy>
+  <QualityCategory_Poor>лош</QualityCategory_Poor>
+  <QualityCategory_Normal>среден</QualityCategory_Normal>
+  <QualityCategory_Good>добър</QualityCategory_Good>
+  <QualityCategory_Superior>много добър</QualityCategory_Superior>
+  <QualityCategory_Excellent>отличен</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>майсторски</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>легендарен</QualityCategory_Legendary>
+
+  <QualityCategoryShort_Awful>ужс</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>знмрн</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>лош</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>сред</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>добър</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>мндбр</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>отл</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>майст</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>легнд</QualityCategoryShort_Legendary>
+  
+  
+  <!-- Hunger -->
+  <HungerLevel_Starving>Изгладнял</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Нахрани спешно</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Гладен</HungerLevel_Hungry>
+  <HungerLevel_Fed>Нахранен</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>Изтощен</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Много изморен</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Изморен</HungerLevel_Tired>
+  <HungerLevel_Rested>Отпочиналd</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>Плосък</Hilliness_Flat>
+  <Hilliness_SmallHills>Ниски хълмове</Hilliness_SmallHills>
+  <Hilliness_LargeHills>Високи хълмове</Hilliness_LargeHills>
+  <Hilliness_Mountainous>Планински</Hilliness_Mountainous>
+  
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>Създава</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Предава</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Невалиден</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Приготвя конфигурация</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Приготвя съдържание</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Качва файлове</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Качва предварителен файл</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Задава промени</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Trainable intelligence -->
+  <TrainableIntelligence_None>Не съществува</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>Обикновен</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>Среден</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>Напреднал</TrainableIntelligence_Advanced>
+
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>Без медицински грижи</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Грижа от Доктор, но без лекарства</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Лечение с Билки или по-лоши</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Нормални лекарства или по-лоши</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Най-добра медицинска грижа</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>Игнорирай</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Атакувай</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Избягай</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>расте</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>стабилен</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>в ремисия</HediffGrowthMode_Remission>
+
+
+</LanguageData>

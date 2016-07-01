@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Autosaving>Автоматичен запис</Autosaving>
+  
+  <GameStartDialog>Тримата се събуждате от криптосън от звука на раздиращ се метали сирени за тревога. Едва достигате до местата за евакуация преди корабът да бъде изцяло разкъсан.\n\nМалко по-късно се събуждате на непознат rimworld (непознат пограничен свят).\n\nДокато части от разрушеният космически кораб падат наоколо, започвате да кроите планове за оцеляване.</GameStartDialog>
+
+  <Colony>Колония</Colony>
+  
+  <ChangeLanguageFromMainMenu>Имаш право да смениш езика само от опциите на главното меню.</ChangeLanguageFromMainMenu>
+
+  <AndLower>и</AndLower>
+  <DisabledLower>негоден</DisabledLower>
+
+  <CloseButton>Затвори</CloseButton>
+
+  <VersionIndicator>Версия {0}</VersionIndicator>
+  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <CompiledOn>Компилирана {0}</CompiledOn>
+  <LoggedIntoSteamAs>Регистриран в Steam като {0}</LoggedIntoSteamAs>
+
+  
+  <!-- Content generation-->
+  
+	<MeatLabel>{0} месо</MeatLabel>
+  <MeatDesc>Сурова плът от {0}.</MeatDesc>
+
+  <LeatherLabel>{0} кожаr</LeatherLabel>
+  <LeatherDesc>Кожа направено от плът на {0}.</LeatherDesc>
+
+  <CorpseLabel>{0} труп</CorpseLabel>
+	<CorpseDesc>Труп на {0}.</CorpseDesc>
+  <DeadLabel>{0} (мъртъв)</DeadLabel>
+
+  <RoughStoneTerrainLabel>Груб {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Груб, естествен {0} земя.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>грубо изсечен {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Грубо изсечен естествен {0} под.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>загладен {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Загладен естествен {0} под.</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra> (чертеж)</BlueprintLabelExtra>
+  <FrameLabelExtra> (постройка)</FrameLabelExtra>
+
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <SomeonesRoom>{0} на {1}</SomeonesRoom>
+  <CouplesRoom>{0} на {1} и {2}</CouplesRoom>
+  
+  <VariousLabel>(разни)</VariousLabel>
+
+  <!-- History events -->
+  <ColonistDied>Заселник почина</ColonistDied>
+  
+  
+  
+</LanguageData>

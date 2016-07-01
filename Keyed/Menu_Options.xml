@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Аудио-визуални</Audiovisuals>
+  <GameVolume>Сила на звука</GameVolume>
+  <MusicVolume>Сила на музиката</MusicVolume>
+  <Antialiasing>Anti-aliasing</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Местене чрез движене на мишката по края на екрана</EdgeScreenScroll>
+  <PauseOnLoad>Пауза след зареждане на игра</PauseOnLoad>
+  <CustomCursor>Потребителски курсор</CustomCursor>
+  <KeyboardConfig>Конфигурация на клавиатурата</KeyboardConfig>
+  <ChooseLanguage>Избери език</ChooseLanguage>
+  <AdaptiveTutor>Помощник</AdaptiveTutor>
+  <ResetAdaptiveTutor>Занулирай помощника</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Помощникът е занулиран. Той ще те обучава отначало.</AdaptiveTutorIsReset>
+  <RunInBackground>Работи в бекграунда (без пауза)</RunInBackground>
+  <DevelopmentMode>Development режим</DevelopmentMode>
+  <ResetModsConfigOnCrash>Автоматично занулирай модификации при краш</ResetModsConfigOnCrash>
+  <LogVerbose>Подробни рапорти</LogVerbose>
+  <OpenSaveGameDataFolder>Отвори папката на записите</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Фамилно име от Име в Играта които искаш да видиш:</NamesYouWantToSee>
+  <ChangeStoryteller>Избери Разказвач</ChangeStoryteller>
+  <AutosaveInterval>Интервал на автоматично записване</AutosaveInterval>
+  <TemperatureMode>Температурен режим</TemperatureMode>
+  <ShowRealtimeClock>Покажи реалновремеви часовник</ShowRealtimeClock>
+  <MaxPermadeathAutosaveIntervalInfo>Максимален интервал на автоматично записване при игра без връшане назад е {0} ден.</MaxPermadeathAutosaveIntervalInfo>
+
+  <!-- Resolution -->
+  <Resolution>Резолюция на екрана</Resolution>
+  <Fullscreen>Пълен екран</Fullscreen>
+
+  <!-- Privacy-->
+  <Privacy>Лично</Privacy>
+  <UserName>Потребителско име</UserName>
+  <ChooseHistoryUploadPref>Преференции за качване на данни от играта.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Данните от игра на потребителите помагат на създателите да я балансират. Ако се съгласиш, информация от играта ще се праща всеки {0} игрови дни (и редки случаи като край на играта) към сървърите на RimWorld и ще се анализира. Качените данни са статистика от играта и история на колонията - лични данни няма да се качват, освен потребителското име, което е анонимно.</AboutHistoryUpload>
+  
+</LanguageData>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterLabelAnimalInsanitySingle>Полудяло животно</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Следното животно {0} е полудяло. Ще нападне всеки, който види.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Полудели животни!</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Някаква форма на психическа вълна е преминала през района. Заселниците ти са добре, но...\n\nМного от {0} в района са полудели и ше нападнат който видят.</AnimalInsanityMultiple>
+
+  <LetterLabelCropBlight>Листни въшки</LetterLabelCropBlight>
+  <CropBlight>Мистериозни листни въшки са унищожили реколтата ти.</CropBlight>
+
+  <LetterLabelMiracleHeal>ЧУДО</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} преживя чудодейно въстановяване!</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>Група от {0} от {1} пристигнаха наблизо.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Група от {0} от {1} се приземиха от орбита наблизо.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Група от {0} от {1} се приземиха в базата!</EnemyRaidCenterDrop>
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>Група от {0} приятески настроени заселници от {1} пристигнаха наблизо.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Група от {0} приятески настроени заселници от {1} се приземиха от орбита наблизо.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Група от {0} приятески настроени заселници от {1} се приземиха в базата!</FriendlyRaidCenterDrop>
+
+  <LetterLabelRefugeePodCrash>Евакуационен ковчег</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>Засечен е евакуационен ковчег, който се приземи наблизо.\n\nАко някой е оцелял падането, той или тя ще е лошо ранен и безсилен.</RefugeePodCrash>
+
+  <LetterLabelCargoPodCrash>Товарни сандъци</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Засечена е група от товарни сандъци, която падна наблизо.\n\nМоже да има нещо полезно в останките.</CargoPodCrash>
+
+  <AnElectricalConduit>електропроводник</AnElectricalConduit>
+  <ShortCircuit>Проблем с {0} предизвика късо съединение.\n\nВсички субрани {1} Wd енергия в свързаните с тях батерии бе освободено в електрическа експлозия.</ShortCircuit>
+  <ShortCircuitWasLarge>Това голямо количество енергия предизвика солидна експлозия.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Това си беше егати екплозията! Оле, мале!</ShortCircuitWasHuge>
+
+  <TraderArrival>Търговски космически кораб минава наблизо.\n\nТе се наричат {0}. Те са {1}.</TraderArrival>
+
+  <SingleTravelerPassing>{0} от {1} минава наблизо. HECAP се казва {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Група пътешественици от {0} минават наблизо.</GroupTravelersPassing>
+
+  <LetterLabelSingleVisitorArrives>Посетител</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>{0} от {1} посещава колонията.\n\nHECAP се казва {2}.{3}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\nHECAP изглежда, че има няколко предмета за търгуване.</SingleVisitorArrivesTraderInfo>
+  <LetterLabelGroupVisitorsArrive>Посетители</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>Група от {0} посещават колонията.{1}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nИзглежда, че имат предмети за търгуване.</GroupVisitorsArriveTraderInfo>
+  <VisitorsLeaving>Посетителите от {0} си заминават.</VisitorsLeaving>
+
+  <LetterLabelWandererJoin>Бездомник се присъединява</LetterLabelWandererJoin>
+  <WandererJoin>{0} наречен NAME пристигна наблизо и се присъединява към колонията. HECAP е {1}.</WandererJoin>
+
+  <LetterLabelManhunterPackArrived>Човекоядни животни</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>Стадо от човекоядни животни {0} влезе в района. Те ще ловуват активно за човешка плът.\n\nЖивотните не могат да минават през врати, тоест всяко оградено място е безопасно. Те няма да нападнат неактивни Огневи Кули, затова може да ги изключиш ако искаш да ги запазиш.\n\nЖивотните ще напуснат района след няколко дни.</ManhunterPackArrived>
+  
+  <!-- Crashed ship part-->
+  <MessageAnimalInsanityPulse>Древната структура изпрати психически пулс, от който близките животни полудяха.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Падналият Кораб изпрати фокусиран психически пулс, от който заселникът {0} полудя.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Събуден преди {0} дни</AwokeDaysAgo>
+  <PsychicDroneLevel>Ниво на боботене: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Ниско</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Средно</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Високо</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Екстремно</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Боботенето се засилва</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Падналият Кораб започва да излъчва още по-силен вид психическо боботене. Всеки човек в района се чувства още по-нервен, уплашен, и параноичен.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterLabelAgentRevealed>Агент</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} се оказа агент на следния враг {1}.\n\nОпитва се да избяга сега.</LetterAgentRevealed>
+
+  <!-- Distant psychic drone -->
+  <LetterLabelPsychicDrone>Психическо боботене</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Всеки заселник от {0} пол се сгърчва от болка!\n\nДалечен източник на омраза се е вкючил. Той проектира силно психическо боботене над региона на честота, която афектира {0} пол. В следващите няколко дни, тяхното настроение ще е доста по-лошо.</LetterIncidentPsychicDrone>
+
+  <LetterLabelPsychicSoothe>Психическо успокоение</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Всеки заселник от {0} пол се усмихва от задоволство!\n\nДалечен източник на щастие се е вкючил. Той проектира силно психическо боботене над региона на честота, която афектира {0} пол. В следващите няколко дни, тяхното настроение ще е доста добро.</LetterIncidentPsychicSoothe>
+
+  <!-- Beavers -->
+  <LetterLabelBeaversArrived>Бобри!</LetterLabelBeaversArrived>
+  <BeaversArrived>Група от гладни Алфа-Бобри пристигна току-що.\n\nОпитай се да ги елиминираш преди да унищожат всяко едно дърво в региона.</BeaversArrived>
+  
+  <!-- Refugee chased -->
+  <RefugeeChasedInitial>{1} наречен {0} се обажда отблизо. HECAP е гонен от {2} от {3}!\n\nHECAP те умолява за помощ и предлага да се присъедини към колонията. Биологически, HE е на {4} години.\n\nВнимание - ако приемеш, ще трябва да се биеш с {2} които преследват HIS.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Предложи безопасност</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Игнорирай съобщението</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} изкрешява от паника през малкия говорител момент преди да прекъснеш връзката.</RefugeeChasedRejected>
+
+  <!-- Self-tame -->
+  <LetterLabelAnimalSelfTame>{0} се самоопитоми</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} стана питомен.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} стана питомен. Нарича се {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} стана питомен. Заселниците решиха да го нарекат {1}.</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <LetterLabelFarmAnimalsWanderIn>{0} се присъединява(т)</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Група от {0}, изоставени или изгубени, влязоха в района.\n\nИзглежда са свикнали с хора и се присъединяват към колонията.</LetterFarmAnimalsWanderIn>
+  
+  <!-- Thrumbo passes -->
+  <LetterLabelThrumboPasses>Тръмбо</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Малко стадо от редки животни Тръмбо влязоха в района.\n\nМакар и мирни по природа, тези животни са опасни врагове. Някои търговци са готови да платят много за тяхните рога и козина.n\nТе ще напуснат района след няколко дни.</LetterThrumboPasses>
+  
+  <!-- Trader caravan -->
+  <LetterLabelTraderCaravanArrival>Търговец от {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Търговска каравана от {0} приближава.\n\nТе ще останат наоколо няколко дни преди да си заминат. Можеш да ги нападнеш - но това ще ядоса лидерите на фракцията им!</LetterTraderCaravanArrival>
+  
+  <!-- Building breaks down -->
+  <LetterLabelBuildingBrokenDown>Повреда: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>Една от машините ти ({0}) се повреди. Тя няма да работи докато заселник не отиде да я поправи.</LetterBuildingBrokenDown>
+  
+</LanguageData>

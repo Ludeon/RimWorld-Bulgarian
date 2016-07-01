@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+	<CallOnRadio>Повикай {0}</CallOnRadio>
+  <CannotUseReason>Не може да се използва ({0})</CannotUseReason>
+	<CannotUseSolarFlare>Не може да се използва (слънчево изригване)</CannotUseSolarFlare>
+	<CannotUseNoPower>Не може да се използва (няма енергия)</CannotUseNoPower>
+	<CannotUseNoPath>Не може да се използва (няма достъп)</CannotUseNoPath>
+  <CannotUseReserved>Не може да се използва (резервиран)</CannotUseReserved>
+  <CannotUseFull>Не може да се използва (пълен)</CannotUseFull>
+  
+  <FireAt>Стреляй по {0}</FireAt>
+
+  <OutOfRange>извън обхват</OutOfRange>
+  <CannotHitTarget>не може да се уцели мишената</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} не е способен на Насилие</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} не е Войник</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>не може да командваш неконтролирани единици</CannotOrderNonControlledLower>
+
+  <OrderManThing>Зареди {0}</OrderManThing>
+  
+  <MeleeAttack>Ръкопашна атака {0}</MeleeAttack>
+  <MeleeAttackToDeath>Убий {0} с ръкопашна атака</MeleeAttackToDeath>
+  <NoPath>няма достъп</NoPath>
+
+	<ForbiddenLower>забранено</ForbiddenLower>
+	<SociallyImproperLower>социално неуместно</SociallyImproperLower>
+  <PrisonerRoomLower>затворническа стая</PrisonerRoomLower>
+	<BurningLower>гори</BurningLower>
+	<NoEmptyPlaceLower>няма определено място за складиране</NoEmptyPlaceLower>
+	<AlreadyFilledLower>запълнено до обем</AlreadyFilledLower>
+	<MissingMaterials>трябват материали</MissingMaterials>
+  <MissingSkill>умението е твърде ниско</MissingSkill>
+	<NoEmptyGraveLower>няма празен гроб</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>животното е тренирано наскоро</AnimalInteractedTooRecently>
+  <NoUsableFood>няма използваема храна</NoUsableFood>
+  <AnimalsSkillTooLow>Умението Дресьор е твърде ниско</AnimalsSkillTooLow>
+	<NoComponentsToRepair>трябват компоненти</NoComponentsToRepair>
+	<NoFuelToRefuel>липсват {0}</NoFuelToRefuel>
+
+  <ConsumeThing>Консумирай {0}</ConsumeThing>
+  <Teetotaler>трезвеник</Teetotaler>
+  
+  
+  <CannotGoNoPath>Не може да достигне (няма път)</CannotGoNoPath>
+  <GoHere>Отиди тук</GoHere>
+  
+  <Arrest>Арестувай {0}</Arrest>
+  <TryToArrest>Опитай да арестуваш {0}</TryToArrest>
+  <CannotArrest>не може да арестува</CannotArrest>
+
+  <Capture>Плени {0}</Capture>
+  <CannotCapture>Не може да плени</CannotCapture>
+
+  <Rescue>Спаси {0}</Rescue>
+  <CannotRescue>Не може да спаси</CannotRescue>
+
+  <CarryToCryptosleepCasket>Занеси {0} до ковчег за криптосън</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Не може да занесе до ковчег за криптосън</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>няма свободен до ковчег за криптосън.</NoCryptosleepCasket>
+  <NoPrisonerBed>Няма достъпно, нерезервирано, оградено легло за затворници.</NoPrisonerBed>
+  <NoNonPrisonerBed>Няма достъпно, нерезервирано легло (изкл. затворнически).</NoNonPrisonerBed>
+  <NoAnimalBed>Няма достъпно, нерезервирано легло за животни.</NoAnimalBed>
+  <Reserved>Резервиран от друг.</Reserved>
+  <ReservedBy>Резервиран от {0}</ReservedBy>
+  <IsReservedBy>{0} е резервиран от {1}.</IsReservedBy>
+
+  <Incapable>неспособен</Incapable>
+  <IncapableOfCapacity>неспособен на {0}</IncapableOfCapacity>
+
+  <Equip>Екипирай {0}</Equip>
+  <EquipWarningBrawler>(Ръкопашен Боец ще е недоволен)</EquipWarningBrawler>
+  <CannotEquip>Не може да екипира {0}</CannotEquip>
+  
+  <ForceWear>Форсирай екипиране {0}</ForceWear>
+  <CannotWear>Не може да носи {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>липват части на тялото</CannotWearBecauseOfMissingBodyParts>
+  
+  <Strip>Съблечи {0}</Strip>
+  <CannotStrip>Не може да съблече {0}</CannotStrip>
+
+  <Deposit>Сложи {0} в {1}</Deposit>
+  <CannotDeposit>Не може да сложи {0} в {1}</CannotDeposit>
+
+  <SelfDestructHere>Самоунищожи тук</SelfDestructHere>
+  
+  <Drop>Пусни {0}</Drop>
+
+  <UseMedicalBed>Почивай до излекуване</UseMedicalBed>
+  <NotInjured>Здрав</NotInjured>
+  <SomeoneElseSleeping>Зает</SomeoneElseSleeping>
+  
+  <TradeWith>Търгувай с {0}</TradeWith>
+  <CannotTrade>Не може да търгува</CannotTrade>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Влез в ковчег за криптосън</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Отвори ковчег за криптосън</OpenCryptosleepCasket>
+
+
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Не може {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Не може да се приоритизира (неспособен на {0})</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>Вече прави {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Не може да се приоритизира ({0} не е {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Не може да се приоритизира (проучването е дългосрочна задача)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Не може да се приоритизира ({0} е забранен)</CannotPrioritizeForbidden>
+  
+  
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Приоритизирай {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>

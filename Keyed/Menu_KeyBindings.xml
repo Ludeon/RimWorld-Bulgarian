@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SaveButton>Запиши</SaveButton>
+  <!--<CancelButton>Cancel</CancelButton>-->
+  <ClearBinding>Изчисти</ClearBinding>
+  <ResetBinding>Върни по подразбиране</ResetBinding>
+  <BindingButtonToolTip>Ляв бутон за определяне на клавиш или десен за опции</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Натисни случаен клавиш или Esc за отказване...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Презаписан клавиш: {0}</KeyBindingOverwritten>
+  
+</LanguageData>

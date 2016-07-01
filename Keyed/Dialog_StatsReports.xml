@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  <StatsReport_BaseValue>Основна стойност</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Съответни способности</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Съответна екипировка</StatsReport_RelevantGear>
+  <StatsReport_LifeStage>Стадий на живот</StatsReport_LifeStage>
+  <StatsReport_Material>Материал</StatsReport_Material>
+  <StatsReport_CharacterQuality>Качество</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Фактори от умения</StatsReport_Skills>
+  <StatsReport_OtherStats>Други фактори</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Здравни фактори</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} степен на важност</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Крайна стойност</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Основна пазарна стойност определена от материали и обем работа.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Качествен умножител</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Умножител за Години {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Умножител за здраве {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Умножител за настроение {0}</StatsReport_MoodMultiplier>
+	<StatsReport_DifficultyMultiplier>Умножител за трудност {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>В леглото</StatsReport_InBed>
+  <StatsReport_Facilities>Удобства и апаратури</StatsReport_Facilities>
+  <StatsReport_BodySize>Умножител за телесна маса {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Характеристиката е посочена в следния формат:\nПоражения ( Поражения в ръкопашен бой / секунди пропуск / шанс за удар в ръкопашен бой )\n\nПоражения = Поражение в Ръкопашен * шанс за удар в ръкопашен / секунди пропуск</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Поражения в Ръкопашен Бой</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Пропуск</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Шанс за удар в Ръкопашен Бой</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} секунди</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Очаквана продължителност на живот</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Умножител за липсващи части на тялото</StatsReport_MissingBodyParts>
+  <AverageOfAllAttacks>Среднопретеглено за всички атаки</AverageOfAllAttacks>
+  <StatsReport_UnpoweredWorkTable>Не достига енергия</StatsReport_UnpoweredWorkTable>
+  
+</LanguageData>

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+  <Confirm>Потвърди</Confirm>
+  <GoBack>Върни се</GoBack>
+  <OK>OK</OK>
+  
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Възстановено от несъвместими модификацци или грешки</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Изглежда, че някои активни модификации създават грешки.\n\nНе са съвместими или са създадени за други версии на RimWorld, или са повредени.\n\nВсички модификации бяха изключени и може да се включат от това меню.</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>Грешка при зареждането на елементите</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Има грешка при зареждането на елементите. Провери лога за грешки.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Играта е заредена с външни модификации. Те могат да създадат грешки.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Грешка при създаването на картата</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Грешка при създаването на картата. Провери лога за грешки.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Грешка при зареждането на картата</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Грешка при зареждането на картата. Провери лога за грешки.</ErrorWhileLoadingMap>
+  
+  <!-- Long events -->
+  <InitializingInterface>Зареждам интерфейса</InitializingInterface>
+  <UnloadingUnusedAssets>Премахвам неизползвани елементи</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Зареждам всички активни модификации</LoadingAllActiveMods>
+  <LoadingDefs>Зареждам операнди</LoadingDefs>
+  <LoadingAssets>Зареждам елементи</LoadingAssets>
+  <Initializing>Зареждам</Initializing>
+  <LoadingWorld>Зареждам света</LoadingWorld>
+  <LoadingMap>Зареждам картата</LoadingMap>
+  <InitializingMap>Създавам картата</InitializingMap>
+  <SpawningAllThings>Създавам всички елементи</SpawningAllThings>
+  
+  <!-- Save/load -->
+  <SaveGameButton>Запиши</SaveGameButton>
+  <OverwriteButton>Презапиши</OverwriteButton>
+  <LoadGameButton>Зареди</LoadGameButton>
+  <ConfirmDelete>Наистина ли да изтрия {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Изтрий този запис.</DeleteThisSavegame>
+  <SavedAs>Записано като {0}.</SavedAs>
+  <NeedAName>Моля въведи име.</NeedAName>
+  <LoadingLongEvent>Зареждам</LoadingLongEvent>
+  <SavingLongEvent>Записвам</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Permadeath - с постоянен край на играта)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>Използваме версия {0} а записът е от {1}, която е различна версия.\n\nАко се опитате да заредите, записът може да не работи.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Използваме версия {0} а записът е от {1}, която е различна версия.\n\nАко се опитате да заредите, записът може да работи.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Записът е от нашата версия и трябва да сработи.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Записът е неразпознаваем и няма да сработи.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Имаше проблем при записването на {0}:\n\n{1}</ProblemSavingFile>
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Както изглежда, ще се поостане тук известно време. {0} предлага да се кръсти колонията.\n\nКакво име ще избираш?</NameColonyMessage>
+  <ColonyGainsName>Колонията е наречена {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Невалидно име.</ColonyNameIsInvalid>
+
+  <!-- Renaming -->
+  <NameIsInvalid>Моля въведи валидно име.</NameIsInvalid>
+  <NameIsInUse>Името вече се използва.</NameIsInUse>
+  <ZoneGainsName>Зоната се нарича {0}.</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Заселникът вече носи прозвището {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <VersionMismatch>Грешна версия</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Картата е запазена със следната версия на играта {0}\nНие използваме версия {1}\n\nЗареждането на тази карта може да създаде бъгове или крашове.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Светът е генериран със следната версия на играта {0}\nНие използваме версия {1}\n\nЗареждането на тoзи свят може да създаде бъгове или крашове. Препоръчваме да генерираш нов свят.</WorldFileVersionMismatch>
+  <ModsMismatchWarningTitle>Модификациите не съвпадат</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Картата е записана с различен комплект от модификации от тези, които в момента използваш. Това може да създаде проблемиs, взависимост от ролята на модификациите.\n\nКартата бе запазена (в този ред):\n\n{0}\n\nНие използваме:\n\n{1}</ModsMismatchWarningText>
+
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Променени са настройките на екрана. Новите работят ли правилно?\n\nАвтоматично връщане на старите настройки след {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Запази</ResolutionKeep>
+  <ResolutionRevert>Върни</ResolutionRevert>
+
+  <!-- Research -->
+  <Research>Проучване</Research>
+  <Researched>Проучването е завършено</Researched>
+  <Unresearched>Непроучено</Unresearched>
+  <Finished>Завършено</Finished>
+  <InProgress>Извършва се</InProgress>
+  <Locked>Заключено</Locked>
+  <ResearchMenuWithoutBench>Докато не бъде построена Маса за Проучване, твоите заселници не могат да Проучват.\n\nПроектите могат да бъдат огледани предварително.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Изисквания за Проучване</ResearchPrerequisites>
+  <RequiredResearchBench>Изисква се Маса за Проучване</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Изисква се Маса за Проучване и допълнения към нея</RequiredResearchBenchFacilities>
+  
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>Внимание: Ще кацнете на замразен терен. Оцеляването ще бъде много трудно, или почти невъзможно. Ако не желаеш екстремно предизвикателство, избери друг терен за кацане или сезон.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Внимание: производителността може да се влоши на големи карти. Големината на света -Ludeonicrous- не е тествана и със сигурност ще създаде проблеми в бъдеще.</MapSizePerformanceWarning>
+  <MapSize>Големина на картата</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} клетки)</MapSizeDesc>
+  <MapSizeSmall>Малка</MapSizeSmall>
+  <MapSizeMedium>Средна</MapSizeMedium>
+  <MapSizeLarge>Голяма</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapStartSeason>Начален сезон:</MapStartSeason>
+  <MapStartSeasonDefault>Автоматичен</MapStartSeasonDefault>
+  <PermadeathMode>Няма връщане назад!</PermadeathMode>
+  <PermadeathModeInfo>Ако избереш "Няма връщане назад!" имаш само един запис който е автоматичен при излизане от играта. Не можеш да връщаш записи и поправяш грешки, и когато колонията загине, това е краят.\n\nТова е начинът, по който RimWorld е планиран да се играе, с драматични обрати - било то трагични или успешни.</PermadeathModeInfo>
+
+  <!-- Bill config -->
+  <Suspended>Отложено</Suspended>
+  <NotSuspended>Не е Отложено</NotSuspended>
+  <SuspendedAllCaps>ОТЛОЖЕНО</SuspendedAllCaps>
+  <RepeatCount>Повтори: {0}</RepeatCount>
+  <Forever>Завинаги</Forever>
+	<Details>Детайли</Details>
+  <IngredientSearchRadius>Радиус за използване на съставки</IngredientSearchRadius>
+  <CurrentlyHave>В момента има</CurrentlyHave>
+  <CountingProducts>Брой</CountingProducts>
+  <Infinite>Безкрайно</Infinite>
+  <MinimumSkillLevel>Минимум {0} Умение</MinimumSkillLevel>
+  
+  <RecipeCannotHaveTargetCount>(Тази рецепта няма определен брой защото използва много непредвидими продукти)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Остава работа</WorkAmount>
+  <MinimumSkills>Минимално Умение:</MinimumSkills>
+  <BillRequires>Изисква {0} {1}</BillRequires>
+  <BillRequiresNutrition>Изисква {0} хранителност</BillRequiresNutrition>
+  <BillRequiresMayVary>Внимание: съставки с малък обем като Злато изискват 20х повече единици.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Това е съставка с малък обем. Това означава че всяка единиц е едва 1/20 от съставка с нормален обем. За да изпълниш изискването, ти трябват 20x повече единици.</ThisIsSmallVolume>
+  <UsableIngredients>съставки</UsableIngredients>
+  <DoXTimes>Извърши X пъти</DoXTimes>
+  <DoUntilYouHaveX>Извърши до обем X</DoUntilYouHaveX>
+  <DoForever>Прави безкрай</DoForever>
+  <BillRepeatTargetCountShort>До {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Пусни на пода</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Занеси до най-подходящ Склад</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Занеси до най-близък Склад</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Info card -->
+  <Damage>Поражения</Damage>
+  <Accuracy>Акуратност</Accuracy>
+  <BurstShotCount>Брой изстрели</BurstShotCount>
+  <WarmupTime>Време до изстрел</WarmupTime>
+  <MeleeWarmupTime>Време до удар</MeleeWarmupTime>
+  <CooldownTime>Забавяне</CooldownTime>
+  <BurstShotFireRate>Бързина на Стрелба</BurstShotFireRate>
+  <Range>Обхват</Range>
+  <GrowsWild>Диворастящ</GrowsWild>
+  <Harvestable>Може да се ожъне</Harvestable>
+  <LimitedLifespan>Ограничен живот</LimitedLifespan>
+  <GrowingTime>Време за растеж</GrowingTime>
+  <GrowingTimeDesc>Растенията се развиват само през деня или когато е светло. Тази характеристика показва времето необходимо на растение да достигне пълен размер. Истинското време за растеж е около два пъти повече от показаното. Ниските температури забавят растежа допълнително.</GrowingTimeDesc>
+  <Days>дни</Days>
+  <FertilityRequirement>Изискване за Кълняемост</FertilityRequirement>
+  <LightRequirement>Изискване на светлина</LightRequirement>
+  <Attributes>Атрибути</Attributes>
+  <LifeSpan>Очакван живот</LifeSpan>
+  <Nutrition>Хранителност</Nutrition>
+  <Joy>Радост</Joy>
+  <FoodQuality>Качество на храната</FoodQuality>
+  <WalkSpeedProperty>Скорост на вървеж</WalkSpeedProperty>
+  <MinFoodQuality>Мин. качество на храната</MinFoodQuality>
+  <Diet>Диета</Diet>
+  <RecruitDifficulty>Трудност на Вербуване</RecruitDifficulty>
+  <MarketValue>Основна цена</MarketValue>
+  <Covers>Покрива</Covers>
+  <BodyPartEfficiency>Ефикасност на част на тялото</BodyPartEfficiency>
+  <MoodChange>Промяна на настроение</MoodChange>
+  <Wildness>Див (степен)</Wildness>
+  <WildnessExplanation>Дивите животни са по-трудни за опитомяване и трениране.</WildnessExplanation>
+  <AnimalFilthRate>Мръсотия (от животни)</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Животните създават Мръсотия когато се движат по подове. Това е средната стойност на създадена Мръсотия на {0} извървени клетки.\n\nПо-големите животни създават повече Мръсотия.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Време</TimeRecordsCategory>
+  <MiscRecordsCategory>Други</MiscRecordsCategory>
+
+  <!-- Trade -->
+  <DragToTrade>Занеси\nза да търгуваш</DragToTrade>
+  <BuyPriceDesc>Цената, която плащаш за това.</BuyPriceDesc>
+  <SellPriceDesc>Цената, която получаваш за това.</SellPriceDesc>
+  <PriceTypeDesc>За този предмет цената е {0}.</PriceTypeDesc>
+  <ColonyCount>Колко единици от този предмет колонията е готова да търгува.\n\nпредмети могат да се продадат на Космически търговци само ако са отвън и близо до Търговски пост.</ColonyCount>
+  <TraderCount>Колко от този предмет търговецът може да търгува.</TraderCount>
+  <AcceptButton>Приеми</AcceptButton>
+  <ResetButton>Занулирай</ResetButton>
+  <CancelButton>Откажи</CancelButton>
+  <YourTradeableSilver>Твоето налично сребро: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>Търгува се със сребро близо до Търговски пост и отвън (непокрито).</YourTradeableSilverTip>
+  <TraderHasNoMore>Търговецът няма повече.</TraderHasNoMore>
+  <ColonyHasNoMore>Няма наличност.</ColonyHasNoMore>
+  <TraderWillNotTrade>Търговецът не иска да търгува този предмет.</TraderWillNotTrade>
+  <NegotiatorTalkingImpaired>Твоят посредник {0} не може да разговаря поради лошо здраве.\n\nТова ще се отрази на цените.\n\nИзползвай по възможност здрав посредник.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>Търговецът няма достатъчно сребро за да плати.  Продължи въпреки това?</ConfirmTraderShortFunds>
+  <SortBy>Сортирай по</SortBy>
+  
+  <!-- Comms -->
+  <SocialSkillIs>Социални умения: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <ResearchFinished>Проучване завършено: {0}</ResearchFinished>
+  <ResearchScreen>Екран за Проучвания</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Искаш ли да качваш информация от играта до сървър на RimWorld с цел да помогнеш на създателите да балансират играта? Ако се съгласиш, информация ще се качва всеки {0} дни (в редки случаи при приключване на играта). Поверителността може да се промени в последствие от менюто Опции.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Въпреки че информацията се качва анонимно, може да добавиш името си кзм нея.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Позволи качване на данни от играта</HistoryUploadYes>
+  <HistoryUploadNo>Не позволявай качване на данни от играта</HistoryUploadNo>
+  <HistoryUploadYesOnce>Качи само този път</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Не качвай сега, питай ме по-късно</HistoryUploadNoOnce>
+	
+  <!-- Outfit management -->
+  <Outfit>Екипировка</Outfit>
+  <SelectOutfit>Избери екипировка...</SelectOutfit>
+  <NewOutfit>Нова екипировка</NewOutfit>
+  <DeleteOutfit>Иътрий екипировка...</DeleteOutfit>
+  <OutfitInUse>Екипировката се използва от {0}.</OutfitInUse>
+  <NoOutfitSelected>Не е избрана екипировка</NoOutfitSelected>
+  
+</LanguageData>

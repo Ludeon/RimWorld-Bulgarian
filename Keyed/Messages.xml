@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ 
+  <MessageSiegersAssaulting>Обсаждащите {0} от {1} атакуват колонията.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} от {1} започват атаката си.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} от {1} те разкриха и започват атаката си по-рано.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+
+  <MessageRaidersLeaving>{0} от {1} си заминават.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} от {1} се отказаха и си заминават.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} от {1} са доволни от нанесените поражения и си заминават.</MessageRaidersSatisfiedLeaving>
+
+  <MessageFightersFleeing>{0} от {1} бягат.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Приятелите {0} от {1} си заминават.</MessageFriendlyFightersLeaving>
+
+  <MessageVisitorsTakingWounded>{0} от {1} вземат ранен гост.</MessageVisitorsTakingWounded>
+  
+  <MessageWornApparelDeterioratedAway>{0} носен от {1} се влоши до неизползваемост.</MessageWornApparelDeterioratedAway>
+  
+  <MessageSeasonBegun>{0} започна.</MessageSeasonBegun>
+
+  <MessageShipHasLeftCommsRange>{0} напусна обхвата на комуникациите.</MessageShipHasLeftCommsRange>
+	
+	<MessageNeedBeaconToTradeWithShip>Трябва ти Търговски пост за да търгуваш с този кораб.\n\nПостът трябва да има енергия.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Приключена задача: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} е излекуван.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Затворникът {0} бяга.</MessagePrisonerIsEscaping>
+
+  <MessageOutOfNearbyShellsFor>{0} не намери нерезервирани боеприпаси за {1}.</MessageOutOfNearbyShellsFor>
+
+  <MessageAnimalsGoPsychoHunted>Внимание: {0} често нападат ако са наранени.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Вниманиеg: {0} често нападат ако опитомяването не успее ({1} шанс).</MessageAnimalManhuntsOnTameFailed>
+  
+  <LetterLabelMessageRecruitSuccess>Нов Заселник</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{0} успешно вербува {1} ({2} шанс).</MessageRecruitSuccess>
+	<MessageRecruitFail>{0} не успя да вербува {1} ({2} шанс).</MessageRecruitFail>
+	<MessageRecruitFailBecauseMood>{0} не успя да вербува {1} (затворникът е под {2} настроение).</MessageRecruitFailBecauseMood>
+  <MessageTameSuccess>{0} успешно опитоми {1} ({2} шанс).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} успешно опитоми {1} ({2} шанс) и го кръсти {3}.</MessageTameAndNameSuccess>
+
+
+  <MessageColonyCannotAfford>Колонията не може да си позволи таза сделка.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Нямаш достатъчно сребро в готовност за търговия.</MessageColonyNotEnoughSilver>
+
+  <MessageCriticalAlert>Критична тревога: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>Трябва да зададеш растения, които са достатъчно израстнали.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Трябва да зададеш достатъчно израстнали дървета.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Трябва да зададеш растения.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Трябва да зададеш предмети за носене.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Трябва да зададеш непреходими скали за копаене.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Трябва да зададеш животни за лов.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Трябва да зададеш опитомяеми животни.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>Трябва да зададеш изоставени изкуствени структури.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Трябва да зададеш неравен каменен терен.</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>Нищо не може да премахне дебели покриви.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>Предметът вече е в склад и ще бъде преместен в склад с по-висок приоритет при нужда.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Трябва да зададеш труп или безсилен човек с дрехи.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Трябва да зададеш питомно животно, което принадлежи на колонията.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Трябва да зададеш пзлен гроб или саркофаг.</MessageMustDesignateOpenable>
+
+  <MessageRefusedArrest>{0} отказва да бъде арестуван!</MessageRefusedArrest>
+  
+  <MessageNoMedicalBeds>Няма зададени медицински легла.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>Няма зададени животински легла.</MessageNoAnimalBeds>
+  
+  <PawnDiedBecauseOf>{0} умря поради {1}.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} е отново способен да се движи.</MessageNoLongerDowned>
+
+  <MessageInvoluntarySleep>{0} колабира от ектремно претоварване.</MessageInvoluntarySleep>
+
+  <MessageMedicalOperationFailureCatastrophic>{0} се провали катастрофално в операцията върху {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} се провали докато оперираше {1}.</MessageMedicalOperationFailureMinor>
+
+  <MessageMedicalOperationWillAngerFaction>Тази операция ще ядоса {0}.</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>Туй като {0} напусна картата здрав, връзките с {1} се повишиха с {2}.</MessagePawnExitMapRelationsGain>
+
+  <MessageMiscarriedStarvation>{0} пометна поради глад.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} пометна поради лошо здраве.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} роди.</MessageGaveBirth>
+
+  <MessageNuzzledPawnGaveNameTo>{0} нарече {1} {2} след катому сложи намордник.</MessageNuzzledPawnGaveNameTo>
+
+  <MessageNoHandlerSkilledEnough>Няма дресьор който да опитоми {0} (изисква умение {1} in {2}, най-добрият дресьор {3} има {4}).</MessageNoHandlerSkilledEnough>
+  
+  <MessageEatenByPredator>{0} бе изяден от {1}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} е атакуван от {1}!</MessageAttackedByPredator>
+  
+  <MessageHiveReproduced>Кошер с буболчеки създаде нов.</MessageHiveReproduced>
+  
+  <MessageTraderCaravanLeaving>Търговска каравана от {0} си заминава.</MessageTraderCaravanLeaving>
+  
+  <MessageCantSelectDeadFamilyMember>{0} е мъртъв.</MessageCantSelectDeadFamilyMember>
+  <MessageCantSelectOffMapFamilyMember>{0} е извън картата.</MessageCantSelectOffMapFamilyMember>
+  
+  <MessageSocialFight>{0} започна драка с {1}. Причина: {2}.</MessageSocialFight>
+  
+  <MessageNewMarriageCeremony>Заселниците се събират да празнуват сватбата на {0} и {1}.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} и {1} започват церемонията по сватбата!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>Сватбената церемония между {0} и {1} беше отказана.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} и {1} се ожениха. Заселниците празнуват събитието.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>Сватбената церемония на {0} и {1} приключи.</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <MessageNewBondRelation>{0} и {1} създадоха връзка.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0} и {1} създадоха връзка. {0} кръсти {1} {2}.</MessageNewBondRelationNewName>
+  
+  <MessageBondedAnimalMentalBreak>{0} получи нервен срив поради смъртта на {1}.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0} кръстен {1} получи нервен срив поради смъртта на {2}.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} животни са в нервен срив поради смъртта на {1}.</MessageBondedAnimalsMentalBreak>
+  
+  <MessageSuccessfullyRemovedHediff>{0} успешно премахна {1} на {2}.</MessageSuccessfullyRemovedHediff>
+  
+  <MessageShipChunkDrop>Част от космически кораб падна от космоса в близост до колонията.</MessageShipChunkDrop>
+  
+  <MessagePartyCalledOff>Партито беше отказано.</MessagePartyCalledOff>
+  <MessagePartyFinished>Партито свърши.</MessagePartyFinished>
+  
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Level>Ниво</Level>
+  <ProgressToNextLevel>Прогрес до следващото ниво</ProgressToNextLevel>
+  <Experience>Опит</Experience>
+  <Passion>Желание</Passion>
+  <PassionNone>Няма (обучава се {0}x)</PassionNone>
+  <PassionMinor>Заинтересуван (обучава се {0}x)</PassionMinor>
+  <PassionMajor>Горещо желание (обучава се {0}x)</PassionMajor>
+  <EffectsAtLevel>Ефект при ниво {0}</EffectsAtLevel>
+  <SkillMax>Максимален</SkillMax>
+
+
+
+  <Skill0>Неук</Skill0>
+  <Skill1>Некомпетентен</Skill1>
+  <Skill2>Основна яснота</Skill2>
+  <Skill3>Основни познания</Skill3>
+  <Skill4>Аматьор</Skill4>
+  <Skill5>Силен аматьор</Skill5>
+  <Skill6>Практикант</Skill6>
+  <Skill7>Умел практикант</Skill7>
+  <Skill8>Професионалист</Skill8>
+  <Skill9>Умел професионалист</Skill9>
+  <Skill10>Експерт</Skill10>
+  <Skill11>Добър ескперт</Skill11>
+  <Skill12>Много добър експерт</Skill12>
+  <Skill13>Майстор</Skill13>
+  <Skill14>Успешен майстор</Skill14>
+  <Skill15>Световен майстор</Skill15>
+  <Skill16>Майстор известен в цялата система</Skill16>
+  <Skill17>Тачен Майстор</Skill17>
+  <Skill18>Ясновидец</Skill18>
+  <Skill19>Легендарен</Skill19>
+  <Skill20>Богоподобен</Skill20>
+
+
+  
+  
+  
+</LanguageData>

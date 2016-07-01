@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Прескочи до място</JumpToLocation>
+  
+  <LetterLabelFirstSummerWarning>Лято</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Лятото започна! Но идва и зима.\n\nСемената няма да растат по време на студената зима, затова складирай храна докато можеш.\n\nМожеш да построиш достъпен фризер за да предотвратиш разваляне на храната.\n\nОпитай се да купиш, откраднеш, или изработиш няколко анорака, или заселниците ще измръзнат от студ когато са навън.</FirstSummerWarning>
+
+  <RelationsBrokenDown>Връзките с {0} се влошиха. Те ти стават врагове.</RelationsBrokenDown>
+  <RelationsWarmed>Връзките с {0} се стоплиха. Те вече не са ти врагове.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Поради това, че плени {0}, {1} ти става враг.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Благожелание от колония</ColonyGoodwill>
+  <Neutral>Неутрален</Neutral>
+
+  <ShortCircuitRain>{0} направи късо съединение поради дъжда и се подпали.</ShortCircuitRain>
+
+  <LetterLabelAreaRevealed>Разкрита зона</LetterLabelAreaRevealed>
+  <AreaRevealed>Нова зона бе разкрита.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Нова зона бе разкрита. Тя съдържа древни, вражески роботи.</AreaRevealedWithMechanoids>
+
+  <RoofCollapsed>Покрив се срути тъй като беше далеч от всякакви подпори.</RoofCollapsed>
+  <TheseThingsCrushed>Следните обекти бяха смазани:</TheseThingsCrushed>
+  <NothingCrushed>Нищо не бе смазано.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Срутване на покрив</LetterLabelRoofCollapsed>
+  
+  <RecruitSuccess>{0} успешно вербува {1} ({2} шанс).</RecruitSuccess>
+  <RecruitFail>{0} не успя да вербува {1} ({2} шанс).</RecruitFail>
+
+  <LetterLabelBirthday>Рожден ден</LetterLabelBirthday>
+  <BirthdayChronological>Днес е хронологическият рожден ден на {0}! Биологически, {1} е на {3} години.\n\nХронологически, {1} стана на {2}.\n\nЗабележи, че в състояние на криптосън хората не стареят, и затова хронологическият рожден ден е различен от биологическия.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} достигна биологическа възраст от {1}.\n\nЗа съжаление, {0} получи следните болести поради старост:\n{2}</BirthdayBiologicalAgeInjuries>
+
+  <LetterLabelNewDisease>Болест</LetterLabelNewDisease>
+  <NewDisease>{0} се разболя от {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewDisease>
+  <NewPartDisease>{0} се разболя от {3}. Инфекцията се е зародила в HIS {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>Древна опасностr</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>когато {0} се приближава до древната стена, HIM е обзет от изключително лошо предчувствие. HECAP не знае защо, но HE чувства, че тази прашна структура таи огромна опасност.</AncientShrineWarning>
+
+  <StruckMineable>Намерихме {0}!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} търси възмездие</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>{0} атакува след като е наранен!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{0} напада след опит за опитомяване!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Съседни {0} също нападат!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{0} попадна на капан</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} попадна случайно на капан и бе наранен.</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} разви следното здравно състояние: {1}\n\nТова се случи поради влошаване на: {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  
+  <LetterHediffFromRandomHediffGiver>{0} разви следното здравно състояние: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  
+  <LetterLeadersDeathLabel>Смърт на Лидер</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>Лидерът {0} от фракция {1} почина и бе заменен от {2}.</LetterLeadersDeath>
+  
+  <!-- Family -->
+  <LetterLabelNoticedFamilyMembers>Семейство</LetterLabelNoticedFamilyMembers>
+  <LetterFamilyMembersRaidEnemy>Има членове от семейството на твоите заселници или затворници в пристигащата група от {0}.\n\nВъпреки че са семейство, те ще атакуват едни други поради лошите отношения между фракциите им.\n\nЧленове на семейство са:</LetterFamilyMembersRaidEnemy>
+  <LetterFamilyMembersRaidFriendly>Има членове от семейството на твоите заселници или затворници в пристигащата група от приятелски настроени {0}:</LetterFamilyMembersRaidFriendly>
+  <LetterFamilyMembersNeutralGroup>Има членове от семейството на твоите заселници или затворници в пристигащата група:</LetterFamilyMembersNeutralGroup>
+  <LetterFamilyMembersTraderShipSlaves>Търговски кораб продава членове на семейството на твои заселници или затворници:</LetterFamilyMembersTraderShipSlaves>
+  
+  <FamilyLetterAppendedSuffix>(семейство)</FamilyLetterAppendedSuffix>
+  <FamilyLetterAppendedTextColonist>NAME е член от семейството на заселник. HECAP е {0} на {1}.</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>NAME е член от семейството на затворник. HECAP е {0} на {1}.</FamilyLetterAppendedTextPrisoner>
+  
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>Афера</LetterLabelAffair>
+  <LetterAffair>{0}, женен за {1}, започна афера с {2}.</LetterAffair>
+  <LetterLabelNewLovers>Нови влюбени</LetterLabelNewLovers>
+  <LetterNewLovers>{0} и {1} се събраха и са влюбени.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} и {1} вече не са заедно.</LetterNoLongerLovers>
+  <LetterLabelAcceptedProposal>Ще има сватба!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Отказано предложение</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} прие предложението на {0} за сватба.\n\nВ обозримо бъдеще те ще направят церемония и ще поканят всички заселници. Постави място за сватба ако искаш да определиш къде да се състои церемоията.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} отката предложението на {0} за сватба. {0} ще е нещастен от това.</LetterRejectedProposal>
+  
+  <!-- Generalized letter labels -->
+  <LetterLabelRelationsChangeGood>Доброжелание</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Омраза</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Бжжжт...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Нервен срив</LetterLabelMentalBreakdown>
+  
+  <!-- Bonded animals -->
+  <LetterLabelBondedAnimalDied>Почина собствено животно</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, собственост на {1}, почина. Това ще се отрази на настроението на {1}.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} наречен {1}, собственост на {2}, почина. Това ще се отрази на настроението на {2}.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} почина. Това ще се отрази на настроението на следните хора:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} наречен {1} почина. Това ще се отрази на настроението на следните хора:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>Бягство от Затвора</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Затворниците в колонитя организираха бягство! Те се справиха с ключалката и се опитват да избягат. те може да потърсят оръжия, да се бият, или просто да бягат. Това са следните затворници:\n\n{0}\n\nЗатворниците са по/склонни да организират бягство ако са недоволни, многобройни, или здрави.</LetterPrisonBreak>
+  
+  <!-- Party -->
+  <LetterLabelNewParty>Парти</LetterLabelNewParty>
+  <LetterNewParty>{0} организира парти! Всеки, който участва ще получи радост и социална енергия, както и дълготраен бонус към настроението.</LetterNewParty>
+
+</LanguageData>

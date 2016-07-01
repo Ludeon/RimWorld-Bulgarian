@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <ManualPriorities>Приоритетни задания</ManualPriorities>
+  <HigherPriority>Висок приоритет</HigherPriority>
+  <LowerPriority>Нисък приоритет</LowerPriority>
+  <RelevantSkills>Съответни умения: {0}\nСредно съответни умения: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Цъкни да прескочиш до:</ClickToJumpTo>
+  <CannotDoThisWork>{0} не може да свърши тази работа.</CannotDoThisWork>
+  <NoneBrackets>(никакъв)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Този заселник не може да върши работа поради лошо здравословно състояние.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  
+  <!-- Outfits tab -->
+  <CurrentOutfit>Настояща екипировка</CurrentOutfit>
+  <ManageOutfits>Определи екипировки</ManageOutfits>
+  <ClearForcedApparel>Изчисти форсирани</ClearForcedApparel>
+  <ApparelForcedLower>форсирани</ApparelForcedLower>
+  <ForcedApparel>форсирана екипировка</ForcedApparel>
+  <OutfitEdit>Промени...</OutfitEdit>
+  
+  <!-- Restrictions tab -->
+  <Copy>Копирай</Copy>
+  <Paste>Постави</Paste>
+  <AllowedArea>Позволена зона</AllowedArea>
+  
+  <!-- Animals tab -->
+  <Master>Собственик</Master>
+  <PregnantIconDesc>Бременна ({0} / {1})</PregnantIconDesc>
+  
+  <!-- Factions tab -->
+  <Hostile>Вражески</Hostile>
+  <HostileTo>Враг на {0}</HostileTo>
+  <CurrentGoodwill>Моментно доброжелание с тази фракция.</CurrentGoodwill>
+  
+  <!-- Statistics tab -->
+  <Playtime>Време на игра</Playtime>
+  <Storyteller>Разказвач</Storyteller>
+  <ColonyWealthTotal>Стойност на колонията</ColonyWealthTotal>
+  <ColonyWealthItems>Стойност на колонията (предмети)</ColonyWealthItems>
+  <ColonyWealthBuildings>Стойност на колонията (сгради)</ColonyWealthBuildings>
+  <NumThreatBigs>Сериозни заплахи</NumThreatBigs>
+  <NumEnemyRaids>Вражески набези</NumEnemyRaids>
+  <DamageTaken>Понесени щети</DamageTaken>
+  <ColonistsKilled>Убити заселници</ColonistsKilled>
+  <ColonistsLaunched>Заселници изстреляни в космоса</ColonistsLaunched>
+
+  <!-- History tab -->
+  <SelectGraph>Избери графика</SelectGraph>
+  <Last30Days>Последните 30 дни</Last30Days>
+  <Last100Days>Последните 100 дни</Last100Days>
+  <Last300Days>Последните 300 дни</Last300Days>
+  <AllDays>Всичко</AllDays>
+  <Day>Ден</Day>
+  <Value>Стойност</Value>
+  <External>Външен</External>
+  
+</LanguageData>

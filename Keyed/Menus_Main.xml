@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <CreateWorld>Създай свят</CreateWorld>
+  <NewColony>Нова колония</NewColony>
+  <BackToGame>Обратно в играта</BackToGame>
+  <Save>Запиши</Save>
+  <Load>Зареди колония</Load>
+  <Options>Опции</Options>
+  <Mods>Модификации</Mods>
+  <Credits>Credits</Credits>
+  <QuitToMainMenu>Върни се в основно меню</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Запиши и се върни в основно меню</SaveAndQuitToMainMenu>
+  <QuitToOS>Връщане в ОС</QuitToOS>
+  <SaveAndQuitToOS>Запиши и се върни в ОС</SaveAndQuitToOS>
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <Forums>Форуми</Forums>
+  <OfficialWiki>Official wiki</OfficialWiki>
+  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <TynansDesignBook>Tynan's design book</TynansDesignBook>
+  <HelpTranslate>Помогни в превода на RimWorld</HelpTranslate>
+  <BuySoundtrack>Купи саундтрака</BuySoundtrack>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Прегледай свят</ReviewWorld>
+  <WorldGenerate>Създай свят</WorldGenerate>
+  <WorldSaveAndFinish>Запиши и приключи</WorldSaveAndFinish>
+  <Reset>Занулирай</Reset>
+  <WorldSize>Големина</WorldSize>
+  <WorldSeed>Ключ</WorldSeed>
+  <RandomizeSeed>Случаен ключ</RandomizeSeed>
+
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Избери свят</SelectWorld>
+  <WorldChooseButton>Избери</WorldChooseButton>
+  <NoWorldsFilesFound>Не е открит свят. Създай свят за да играеш.</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Следната версия {0} е налична. Провери ludeon.com за повече информация.</BuildNowAvailable>
+	<BuildUpToDate>Това е последната версия.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Грешка при определяне на версията: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Зарежда информация за версията...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Създай свят</GenerateWorld>
+
+  <!--=========== Mods screen ==========-->
+  <OpenSteamWorkshop>Отвори Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Вземи модификации от форума</GetModsFromForum>
+  <OpenModsDataFolder>Отвори папката за модификации</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Със сигурност ли искаш да премахнеш осната модификация? Играта няма да работи ако нямаш модификация която да заменя всички основни функции.\n\nЗапомни, че други модификации може да заменят defs в core mod-а ако ползват същото defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Със сигурност ли искаш да иътриеш всички данни за {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Премахни абонамент</Unsubscribe>
+  <ConfirmUnsubscribe>Със сигурност ли искаш да откажеш абонамента за {0}?</ConfirmUnsubscribe>
+  <Author>Автор</Author>
+  <WorkshopPage>Workshop страница</WorkshopPage>
+  <UploadToSteamWorkshop>Качи в Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Обнови в Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Ъплоудът вече тече.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Качването във Workshop се провали.\n\nПричина: {0}</WorkshopSubmissionFailed>
+  <YouAgreeToSteamWorkshopLegal>С качването на модификацията, Вие приемате условията за полване на Steam Workshop. Цъкнете тук за повече информация.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopUploadSucceeded>Успешно качен {0}.</WorkshopUploadSucceeded>
+  <DownloadingMod>Сваляне на {0}</DownloadingMod>
+  
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Избери AI Разказвач</ChooseAIStoryteller>
+  <HowStorytellersWork>AI Разказвачът създава събития лати пиратски набези, падане на сандъци с ресурси, или животински атаки. Изборът им определя историята на колонията ти.</HowStorytellersWork>
+  <MustChooseDifficulty>Моля избери ниво на трудност.</MustChooseDifficulty>
+  <Difficulty>Трудност</Difficulty>
+
+
+
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Избери място за кацане</SelectLandingSite>
+  <SelectRandomSite>Избери случайно място</SelectRandomSite>
+  <SelectSite>Избери място</SelectSite>
+  <MustSelectLandingSite>Моля избери място за кацане.</MustSelectLandingSite>
+  <CannotLandBiome>Не може да се кацне в тази биома: {0}</CannotLandBiome>
+  <WorldRenderMode>Метод</WorldRenderMode>
+  <WorldRenderModeFull>Пълен</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Температура</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Надморска височина</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Плодовитост</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Валежи</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Биоми</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Биомите не са включени</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} вече има база тук.</BaseAlreadyThere>
+  <Biome>Биома</Biome>
+  <Terrain>Терен</Terrain>
+  <Elevation>Надморска височина</Elevation>
+  <Fertility>Плодовитост</Fertility>
+  <AvgTemp>Средна темп.</AvgTemp>
+  <AvgJanTemp>Средна темп. (Яну): {0}</AvgJanTemp>
+  <AvgJulTemp>Средна темп. (Юли): {0}</AvgJulTemp>
+  <Rainfall>Валежи</Rainfall>
+  <HasCoast0>Северен бряг</HasCoast0>
+  <HasCoast1>Източен бряг</HasCoast1>
+  <HasCoast2>Южен бряг</HasCoast2>
+  <HasCoast3>Западен бряг</HasCoast3>
+  <FactionBase>База на Фракция</FactionBase>
+  <StoneTypesHere>Тип скали</StoneTypesHere>
+
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Създай Заселник</CreateCharacters>
+  <FirstNameDesc>Първото име на заселника.\n\nПоказва се само в определни менюта.</FirstNameDesc>
+  <ShortIdentifierDesc>Прозвище на Заселника.\n\nПоказва се през цялото време. Това е първо или последно име, или прозвище.</ShortIdentifierDesc>
+  <LastNameDesc>Фамилно име на Заселника.\n\nПоказва се само в определни менюта.</LastNameDesc>
+  <Randomize>Задай случаен</Randomize>
+  <AgeIndicator>възраст {0}</AgeIndicator>
+  <Backstory>История</Backstory>
+  <IncapableOf>Не може да извършва</IncapableOf>
+  <Traits>Качества</Traits>
+  <PermanentMoodEffect>Постоянен ефект върху настроението</PermanentMoodEffect>
+  <Skills>Умения</Skills>
+  <NoneLower>няма</NoneLower>
+  <Adulthood>Житейски път</Adulthood>
+  <Childhood>Детство</Childhood>
+  <Male>мъж</Male>
+  <Female>жена</Female>
+  <Pain>Болка</Pain>
+  <Health>Здраве</Health>
+  <Relations>Връзки</Relations>
+  
+  
+  <!--=========== Misc ==========-->
+  <Start>Старт</Start>
+  <Advanced>Допълнителни</Advanced>
+  <Next>Следващ</Next>
+  <Back>Обратно</Back>
+  
+  <Gameplay>Геймплей</Gameplay>
+
+  <ConfirmQuit>Отказваш ли се? Ще загубиш незаписания прогрес.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>Всеки човек се нуждае от валидно име.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>Създавам свят</GeneratingWorld>
+  <GeneratingMap>Създавам карта</GeneratingMap>
+
+</LanguageData>
