@@ -8,7 +8,7 @@
   <DesignatorCutPlantsDesc>Определя растения за отрязване и унищожение. Растението ще бъде премахнато, и всякаква храна или ресурси ще се събере.</DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>Премахване</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Премахни обекта и получи обратно част от използваните ресурси.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Премахни обекта и получи обратно част от, или всички използвани ресурси.</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>Преместване</DesignatorUninstall>
   <DesignatorUninstallDesc>Премахни обекта, за да може да бъде преместен, продаден, или поставен на друго място.</DesignatorUninstallDesc>
@@ -61,9 +61,9 @@
 
   <DesignatorGrowingZoneDesc>Създай зона, в която заселниците ще засеят определено растение.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Създай зона, в която заселниците ще складират ресурси.\nМоже да се използва и за разширение на Склад.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Създай зона, в която заселниците ще складират ресурси.\nМоже да се използва и за разширение на съществуващ Склад.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Създай Склад за Отпадъци.\nМоже да се използва и за разширение на Склад за Отпадъци.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Създай Склад за Отпадъци.\nМоже да се използва и за разширение на съществуващ Склад за Отпадъци.</DesignatorZoneCreateStorageDumpingDesc>
 
   <DesignatorZoneDelete>Изтрий Зони</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Изтрива зони, като например Складове или Зони за Засяване на Растения.</DesignatorZoneDeleteDesc>
@@ -71,8 +71,8 @@
   <DesignatorClaim>Завземи</DesignatorClaim>
   <DesignatorClaimDesc>Завзема неутрална постройка за колонията, включително руини и изоставени Обсадни Бази. Завзетите постройки ще бъдат поправяни и поддържани от заселниците.</DesignatorClaimDesc>
 
-  <DesignatorRemoveFloor>Премахни Под</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Премахва под от сграда и отваря терена отдолу.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloor>Премахни настилка</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Премахва настилка от сграда и открива терена отдолу.</DesignatorRemoveFloorDesc>
 
   <DesignatorStrip>Съблечи</DesignatorStrip>
   <DesignatorStripDesc>Съблича дрехи от трупове или ранени.</DesignatorStripDesc>
@@ -105,7 +105,7 @@
   <IdenticalBlueprintExists>Идентичен обект ще се построи тук.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Теренът не може да поддържа тази постройка.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Мястото вече е заето.</SpaceAlreadyOccupied>
-  <TerrainMustBeRemovable>Избери под, който да може да се премахне.</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>Избери настилка, който да може да се премахне.</TerrainMustBeRemovable>
   
   
   <!-- Mouse attachments -->

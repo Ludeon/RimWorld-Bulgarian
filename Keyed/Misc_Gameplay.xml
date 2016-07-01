@@ -234,7 +234,7 @@
   <AllowAll>Позволи всичко</AllowAll>
 
   <!-- ThingFilter -->
-	<HitPoints>{0} hit points</HitPoints>
+	<HitPoints>{0} здравина</HitPoints>
 	<AnyQuality>всякакво качество</AnyQuality>
 	<OnlyQuality>само {0}</OnlyQuality>
 
@@ -250,7 +250,7 @@
   <ShowAnimalNamesToggleButton>Включи показване на имената на опитомени именувани животни.</ShowAnimalNamesToggleButton>
   
   <!-- Fire -->
-  <Fire>Пожар</Fire>
+  <Fire>Пожар!</Fire>
   <FireOn> {0} гори</FireOn>
   <Burning>Гори</Burning>
   <FireSizeLower>големина на огъня {0}</FireSizeLower>

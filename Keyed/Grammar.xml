@@ -6,12 +6,12 @@
   <IndefiniteForm>едно {0}</IndefiniteForm>
   <DefiniteForm>това {0}</DefiniteForm>
 
-  <Proits>негово</Proits>
-  <Prohis>негов</Prohis>
-  <Proher>неин</Proher>
-  <ProitsCap>Негово</ProitsCap>
-  <ProhisCap>Негов</ProhisCap>
-  <ProherCap>Неин</ProherCap>
+  <Proits>неговото</Proits>
+  <Prohis>неговия</Prohis>
+  <Proher>нейния</Proher>
+  <ProitsCap>Неговото</ProitsCap>
+  <ProhisCap>Неговият</ProhisCap>
+  <ProherCap>Нейният</ProherCap>
 
   <ProitObj>то</ProitObj>
   <ProhimObj>той</ProhimObj>

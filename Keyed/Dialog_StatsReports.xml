@@ -20,10 +20,10 @@
   <StatsReport_HealthMultiplier>Умножител за здраве {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>Умножител за настроение {0}</StatsReport_MoodMultiplier>
 	<StatsReport_DifficultyMultiplier>Умножител за трудност {0}</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>В леглото</StatsReport_InBed>
+  <StatsReport_InBed>На легло</StatsReport_InBed>
   <StatsReport_Facilities>Удобства и апаратури</StatsReport_Facilities>
   <StatsReport_BodySize>Умножител за телесна маса {0}</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>Характеристиката е посочена в следния формат:\nПоражения ( Поражения в ръкопашен бой / секунди пропуск / шанс за удар в ръкопашен бой )\n\nПоражения = Поражение в Ръкопашен * шанс за удар в ръкопашен / секунди пропуск</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>Характеристиката е посочена в следния формат:\nПоражения (Поражения в ръкопашен бой / секунди пропуск / шанс за удар в ръкопашен бой )\n\nПоражения = Поражение в Ръкопашен * шанс за удар в ръкопашен / секунди пропуск</StatsReport_MeleeDPSExplanation>
   <StatsReport_MeleeDamage>Поражения в Ръкопашен Бой</StatsReport_MeleeDamage>
   <StatsReport_Cooldown>Пропуск</StatsReport_Cooldown>
   <StatsReport_MeleeHitChance>Шанс за удар в Ръкопашен Бой</StatsReport_MeleeHitChance>

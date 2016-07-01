@@ -113,13 +113,13 @@
   <Randomize>Задай случаен</Randomize>
   <AgeIndicator>възраст {0}</AgeIndicator>
   <Backstory>История</Backstory>
-  <IncapableOf>Не може да извършва</IncapableOf>
+  <IncapableOf>Неспособен на:</IncapableOf>
   <Traits>Качества</Traits>
   <PermanentMoodEffect>Постоянен ефект върху настроението</PermanentMoodEffect>
   <Skills>Умения</Skills>
   <NoneLower>няма</NoneLower>
-  <Adulthood>Житейски път</Adulthood>
-  <Childhood>Детство</Childhood>
+  <Adulthood>Житие:</Adulthood>
+  <Childhood>Детство:</Childhood>
   <Male>мъж</Male>
   <Female>жена</Female>
   <Pain>Болка</Pain>

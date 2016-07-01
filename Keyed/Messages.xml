@@ -6,7 +6,7 @@
 
   <MessageRaidersBeginningAssault>{0} от {1} започват атаката си.</MessageRaidersBeginningAssault>
   <MessageRaidersDetectedEarlyAssault>{0} от {1} те разкриха и започват атаката си по-рано.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+  <MessageRaidersKidnapping>{0} от {1} решиха да отвлекат когото могат и да си заминат.</MessageRaidersKidnapping>
 
   <MessageRaidersLeaving>{0} от {1} си заминават.</MessageRaidersLeaving>
 	<MessageRaidersGivenUpLeaving>{0} от {1} се отказаха и си заминават.</MessageRaidersGivenUpLeaving>
@@ -34,7 +34,7 @@
   <MessageOutOfNearbyShellsFor>{0} не намери нерезервирани боеприпаси за {1}.</MessageOutOfNearbyShellsFor>
 
   <MessageAnimalsGoPsychoHunted>Внимание: {0} често нападат ако са наранени.</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>Вниманиеg: {0} често нападат ако опитомяването не успее ({1} шанс).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Внимание: {0} често нападат ако опитомяването не успее ({1} шанс).</MessageAnimalManhuntsOnTameFailed>
   
   <LetterLabelMessageRecruitSuccess>Нов Заселник</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} успешно вербува {1} ({2} шанс).</MessageRecruitSuccess>
@@ -62,7 +62,7 @@
   <MessageAlreadyInStorage>Предметът вече е в склад и ще бъде преместен в склад с по-висок приоритет при нужда.</MessageAlreadyInStorage>
   <MessageMustDesignateStrippable>Трябва да зададеш труп или безсилен човек с дрехи.</MessageMustDesignateStrippable>
   <MessageMustDesignateSlaughterable>Трябва да зададеш питомно животно, което принадлежи на колонията.</MessageMustDesignateSlaughterable>
-  <MessageMustDesignateOpenable>Трябва да зададеш пзлен гроб или саркофаг.</MessageMustDesignateOpenable>
+  <MessageMustDesignateOpenable>Трябва да зададеш пълен гроб или саркофаг.</MessageMustDesignateOpenable>
 
   <MessageRefusedArrest>{0} отказва да бъде арестуван!</MessageRefusedArrest>
   
@@ -80,20 +80,20 @@
 
   <MessageMedicalOperationWillAngerFaction>Тази операция ще ядоса {0}.</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>Туй като {0} напусна картата здрав, връзките с {1} се повишиха с {2}.</MessagePawnExitMapRelationsGain>
+  <MessagePawnExitMapRelationsGain>Тъй като {0} напусна картата здрав, връзките с {1} се повишиха с {2}.</MessagePawnExitMapRelationsGain>
 
   <MessageMiscarriedStarvation>{0} пометна поради глад.</MessageMiscarriedStarvation>
   <MessageMiscarriedPoorHealth>{0} пометна поради лошо здраве.</MessageMiscarriedPoorHealth>
   <MessageGaveBirth>{0} роди.</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{0} нарече {1} {2} след катому сложи намордник.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{0} нарече {1} {2} след като му сложи намордник.</MessageNuzzledPawnGaveNameTo>
 
   <MessageNoHandlerSkilledEnough>Няма дресьор който да опитоми {0} (изисква умение {1} in {2}, най-добрият дресьор {3} има {4}).</MessageNoHandlerSkilledEnough>
   
   <MessageEatenByPredator>{0} бе изяден от {1}.</MessageEatenByPredator>
   <MessageAttackedByPredator>{0} е атакуван от {1}!</MessageAttackedByPredator>
   
-  <MessageHiveReproduced>Кошер с буболчеки създаде нов.</MessageHiveReproduced>
+  <MessageHiveReproduced>Кошер с насекоми създаде нов.</MessageHiveReproduced>
   
   <MessageTraderCaravanLeaving>Търговска каравана от {0} си заминава.</MessageTraderCaravanLeaving>
   

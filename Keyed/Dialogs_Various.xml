@@ -50,7 +50,7 @@
   <ProblemSavingFile>Имаше проблем при записването на {0}:\n\n{1}</ProblemSavingFile>
   
   <!-- Colony naming-->
-  <NameColonyMessage>Както изглежда, ще се поостане тук известно време. {0} предлага да се кръсти колонията.\n\nКакво име ще избираш?</NameColonyMessage>
+  <NameColonyMessage>Както изглежда, ще се поостане тук известно време. {0} предлага да се кръсти колонията.\n\nКакво име избираш?</NameColonyMessage>
   <ColonyGainsName>Колонията е наречена {0}.</ColonyGainsName>
   <ColonyNameIsInvalid>Невалидно име.</ColonyNameIsInvalid>
 
@@ -102,7 +102,7 @@
 
   <!-- Bill config -->
   <Suspended>Отложено</Suspended>
-  <NotSuspended>Не е Отложено</NotSuspended>
+  <NotSuspended>Не е отложено</NotSuspended>
   <SuspendedAllCaps>ОТЛОЖЕНО</SuspendedAllCaps>
   <RepeatCount>Повтори: {0}</RepeatCount>
   <Forever>Завинаги</Forever>
@@ -119,13 +119,13 @@
   <BillRequires>Изисква {0} {1}</BillRequires>
   <BillRequiresNutrition>Изисква {0} хранителност</BillRequiresNutrition>
   <BillRequiresMayVary>Внимание: съставки с малък обем като Злато изискват 20х повече единици.</BillRequiresMayVary>
-  <ThisIsSmallVolume>Това е съставка с малък обем. Това означава че всяка единиц е едва 1/20 от съставка с нормален обем. За да изпълниш изискването, ти трябват 20x повече единици.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>Това е съставка с малък обем. Това означава че всяка единица е едва 1/20 от съставка с нормален обем. За да изпълниш изискването, ти трябват 20x повече единици.</ThisIsSmallVolume>
   <UsableIngredients>съставки</UsableIngredients>
   <DoXTimes>Извърши X пъти</DoXTimes>
   <DoUntilYouHaveX>Извърши до обем X</DoUntilYouHaveX>
   <DoForever>Прави безкрай</DoForever>
   <BillRepeatTargetCountShort>До {0}</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>Пусни на пода</BillStoreMode_DropOnFloor>
+  <BillStoreMode_DropOnFloor>Пусни на земята</BillStoreMode_DropOnFloor>
   <BillStoreMode_BestStockpile>Занеси до най-подходящ Склад</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Занеси до най-близък Склад</BillStoreMode_NearestStockpileAnyPriority>
   
@@ -194,7 +194,7 @@
   
   <!--HistoryUpload-->
   <HistoryUploadMessage>Искаш ли да качваш информация от играта до сървър на RimWorld с цел да помогнеш на създателите да балансират играта? Ако се съгласиш, информация ще се качва всеки {0} дни (в редки случаи при приключване на играта). Поверителността може да се промени в последствие от менюто Опции.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Въпреки че информацията се качва анонимно, може да добавиш името си кзм нея.</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessagePlayerName>Въпреки че информацията се качва анонимно, може да добавиш името си към нея.</HistoryUploadMessagePlayerName>
   <HistoryUploadYes>Позволи качване на данни от играта</HistoryUploadYes>
   <HistoryUploadNo>Не позволявай качване на данни от играта</HistoryUploadNo>
   <HistoryUploadYesOnce>Качи само този път</HistoryUploadYesOnce>
@@ -204,7 +204,7 @@
   <Outfit>Екипировка</Outfit>
   <SelectOutfit>Избери екипировка...</SelectOutfit>
   <NewOutfit>Нова екипировка</NewOutfit>
-  <DeleteOutfit>Иътрий екипировка...</DeleteOutfit>
+  <DeleteOutfit>Изтрий екипировка...</DeleteOutfit>
   <OutfitInUse>Екипировката се използва от {0}.</OutfitInUse>
   <NoOutfitSelected>Не е избрана екипировка</NoOutfitSelected>
   
