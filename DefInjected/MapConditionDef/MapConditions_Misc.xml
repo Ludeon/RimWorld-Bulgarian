@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SolarFlare.label>Слънчево изригване</SolarFlare.label>
+  <SolarFlare.description>Лъчението породено от слънчево изригване поразява планетата и предизвиква прекъсвания в електричеството. За да се избегнат щети е препоръчително да се изключат всички електрически предмети.</SolarFlare.description>
+  <SolarFlare.endMessage>Слънчевото изригване премина.</SolarFlare.endMessage>
+
+  <Eclipse.label>Слънчево затъмнение</Eclipse.label>
+  <Eclipse.description>Поради слънчево затъмнение ще бъде тъмно през целия ден.</Eclipse.description>
+  <Eclipse.endMessage>Слънчевото затъмнение премина.</Eclipse.endMessage>
+
+  <PsychicDrone.label>Психическо боботене</PsychicDrone.label>
+  <PsychicDrone.description>Далечен изкуствен интелект изпраща психични вълни. Това боботене се отразява негативно на психическото състояние на заселниците и може да доведе до нервен срив.</PsychicDrone.description>
+  <PsychicDrone.endMessage>Психическото боботене престана.</PsychicDrone.endMessage>
+
+  <PsychicSoothe.label>Психическо успокоение</PsychicSoothe.label>
+  <PsychicSoothe.description>Далечен изкуствен интелект изпраща успокоителни психични вълни. Заселниците ще са в по-добро настроение.</PsychicSoothe.description>
+  <PsychicSoothe.endMessage>Психическото успокоение престана.</PsychicSoothe.endMessage>
+
+  <ToxicFallout.label>Токсичен облак</ToxicFallout.label>
+  <ToxicFallout.description>Токсичен облак се спуска над цялата планета. Всеки, който не се намира под покрив, ще бъде отровен.</ToxicFallout.description>
+  <ToxicFallout.endMessage>Токсичният облак се разнесе.</ToxicFallout.endMessage>
+
+  <VolcanicWinter.label>Вулканична зима</VolcanicWinter.label>
+  <VolcanicWinter.description>Атмосферата е наситена с пепел от иъригнал вулкан, който пречи на слънчевите лъчи да проникнат и предизвиква студено време. Растенията ще се развиват значително по-бавно.</VolcanicWinter.description>
+  <VolcanicWinter.endMessage>Пепелта в атмосферата се разнесе.</VolcanicWinter.endMessage>
+
+  <HeatWave.label>Топлинна вълна</HeatWave.label>
+  <HeatWave.description>Екстремна топлинна вълна се спуска над региона. Заселниците трябва да стоят на хладно.</HeatWave.description>
+  <HeatWave.endMessage>Топлинната вълна премина.</HeatWave.endMessage>
+
+  <ColdSnap.label>Студена вълна</ColdSnap.label>
+  <ColdSnap.description>Необичайно студена вълна се спуска над региона. Заселниците трябва да стоят на топло.</ColdSnap.description>
+  <ColdSnap.endMessage>Студената вълна премина.</ColdSnap.endMessage>
+
+  <Flashstorm.label>Мълнии</Flashstorm.label>
+  <Flashstorm.description>Необичайно голям брой мълнии удрят определен регион.</Flashstorm.description>
+  <Flashstorm.endMessage>Мълниите преминаха.</Flashstorm.endMessage>
+
+</LanguageData>
