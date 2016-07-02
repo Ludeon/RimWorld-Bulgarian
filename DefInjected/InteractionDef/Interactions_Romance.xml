@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <RomanceAttempt.label>Флирт</RomanceAttempt.label>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry->Опита да флиртува с [other_nameShortIndef].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+  <RomanceAttempt.logRulesRecipient.rulesStrings.0>logentry->Беше обект на флирт от [other_nameShortIndef].</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+
+  <Breakup.label>Раздяла</Breakup.label>
+  <Breakup.logRulesInitiator.rulesStrings.0>logentry->приключи връзката си с [other_nameShortIndef].</Breakup.logRulesInitiator.rulesStrings.0>
+  <Breakup.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef] приключи връзката ни.</Breakup.logRulesRecipient.rulesStrings.0>
+
+  <MarriageProposal.label>Сватба</MarriageProposal.label>
+  <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry->Отправи на [other_nameShortIndef] предложение за сватба.</MarriageProposal.logRulesInitiator.rulesStrings.0>
+  <MarriageProposal.logRulesRecipient.rulesStrings.0>logentry->От [other_nameShortIndef] ми бе отправено предложение за сватба.</MarriageProposal.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>
