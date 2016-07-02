@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AllowCorpsesColonist.label>Позволи трупове на заселници</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Позволява ползването на мъртви бивши заселници.</AllowCorpsesColonist.description>
+  <AllowCorpsesStranger.label>Позволи трупове на чужденци</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Позволява ползването на трупове на чужденци и врагове.</AllowCorpsesStranger.description>
+  <AllowRotten.label>Позволи гниещи</AllowRotten.label>
+  <AllowRotten.description>Позволява ползването на органични материали, които са започнали да гният.</AllowRotten.description>
+  <AllowNonSmeltableWeapons.label>Позволи нетопими предмети</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.description>Позволява ползването на оръжия, които са неразтопяеми.</AllowNonSmeltableWeapons.description>
+  <AllowPlantFood.label>Позволи добив</AllowPlantFood.label>
+  <AllowPlantFood.description>Позволява добиването на храна от растения, които не са напълно израстанали.</AllowPlantFood.description>
+
+</LanguageData>
