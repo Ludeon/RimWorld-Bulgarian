@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <TimeAsColonist.label>Време като заселник</TimeAsColonist.label>
+  <TimeAsColonist.description>Общото време, прекарано като заселник.</TimeAsColonist.description>
+
+  <TimeAsPrisoner.label>Време като затворник</TimeAsPrisoner.label>
+  <TimeAsPrisoner.description>Общото време, прекарано като затворник.</TimeAsPrisoner.description>
+
+  <TimeInBed.label>Време прекарано в легло</TimeInBed.label>
+  <TimeInBed.description>Общото време, прекарано в легло.</TimeInBed.description>
+
+  <TimeInBedForMedicalReasons.label>Време прекарано в медицинско легло</TimeInBedForMedicalReasons.label>
+  <TimeInBedForMedicalReasons.description>Общото време, прекарано в медицинско легло по медицински причини или операции.</TimeInBedForMedicalReasons.description>
+
+  <TimeDowned.label>Време на безсилие</TimeDowned.label>
+  <TimeDowned.description>Общото време, в което заселникът е бил безсилен.</TimeDowned.description>
+
+  <TimeGettingFood.label>Време за ядене</TimeGettingFood.label>
+  <TimeGettingFood.description>Общото време, прекарано в носене и консумиране на храна.</TimeGettingFood.description>
+
+  <TimeGettingJoy.label>Време за набавяне на Радост</TimeGettingJoy.label>
+  <TimeGettingJoy.description>Общото време, прекарано в активности с цел повишаване на Радостта.</TimeGettingJoy.description>
+
+  <TimeUnderRoof.label>Време прекарано под покрив</TimeUnderRoof.label>
+  <TimeUnderRoof.description>Общото време, което заселникът е прекарал под покрив.</TimeUnderRoof.description>
+
+  <TimeDrafted.label>Време като Войник</TimeDrafted.label>
+  <TimeDrafted.description>Общото време, което заселникът е прекарал в режим Войник.</TimeDrafted.description>
+
+  <TimeOnFire.label>Време в пламъци</TimeOnFire.label>
+  <TimeOnFire.description>Общото време, което заселникът е прекарал, обхванат от пламъци.</TimeOnFire.description>
+
+  <TimeInMentalState.label>Време в срив</TimeInMentalState.label>
+  <TimeInMentalState.description>Общото време, което заселникът е прекарал във всички видове нервни сривове.</TimeInMentalState.description>
+
+  <TimeHauling.label>Време като носач</TimeHauling.label>
+  <TimeHauling.description>Общото време, в което заселникът е носил предмети.</TimeHauling.description>
+
+  <TimeHandlingAnimals.label>Време с животни</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.description>Общото време, в което заселникът е работил с животни.</TimeHandlingAnimals.description>
+
+  <TimeFirefighting.label>Време като пожарникар</TimeFirefighting.label>
+  <TimeFirefighting.description>Общото време, което заселникът е прекарал гасейки пожари.</TimeFirefighting.description>
+
+  <TimeWardening.label>Време като стражар</TimeWardening.label>
+  <TimeWardening.description>Общото време, през което заселникът е работил като стражар.</TimeWardening.description>
+
+  <TimeHunting.label>Време като ловджия</TimeHunting.label>
+  <TimeHunting.description>Общото време, което заселникът е прекарал като ловджия.</TimeHunting.description>
+
+  <TimeConstructing.label>Време като строител</TimeConstructing.label>
+  <TimeConstructing.description>Общото време. което заселникът е прекарал като строител.</TimeConstructing.description>
+
+  <TimeTreatingAndFeeding.label>Време като лекар</TimeTreatingAndFeeding.label>
+  <TimeTreatingAndFeeding.description>Общото време, което заселникът е прекарал като лекар, вкл. обгрижване и хранене на пациенти.</TimeTreatingAndFeeding.description>
+
+  <TimeResearching.label>Време като проучващ</TimeResearching.label>
+  <TimeResearching.description>Общото време, което заселникът е прекарал проучвайки нови технологии.</TimeResearching.description>
+
+  <TimeCleaning.label>Време като чистач</TimeCleaning.label>
+  <TimeCleaning.description>Общото време, през което заселникът е чистил.</TimeCleaning.description>
+
+  <TimeRepairing.label>Време като механик</TimeRepairing.label>
+  <TimeRepairing.description>Общото време, което заселникът е прекарал поправяйки предмети.</TimeRepairing.description>
+
+  <TimeMining.label>Време като миньор</TimeMining.label>
+  <TimeMining.description>Общото време, което заселникът е прекарал копаейки скали.</TimeMining.description>
+
+  <TimeSowingAndHarvesting.label>Време като градинар</TimeSowingAndHarvesting.label>
+  <TimeSowingAndHarvesting.description>Общото време, което заселникът е прекарал сеейки и жънейки растения.</TimeSowingAndHarvesting.description>
+
+</LanguageData>
