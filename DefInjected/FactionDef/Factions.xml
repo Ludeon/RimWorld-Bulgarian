@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Colony.label>Колония</Colony.label>
+  <Colony.description>Твоята група оцелели</Colony.description>
+  <Colony.pawnsPlural>Заселници</Colony.pawnsPlural>
+
+  <Spacer.label>Астронавт</Spacer.label>
+  <Spacer.description>Хора от дълбините на космоса.</Spacer.description>
+  <Spacer.pawnsPlural>Астронавтии</Spacer.pawnsPlural>
+  <Spacer.fixedName>Астронавт</Spacer.fixedName>
+
+  <SpacerHostile.label>Вражески астронавт</SpacerHostile.label>
+  <SpacerHostile.description>Хора от дълбините на космоса.</SpacerHostile.description>
+  <SpacerHostile.pawnsPlural>Вражески астронавти</SpacerHostile.pawnsPlural>
+  <SpacerHostile.fixedName>Вражески астронавт</SpacerHostile.fixedName>
+  <Insect.label>Насекомо</Insect.label>
+  <Insect.description>Агресивни и лесно раздразними насекоми.</Insect.description>
+  <Insect.pawnsPlural>Насекоми</Insect.pawnsPlural>
+
+  <!-- Normal humanlike factions -->
+
+  <Outlander.label>Град на оцелели</Outlander.label>
+  <Outlander.description>Малък град на оцелели хора.\n\nТе живеят тук от десетки години или векове и са изгубили голяма част от технологията, която ги е довела на този свят. Те използват обикновени механични инструменти и притежават отлични огнестрелни оръжия.\n\nТе се интересуват основно от търговия, доверие и практическо оцеляване.</Outlander.description>
+  <Outlander.pawnsPlural>Оцелели</Outlander.pawnsPlural>
+  <Outlander.leaderTitle>Кмет</Outlander.leaderTitle>
+
+  <Pirate.label>Пирати</Pirate.label>
+  <Pirate.description>Група от пирати.\n\nПиратите не сеят и строят, и търгуват много рядко. Те богатеят от набези и кражби от по-проспериращите групи в района.\n\nТехнологията, която притежават е основно крадена и повечето от тях използват огнестрелни оръжия. Също така съществуват и членове на бандата, които притежават високотехнологични енергийни оръжия, но някои от тях просто предпочитат близкия бой.</Pirate.description>
+  <Pirate.pawnsPlural>Пирати</Pirate.pawnsPlural>
+  <Pirate.leaderTitle>Шеф</Pirate.leaderTitle>
+
+  <Tribe.label>Племе</Tribe.label>
+  <Tribe.description>Тези хора живеят тук от много дълго време. Възможно е да са наследници на хора от космически кораб, круширал на планетата преди много години. А може и да са оцелели след катаклизъм, унищожил технологията на расата им. Каквото и да се е случило, тези хора са номади, движещи се от място на място, които използват примитивни сечива и оръжия.\n\nНякои племена са по/агресивни от други. Много от тях са готови на търговия или обединиение, дори с непознати хора като вас. Близки взаимовръзки или вербуване на членове на племето са много трудни поради технологичните и езиковите разлики.\n\nВъпреки че са изостанали технологически, племената могат да са опасни врагове или полезни приятели поради умелото боравене с примитивни оръжия, закоравялите си тела, и многобройността си.</Tribe.description>
+  <Tribe.pawnsPlural>Членове на племето</Tribe.pawnsPlural>
+  <Tribe.leaderTitle>Вожд</Tribe.leaderTitle>
+
+  <!-- Special sub-humanlike factions -->
+
+  <Mechanoid.label>Механоиди</Mechanoid.label>
+  <Mechanoid.description>Група от древни роботи, които имат способността да строят нови.</Mechanoid.description>
+  <Mechanoid.pawnsPlural>Механоиди</Mechanoid.pawnsPlural>
+  <Mechanoid.fixedName>Механоид</Mechanoid.fixedName>
+
+</LanguageData>
