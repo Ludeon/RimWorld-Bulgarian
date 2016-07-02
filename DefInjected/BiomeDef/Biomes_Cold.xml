@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BorealForest.label>Иглолистни гори</BorealForest.label>
+  <BorealForest.description>Северен район съставен от обширни иглолистни гори. Въпреки суровата зима, тук живеят различни малки и големи животни.</BorealForest.description>
+
+  <Tundra.label>Тундра</Tundra.label>
+  <Tundra.description>Тази замръзнала област е дом на минимално количество дървета и растения. Тук се живеят някои малки животни, стада от тревопасни животни, както и някои хищници.</Tundra.description>
+
+  <IceSheet.label>Лед</IceSheet.label>
+  <IceSheet.description>Дебел лед покрива терена. Тук няма достъп до твърда земя на която да се развиват растения. Малкото животни, които ще намерите мигрират към по-топли места, или са се изгубили напълно.</IceSheet.description>
+
+</LanguageData>
