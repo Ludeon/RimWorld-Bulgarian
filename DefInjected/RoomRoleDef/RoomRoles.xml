@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <None.label>Няма</None.label>
+  <Room.label>Стая</Room.label>
+  <Bedroom.label>Спалня</Bedroom.label>
+  <PrisonCell.label>Затворническа клетка</PrisonCell.label>
+  <DiningRoom.label>Трапезария</DiningRoom.label>
+  <RecRoom.label>Всекидневна</RecRoom.label>
+  <Hospital.label>Болнична стая</Hospital.label>
+  <Laboratory.label>Лаборатория</Laboratory.label>
+  <Workshop.label>Цех</Workshop.label>
+  <Barracks.label>Казарма</Barracks.label>
+  <PrisonBarracks.label>Затворническа казарма</PrisonBarracks.label>
+  <Kitchen.label>Кухня</Kitchen.label>
+  <Tomb.label>Крипта</Tomb.label>
+  <Barn.label>Обор</Barn.label>
+
+</LanguageData>
