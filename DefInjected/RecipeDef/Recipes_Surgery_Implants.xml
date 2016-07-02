@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- implants -->
+
+  <InstallJoywire.label>Имплантирай стимулатор</InstallJoywire.label>
+  <InstallJoywire.description>Имплантира стимулиращ чип.</InstallJoywire.description>
+  <InstallJoywire.jobString>Имплантира стимулатор.</InstallJoywire.jobString>
+
+  <InstallPainstopper.label>Имплантирай болкоуспокоителен чип</InstallPainstopper.label>
+  <InstallPainstopper.description>Имплантира болкоуспокояващ чип.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Имплантира болкоуспокоителен чип.</InstallPainstopper.jobString>
+
+</LanguageData>

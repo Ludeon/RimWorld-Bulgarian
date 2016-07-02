@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- natural -->
+
+  <InstallNaturalHeart.label>Имплантирай сърце</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Имплантира сърце.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Имплантира сърце.</InstallNaturalHeart.jobString>
+
+  <InstallNaturalLiver.label>Имплантирай черен дроб</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Имплантира черен дроб.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Имплантира черен дроб.</InstallNaturalLiver.jobString>
+
+  <InstallNaturalKidney.label>Имплантирай бъбрек</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Имплантира бъбрек.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Имплантира бъбрек.</InstallNaturalKidney.jobString>
+
+  <InstallNaturalLung.label>Имплантирай бял дроб</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Имплантира бял дроб.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Имплантира бял дроб.</InstallNaturalLung.jobString>
+
+  <!-- artificial -->
+
+  <InstallPegLeg.label>Пригоди дървен крак</InstallPegLeg.label>
+  <InstallPegLeg.description>Инсталира дървен крак на заселник.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Пригажда дървен крак.</InstallPegLeg.jobString>
+
+  <InstallBionicEye.label>Имплантирай бионично око</InstallBionicEye.label>
+  <InstallBionicEye.description>Имплантира бионично око.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Имплантира бионично око.</InstallBionicEye.jobString>
+
+  <InstallBionicArm.label>Инсталирай бионична ръка</InstallBionicArm.label>
+  <InstallBionicArm.description>Инсталира бионична ръка.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Инсталира бионична ръка.</InstallBionicArm.jobString>
+
+  <InstallBionicLeg.label>Инсталирай бионичен крак</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Инсталира бионичен крак.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Инсталира бионичен крак.</InstallBionicLeg.jobString>
+
+  <InstallSimpleProstheticLeg.label>Пригоди протеза за крак</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Пригажда обикновена протеза за крак.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Пригажда протеза за крак.</InstallSimpleProstheticLeg.jobString>
+
+  <InstallSimpleProstheticArm.label>Пригоди протеза за ръка</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Пригажда обикновена протеза за ръка.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Пригажда протеза за ръка.</InstallSimpleProstheticArm.jobString>
+
+  <InstallDenture.label>Имплантирай зъбна протеза</InstallDenture.label>
+  <InstallDenture.description>Имплантира зъбна протеза.</InstallDenture.description>
+  <InstallDenture.jobString>Имплантира зъбна протеза.</InstallDenture.jobString>
+
+  <InstallPowerClaw.label>Инсталирай Енергиен Нокът</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Инсталира Енергиен Нокът.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Инсталира Енергиен Нокът.</InstallPowerClaw.jobString>
+
+  <InstallScytherBlade.label>Инсталирай острие на Косач</InstallScytherBlade.label>
+  <InstallScytherBlade.description>Инсталира острие получено от мъртъв механичен Косач.</InstallScytherBlade.description>
+  <InstallScytherBlade.jobString>Инсталира острие на Косач.</InstallScytherBlade.jobString>
+
+</LanguageData>

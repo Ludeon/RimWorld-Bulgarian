@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CookMealSimple.label>Приготви обикновено ястие</CookMealSimple.label>
+  <CookMealSimple.description>Готви ястие, състоящо се от една съставка.</CookMealSimple.description>
+  <CookMealSimple.jobString>Готви обикновено ястие.</CookMealSimple.jobString>
+  <CookMealSimpleCampfire.label>Пече обикновено ястие</CookMealSimpleCampfire.label>
+  <CookMealSimpleCampfire.description>Пече ястие, състоящо се от една съставка.</CookMealSimpleCampfire.description>
+  <CookMealSimpleCampfire.jobString>Пече обикновено ядене.</CookMealSimpleCampfire.jobString>
+
+  <CookMealFine.label>Приготви вкусно ястие</CookMealFine.label>
+  <CookMealFine.description>Готви ястие, състоящо се от различни растителни и месни съставки.</CookMealFine.description>
+  <CookMealFine.jobString>Kocht eine leckere Mahlzeit.</CookMealFine.jobString>
+
+  <CookMealLavish.label>Приготви обилно ястие</CookMealLavish.label>
+  <CookMealLavish.description>Готви обилно ястие от различни растителни и месни съставки. Коства много ресурси, но повишава сериозно настроението на заселниците.</CookMealLavish.description>
+  <CookMealLavish.jobString>Готви обилно ястие.</CookMealLavish.jobString>
+
+</LanguageData>

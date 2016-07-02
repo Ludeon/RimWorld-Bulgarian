@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- removing body parts -->
+
+  <RemoveBodyPart.label>Премахни част от тялото</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Премахва съответната част от тялото.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Премахва част от тялото.</RemoveBodyPart.jobString>
+
+  <RemoveMechanoidBodyPart.label>Премахни механична част</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>Премахва част от тялото на механоид.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>Премахва механична част.</RemoveMechanoidBodyPart.jobString>
+
+  <!-- Euthanization -->
+
+  <Euthanize.label>Евтаназия</Euthanize.label>
+  <Euthanize.description>Освобождава страдащата жертва като й помогне да напусне света на живите.</Euthanize.description>
+  <Euthanize.jobString>Извършва евтаназия.</Euthanize.jobString>
+
+  <ShutDownMechanoid.label>Изключи механоид</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>Изключва безсилен механоид.</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>Изключва механоид.</ShutDownMechanoid.jobString>
+
+  <!-- removing hediffs (e.g. diseases) -->
+
+  <ExciseCarcinoma.label>Премахни карцинома</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Премахва раково образувание.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Премахва карцинома.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} успешно премахна раково образувание от {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+</LanguageData>

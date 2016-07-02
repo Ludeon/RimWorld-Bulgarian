@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CremateCorpse.label>Кремирай труп</CremateCorpse.label>
+  <CremateCorpse.description>Изгаря труп, за да го унищожи.</CremateCorpse.description>
+  <CremateCorpse.jobString>Кремира труп.</CremateCorpse.jobString>
+
+  <BurnApparel.label>Изгори дрехи</BurnApparel.label>
+  <BurnApparel.description>Изгаря дрехи, за да ги унищожи.</BurnApparel.description>
+  <BurnApparel.jobString>Гори дрехи.</BurnApparel.jobString>
+
+</LanguageData>

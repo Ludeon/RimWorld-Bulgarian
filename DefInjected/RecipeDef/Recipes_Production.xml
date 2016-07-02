@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MakeStoneBlocks.label>Издялай каменни блокове</MakeStoneBlocks.label>
+  <MakeStoneBlocks.description>Обработва скали в използваеми каменни блокове.</MakeStoneBlocks.description>
+  <MakeStoneBlocks.jobString>Дяла каменни блокове.</MakeStoneBlocks.jobString>
+
+  <ExtractMetalFromSlag.label>Извлечи метал от шлака</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Използва топли и силни електромагнити, за да извлече полезен метал от парчета шлака.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Извлича метал от шлака.</ExtractMetalFromSlag.jobString>
+
+  <SmeltWeapon.label>Извлечи метал от оръжие</SmeltWeapon.label>
+  <SmeltWeapon.description>Използва топли и силни електромагнити, за да извлече полезен метал от безполезни оръжия.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Претапя оръжие за метал.</SmeltWeapon.jobString>
+
+  <MakeArtilleryShell.label>Направи боеприпаси</MakeArtilleryShell.label>
+  <MakeArtilleryShell.description>Създава боеприпас за артилерия.</MakeArtilleryShell.description>
+  <MakeArtilleryShell.jobString>Прави боеприпас.</MakeArtilleryShell.jobString>
+
+  <MakeComponent.label>Направи компонент</MakeComponent.label>
+  <MakeComponent.description>Произвежда компонент.</MakeComponent.description>
+  <MakeComponent.jobString>Прави компонент.</MakeComponent.jobString>
+
+  <!--
+  <MakeWoodPlanks_Hand.label>Stelle Holzbalken her</MakeWoodPlanks_Hand.label>
+  <MakeWoodPlanks_Hand.description>Zersäge von Hand 10 Stämme in 25 Holzbalken. Ziemlich langsam.</MakeWoodPlanks_Hand.description>
+  <MakeWoodPlanks_Hand.jobString>Produziert Holzbalken.</MakeWoodPlanks_Hand.jobString>
+
+  <MakeWoodPlanks_Electric.label>Stelle Holzbalken her</MakeWoodPlanks_Electric.label>
+  <MakeWoodPlanks_Electric.description>Zersägt 10 Stämme in 25 Holzbalken.</MakeWoodPlanks_Electric.description>
+  <MakeWoodPlanks_Electric.jobString>Produziert Holzbalken.</MakeWoodPlanks_Electric.jobString>
+  -->
+
+</LanguageData>
