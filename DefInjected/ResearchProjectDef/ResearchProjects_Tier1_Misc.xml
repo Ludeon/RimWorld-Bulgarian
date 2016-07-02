@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Devilstrand.label>Дяволска фиброгъба</Devilstrand.label>
+  <Devilstrand.description>Позволява на заселниците да сеят дяволски фиброгъби. Дяволската фиброгъба расте бавно, но от нея се извличат ценни растителни фибри от които могат да се правят тъкани и дрехи.</Devilstrand.description>
+
+  <Hydroponics.label>Хидропонни технологии</Hydroponics.label>
+  <Hydroponics.description>Позволява на заселниците да строят хидропонни ферми, захранвани с енергия във вътрешността на постройка. Това позволява засяването на растения независими външни влияния, които растат по-бързо от обикновено.</Hydroponics.description>
+
+  <Brewing.label>Бира</Brewing.label>
+  <Brewing.description>Отключва Бирарията, работна маса, чрез която се вари бира от пожънат ечемик.</Brewing.description>
+
+  <Stonecutting.label>Каменоделство</Stonecutting.label>
+    <Stonecutting.description>Отключва масата за каменоделство, чрез която може да се обработват груби скали в полезни за строителството каменни блокове.</Stonecutting.description>
+
+  <ElectricSmelting.label>Електрическа пещ</ElectricSmelting.label>
+    <ElectricSmelting.description>Отключва електическата пещ, която използва топлина и силни електромагнити за да извлече метал от безполезни парчета шлака или други предмети.</ElectricSmelting.description>
+
+  <ElectricCremation.label>Електрическо кремиране</ElectricCremation.label>
+  <ElectricCremation.description>Отключва Крематориумът - пещ, с която могат да се унищожават трупове и безполезни дрехи и предмети.</ElectricCremation.description>
+
+  <CarpetMaking.label>Мокети</CarpetMaking.label>
+  <CarpetMaking.description>Позволява поставянето на мокети, които повишават красотата на дадена постройка и респективно настронието на заселниците.</CarpetMaking.description>
+
+  <Smithing.label>Ковачество</Smithing.label>
+  <Smithing.description>Позволява изковаването на метални оръжия и сечива.</Smithing.description>
+
+  <ColoredLights.label>Цветни светлини</ColoredLights.label>
+  <ColoredLights.description>Позволява поставянето на цветни светлини, които повишават красотата на дадена постройка и респективно настронието на заселниците.</ColoredLights.description>
+
+  <Machining.label>Механика</Machining.label>
+  <Machining.description>Отключва масата за механика, която позволява създаването на огнестрелни оръжия и разглобяването на механоиди.</Machining.description>
+
+  <!-- Tier 1 Weaponry -->
+
+  <Mortars.label>Гаубици</Mortars.label>
+  <Mortars.description>Позволява строежа на гаубици - артилерия, която може да стреля по далечни мишени.</Mortars.description>
+
+  <IEDBomb.label>Импровизирани експлозивни устройства</IEDBomb.label>
+  <IEDBomb.description>Позволява производството на взривни боеприпаси за гаубици, които могат да се използват и за някои видове капани.</IEDBomb.description>
+
+  <IEDIncendiary.label>Импровизирани подпалващи устройства</IEDIncendiary.label>
+  <IEDIncendiary.description>Позволява производството на запалителни боеприпаси за гаубици, които могат да се използват и за някои видове капани.</IEDIncendiary.description>
+
+  <!-- Tier 1 Electronics -->
+
+  <MicroelectronicsBasics.label>Основи на микроелектрониката</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>Основни познания, които позволяват на заселниците да работят със сложна електроника. Това позволява да се строят високотехнологични маси за проучване и комуникационни конзоли, както и отключва допълнителни обекти за проучване като нарп. телевизори с катодни тръби и ковчези за криптосън.</MicroelectronicsBasics.description>
+
+  <TubeTelevision.label>Телевизори</TubeTelevision.label>
+  <TubeTelevision.description>Позволява поставянето на телевизори с катодни тръби.</TubeTelevision.description>
+
+  <!-- Cut misc -->
+
+</LanguageData>
