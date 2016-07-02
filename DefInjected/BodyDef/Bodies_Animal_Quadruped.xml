@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <QuadrupedAnimalWithPaws.label>Чифтокопитно животно</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>Чифтокопитно животно</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>Чифтокопитно животно</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>Чифтокопитно животно</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>Чифтокопитно животно</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Чифтокопитно животно</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>Чифтокопитно животно</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>Чифтокопитно животно</QuadrupedAnimalWithClawsTailAndJowl.label>
+
+  <TurtleLike.label>Костенурка (и подобни)</TurtleLike.label>
+  <Monkey.label>Маймуна</Monkey.label>
+
+</LanguageData>
