@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Tile -->
+
+  <TileSandstone.label>Плочка от пясъчник</TileSandstone.label>
+  <TileSandstone.description>Солидна плочка от пясъчник, която придава на помещението усещане за замък. Изглежда добре, но изисква много време да се постави.</TileSandstone.description>
+
+  <TileGranite.label>Плочка от гранит</TileGranite.label>
+  <TileGranite.description>Солидна плочка от гранит, която придава на помещението усещане за замък. Изглежда добре, но изисква много време да се постави.</TileGranite.description>
+
+  <TileLimestone.label>Плочка от варовик</TileLimestone.label>
+  <TileLimestone.description>Солидна плочка от варовик, която придава на помещението усещане за замък. Изглежда добре, но изисква много време да се постави.</TileLimestone.description>
+
+  <TileSlate.label>Плочка от шистова скала</TileSlate.label>
+  <TileSlate.description>Солидна плочка от шистова скала, която придава на помещението усещане за замък. Изглежда добре, но изисква много време да се постави.</TileSlate.description>
+
+  <TileMarble.label>Плочка от мрамор</TileMarble.label>
+  <TileMarble.description>Солидна плочка от мрамор, която придава на помещението усещане за замък. Изглежда добре, но изисква много време да се постави.</TileMarble.description>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Sand.label>Пясък</Sand.label>
+  <Soil.label>Почва</Soil.label>
+  <MarshyTerrain.label>Блатист терен</MarshyTerrain.label>
+  <SoilRich.label>Плодородна почва</SoilRich.label>
+  <Mud.label>Кал</Mud.label>
+  <Marsh.label>Блато</Marsh.label>
+  <Gravel.label>Чакъл</Gravel.label>
+  <MossyTerrain.label>Влажен терен</MossyTerrain.label>
+  <Ice.label>Лед</Ice.label>
+
+</LanguageData>
