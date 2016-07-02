@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Cold weather animals -->
+
+  <Warg.label>Варг</Warg.label>
+  <Warg.description>Мускулесто месоядно животно подобно на вълк, което специално развивано за военни цели или редуциране на популациии. За вярващите е инструмент на яростта на боговете.</Warg.description>
+  <Warg_Leather.label>Кожа от варг</Warg_Leather.label>
+  <Warg_Leather.description>Кожата на варг.</Warg_Leather.description>
+  <Warg_Leather.stuffProps.stuffAdjective>от кожа на варг</Warg_Leather.stuffProps.stuffAdjective>
+  <Warg_Meat.label>Месо от варг</Warg_Meat.label>
+  <Warg_Meat.description>Месото на заколен варг.</Warg_Meat.description>
+  <Warg_Corpse.label>Мъртъв варг</Warg_Corpse.label>
+  <Warg_Corpse.description>Труп на убит варг.</Warg_Corpse.description>
+
+  <YorkshireTerrier.label>Йоркширски териер</YorkshireTerrier.label>
+  <YorkshireTerrier.description>Малко, спокойно животно, което първоначало се е ползвало за лов на плъхове преди да бъде опитомено.</YorkshireTerrier.description>
+  <YorkshireTerrier_Leather.label>Кожа от териер</YorkshireTerrier_Leather.label>
+  <YorkshireTerrier_Leather.description>Кожа от йоркширски териер.</YorkshireTerrier_Leather.description>
+  <YorkshireTerrier_Leather.stuffProps.stuffAdjective>от кожа на териер</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
+  <YorkshireTerrier_Meat.label>Месо на териер</YorkshireTerrier_Meat.label>
+  <YorkshireTerrier_Meat.description>Месо от заколен йоркширски териер.</YorkshireTerrier_Meat.description>
+  <YorkshireTerrier_Corpse.label>Мъртъв йоркширски териер</YorkshireTerrier_Corpse.label>
+  <YorkshireTerrier_Corpse.description>Труп на убит йоркширски териер.</YorkshireTerrier_Corpse.description>
+
+  <Husky.label>Хъски</Husky.label>
+  <Husky.description>Голямо, любвеобилно куче с тъмна козина което се е пригодило към суров северен климат.</Husky.description>
+  <Husky_Leather.label>Кожа от хъски</Husky_Leather.label>
+  <Husky_Leather.description>Кожата на куче хъски.</Husky_Leather.description>
+  <Husky_Leather.stuffProps.stuffAdjective>от кожа на хъски</Husky_Leather.stuffProps.stuffAdjective>
+  <Husky_Meat.label>Месо от хъски</Husky_Meat.label>
+  <Husky_Meat.description>Месото на заколено хъски.</Husky_Meat.description>
+  <Husky_Corpse.label>Мъртво хъски</Husky_Corpse.label>
+  <Husky_Corpse.description>Труп на убито хъски.</Husky_Corpse.description>
+
+  <LabradorRetriever.label>Лабрадор</LabradorRetriever.label>
+  <LabradorRetriever.description>Многостранно надарено куче, което се е използвало при лов на птици, а сега е класически пазач и приятел на много семейства.</LabradorRetriever.description>
+  <LabradorRetriever_Leather.label>Кожа от лабрадор</LabradorRetriever_Leather.label>
+  <LabradorRetriever_Leather.description>Кожата на лабрадор.</LabradorRetriever_Leather.description>
+  <LabradorRetriever_Leather.stuffProps.stuffAdjective>от кожа на лабрадор</LabradorRetriever_Leather.stuffProps.stuffAdjective>
+  <LabradorRetriever_Meat.label>Месо от лабрадор</LabradorRetriever_Meat.label>
+  <LabradorRetriever_Meat.description>Месо на заколен лабрадор.</LabradorRetriever_Meat.description>
+  <LabradorRetriever_Corpse.label>Мъртъв лабрадор</LabradorRetriever_Corpse.label>
+  <LabradorRetriever_Corpse.description>Труп на убит лабрадор.</LabradorRetriever_Corpse.description>
+
+  <Cat.label>Котка</Cat.label>
+  <Cat.description>Един от първите питомни бозайници поради меката и приятна за гладене козина, котките са изолирани същества, които предпочитат уединението.</Cat.description>
+  <Cat_Leather.label>Кожа от котка</Cat_Leather.label>
+  <Cat_Leather.description>Кожата на котка.</Cat_Leather.description>
+  <Cat_Meat.label>Котешко месо</Cat_Meat.label>
+  <Cat_Meat.description>Месо от заколена котка.</Cat_Meat.description>
+  <Cat_Corpse.label>Мъртва котка</Cat_Corpse.label>
+  <Cat_Corpse.description>Труп на убита котка.</Cat_Corpse.description>
+
+</LanguageData>

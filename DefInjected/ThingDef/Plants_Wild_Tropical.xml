@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Wild plants - carpets -->
+
+  <PlantTallGrass.label>Висока трева</PlantTallGrass.label>
+  <PlantTallGrass.description>Дива, висока трева, която забавя преидвижването на хората.</PlantTallGrass.description>
+
+  <!-- Wild - Trees -->
+
+  <PlantTreeTeak.label>Тис</PlantTreeTeak.label>
+  <PlantTreeTeak.description>Тисово дърво с изключително здрава дървесина, от което са се правили антични кораби.</PlantTreeTeak.description>
+
+  <PlantTreeCecropia.label>Цекропия</PlantTreeCecropia.label>
+  <PlantTreeCecropia.description>Най-разпространеното дърво в тропическите гори, което расте бързо, но не дава много дървесина.</PlantTreeCecropia.description>
+
+</LanguageData>

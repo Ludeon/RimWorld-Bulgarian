@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Mechanoids -->
+
+  <Mechanoid_Centipede.label>Гъсеница</Mechanoid_Centipede.label>
+  <Mechanoid_Centipede.description>Тежка бойна механична гъсеница, задвижвана от дузини малки крака, носеща тежка броня и въоръжение за далечен бой, което я прави уязвина на атаки стил удряш и бягаш.</Mechanoid_Centipede.description>
+  <Mechanoid_Centipede_Corpse.label>Мъртва гъсеница</Mechanoid_Centipede_Corpse.label>
+  <Mechanoid_Centipede_Corpse.description>Неактивна бойна механична гъсеница.</Mechanoid_Centipede_Corpse.description>
+
+  <Mechanoid_Scyther.label>Косач</Mechanoid_Scyther.label>
+  <Mechanoid_Scyther.description>Бърз и подвижен боен механоид тип Косач, който носи опасни оръжия както за близък, така и за далечен бой.</Mechanoid_Scyther.description>
+  <Mechanoid_Scyther_Corpse.label>Мъртъв Косач</Mechanoid_Scyther_Corpse.label>
+  <Mechanoid_Scyther_Corpse.description>Неактивен боен механоид тип Косач.</Mechanoid_Scyther_Corpse.description>
+
+  </LanguageData>

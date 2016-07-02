@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Farm animals -->
+
+  <Chicken.label>Кокошка</Chicken.label>
+  <Chicken.description>Най-популярната домашна птица, от която се получават месо и яйца.</Chicken.description>
+  <Chicken_Meat.label>Пилешко месо</Chicken_Meat.label>
+  <Chicken_Meat.description>Месо от заколено пиле.</Chicken_Meat.description>
+  <Chicken_Corpse.label>Мъртва кокошка</Chicken_Corpse.label>
+  <Chicken_Corpse.description>Трупът на убита кокошка.</Chicken_Corpse.description>
+
+  <Pig.label>Прасе</Pig.label>
+  <Pig.description>Прасе е едно от първите всеядни животни, опитомени от хората, от което се получава голямо количество месо и кожа.</Pig.description>
+  <Pig_Leather.label>Кожа от прасе</Pig_Leather.label>
+  <Pig_Leather.description>Кожа на прасе.</Pig_Leather.description>
+  <Pig_Leather.stuffProps.stuffAdjective>от кожа на прасе</Pig_Leather.stuffProps.stuffAdjective>
+  <Pig_Meat.label>Свинско месо</Pig_Meat.label>
+  <Pig_Meat.description>Месо от заколено прасе.</Pig_Meat.description>
+  <Pig_Corpse.label>Мъртво прасе</Pig_Corpse.label>
+  <Pig_Corpse.description>Труп на убито прасе.</Pig_Corpse.description>
+
+  <Cow.label>Крава</Cow.label>
+  <Cow.description>Популярно домашно животно, от което се получават големи количества мляко и месо.</Cow.description>
+  <Cow_Leather.label>Кожа от крава</Cow_Leather.label>
+  <Cow_Leather.description>Кравешка кожа.</Cow_Leather.description>
+  <Cow_Leather.stuffProps.stuffAdjective>от кожа на крава</Cow_Leather.stuffProps.stuffAdjective>
+  <Cow_Meat.label>Говеждо месо</Cow_Meat.label>
+  <Cow_Meat.description>Месо от заколено говедо.</Cow_Meat.description>
+  <Cow_Corpse.label>Мъртва крава</Cow_Corpse.label>
+  <Cow_Corpse.description>Труп на убита крава.</Cow_Corpse.description>
+
+  <Alpaca.label>Алпака</Alpaca.label>
+  <Alpaca.description>Средноголям копитен бозайник, близък по род на ламата, от който се добива изключително мека вълна.</Alpaca.description>
+  <Alpaca_Leather.label>Кожа от алпака</Alpaca_Leather.label>
+  <Alpaca_Leather.description>Кожа на алпака.</Alpaca_Leather.description>
+  <Alpaca_Leather.stuffProps.stuffAdjective>от кожа на алпака</Alpaca_Leather.stuffProps.stuffAdjective>
+  <Alpaca_Meat.label>Месо от алпака</Alpaca_Meat.label>
+  <Alpaca_Meat.description>Месо от заколена алпака.</Alpaca_Meat.description>
+  <Alpaca_Corpse.label>Мъртва алпака</Alpaca_Corpse.label>
+  <Alpaca_Corpse.description>Труп на убита алпака.</Alpaca_Corpse.description>
+
+</LanguageData>

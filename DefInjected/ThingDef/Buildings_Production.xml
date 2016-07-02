@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CraftingSpot.label>Работно място</CraftingSpot.label>
+  <CraftingSpot.description>Място, на което могат да бъдат произвеждани примитивни оръжия като остриета и лъкове.</CraftingSpot.description>
+
+  <NutrientPasteDispenser.label>Разпределитез за храна</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>Синтезира хранителна паста от сурова храна. Изисква по-малко съставки, но никой не я обича. Използва сурова храна, с изкл. на животинска, като напр. сено.</NutrientPasteDispenser.description>
+
+  <Hopper.label>Табло за храна</Hopper.label>
+  <Hopper.description>Съдържа сурова храна, която се предава на разпределител за храна.</Hopper.description>
+
+  <!-- Work tables -->
+
+  <TableButcher.label>Маса за колене</TableButcher.label>
+  <TableButcher.description>Тежка маса, която е използва за колене на трупове и извличане на кожа и сурово месо.</TableButcher.description>
+
+  <ElectricTailoringBench.label>Шивачна машина</ElectricTailoringBench.label>
+  <ElectricTailoringBench.description>Маса с приодена към нея електрическа шивачна машина за бързо произвеждане на дрехи. Може да работи без енергия, но само с 40% от капацитета си.</ElectricTailoringBench.description>
+
+  <HandTailoringBench.label>Стан</HandTailoringBench.label>
+  <HandTailoringBench.description>Стан за ръчно изработване на дрехи. Работи с 40% от капацитета на електрическа шевна машина.</HandTailoringBench.description>
+
+  <ElectricSmithy.label>Ковачница (електр.)</ElectricSmithy.label>
+  <ElectricSmithy.description>Ковачница с електрическо захранване за изработване на различни предмети и оръжия.</ElectricSmithy.description>
+
+  <FueledSmithy.label>Ковачница (огън)</FueledSmithy.label>
+  <FueledSmithy.description>Ковачница, в която се кове с помощта на огън за изработване на различни предмети и оръжия. Трябва да се зарежда ръчно с дървесина за да работи.</FueledSmithy.description>
+
+  <TableSculpting.label>Маса за скулптури</TableSculpting.label>
+  <TableSculpting.description>Маса, позволява на творците да изработват скулптури.</TableSculpting.description>
+
+  <TableMachining.label>Маса на механика</TableMachining.label>
+  <TableMachining.description>Маса, на която могат да бъдат изработвани машини и оръжия, или да бъдат разглобявани механоиди.</TableMachining.description>
+
+  <ElectricStove.label>Електрическа печка</ElectricStove.label>
+  <ElectricStove.description>Електрическа печка, която се използва за приготвяне на ястия.</ElectricStove.description>
+
+  <FueledStove.label>Печка на огън</FueledStove.label>
+  <FueledStove.description>Обикновена печка, на която се приготвят ястия и се нуждае от дървесина за да работи.</FueledStove.description>
+
+  <TableStonecutter.label>Маса за дялане</TableStonecutter.label>
+  <TableStonecutter.description>Маса, на която безполезни скали и камъни могат да се преработват в строителни блокове.</TableStonecutter.description>
+
+  <Brewery.label>Пивоварна</Brewery.label>
+  <Brewery.description>Работно място, което има всичко необходимо за приготвяне на различни видове алкохол.</Brewery.description>
+
+  <ElectricSmelter.label>Пещ (електр.)</ElectricSmelter.label>
+  <ElectricSmelter.description>Извлича метал от парчета шлака или метални предмети чрез топлина и силни електромагнити. Изисква много електроенергия.</ElectricSmelter.description>
+
+  <ComponentAssemblyBench.label>Маса за компоненти</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.description>Работна маса за изработването на различни компоненти за строеж или поправка на обекти.</ComponentAssemblyBench.description>
+
+  <!-- Non-standard work buildings -->
+  
+  <SimpleResearchBench.label>Обикновена лаборатория</SimpleResearchBench.label>
+  <SimpleResearchBench.description>Обикновена работна маса с пособия за писане и нискотенологични уреди. Използва се за проучване на нови технологии от заселниците.</SimpleResearchBench.description>
+
+  <HiTechResearchBench.label>Високотехнологична лаборатория</HiTechResearchBench.label>
+  <HiTechResearchBench.description>Високотехнологична лабораторна маса с електронно оборудване, чрез която заселниците могат да проучват напреднали технологии. Увеличава скоростта на проучване и изисква електроенергия.</HiTechResearchBench.description>
+
+  <ElectricCrematorium.label>Крематориум (електр.)</ElectricCrematorium.label>
+  <ElectricCrematorium.description>За изгаряне на трупове и непотребни вещи, като напр. стари дрехи. Изисква електроенергия.</ElectricCrematorium.description>
+
+  <!-- Hydroponics -->
+
+  <HydroponicsBasin.label>Хидропонна ферма</HydroponicsBasin.label>
+  <HydroponicsBasin.description>Хидропонната ферма позволява растежа на различни хранителни култури под покриви на постройки или пещери. Изисква електроенергия за да работи и при прекъсване на електроенергията растенията умират.</HydroponicsBasin.description>
+
+</LanguageData>

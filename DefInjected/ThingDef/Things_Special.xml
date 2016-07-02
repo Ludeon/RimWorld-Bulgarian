@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <RectTrigger.label>Квадратен шалтер</RectTrigger.label>
+  <RectTrigger.description>Шалтер с квадратна форма.</RectTrigger.description>
+
+  <Puddle_Fuel.label>Локва от гориво</Puddle_Fuel.label>
+  <Puddle_Fuel.description>Лесно запалима горивна течност.</Puddle_Fuel.description>
+
+  <DropPodIncoming.label>Спасителна капсула (падаща)</DropPodIncoming.label>
+
+  <DropPod.label>Спасителна капсула</DropPod.label>
+
+  <Fire.label>Огън</Fire.label>
+
+  <Spark.label>Искра</Spark.label>
+
+</LanguageData>

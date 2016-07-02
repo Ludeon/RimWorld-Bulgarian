@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SculptureSmall.label>Скулптура (малка)</SculptureSmall.label>
+  <SculptureSmall.description>Малко произведение на изкуството във формата на скулптура.</SculptureSmall.description>
+
+  <SculptureLarge.label>Скулптура (голяма)</SculptureLarge.label>
+  <SculptureLarge.description>Произведение на изкуството високо колкото човек.</SculptureLarge.description>
+
+  <SculptureGrand.label>Скулптура (огромна)</SculptureGrand.label>
+  <SculptureGrand.description>Огромно произведение на изкуството.</SculptureGrand.description>
+
+  <Snowman.label>Снежен човек</Snowman.label>
+  <Snowman.description>Две или три големи снежни топки, поставени една върху друга, наподобяващи човек.</Snowman.description>
+
+</LanguageData>

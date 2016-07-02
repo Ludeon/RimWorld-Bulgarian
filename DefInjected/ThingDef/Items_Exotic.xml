@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- AI persona core -->
+
+  <AIPersonaCore.label>Процесор с изкуствен интелект</AIPersonaCore.label>
+  <AIPersonaCore.description>Високотехнологичен компютърен процесор, който съдържа в себе си изкуствен интелект. Неактивен до включване.</AIPersonaCore.description>
+
+  <!-- Neurotrainer -->
+
+  <Neurotrainer.label>Невротренажор</Neurotrainer.label>
+  <Neurotrainer.description>Нанотехнологичен невротренажор за еднократно ползване, който се имплантира в тялото и повишава дадено умение на собственика си.</Neurotrainer.description>
+
+  <!-- Thrumbo horn -->
+
+  <ThrumboHorn.label>Рог на тръмбо</ThrumboHorn.label>
+  <ThrumboHorn.description>Остър рог от убито тръмбо, който може да се използва като оръжие или продаде за солидна сума като трофей.</ThrumboHorn.description>
+
+  <!-- Elephant tusk -->
+
+  <ElephantTusk.label>Бивник</ElephantTusk.label>
+  <ElephantTusk.description>Бивник от слон. Издръжлив и скъп. може да се използва и като оръжие.</ElephantTusk.description>
+
+</LanguageData>

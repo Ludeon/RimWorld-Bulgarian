@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Apparel_Pants.label>Панталон</Apparel_Pants.label>
+  <Apparel_Pants.description>Обикновен панталон.</Apparel_Pants.description>
+
+  <Apparel_BasicShirt.label>Риза</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.description>Обикновена риза.</Apparel_BasicShirt.description>
+
+  <Apparel_CollarShirt.label>Риза с яка</Apparel_CollarShirt.label>
+  <Apparel_CollarShirt.description>Добре изглеждаща риза с копчета и яка.</Apparel_CollarShirt.description>
+
+  <Apparel_Duster.label>Палто</Apparel_Duster.label>
+  <Apparel_Duster.description>Дълго палто, предпазващо от слънце и прах.</Apparel_Duster.description>
+
+  <Apparel_Jacket.label>Яке</Apparel_Jacket.label>
+  <Apparel_Jacket.description>Дебело яке, предпазващо както от студа, така и от драскотили или ожулвания.</Apparel_Jacket.description>
+
+  <Apparel_Parka.label>Анорак</Apparel_Parka.label>
+  <Apparel_Parka.description>Дебел анорак, предпазващ от силен студ.</Apparel_Parka.description>
+
+  <Apparel_TribalA.label>Племенна дреха</Apparel_TribalA.label>
+  <Apparel_TribalA.description>Дреха, изработена с примитивни средства.</Apparel_TribalA.description>
+
+  <!-- Stuff-less apparel -->
+
+  <Apparel_VestPlate.label>Бронежилетка</Apparel_VestPlate.label>
+  <Apparel_VestPlate.description>Бронежилетка изработена от слоеве метал, която предпазва от куршуми.</Apparel_VestPlate.description>
+
+  <Apparel_PowerArmor.label>Енергийна броня</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.description>Енергийно заредена броня, използвана основно от щурмови войници.</Apparel_PowerArmor.description>
+
+</LanguageData>

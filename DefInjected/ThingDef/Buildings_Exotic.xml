@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CrashedPsychicEmanatorShipPart.label>Паднала част от космически кораб</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.description>Част от мистериозен космически кораб. Може да съдържа екзотични материали, компютри или дори изкуствен интелект. Внимание: тази технологя може да бъде опасна!</CrashedPsychicEmanatorShipPart.description>
+
+  <CrashedPoisonShipPart.label>Отровна част от космически кораб</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.description>Част от мистериозен космически кораб. Може да съдържа екзотични материали, компютри или дори изкуствен интелект. Внимание: слузта, изтичаща от нея отравя почвата наоколо!</CrashedPoisonShipPart.description>
+
+  <ShipChunk.label>Парче от космически кораб</ShipChunk.label>
+  <ShipChunk.description>Малка част от космически кораб. Може да бъде разглобена за извличане на полезни ресурси като метал и компоненти.</ShipChunk.description>
+
+</LanguageData>

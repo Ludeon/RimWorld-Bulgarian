@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <HorseshoesPin.label>Пръчка за игра на подкови</HorseshoesPin.label>
+  <HorseshoesPin.description>Проста и древна игра, в която играчите хвърлят подкови от разстояние към пръчка, забита в земята. Тази игра радва хората и тренира координацията между око и ръка.</HorseshoesPin.description>
+
+  <ChessTable.label>Маса за шах</ChessTable.label>
+  <ChessTable.description>Древна игра на кралете, която носи радост на хората, дори и да играят сами.</ChessTable.description>
+
+  <BilliardsTable.label>Билярдна маса</BilliardsTable.label>
+  <BilliardsTable.description>Маса с меко покритие за игра на различни стилове билярд.</BilliardsTable.description>
+
+  <TubeTelevision.label>Телевизор</TubeTelevision.label>
+  <TubeTelevision.description>Катоден телевизор, способен на картина и звук. Дори и на тази планета има хора, които излъчват нещо интересно.</TubeTelevision.description>
+
+  <FlatscreenTelevision.label>Плоскоекранен телевизор</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>Високотехнологичен телевизор с плосък екран и кристална картина и звук. Носи повече радост на хората от обикновения катоден телевизор.</FlatscreenTelevision.description>
+
+  <MegascreenTelevision.label>Мегателевизор</MegascreenTelevision.label>
+  <MegascreenTelevision.description>Огромен високотехнологичен телевизор с идеална картина и звук. Носи повече радост на хората от останалите видове телевизори.</MegascreenTelevision.description>
+
+  <Telescope.label>Телескоп</Telescope.label>
+  <Telescope.description>Телескоп за аматьора астроном. За някои хора това е отличен начин за прекарване на свободното време и носи много радост.</Telescope.description>
+
+</LanguageData>

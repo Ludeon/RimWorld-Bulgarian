@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Humanoid -->
+
+  <Human.label>Човек</Human.label>
+  <Human.description>Средностатистически човек, почти непроменен от генетичните адаптации и еболюционните процеси на различни планети.</Human.description>
+  <Human_Leather.label>Кожа от човек</Human_Leather.label>
+  <Human_Leather.description>Човешка кожа.</Human_Leather.description>
+  <Human_Leather.stuffProps.stuffAdjective>от кожа на човек</Human_Leather.stuffProps.stuffAdjective>
+  <Human_Meat.label>Месо от човек</Human_Meat.label>
+  <Human_Meat.description>Месо от заколен човек.</Human_Meat.description>
+  <Human_Corpse.label>Мъртъв човек</Human_Corpse.label>
+  <Human_Corpse.description>Труп на убит човек.</Human_Corpse.description>
+
+</LanguageData>

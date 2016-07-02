@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Beds -->
+
+  <SleepingSpot.label>Място за спане</SleepingSpot.label>
+  <SleepingSpot.description>Определя място за спане на земята, на което да спях хора. Не е никак удобно.</SleepingSpot.description>
+
+  <Bed.label>Легло</Bed.label>
+  <Bed.description>Удобно легло на крака с матрак, добро място за почивка.</Bed.description>
+
+  <DoubleBed.label>Двойно легло</DoubleBed.label>
+  <DoubleBed.description>Обикновено легло с място за двама души.</DoubleBed.description>
+
+  <RoyalBed.label>Кралско легло</RoyalBed.label>
+  <RoyalBed.description>Луксозно легло със златни кантове за двама души, което е много удобно и красиво. Само за благородници.</RoyalBed.description>
+
+  <HospitalBed.label>Болнично легло</HospitalBed.label>
+  <HospitalBed.description>Легло, специално определено за обгрижване на болни хора. Увеличава шанса за успешна медицинска намеса.</HospitalBed.description>
+
+  <!-- Animal beds -->
+
+  <AnimalSleepingSpot.label>Място за спане (животни)</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Определя място за спане на земята, на което да спят животни.</AnimalSleepingSpot.description>
+
+  <AnimalSleepingBox.label>Колиба (животни)</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>Малка колиба, в която могат да спят малки животни, като напр. котки и кучета.</AnimalSleepingBox.description>
+
+  <AnimalBed.label>Легло за животни</AnimalBed.label>
+  <AnimalBed.description>Меко легло, на което могат да спят всякакви животни.</AnimalBed.description>
+
+  <!-- Basic domestic furniture -->
+
+  <Stool.label>Табуретка</Stool.label>
+  <Stool.description>Обикновена табуретка за сядане.</Stool.description>
+
+  <DiningChair.label>Стол</DiningChair.label>
+  <DiningChair.description>Красив и комфортен стоп.</DiningChair.description>
+
+  <Armchair.label>Кресло</Armchair.label>
+  <Armchair.description>Голямо, меко и удобно кресло. Идеално за релаксация.</Armchair.description>
+
+  <!-- Table base -->
+  <TableShort.label>Маса (малка)</TableShort.label>
+  <TableShort.description>Малка маса за ядене, която се използва когато около нея има столове.</TableShort.description>
+
+  <TableLong.label>Маса (голяма)</TableLong.label>
+  <TableLong.description>Голяма маса за ядене, която се използва когато около нея има столове.</TableLong.description>
+
+  <PlantPot.label>Саксия</PlantPot.label>
+  <PlantPot.description>Саксия, в която могат да бъдат засети цветя с цел подобряването на настроението на хората.</PlantPot.description>
+  
+  
+  <!-- Lighting -->
+
+  <StandingLamp.label>Лампион</StandingLamp.label>
+  <StandingLamp.description>Лампион за осветяване на помещението.</StandingLamp.description>
+
+  <StandingLamp_Red.label>Лампион (червен)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>Лампион, който осветява помещението в червено.</StandingLamp_Red.description>
+
+  <StandingLamp_Green.label>Лампион (зелен)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>Лампион, който осветява помещението в зелено.</StandingLamp_Green.description>
+
+  <StandingLamp_Blue.label>Лампион (син)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>Лампион, който осветява помещението в синьо.</StandingLamp_Blue.description>
+
+  <!-- Storage -->
+
+  <EquipmentRack.label>Рафт</EquipmentRack.label>
+  <EquipmentRack.description>Екипировка, поставена на рафт под покрив няма да се развали толкова бързо, отколкото на земята или на открито.</EquipmentRack.description>
+
+</LanguageData>

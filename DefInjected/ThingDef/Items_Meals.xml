@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MealSurvivalPack.label>Спешна дажба</MealSurvivalPack.label>
+  <MealSurvivalPack.description>Качествено пресовано ядене за спешни случаи.</MealSurvivalPack.description>
+
+  <MealNutrientPaste.label>Хранителна паста</MealNutrientPaste.label>
+  <MealNutrientPaste.description>Синтетична смесица от протеини, винамини, въглехидрати, аминокиселини и минерали, т.е. всичко от което се нуждае тялото - но също така с неприятен вкус.</MealNutrientPaste.description>
+
+  <MealSimple.label>Обикновено ястие</MealSimple.label>
+  <MealSimple.description>Обикновено ястие, бързо приготвено от една съставка.</MealSimple.description>
+
+  <MealFine.label>Вкусно ястие</MealFine.label>
+  <MealFine.description>Ястие, приготвено от няколко хранителни сътавки.</MealFine.description>
+
+  <MealLavish.label>Обилно ястие</MealLavish.label>
+  <MealLavish.description>Майсторски приготвено ястие от множество хранителни съставки, което не само нахранва, но и радва.</MealLavish.description>
+
+</LanguageData>

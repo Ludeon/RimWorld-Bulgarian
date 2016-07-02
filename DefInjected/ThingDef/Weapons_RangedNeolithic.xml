@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- SPECIFICS -->
+
+  <Arrow_Short.label>Стрела</Arrow_Short.label>
+  <Bow_Short.label>Къс лък</Bow_Short.label>
+  <Bow_Short.description>обикновен къс лък, използван от древни времена, изстрелваш стрели на близко разстояние.</Bow_Short.description>
+
+  <Pilum_Thrown.label>Атлатъл</Pilum_Thrown.label>
+  <Pila.label>Атлатъл</Pila.label>
+  <Pila.description>Колчан от много метателни копия.</Pila.description>
+
+  <Arrow_Great.label>Стрела</Arrow_Great.label>
+  <Bow_Great.label>Английски лък</Bow_Great.label>
+  <Bow_Great.description>Здрав и голям лък за изстрелване на стрели на дълги разстояния.</Bow_Great.description>
+
+</LanguageData>

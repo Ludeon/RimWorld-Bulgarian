@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Incendiary mortar -->
+
+  <Bullet_MortarIncendiary.label>Запалителен боеприпас</Bullet_MortarIncendiary.label>
+  <Artillery_MortarIncendiary.label>Гаубица (зап.)</Artillery_MortarIncendiary.label>
+  <Artillery_MortarIncendiary.description>Гаубица, изстрелваща запалителни снаряди. Снарядите могат да преминават над стени и поразяват по-голям район от картата, но не са особено точни.</Artillery_MortarIncendiary.description>
+
+  <!-- Bomb mortar -->
+
+  <Bullet_MortarBomb.label>Взривителен боеприпас</Bullet_MortarBomb.label>
+  <Artillery_MortarBomb.label>Гаубица</Artillery_MortarBomb.label>
+  <Artillery_MortarBomb.description>Гаубица, изстрелваща взривяващи се снаряди. Снарядите могат да преминават над стени и поразяват по-голям район от картата, но не са особено точни.</Artillery_MortarBomb.description>
+
+  <!-- EMP mortar -->
+
+  <Bullet_MortarEMP.label>ЕМП-боеприпас</Bullet_MortarEMP.label>
+  <Artillery_MortarEMP.label>Гаубица (ЕМП)</Artillery_MortarEMP.label>
+  <Artillery_MortarEMP.description>Гаубица изстрелваща снаряди с електромагнитен пулс, който разрушава щитове и поразява механоиди. Снарядите могат да преминават над стени и поразяват по-голям район от картата, но не са особено точни.</Artillery_MortarEMP.description>
+
+</LanguageData>

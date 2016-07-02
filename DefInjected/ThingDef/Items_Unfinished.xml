@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- Unfinished things -->
+
+  <UnfinishedSculpture.label>Недовършена скулптура</UnfinishedSculpture.label>
+  <UnfinishedGun.label>Недовършено огнестрелно оръжие</UnfinishedGun.label>
+  <UnfinishedWeapon.label>Недовършено оръжие</UnfinishedWeapon.label>
+  <UnfinishedTechArmor.label>Недовършена броня</UnfinishedTechArmor.label>
+  <UnfinishedApparel.label>Недовършена дреха</UnfinishedApparel.label>
+
+  <!-- Minified things -->
+
+  <MinifiedSculpture.label>Умалена скулптура</MinifiedSculpture.label>
+  <MinifiedFurniture.label>Умалена мебел</MinifiedFurniture.label>
+  <!-- <MinifiedCapsuleReactor.label>Kapselreaktor</MinifiedCapsuleReactor.label> -->
+
+</LanguageData>

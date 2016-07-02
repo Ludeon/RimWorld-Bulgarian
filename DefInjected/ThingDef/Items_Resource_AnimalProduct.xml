@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Kibble -->
+
+  <Kibble.label>Суха храна за животни</Kibble.label>
+  <Kibble.description>Суха храна за животни, приготвена от смеване на различни меса и растителни храни.</Kibble.description>
+
+  <!-- Milk -->
+
+  <Milk.label>Мляко</Milk.label>
+  <Milk.description>Животинско мляко.</Milk.description>
+
+  <!-- Eggs -->
+
+  <EggChickenUnfertilized.label>Кокоше яйце (неопл.)</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.description>Неоплодено кокоше яйце. Може да се консумира сурово, но е по-полезно готвено.</EggChickenUnfertilized.description>
+
+  <EggChickenFertilized.label>Кокоше яйце (опл.)</EggChickenFertilized.label>
+  <EggChickenFertilized.description>Оплодено кокоше яйце, от което може да се излюпи пиле. Може да се консумира сурово, но е по-полезно готвено.</EggChickenFertilized.description>
+
+  <EggCobraFertilized.label>Яйце от кобра (опл.)</EggCobraFertilized.label>
+  <EggCobraFertilized.description>Оплодено яйце от кобра, от което може да се излюпи млада кобра. Може да се консумира сурово, но е по-полезно готвено.</EggCobraFertilized.description>
+
+  <EggIguanaFertilized.label>Яйце от игуана (опл.)</EggIguanaFertilized.label>
+  <EggIguanaFertilized.description>Оплодено яйце от игуана, от което може да се излюпи млада игуана. Може да се консумира сурово, но е по-полезно готвено.</EggIguanaFertilized.description>
+
+  <EggTortoiseFertilized.label>Яйце от костенурка (опл.)</EggTortoiseFertilized.label>
+  <EggTortoiseFertilized.description>Оплодено яйце пт костенурка, от което може да се излюпи малко костенурче. Може да се консумира сурово, но е по-полезно готвено.</EggTortoiseFertilized.description>
+  
+  <!-- Insect jelly -->
+
+  <InsectJelly.label>Желе на насекомо</InsectJelly.label>
+  <InsectJelly.description>Желе от насекомо, което е много сладко, питателно, може да нахрани всяко създание и не се разваля.</InsectJelly.description>
+  
+
+</LanguageData>

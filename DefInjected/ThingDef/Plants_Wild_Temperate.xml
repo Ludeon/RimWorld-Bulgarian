@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Wild - clustering bushes (some harvestable) -->
+
+  <PlantRaspberry.label>Малина</PlantRaspberry.label>
+  <PlantRaspberry.description>Храст с вкусни червени малини.</PlantRaspberry.description>
+
+  <PlantBush.label>Храст</PlantBush.label>
+  <PlantBush.description>Нисък храст.</PlantBush.description>
+
+  <!-- Wild plants - carpets -->
+
+  <PlantGrass.label>Трева</PlantGrass.label>
+  <PlantGrass.description>Дива трева, която се нуждае от малко светлина и хранителни вещества за да се развива.</PlantGrass.description>
+
+  <PlantDandelion.label>Глухарче</PlantDandelion.label>
+  <PlantDandelion.description>Красиво ниско растение.</PlantDandelion.description>
+
+  <PlantAstragalus.label>Астрагал</PlantAstragalus.label>
+  <PlantAstragalus.description>Познат още като кликавче, представлява ниско диво растение, което се развива в алпийските региони.</PlantAstragalus.description>
+
+  <PlantMoss.label>Мъх</PlantMoss.label>
+  <PlantMoss.description>Див мъх, който расте в райони с малко светлина, но висока влажност и е много устойчив на студ.</PlantMoss.description>
+
+  <!-- Wild - Trees -->
+
+  <PlantTreeOak.label>Дъб</PlantTreeOak.label>
+  <PlantTreeOak.description>Здраво дърво с твърда дървесина, което расте бавно.</PlantTreeOak.description>
+
+  <PlantTreePoplar.label>Топола</PlantTreePoplar.label>
+  <PlantTreePoplar.description>Дърво с мека дървесина, което расте бързо.</PlantTreePoplar.description>
+
+  <PlantTreePine.label>Бор</PlantTreePine.label>
+  <PlantTreePine.description>Високо иглолистно дърво.</PlantTreePine.description>
+
+  <PlantTreeBirch.label>Бреза</PlantTreeBirch.label>
+  <PlantTreeBirch.description>Северно тънко дърво.</PlantTreeBirch.description>
+
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Heart.label>Сърце</Heart.label>
+  <Heart.description>Снабдява с кръв тялото. Готово за трансплантация.</Heart.description>
+
+  <Lung.label>Бял дроб</Lung.label>
+  <Lung.description>Спомага дишането.</Lung.description>
+
+  <Kidney.label>Бъбрек</Kidney.label>
+  <Kidney.description>Филтрира и премахва вредни части от кръвта.</Kidney.description>
+
+  <Liver.label>Черен дроб</Liver.label>
+  <Liver.description>Играе критична роля в обмяната на веществата на тялото.</Liver.description>
+
+  <!-- artificial - simple prosthetics -->
+
+  <SimpleProstheticLeg.label>Протеза за крак</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Проста протеза, която може да замести липсващ крак. Не е особено удобна, но е ефективна.</SimpleProstheticLeg.description>
+
+  <SimpleProstheticArm.label>Протеза за ръка</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>Обикновена, но ефективна протеза за ръка.</SimpleProstheticArm.description>
+
+  <!-- artificial - bionics -->
+
+  <BionicEye.label>Бионично око</BionicEye.label>
+  <BionicEye.description>Високотехнологично око, което замества човешкото и дава на собственика си повишена острота на зрението.</BionicEye.description>
+
+  <BionicArm.label>Бионична ръка</BionicArm.label>
+  <BionicArm.description>Високотехнологична ръка, която замества човешката и дарява собственика си с извънредна сила.</BionicArm.description>
+
+  <BionicLeg.label>Бионичен крак</BionicLeg.label>
+  <BionicLeg.description>Високотехнологичен крак, който замества човешкия и дарява собственика си с по-висока скорост на движение и сила.</BionicLeg.description>
+
+  <PowerClaw.label>Енергиен нокът</PowerClaw.label>
+  <PowerClaw.description>Смъртоносен заместител на човешката ръка, състоящ се от три остри енергийни нокъта.</PowerClaw.description>
+
+  <ScytherBlade.label>Острие на Косач</ScytherBlade.label>
+  <ScytherBlade.description>Смъртоносен заместител на ръка, направен от острие на убит Косач. Не е особено удобно, но е ефективно оръжие за близък бой.</ScytherBlade.description>
+
+</LanguageData>

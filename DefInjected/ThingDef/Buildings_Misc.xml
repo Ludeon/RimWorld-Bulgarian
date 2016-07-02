@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SunLamp.label>Слънчева лампа</SunLamp.label>
+  <SunLamp.description>Осветява силно дадена зона и ползволява на растенията да растат около нея.</SunLamp.description>
+
+  <OrbitalTradeBeacon.label>Орбитален търговски пост</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.description>Необходим за търговия с космически кораби.\nМожеш да продаваш само тази стоки, които са в обсега на склада на търговския пост. Може да се постави и под покрив.</OrbitalTradeBeacon.description>
+
+  <CommsConsole.label>Комуникационна конзола</CommsConsole.label>
+  <CommsConsole.description>Позволява контакт с минаващи космически кораби и останалите фракции на планетата.</CommsConsole.description>
+
+  <!-- Passive equipment -->
+
+  <MultiAnalyzer.label>Мултианализатор</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Увеличава скоростта на проучване и е необходим за изследване на най-сложните проекти. Всяка маса за проучване може да има само един мултианализатор поставен до нея.</MultiAnalyzer.description>
+
+  <VitalsMonitor.label>Монитор (мед.)</VitalsMonitor.label>
+  <VitalsMonitor.description>Медицински монитор на жизнените показатели, който увеличава шанса за успешно обгрижване на пациент. Трябва да бъде поставен в близост до медицинско легло. Всяко медицинско легло може да бъде свързано само с един монитор.</VitalsMonitor.description>
+
+  <ToolCabinet.label>Шкаф за инструменти</ToolCabinet.label>
+  <ToolCabinet.description>Увеличава скоростта на работа. Трябва да бъде поставен в близост до работна маса. Всяка работна маса може да ползва само един шкаф за инструменти.</ToolCabinet.description>
+
+  <FirefoamPopper.label>Противопожарна пяна</FirefoamPopper.label>
+  <FirefoamPopper.description>Разпръсква противопожарна пяна около себе си ако влезе в контакт с огън или бъде ръчно активиран.</FirefoamPopper.description>
+
+  <!-- -->
+
+  <Grave.label>Гроб</Grave.label>
+  <Grave.description>За погребване на починалите. Заселниците ще посещават гробове за удоволствие и повишаване на настроението си.</Grave.description>
+
+  <Sarcophagus.label>Саркофаг</Sarcophagus.label>
+  <Sarcophagus.description>Орнаментиран саркофаг за погребване на почитани мъртъвци.</Sarcophagus.description>
+
+  <!-- Cryptosleep casket -->
+
+  <CryptosleepCasket.label>Ковчег за криптосън</CryptosleepCasket.label>
+  <CryptosleepCasket.description>Самоподдържащ се ковчег, който поставя заселника в състояние на летаргия и забавя стареенето.</CryptosleepCasket.description>
+
+  <MarriageSpot.label>Място за сватба</MarriageSpot.label>
+  <MarriageSpot.description>Определя място на картата, на което да се извършват сватбени церемонии.</MarriageSpot.description>
+
+  <PartySpot.label>Място за парти</PartySpot.label>
+  <PartySpot.description>Определя място на картата, на което да се провеждат партита.</PartySpot.description>
+
+</LanguageData>

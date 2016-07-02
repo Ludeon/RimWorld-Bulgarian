@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Wild - clustering bushes (some harvestable) -->
+
+  <PlantAgave.label>Агаве</PlantAgave.label>
+  <PlantAgave.description>Пустинно растение с големи листа, чиито стъбло и плодове са годни за ядене.</PlantAgave.description>
+
+  <!-- Wild - Cacti -->
+
+  <PlantSaguaroCactus.label>Голям кактус</PlantSaguaroCactus.label>
+  <PlantSaguaroCactus.description>Голям и висок кактус, които расте из най-сухите райони на планетата.</PlantSaguaroCactus.description>
+
+  <PlantPincushionCactus.label>Малък кактус</PlantPincushionCactus.label>
+  <PlantPincushionCactus.description>Малък и нисък кактус, подобаващ на игленик.</PlantPincushionCactus.description>
+
+</LanguageData>

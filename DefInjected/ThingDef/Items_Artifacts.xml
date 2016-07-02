@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <PsychicInsanityLance.label>Психически агитатор</PsychicInsanityLance.label>
+  <PsychicInsanityLance.description>Артефакт за далечно използване, който докарва мишената до безумие и може да се използва дори и през стени.</PsychicInsanityLance.description>
+
+  <PsychicShockLance.label>Психически шок</PsychicShockLance.label>
+  <PsychicShockLance.description>Артефакт за далечно използване, който докарва мишената до състояние на шок и може да се използва дори и през стени. Има голяма опасност от мозъчни травми.</PsychicShockLance.description>
+
+  <PsychicAnimalPulser.label>Психически агитатор (животни)</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.description>Артефакт за далечно използване, който докарва всички животни в района до безумие и ги превръща в човекоядни.</PsychicAnimalPulser.description>
+
+  <PsychicSoothePulser.label>Психически успокоител</PsychicSoothePulser.label>
+  <PsychicSoothePulser.description>Артефакт за далечно използване, който дава временен бонус към настоението на всеки човек.</PsychicSoothePulser.description>
+
+</LanguageData>

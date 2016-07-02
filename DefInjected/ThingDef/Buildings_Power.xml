@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <PowerConduit.label>Кабел</PowerConduit.label>
+  <PowerConduit.description>Електрически кабел, който провежда ток. Може да бъде поставян по стени и под различни предмети.</PowerConduit.description>
+
+  <PowerSwitch.label>Шалтер</PowerSwitch.label>
+  <PowerSwitch.description>Използва се за включване и изключване на достъпа на енергия.</PowerSwitch.description>
+
+  <SolarGenerator.label>Слънчев панел</SolarGenerator.label>
+  <SolarGenerator.description>Произвежда електроенергия от слънчева светлина. Не работи на тъмно.</SolarGenerator.description>
+
+  <GeothermalGenerator.label>Геотермален генератор</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Произвежда електроенергия когато се построи върху актирен парен гейзер.</GeothermalGenerator.description>
+
+  <FueledGenerator.label>Генератор с гориво</FueledGenerator.label>
+  <FueledGenerator.description>Произвежда електроенергия чрез горене на дървесина. Трябва да се зарежда ръчно.</FueledGenerator.description>
+
+  <Battery.label>Батерия</Battery.label>
+  <Battery.description>Запазва излишъка от енергия и се използва да захранва електрическите предмети при недостик. Внимание - заредени батерии, намиращи се на топло или мокро място може да експлодират.</Battery.description>
+
+</LanguageData>

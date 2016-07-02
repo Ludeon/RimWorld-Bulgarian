@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Simple mineables -->
+
+  <CollapsedRocks.label>Паднали скали</CollapsedRocks.label>
+  <CollapsedRocks.description>Скали, паднали на земята, които все още са в състояние да поддържат покрив.</CollapsedRocks.description>
+
+   <!-- Resource rocks -->
+
+  <MineableSteel.label>Компресирана стомана</MineableSteel.label>
+  <MineableSteel.description>Остатъкът то старинна структура, богата на стомана.</MineableSteel.description>
+
+  <MineableSilver.label>Сребърна жилка</MineableSilver.label>
+  <MineableSilver.description>Скали, които съдържат сребро.</MineableSilver.description>
+
+  <MineableGold.label>Златна жилка</MineableGold.label>
+  <MineableGold.description>Златоносни скали.</MineableGold.description>
+
+  <MineableUranium.label>Уранова жилка</MineableUranium.label>
+  <MineableUranium.description>Скали които съдържат уран.</MineableUranium.description>
+
+  <MineablePlasteel.label>Компресирана пластостомана</MineablePlasteel.label>
+  <MineablePlasteel.description>Остатъкът от стари буклуци, богати на пластостомана.</MineablePlasteel.description>
+
+  <MineableJade.label>Нефрит</MineableJade.label>
+  <MineableJade.description>Скали, съдържащи нефрит.</MineableJade.description>
+
+  <MineableComponents.label>Компоненти</MineableComponents.label>
+  <MineableComponents.description>Остатъкци от древна техника, която може да бъде разглобена на части.</MineableComponents.description>
+
+  <SteamGeyser.label>Гейзер</SteamGeyser.label>
+  <SteamGeyser.description>Натурален парен гейзер</SteamGeyser.description>
+
+  <Hive.label>Кошер</Hive.label>
+  <Hive.description>Кошер на насекоми. Ще се размножава и създав нови кошери с течение на времето.</Hive.description>
+
+</LanguageData>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Cold weather animals -->
+
+  <Squirrel.label>Катерица</Squirrel.label>
+  <Squirrel.description>Гървкав и издръжлив гризач, който следва хората навсякъде.</Squirrel.description>
+  <Squirrel_Leather.label>Кожа от катерица</Squirrel_Leather.label>
+  <Squirrel_Leather.description>Кожа на катерица.</Squirrel_Leather.description>
+  <Squirrel_Meat.label>Месо от катерица</Squirrel_Meat.label>
+  <Squirrel_Meat.description>Месо на заколена катерица.</Squirrel_Meat.description>
+  <Squirrel_Corpse.label>Мъртва катерица</Squirrel_Corpse.label>
+  <Squirrel_Corpse.description>Труп на мъртва катерица.</Squirrel_Corpse.description>
+
+  <Deer.label>Елен</Deer.label>
+  <Deer.description>Средноголям тревопасен стаден бозайник, който е мирен, докато не бъде раздразнен.</Deer.description>
+  <Deer_Leather.label>Кожа от елен</Deer_Leather.label>
+  <Deer_Leather.description>Еленска кожа.</Deer_Leather.description>
+  <Deer_Meat.label>Месо от елен</Deer_Meat.label>
+  <Deer_Meat.description>Месо от заколен елен.</Deer_Meat.description>
+  <Deer_Corpse.label>Мъртъв елен</Deer_Corpse.label>
+  <Deer_Corpse.description>Труп на убит елен.</Deer_Corpse.description>
+
+  <Elk.label>Лос</Elk.label>
+  <Elk.description>Голям представител на семейството на елените, който се е адаптирал към судения климат.</Elk.description>
+  <Elk_Leather.label>Кожа от лос</Elk_Leather.label>
+  <Elk_Leather.description>Кожа на лос.</Elk_Leather.description>
+  <Elk_Meat.label>Месо от лос</Elk_Meat.label>
+  <Elk_Meat.description>Месо от заколен лос.</Elk_Meat.description>
+  <Elk_Corpse.label>Мъртъв лос</Elk_Corpse.label>
+  <Elk_Corpse.description>Труп на убит лос.</Elk_Corpse.description>
+
+  <Alphabeaver.label>Алфа бобър</Alphabeaver.label>
+  <Alphabeaver.description>Генетично модифициран извънредно голям представител на семейството на бобрите, използван за добив на дърва в индустриални мащаби.</Alphabeaver.description>
+  <Alphabeaver_Leather.label>Кожа от алфабобър</Alphabeaver_Leather.label>
+  <Alphabeaver_Leather.description>Кожата на един алфа бобър.</Alphabeaver_Leather.description>
+  <Alphabeaver_Meat.label>Месо от алфа бобър</Alphabeaver_Meat.label>
+  <Alphabeaver_Meat.description>Месо от заколен алфабобър.</Alphabeaver_Meat.description>
+  <Alphabeaver_Corpse.label>Мъртъв алфабобър</Alphabeaver_Corpse.label>
+  <Alphabeaver_Corpse.description>Труп на убит алфабобър.</Alphabeaver_Corpse.description>
+
+  <WildBoar.label>Глиган</WildBoar.label>
+  <WildBoar.description>Див представител на семейството на свините с изграден апетит за месо.</WildBoar.description>
+  <WildBoar_Leather.label>Кожа от глиган</WildBoar_Leather.label>
+  <WildBoar_Leather.description>Кожата на глиган.</WildBoar_Leather.description>
+  <WildBoar_Meat.label>Месо от глиган</WildBoar_Meat.label>
+  <WildBoar_Meat.description>Месо на заколен глиган.</WildBoar_Meat.description>
+  <WildBoar_Corpse.label>Мъртъв глиган</WildBoar_Corpse.label>
+  <WildBoar_Corpse.description>Труп на убит глиган.</WildBoar_Corpse.description>
+
+  <Boomrat.label>Буумплъх</Boomrat.label>
+  <Boomrat.description>Създаден или като военен еьперимент, или природно надарен да експлодира в топка огън при смърт.</Boomrat.description>
+  <Boomrat_Leather.label>Кожа от буумплъх</Boomrat_Leather.label>
+  <Boomrat_Leather.description>Кожата на буумплъх.</Boomrat_Leather.description>
+  <Boomrat_Meat.label>Месо от буумплъх</Boomrat_Meat.label>
+  <Boomrat_Meat.description>Месо на заколен буумплъх.</Boomrat_Meat.description>
+  <Boomrat_Corpse.label>Мъртъв буумплъх</Boomrat_Corpse.label>
+  <Boomrat_Corpse.description>Труп на убит буумплъх.</Boomrat_Corpse.description>
+
+  <Tortoise.label>Костенурка</Tortoise.label>
+  <Tortoise.description>Влечуго със странна походка и дебела коруба, което притежава изключително силна захапка.</Tortoise.description>
+  <Tortoise_Leather.label>Кожа от костенурка</Tortoise_Leather.label>
+  <Tortoise_Leather.description>Кожата на костенурка.</Tortoise_Leather.description>
+  <Tortoise_Meat.label>Месо от костенурка</Tortoise_Meat.label>
+  <Tortoise_Meat.description>Месото на заколена костенурка.</Tortoise_Meat.description>
+  <Tortoise_Corpse.label>Мъртва костенурка</Tortoise_Corpse.label>
+  <Tortoise_Corpse.description>Труп на убита костенурка.</Tortoise_Corpse.description>
+
+  <Thrumbo.label>Тръмбо</Thrumbo.label>
+  <Thrumbo.description>Гигантско животно с изключително ценна кожа и единствен рог, което по природа е тревопасно и мирно - но също така и изключително смъртоносно ако бъде ядосано. Според легендите тръмботата са най-мъдрите създания във вселената.</Thrumbo.description>
+  <Thrumbo_Leather.label>Кожа от тръмбо</Thrumbo_Leather.label>
+  <Thrumbo_Leather.description>Кожата на тръмбо.</Thrumbo_Leather.description>
+  <Thrumbo_Meat.label>Месо от тръмбо</Thrumbo_Meat.label>
+  <Thrumbo_Meat.description>Месото на заколено тръмбо.</Thrumbo_Meat.description>
+  <Thrumbo_Corpse.label>Мъртво тръмбо</Thrumbo_Corpse.label>
+  <Thrumbo_Corpse.description>Труп на убито тръмбо.</Thrumbo_Corpse.description>
+
+</LanguageData>

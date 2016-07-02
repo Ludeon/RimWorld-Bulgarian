@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Sandbags.label>Пясъчен чувал</Sandbags.label>
+  <Sandbags.description>Предлага прикитие при престрелка.</Sandbags.description>
+
+  <TurretGun.label>Огнева кула</TurretGun.label>
+  <TurretGun.description>Импровизирана автоматична огнева кула, която ще обстрелва врагове в обхвата си. Внимание: избухва при поемане на големи щети. Изисква електричество. Изкуственият интелект на кулата е примитиен и не може да я контролира директно, т.е. пазете се от приятелски огън.</TurretGun.description>
+
+  <Turret_MortarBomb.label>Гаубица (снаряди)</Turret_MortarBomb.label>
+  <Turret_MortarBomb.description>Гаубица, която използва експлозивни боеприпаси и се командва директно от заселник. Забележка: избухва при поемане на големи щети.</Turret_MortarBomb.description>
+
+  <Turret_MortarIncendiary.label>Гаубица (запалителни)</Turret_MortarIncendiary.label>
+  <Turret_MortarIncendiary.description>Гаубица, която използва запалителни боеприпаси и се командва директно от заселник. Забележка: избухва при поемане на големи щети.</Turret_MortarIncendiary.description>
+
+  <Turret_MortarEMP.label>Гаубица (ЕМП)</Turret_MortarEMP.label>
+  <Turret_MortarEMP.description>Гаубица, която използва боеприпаси с електромагнитен пулс и се командва директно от заселник. Забележка: избухва при поемане на големи щети.</Turret_MortarEMP.description>
+
+  <TrapDeadfall.label>Падащ капан</TrapDeadfall.label>
+  <TrapDeadfall.description>Свободно висящ капан с чувствителен освободител. Когато жертвата задейства капана, тежестите, които той съдържа ще паднат върху всички, които се намират отдолу.</TrapDeadfall.description>
+
+  <TrapIEDBomb.label>Импровизирана бомба</TrapIEDBomb.label>
+  <TrapIEDBomb.description>Капан, направен от импровизирана бомба със самостоятелен взривител. Експлодира при задействане.</TrapIEDBomb.description>
+
+  <TrapIEDIncendiary.label>Импр. запалителна бомба</TrapIEDIncendiary.label>
+  <TrapIEDIncendiary.description>Капан, направен от импровизирана запалителна бомба със самостоятелен взривител. При задействане бомбата се взривява и разпръсква запалителна течност около себе си.</TrapIEDIncendiary.description>
+
+</LanguageData>

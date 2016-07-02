@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Cold weather animals -->
+
+  <Megascarab.label>Мегаскарабей</Megascarab.label>
+  <Megascarab.description>Голямо, генетично модифицирано насекомо, което е било ползвано за работа и битка от изкуствена екосистема на инсектоидна раса срещу инвазия на механоиди. Те са опасни врагове заради дебелото хитиново покритие и ноктите си.</Megascarab.description>
+  <Megascarab_Meat.label>Месо от скарабей</Megascarab_Meat.label>
+  <Megascarab_Meat.description>Месото на заколен скарабей.</Megascarab_Meat.description>
+  <Megascarab_Corpse.label>Мъртъв мегаскарабей</Megascarab_Corpse.label>
+  <Megascarab_Corpse.description>Труп на убит мегаскарабей.</Megascarab_Corpse.description>
+
+  <Spelopede.label>Скарабей</Spelopede.label>
+  <Spelopede.description>Генетично променено насекомо с размерите на овца, което принадлежи към средната класа на инсектоидна колония, което върши работа и се бие при нужда.</Spelopede.description>
+  <!-- <Spelopede_Leather.label>Höhlenkäferpanzer</Spelopede_Leather.label>
+  <Spelopede_Leather.description>Der Chitinpanzer eines Höhlenkäfers.</Spelopede_Leather.description> -->
+
+  <Spelopede_Meat.label>Месо от скарабей</Spelopede_Meat.label>
+  <Spelopede_Meat.description>Месото на заколен скарабей.</Spelopede_Meat.description>
+  <Spelopede_Corpse.label>Мъртъв скарабей</Spelopede_Corpse.label>
+  <Spelopede_Corpse.description>Труп на убит скарабей.</Spelopede_Corpse.description>
+
+  <Megaspider.label>Мегапаяк</Megaspider.label>
+  <Megaspider.description>Това всъщност е генетично модифицирано насекоме с големината ма мечка, което се използва за тежка работа и е много ефектижно в битка поради дебелото хитиново покритие и остри нокти.</Megaspider.description>
+  <!-- <Megaspider_Leather.label>Riesenspinnenpanzer</Megaspider_Leather.label>
+  <Megaspider_Leather.description>Der Chitinpanzer einer Riesenspinne.</Megaspider_Leather.description> -->
+
+  <Megaspider_Meat.label>Месо от мегапаяк</Megaspider_Meat.label>
+  <Megaspider_Meat.description>Месо от заколен огромен паяк.</Megaspider_Meat.description>
+  <Megaspider_Corpse.label>Мъртъв мегапаяк</Megaspider_Corpse.label>
+  <Megaspider_Corpse.description>Труп на убит мегапаяк.</Megaspider_Corpse.description>
+
+</LanguageData>

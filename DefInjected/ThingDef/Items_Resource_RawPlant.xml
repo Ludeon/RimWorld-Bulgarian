@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Plant products -->
+
+  <Hay.label>Сено</Hay.label>
+  <Hay.description>Сено, което може да се използва за животинска храна, но е негодно за хора.</Hay.description>
+
+  <RawHops.label>Ечемик</RawHops.label>
+  <RawHops.description>Суров ечемик, който се използва за варенето на бира.</RawHops.description>
+
+  <!-- Raw foods -->
+
+  <RawPotatoes.label>Картофи</RawPotatoes.label>
+  <RawPotatoes.description>Сурови картофи.</RawPotatoes.description>
+
+  <RawCorn.label>Царевица</RawCorn.label>
+  <RawCorn.description>Сурова царевица, която може да се консумира директно или готви.</RawCorn.description>
+
+  <RawRice.label>Ориз</RawRice.label>
+  <RawRice.description>Суров ориз.</RawRice.description>
+
+  <RawBerries.label>Горски плодове</RawBerries.label>
+  <RawBerries.description>Разнообразни госки плодове, които могат да се консумират сурови или да се сготвят.</RawBerries.description>
+
+  <RawAgave.label>Агаве</RawAgave.label>
+  <RawAgave.description>Плодове от агаве.</RawAgave.description>
+
+</LanguageData>

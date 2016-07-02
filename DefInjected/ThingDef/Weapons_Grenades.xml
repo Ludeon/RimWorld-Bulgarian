@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Frag grenade -->
+
+  <Weapon_GrenadeFrag.label>Граната</Weapon_GrenadeFrag.label>
+  <Proj_GrenadeFrag.label>Гранати</Proj_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.description>Обикновени взривяващи се гранати, използвани от дълги години.</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.verbs.0.label>Хвърля граната</Weapon_GrenadeFrag.verbs.0.label>
+
+  <!-- Molotov cocktail -->
+
+  <Weapon_GrenadeMolotov.label>Коктейл Молотов</Weapon_GrenadeMolotov.label>
+  <Proj_GrenadeMolotov.label>Коктейл Молотов</Proj_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.description>Бутилка, пълна със запалима течност, в която е набутано горящо парче плат. Популярно оръжие на хулиганите на всяка планета.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.verbs.0.label>Хвърля Коктейл Молотов</Weapon_GrenadeMolotov.verbs.0.label>
+
+  <!-- EMP grenade -->
+
+  <Weapon_GrenadeEMP.label>ЕМП-Граната</Weapon_GrenadeEMP.label>
+  <Proj_GrenadeEMP.label>ЕМП-Граната</Proj_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.description>Граната, която при въривяването си излъчва електромагнитен пулс, който поразява енергийни щитове и зашеметява механоиди.</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.verbs.0.label>Хвърля ЕМП-Граната</Weapon_GrenadeEMP.verbs.0.label>
+
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Pure stuffs: Basics -->
+
+  <Silver.label>Сребро</Silver.label>
+  <Silver.description>Може да се използва за декорация, както и като валута при търговия.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>Сребро</Silver.stuffProps.stuffAdjective>
+
+  <Gold.label>Злато</Gold.label>
+  <Gold.description>Царят на благородните метали. Използва се за декорации и при създаване на различни творби на изкуството.</Gold.description>
+  <Gold.stuffProps.stuffAdjective>Злато</Gold.stuffProps.stuffAdjective>
+
+  <Steel.label>Стомана</Steel.label>
+  <Steel.description>Стомана, която се използва за създаване на постройки, сежива или оръжия.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>Стомана</Steel.stuffProps.stuffAdjective>
+
+  <Plasteel.label>Пластотстомана</Plasteel.label>
+  <Plasteel.description>Високотехнологичен материал за строеж на комически кораби. Пластостоманата има молекулярна структура, която я прави много издръжлива и лека.</Plasteel.description>
+
+  <WoodLog.label>Дърво</WoodLog.label>
+  <WoodLog.description>Дървена трупа от повалено дърво, което може да се използва за строеж на постройки, примитивни оръжия и обикновени протези или в крайна нужда като оръжие.</WoodLog.description>
+  <WoodLog.stuffProps.stuffAdjective>Дърво</WoodLog.stuffProps.stuffAdjective>
+
+  <Uranium.label>Уран</Uranium.label>
+  <Uranium.description>Здрав и компактен материал, който се използва за строеж на реактори, сечива, оръжия и брони.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>Uran</Uranium.stuffProps.stuffAdjective>
+
+  <Jade.label>Нефрит</Jade.label>
+  <Jade.description>Твърд зелен камък, който се използва за изработка на творби на изкуството, декорации или тъпи оръжия.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>Jade</Jade.stuffProps.stuffAdjective>
+
+  <!-- Pure stuffs: Fabric, leather, etc  -->
+
+  <Cloth.label>Плат</Cloth.label>
+  <Cloth.description>Обикновен плат, съставен от органични нишки.</Cloth.description>
+
+  <Synthread.label>Синтетична нишка</Synthread.label>
+  <Synthread.description>Плат създаден от високотехнологични синтетични нищки, който е мек, лек, и изолира отлично.</Synthread.description>
+
+  <DevilstrandCloth.label>Дяволска фиброгъба</DevilstrandCloth.label>
+  <DevilstrandCloth.description>Дълготраен материал от микрофибри, които се добиват от дяволска фиброгъба. Много удобен, но не изолира по-добре обикновен плат.</DevilstrandCloth.description>
+
+  <Hyperweave.label>Нанофибри</Hyperweave.label>
+  <Hyperweave.description>Платно, създадено от преплетени нанофибри. Материалът е тежък, но изключително издръжлив.</Hyperweave.description>
+
+  <MuffaloWool.label>Вълна от мъфало</MuffaloWool.label>
+  <MuffaloWool.description>Мека, лека и действа като отличен топлоизолатор. Вълнените дрехи могат да предпазят тялото от измръзване и при най-екстремни условия.</MuffaloWool.description>
+
+  <CamelHair.label>Камилска кожа</CamelHair.label>
+  <CamelHair.description>Дрехи от камилска кожа се носят обикновено в пустинните райони за прадвазване от екстремната топлина.</CamelHair.description>
+
+  <AlpacaWool.label>Вълна от алпака</AlpacaWool.label>
+  <AlpacaWool.description>Изключително мека вълна от алпака.</AlpacaWool.description>
+
+</LanguageData>

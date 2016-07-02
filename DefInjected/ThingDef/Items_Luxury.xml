@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Beer -->
+
+  <Beer.label>Бира</Beer.label>
+  <Beer.description>Най-популярното питие след водата. Прекомерната консумация води до пристрастяване.</Beer.description>
+
+  <!-- Luxury -->
+
+  <Chocolate.label>Шоколад</Chocolate.label>
+  <Chocolate.description>Сладка комбинация от какао, захар и ванилия. Много вкусен, но не особено хранителен.</Chocolate.description>
+
+</LanguageData>

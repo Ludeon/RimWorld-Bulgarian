@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Crops -->
+
+  <PlantPotato.label>Картофи</PlantPotato.label>
+  <PlantPotato.description>Расте дори и в бедни на хранителни вещества, олиготворфни почви. Висока хранителна стойност.</PlantPotato.description>
+
+  <PlantCorn.label>Царевица</PlantCorn.label>
+  <PlantCorn.description>Високо растение с кочани царевица. Необходимо е много време докато се развие напълно, но реколтата от него дава много добър добив и е с висока хранителна стойност.</PlantCorn.description>
+
+  <PlantRice.label>Ориз</PlantRice.label>
+  <PlantRice.description>Расте и дава храна много бързо в почви, богати на хранителни вещества. Добра хранителна стойност, но несготвеният ориз не е особено приятен на вкус.</PlantRice.description>
+
+  <PlantHaygrass.label>Трева</PlantHaygrass.label>
+  <PlantHaygrass.description>Комбинацията от треви, които са богати на хранителни вещества и се използват за храна на животни.</PlantHaygrass.description>
+
+  <PlantStrawberry.label>Ягода</PlantStrawberry.label>
+  <PlantStrawberry.description>Нискорастящ вкусен плод, който може да се консумира и суров.</PlantStrawberry.description>
+
+  <PlantCotton.label>Памук</PlantCotton.label>
+  <PlantCotton.description>Растение, от което се добива памук, от който могат да се правят дрехи.</PlantCotton.description>
+
+  <PlantDevilstrand.label>Дяволска фиброгъба</PlantDevilstrand.label>
+  <PlantDevilstrand.description>Генетично модифицирана гъба, която изгражда здрави фибри, от които може да се произвежда издръжлив плат.</PlantDevilstrand.description>
+
+  <PlantHealroot.label>Билка</PlantHealroot.label>
+  <PlantHealroot.description>Бавнорастящи растения, които имат лековит ефект и от които се правят билкови лекарства.\n\nБилките се използват от векове от заселниците. Нарича се още &quot;Ръката на лечителя&quot; от местните жители.</PlantHealroot.description>
+
+  <PlantHops.label>Ечемик</PlantHops.label>
+  <PlantHops.description>Цъфтящо растение, от което се добива ечемик от който впоследствие може да се свари бира.</PlantHops.description>
+
+  <!-- Decorative -->
+
+  <PlantRose.label>Роза</PlantRose.label>
+  <PlantRose.description>Красиво и радващо окото цвете, което е символ на романтиката и любовта от векове.</PlantRose.description>
+
+  <PlantDaylily.label>Лилия</PlantDaylily.label>
+  <PlantDaylily.description>Красиво и радващо окото цвете, което трябва често да се презасява.</PlantDaylily.description>
+
+</LanguageData>

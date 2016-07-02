@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Melee Weapons -->
+
+  <MeleeWeapon_Gladius.label>Акинак</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_Gladius.description>Античен къс меч, лесен за употреба.</MeleeWeapon_Gladius.description>
+
+  <MeleeWeapon_LongSword.label>Дълъг меч</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.description>Антично оръжие на кралете, дългият меч е опасно оръжие в правилните ръце.</MeleeWeapon_LongSword.description>
+
+  <MeleeWeapon_Knife.label>Нож</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.description>Един от най-древните инструменти използвани от хората, ножът не е само полезен в ежедневната работа, а е и опасно оръжие.</MeleeWeapon_Knife.description>
+
+  <MeleeWeapon_Shiv.label>Острие</MeleeWeapon_Shiv.label>
+  <MeleeWeapon_Shiv.description>Импровизирано късо оръжие, наподобяващо нож.</MeleeWeapon_Shiv.description>
+
+  <MeleeWeapon_Spear.label>Копие</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Spear.description>Пръчка с метален връх за пробождане на враговете.</MeleeWeapon_Spear.description>
+
+  <MeleeWeapon_Mace.label>Боздуган</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Mace.description>Удобно за използване оръжие, което нанася смъртоносни удари.</MeleeWeapon_Mace.description>
+
+  <MeleeWeapon_Club.label>Тояга</MeleeWeapon_Club.label>
+  <MeleeWeapon_Club.description>Най-старото познато оръжие на човека. Представлява проста, но ефективна дебела тояга, с която врагът може да бъде удрян.</MeleeWeapon_Club.description>
+
+</LanguageData>

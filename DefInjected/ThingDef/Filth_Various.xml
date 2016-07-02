@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FilthDirt.label>Мръсотия</FilthDirt.label>
+  <FilthAnimalFilth.label>Животинска мръсотия</FilthAnimalFilth.label>
+  <FilthSand.label>Пясък</FilthSand.label>
+  <RockRubble.label>Камъни</RockRubble.label>
+  <BuildingRubble.label>Отломки</BuildingRubble.label>
+  <SandbagRubble.label>Разбит пясъчен чувал</SandbagRubble.label>
+
+  <!-- Fluids etc -->
+
+  <FilthBlood.label>Кръв</FilthBlood.label>
+  <FilthBloodInsect.label>Кръв от насекомо</FilthBloodInsect.label>
+  <FilthAmnioticFluid.label>Околоплодна течност</FilthAmnioticFluid.label>
+  <FilthSlime.label>Слуз</FilthSlime.label>
+
+  <FilthFireFoam.label>Противопожарна пяна</FilthFireFoam.label>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <Door.label>Врата</Door.label>
+  <Door.description>Разделя стаи и трябва да се отваря и затваря ръчно, което забавя заселниците.</Door.description>
+
+  <Autodoor.label>Автом. врата</Autodoor.label>
+  <Autodoor.description>Захранва се с електроенергия и се отваря и затваря автоматично, което не забавя движението на заселниците.</Autodoor.description>
+
+  <!-- Walls -->
+
+  <Wall.label>Стена</Wall.label>
+  <Wall.description>Висока стена на постройка, която може да носи покрив.</Wall.description>
+
+</LanguageData>

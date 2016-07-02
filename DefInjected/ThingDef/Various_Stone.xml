@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Misc chunks -->
+
+  <ChunkSlagSteel.label>Парче шлака</ChunkSlagSteel.label>
+
+  <!-- Stone solids, chunks, and blocks -->
+
+  <Sandstone.label>Пясъчник</Sandstone.label>
+  <Sandstone.description>Седиментен камък, който се състои от компресирани песъчинки.</Sandstone.description>
+  <ChunkSandstone.label>Парче пясъчник</ChunkSandstone.label>
+  <BlocksSandstone.label>Блокчета пясъчник</BlocksSandstone.label>
+  <BlocksSandstone.description>Блокчета от солиден пясъчник. Пясъчникът е сравнително мек камък, който лесно се троши.</BlocksSandstone.description>
+  <BlocksSandstone.stuffProps.stuffAdjective>от пясъчник</BlocksSandstone.stuffProps.stuffAdjective>
+
+  <Granite.label>Гранит</Granite.label>
+  <Granite.description>Много твърд вулканичен камък.</Granite.description>
+  <ChunkGranite.label>Гранитен камък</ChunkGranite.label>
+  <BlocksGranite.label>Блокчета гранит</BlocksGranite.label>
+  <BlocksGranite.description>Блокчета от солиден гранит.</BlocksGranite.description>
+  <BlocksGranite.stuffProps.stuffAdjective>гранитен</BlocksGranite.stuffProps.stuffAdjective>
+
+  <Limestone.label>Варовик</Limestone.label>
+  <Limestone.description>Седиментен камък от насложени пластове утаен варовик.</Limestone.description>
+  <ChunkLimestone.label>Парче варовит камък</ChunkLimestone.label>
+  <BlocksLimestone.label>Блокчета варовик</BlocksLimestone.label>
+  <BlocksLimestone.description>Блокчета от солиден варовик.</BlocksLimestone.description>
+  <BlocksLimestone.stuffProps.stuffAdjective>варовит</BlocksLimestone.stuffProps.stuffAdjective>
+
+  <Slate.label>Шистова скала</Slate.label>
+  <Slate.description>Тънмооцветена метаморфозна шистова скала.</Slate.description>
+  <ChunkSlate.label>Парче шистова скала</ChunkSlate.label>
+  <BlocksSlate.label>Блокчета от шистова скала</BlocksSlate.label>
+  <BlocksSlate.description>Блокчета от солидни шисти, които лесно се цепят.</BlocksSlate.description>
+  <BlocksSlate.stuffProps.stuffAdjective>шистов</BlocksSlate.stuffProps.stuffAdjective>
+
+  <Marble.label>Мрамор</Marble.label>
+  <Marble.description>Бяла метаморфозна скала.</Marble.description>
+  <ChunkMarble.label>Парче мрамор</ChunkMarble.label>
+  <BlocksMarble.label>Блокчета мрамор</BlocksMarble.label>
+  <BlocksMarble.description>Блокчета от солиден мрамор, които строителите обичат да използват.</BlocksMarble.description>
+  <BlocksMarble.stuffProps.stuffAdjective>мраморен</BlocksMarble.stuffProps.stuffAdjective>
+
+</LanguageData>

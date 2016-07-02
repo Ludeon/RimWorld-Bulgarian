@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Medicine -->
+
+  <HerbalMedicine.label>Билково лекарство</HerbalMedicine.label>
+  <HerbalMedicine.description>Билковото лекарство се прави от билки и не няма същото качество като индустриалното, но е по-добре от нищо.</HerbalMedicine.description>
+
+  <Medicine.label>Лекарства</Medicine.label>
+  <Medicine.description>Лекарства, които докторите използват за лекуване на пациенти.</Medicine.description>
+
+  <GlitterworldMedicine.label>Качествени лекарства</GlitterworldMedicine.label>
+  <GlitterworldMedicine.description>Качествени лекарства, използвани от докторите на високоразвити светове.</GlitterworldMedicine.description>
+
+  <!-- Shells -->
+
+  <ArtilleryShell.label>Боеприпас</ArtilleryShell.label>
+  <ArtilleryShell.description>Използва се за изстрелване от гаубица.</ArtilleryShell.description>
+
+  <!-- Components -->
+
+  <Components.label>Компоненти</Components.label>
+  <Components.description>Съдържа различни компоненти за изграждане на нови, или поправка на различни машини и електрически предмети.</Components.description>
+
+</LanguageData>

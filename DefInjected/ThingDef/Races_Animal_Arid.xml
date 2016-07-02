@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Cold weather animals -->
+
+  <Muffalo.label>Мъфало</Muffalo.label>
+  <Muffalo.description>Голямо тревопасно стадно животно, подобно на бик, което се е приспособило кзм екстремни условия. Миролюбиво, докато не бъде раздразнено.</Muffalo.description>
+  <Muffalo_Leather.label>Кожа от мъфало</Muffalo_Leather.label>
+  <Muffalo_Leather.description>Дебела кожа от мъфало.</Muffalo_Leather.description>
+  <Muffalo_Leather.stuffProps.stuffAdjective>от кожа на мъфало</Muffalo_Leather.stuffProps.stuffAdjective>
+  <Muffalo_Meat.label>Месо от мъфало</Muffalo_Meat.label>
+  <Muffalo_Meat.description>Месо от заколено мъфало.</Muffalo_Meat.description>
+  <Muffalo_Corpse.label>Мъртво мъфало</Muffalo_Corpse.label>
+  <Muffalo_Corpse.description>Труп на убито мъфало.</Muffalo_Corpse.description>
+
+  <Iguana.label>Игуана</Iguana.label>
+  <Iguana.description>Голям тревопасен гущер, който е доста опасен ако бъде раздразнен поради шиповете и острите си нокти.</Iguana.description>
+  <Iguana_Leather.label>Кожа от игуана</Iguana_Leather.label>
+  <Iguana_Leather.description>Кожа на игуана.</Iguana_Leather.description>
+  <Iguana_Leather.stuffProps.stuffAdjective>от кожа от игуана</Iguana_Leather.stuffProps.stuffAdjective>
+  <Iguana_Meat.label>Месо от игуана</Iguana_Meat.label>
+  <Iguana_Meat.description>Месо от заколена игуана.</Iguana_Meat.description>
+  <Iguana_Corpse.label>Мъртва игуана</Iguana_Corpse.label>
+  <Iguana_Corpse.description>Труп на убита игуана.</Iguana_Corpse.description>
+
+  <Rhinoceros.label>Носорог</Rhinoceros.label>
+  <Rhinoceros.description>Този голям бозайник е принципно миролюбив, но ако бъде раздразнен, използва големият си рог да атакува натрапниците без колебание.</Rhinoceros.description>
+  <Rhinoceros_Leather.label>Кожа от носорог</Rhinoceros_Leather.label>
+  <Rhinoceros_Leather.description>Дебела кожа от носорог.</Rhinoceros_Leather.description>
+  <Rhinoceros_Leather.stuffProps.stuffAdjective>от кожа от носорог</Rhinoceros_Leather.stuffProps.stuffAdjective>
+  <Rhinoceros_Meat.label>Месо от носорог</Rhinoceros_Meat.label>
+  <Rhinoceros_Meat.description>Месо от заколен носорог.</Rhinoceros_Meat.description>
+  <Rhinoceros_Corpse.label>Мъртъв носорог</Rhinoceros_Corpse.label>
+  <Rhinoceros_Corpse.description>Труп на убит носорог.</Rhinoceros_Corpse.description>
+
+  <Dromedary.label>Дромедар</Dromedary.label>
+  <Dromedary.description>Вид едрогърба камила, която се е нагодила към сухите условия на саваната и може да прекара цяла седмица без вода.</Dromedary.description>
+  <Dromedary_Leather.label>Кожа от дромедар</Dromedary_Leather.label>
+  <Dromedary_Leather.description>Кожата на дромедар.</Dromedary_Leather.description>
+  <Dromedary_Leather.stuffProps.stuffAdjective>от кожа на дромедар</Dromedary_Leather.stuffProps.stuffAdjective>
+  <Dromedary_Meat.label>Месо от дромедар</Dromedary_Meat.label>
+  <Dromedary_Meat.description>Месо от заколен дромедар.</Dromedary_Meat.description>
+  <Dromedary_Corpse.label>Мъртъв дромедар</Dromedary_Corpse.label>
+  <Dromedary_Corpse.description>Труп на убит дромедар.</Dromedary_Corpse.description>
+
+  <Elephant.label>Слон</Elephant.label>
+  <Elephant.description>Огромно тревопасно животно, което ползва бивниците си за да премества обекти или като смъртоносни оръжия.</Elephant.description>
+  <Elephant_Leather.label>Кожа от слон</Elephant_Leather.label>
+  <Elephant_Leather.description>Кожата на слон.</Elephant_Leather.description>
+  <Elephant_Leather.stuffProps.stuffAdjective>от кожа на слон</Elephant_Leather.stuffProps.stuffAdjective>
+  <Elephant_Meat.label>Слонско месо</Elephant_Meat.label>
+  <Elephant_Meat.description>Месо от заколен слон.</Elephant_Meat.description>
+  <Elephant_Corpse.label>Мъртъв слон</Elephant_Corpse.label>
+  <Elephant_Corpse.description>Труп на убит слон</Elephant_Corpse.description>
+
+</LanguageData>

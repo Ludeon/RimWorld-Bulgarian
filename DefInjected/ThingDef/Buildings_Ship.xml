@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Ship_Beam.label>Подпорна греда на кораб</Ship_Beam.label>
+  <Ship_Beam.description>Подпорна греда, която носи структурата на космическия кораб и към която може да се монтират пазлични части (напр. ковчег за криптосън).</Ship_Beam.description>
+
+  <Ship_CryptosleepCasket.label>Ковчег за криптосън</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>Капсула, която поставя човек в състояние на летаргия и забавя стареенето, както и предпазва от опасностите при един космически полет.</Ship_CryptosleepCasket.description>
+
+  <Ship_ComputerCore.label>Компютърен процесор за кораб</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>Компютърен процесор, съдържащ изкуствен интелект, който може да управлява космически кораб.</Ship_ComputerCore.description>
+
+  <Ship_Reactor.label>Реактор за кораб</Ship_Reactor.label>
+  <Ship_Reactor.description>Създава енергията, с която космическият кораб се придвижва в полета си сред звездите.</Ship_Reactor.description>
+
+  <Ship_Engine.label>Двигател на кораб</Ship_Engine.label>
+  <Ship_Engine.description>Двигател с антиматерия, който е в състояние да управлява кораба по зададен междузвезден път.</Ship_Engine.description>
+
+</LanguageData>
