@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GameMapCamera.label>Камера</GameMapCamera.label>
+  <GameMapCamera.description>За управление на камерата.</GameMapCamera.description>
+
+  <Game.label>Глобални заповеди (в играта)</Game.label>
+  <Game.description>Глобални заповеди на заселниците, които почти винаги са активни.</Game.description>
+
+  <MainTabs.label>Основни менюта</MainTabs.label>
+  <MainTabs.description>Бутони за извикване на основни менюта.</MainTabs.description>
+
+  <SelectionMisc.label>Разни</SelectionMisc.label>
+  <SelectionMisc.description>Основни бутони, които се ползват от много предмети и обекти в играта.</SelectionMisc.description>
+
+  <SelectionSpecial.label>Специални бутони</SelectionSpecial.label>
+  <SelectionSpecial.description>Специални бутони, които служат за специални функции на дефинирани обекти.</SelectionSpecial.description>
+
+  <Architect.label>Архитект</Architect.label>
+  <Architect.description>Основни бутони за менюто Архитект.</Architect.description>
+
+  <Development.label>Разработчик</Development.label>
+  <Development.description>Бутони за разработчици и модификатори. Достъпни само в режим Разработчик.</Development.description>
+
+</LanguageData>
