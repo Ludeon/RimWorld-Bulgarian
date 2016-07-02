@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Deterioration.label>Развален</Deterioration.label>
+  <Mining.label>Копай</Mining.label>
+  <Rotting.label>Гниещ</Rotting.label>
+  <Extinguish.label>Изгаси</Extinguish.label>
+
+  <!-- Stun -->
+
+  <Stun.label>Зешеметен</Stun.label>
+  <Stun.deathMessage>{0} беше зашеметен и почина.</Stun.deathMessage>
+
+  <EMP.label>EMP граната</EMP.label>
+  <EMP.deathMessage>{0} беше убит от EMP граната.</EMP.deathMessage>
+
+</LanguageData>
