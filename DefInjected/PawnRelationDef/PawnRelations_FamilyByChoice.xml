@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- spouse / lover -->
+
+  <Spouse.label>Съпруг</Spouse.label>
+  <Spouse.labelFemale>Съпруга</Spouse.labelFemale>
+
+  <Fiance.label>Годеник</Fiance.label>
+  <Fiance.labelFemale>Годеница</Fiance.labelFemale>
+
+  <Lover.label>Любим</Lover.label>
+  <Lover.labelFemale>Любима</Lover.labelFemale>
+
+  <!-- step family -->
+
+  <Stepparent.label>Втори баща</Stepparent.label>
+  <Stepparent.labelFemale>Втора майка</Stepparent.labelFemale>
+
+  <Stepchild.label>Доведен син</Stepchild.label>
+  <Stepchild.labelFemale>Доведена дъщеря</Stepchild.labelFemale>
+
+  <!-- in-law -->
+
+  <ParentInLaw.label>Тъст</ParentInLaw.label>
+  <ParentInLaw.labelFemale>Тъща</ParentInLaw.labelFemale>
+
+  <ChildInLaw.label>Зет</ChildInLaw.label>
+  <ChildInLaw.labelFemale>Булка</ChildInLaw.labelFemale>
+
+  <!-- ex-lover / ex-spouse -->
+
+  <ExSpouse.label>Бивш съпруг</ExSpouse.label>
+  <ExSpouse.labelFemale>Бивша съпруга</ExSpouse.labelFemale>
+
+  <ExLover.label>Бивш любовник</ExLover.label>
+  <ExLover.labelFemale>Бивша любовница</ExLover.labelFemale>
+
+</LanguageData>
