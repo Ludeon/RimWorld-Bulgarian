@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <WealthTotal.label>Стойност (Обща)</WealthTotal.label>
+  <WealthItems.label>Стойност (Предмети)</WealthItems.label>
+  <WealthBuildings.label>Стойност (Постройки)</WealthBuildings.label>
+  <FreeColonists.label>Свободни заселници</FreeColonists.label>
+  <Prisoners.label>Затворници</Prisoners.label>
+  <ColonistMood.label>Настроение</ColonistMood.label>
+
+</LanguageData>
