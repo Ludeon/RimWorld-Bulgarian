@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MechanoidFullyFormed.label>Напълно израстнал</MechanoidFullyFormed.label>
+
+  <HumanlikeBaby.label>Новородено</HumanlikeBaby.label>
+  <HumanlikeToddler.label>Пеленаче</HumanlikeToddler.label>
+  <HumanlikeChild.label>Дете</HumanlikeChild.label>
+  <HumanlikeTeenager.label>Млад човек</HumanlikeTeenager.label>
+  <HumanlikeTeenager.adjective>тийнейджър</HumanlikeTeenager.adjective>
+  <HumanlikeAdult.label>Възрастен</HumanlikeAdult.label>
+
+  <EusocialInsectLarva.label>Ларва</EusocialInsectLarva.label>
+  <EusocialInsectJuvenile.label>Млад</EusocialInsectJuvenile.label>
+  <EusocialInsectAdult.label>Възрастен</EusocialInsectAdult.label>
+
+  <AnimalBaby.label>Новородено</AnimalBaby.label>
+  <AnimalJuvenile.label>Младо</AnimalJuvenile.label>
+  <AnimalAdult.label>Възрастен</AnimalAdult.label>
+
+</LanguageData>
