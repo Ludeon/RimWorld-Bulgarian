@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Nudist.degreeDatas.0.label>Нудист</Nudist.degreeDatas.0.label>
+  <Nudist.degreeDatas.0.description>NAME обича чувството на свобода когато не носи дрехи. HECAP може въпреки всичко да носи дрехи, но HE е по-добре без тях.</Nudist.degreeDatas.0.description>
+
+  <Bloodlust.degreeDatas.0.label>Кръвожаден</Bloodlust.degreeDatas.0.label>
+  <Bloodlust.degreeDatas.0.description>NAME изпитва удоволствие, когато HE нарани някого. HE не се впечатлява от кръв и трупове. Удвоява шанса на HE да започне социална драка.</Bloodlust.degreeDatas.0.description>
+
+  <Psychopath.degreeDatas.0.label>Психопат</Psychopath.degreeDatas.0.label>
+  <Psychopath.degreeDatas.0.description>NAME не изпитва съчувствие към другите. HECAP не се впечатява от проблемите и тегобите на другите. HECAP не изпитва нищо когато другите биват заколени, стоят непогребани, са затворени или продадени в робство - освен ако HE е засегнат. HECAP не получава никакъв бонус при разговор с другите.</Psychopath.degreeDatas.0.description>
+
+  <Cannibal.degreeDatas.0.label>Канибал</Cannibal.degreeDatas.0.label>
+  <Cannibal.degreeDatas.0.description>NAME бе научен, че яденето на човешко меса е вредно и нередно. Но се случи така, че HE пробва веднъж... и се оказа, че на HIM му хареса.</Cannibal.degreeDatas.0.description>
+
+  <Abrasive.degreeDatas.0.label>Агресивен</Abrasive.degreeDatas.0.label>
+  <Abrasive.degreeDatas.0.description>NAME говори съвсем директно и казва каквото HE мисли, и най-вече тогава, когато HE е обект на разговора. Поведението на HISCAP изнервя редовно останалите.</Abrasive.degreeDatas.0.description>
+
+  <TooSmart.degreeDatas.0.label>Много умен</TooSmart.degreeDatas.0.label>
+  <TooSmart.degreeDatas.0.description>NAME е прекалено интелигентен за останалите. HECAP се учи много по-бързо от другите, но излъчва сериозна егоцентричност.</TooSmart.degreeDatas.0.description>
+
+  <Brawler.degreeDatas.0.label>Бияч</Brawler.degreeDatas.0.label>
+  <Brawler.degreeDatas.0.description>NAME обича близкия бой. Точността на HISCAP в ръкопашен бой е несравнима, но HE ще се чувства много зле, ако на HE се даде далекобойно оръжие.</Brawler.degreeDatas.0.description>
+
+  <Masochist.degreeDatas.0.label>Мазохист</Masochist.degreeDatas.0.label>
+  <Masochist.degreeDatas.0.description>За NAME изпитването на болка е нещо забранено, и същевременно възбуждащо. HECAP не знае защо - HE просто не е като другите.</Masochist.degreeDatas.0.description>
+
+  <Prosthophile.degreeDatas.0.label>Обича протези</Prosthophile.degreeDatas.0.label>
+  <Prosthophile.degreeDatas.0.description>NAME се чувства ограничен(а) в HIS леснотрошимо човешко тяло. HECAP често си мечтае да смени HIS части на тялото с бионични.</Prosthophile.degreeDatas.0.description>
+
+  <Prosthophobe.degreeDatas.0.label>Фобия от протези</Prosthophobe.degreeDatas.0.label>
+  <Prosthophobe.degreeDatas.0.description>NAME е на мнение, че човешкото тяло е създадено по този начин с определена причина. HECAP намира бионичните части напълно неетични.</Prosthophobe.degreeDatas.0.description>
+
+  <GreenThumb.degreeDatas.0.label>Роден градинар</GreenThumb.degreeDatas.0.label>
+  <GreenThumb.degreeDatas.0.description>NAME страстно обича растенията. HECAP получава бонус към настроенито, когато HE сее растения или събира реколта.</GreenThumb.degreeDatas.0.description>
+
+  <NightOwl.degreeDatas.0.label>Нощна птица</NightOwl.degreeDatas.0.label>
+  <NightOwl.degreeDatas.0.description>NAME обича да работи през нощта. HECAP получава бонус към настроението, ако работи през нощта или наказание, ако работи през деня.</NightOwl.degreeDatas.0.description>
+
+  <Greedy.degreeDatas.0.label>Алчност</Greedy.degreeDatas.0.label>
+  <Greedy.degreeDatas.0.description>NAME иска да има много красива спалня. HECAP търпи наказание към насторението, ако HE не получава, каквото HE иска.</Greedy.degreeDatas.0.description>
+
+  <Jealous.degreeDatas.0.label>Ревнив</Jealous.degreeDatas.0.label>
+  <Jealous.degreeDatas.0.description>За NAME е срамно да има спалня, която е по-лоша от тази на някой друг. HECAP получава наказание към настроението, ако друг заселник има по-внушителна спалня.</Jealous.degreeDatas.0.description>
+
+  <Ascetic.degreeDatas.0.label>Аскет</Ascetic.degreeDatas.0.label>
+  <Ascetic.degreeDatas.0.description>NAME избира живот на въздържание. HECAP получава наказание към настроението, ако HIS спалня е прекалено хубава.</Ascetic.degreeDatas.0.description>
+
+  <Gay.degreeDatas.0.label>Хомосексуалист</Gay.degreeDatas.0.label>
+  <Gay.degreeDatas.0.description>NAME се привлича към хора от HIS собствен пол.</Gay.degreeDatas.0.description>
+
+  <DislikesMen.degreeDatas.0.label>Не понася мъже</DislikesMen.degreeDatas.0.label>
+  <DislikesMen.degreeDatas.0.description>NAME изпитва силна антипатия и недоверие към мъжете.</DislikesMen.degreeDatas.0.description>
+
+  <DislikesWomen.degreeDatas.0.label>Не понася жени</DislikesWomen.degreeDatas.0.label>
+  <DislikesWomen.degreeDatas.0.description>NAME изпитва силна антипатия и недоверие към жените.</DislikesWomen.degreeDatas.0.description>
+
+</LanguageData>

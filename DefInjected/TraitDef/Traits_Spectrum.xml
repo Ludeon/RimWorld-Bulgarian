@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SpeedOffset.degreeDatas.0.label>Охлюв</SpeedOffset.degreeDatas.0.label>
+  <SpeedOffset.degreeDatas.0.description>NAME винаги изостава от групата, с която HE се движи.</SpeedOffset.degreeDatas.0.description>
+  <SpeedOffset.degreeDatas.1.label>Бързак</SpeedOffset.degreeDatas.1.label>
+  <SpeedOffset.degreeDatas.1.description>NAME обича да бърза закъдето HE се е запътил. HECAP се движи по-бързо от останалите хора.</SpeedOffset.degreeDatas.1.description>
+  <SpeedOffset.degreeDatas.2.label>Бегач</SpeedOffset.degreeDatas.2.label>
+  <SpeedOffset.degreeDatas.2.description>NAME винаги тича презглава, накъдето HE се е запътил. Другите често не успяват да се движат в крак с HIM.</SpeedOffset.degreeDatas.2.description>
+
+  <DrugDesire.degreeDatas.0.label>Химическо очарование</DrugDesire.degreeDatas.0.label>
+  <DrugDesire.degreeDatas.0.description>NAME с готовност пробва всякакви химически продукти, било то дрога или алкохол. HECAP ще консумира много повече от тях и е много по-вероятно HE да прекалява с тях.</DrugDesire.degreeDatas.0.description>
+  <DrugDesire.degreeDatas.1.label>Химически интерес</DrugDesire.degreeDatas.1.label>
+  <DrugDesire.degreeDatas.1.description>NAME се интересува от всякакви химически продукти, било то дрога или алкохол. HECAP ще консумира повече от тях и е вероятно HE да прекалява с тях.</DrugDesire.degreeDatas.1.description>
+  <DrugDesire.degreeDatas.2.label>Трезвеник</DrugDesire.degreeDatas.2.label>
+  <DrugDesire.degreeDatas.2.description>NAME презира идеята за химически индуцирано удоволствие и избягва алкохол и дрога.</DrugDesire.degreeDatas.2.description>
+
+  <NaturalMood.degreeDatas.0.label>Сангвиник</NaturalMood.degreeDatas.0.label>
+  <NaturalMood.degreeDatas.0.description>NAME е щастлив по природа във всяко време, назависимо от това какво се случва.</NaturalMood.degreeDatas.0.description>
+  <NaturalMood.degreeDatas.1.label>Оптимист</NaturalMood.degreeDatas.1.label>
+  <NaturalMood.degreeDatas.1.description>NAME е оптимист по природа и е трудно на другите да помрачнят HIS настроение.</NaturalMood.degreeDatas.1.description>
+  <NaturalMood.degreeDatas.2.label>Песимист</NaturalMood.degreeDatas.2.label>
+  <NaturalMood.degreeDatas.2.description>NAME е песимист по природа. HECAP вижда негативните страни във всичко, което се случва.</NaturalMood.degreeDatas.2.description>
+  <NaturalMood.degreeDatas.3.label>Депресант</NaturalMood.degreeDatas.3.label>
+  <NaturalMood.degreeDatas.3.description>NAME се поддава винаги на тъга и депресия. HECAP изпитва проблеми да бъде щастлив дори когато всичко върви по мед и масло.</NaturalMood.degreeDatas.3.description>
+	
+	
+  <Nerves.degreeDatas.0.label>Желязна воля</Nerves.degreeDatas.0.label>
+  <Nerves.degreeDatas.0.description>Волята на NAME е като стоманен щит. HECAP продължава да упорства, дори когато всички останали са се предали окончателно.</Nerves.degreeDatas.0.description>
+  <Nerves.degreeDatas.1.label>Непоклатим</Nerves.degreeDatas.1.label>
+  <Nerves.degreeDatas.1.description>NAME притежава много силна воля, която помага да задържи присъствие на духа, след като другите отдавна да се пречупили.</Nerves.degreeDatas.1.description>
+  <Nerves.degreeDatas.2.label>Нервен</Nerves.degreeDatas.2.label>
+  <Nerves.degreeDatas.2.description>NAME се пречупва лесно когато се постави под продължителен стрес.</Nerves.degreeDatas.2.description>
+  <Nerves.degreeDatas.3.label>Неуравновесен</Nerves.degreeDatas.3.label>
+  <Nerves.degreeDatas.3.description>NAME непрекъснато се тресе от нерви. HECAP може да се пречупи дори и при лек стрес.</Nerves.degreeDatas.3.description>
+
+  <Neurotic.degreeDatas.0.label>Невротик</Neurotic.degreeDatas.0.label>
+  <Neurotic.degreeDatas.0.description>NAME обича, когато всичко е свършено. HECAP ще работи по-усилено от другите,за да свърши работата си. Существува опасност HIS нерви да HIM предадат.</Neurotic.degreeDatas.0.description>
+  <Neurotic.degreeDatas.1.label>Много неврозен</Neurotic.degreeDatas.1.label>
+  <Neurotic.degreeDatas.1.description>NAME се нервира непрекъснато, когато има работа за вършене. HECAP ще работи много по-усилено от другите, за да свърши работата си, но HE може лесно да изгуби присъствие на духа.</Neurotic.degreeDatas.1.description>
+
+  <Industriousness.degreeDatas.0.label>Трудолюбив</Industriousness.degreeDatas.0.label>
+  <Industriousness.degreeDatas.0.description>NAME не се разсейва лесно и затова извършва HIS задачи по-бързо от всички останали.</Industriousness.degreeDatas.0.description>
+  <Industriousness.degreeDatas.1.label>Работлив</Industriousness.degreeDatas.1.label>
+  <Industriousness.degreeDatas.1.description>NAME работи усилено по природа и извършва HIS задължения по-бързо от повечето хора.</Industriousness.degreeDatas.1.description>
+  <Industriousness.degreeDatas.2.label>Муден</Industriousness.degreeDatas.2.label>
+  <Industriousness.degreeDatas.2.description>NAME извършва работата бавно и спокойно, и се отвлича сравнително лесно.</Industriousness.degreeDatas.2.description>
+  <Industriousness.degreeDatas.3.label>Мързел</Industriousness.degreeDatas.3.label>
+  <Industriousness.degreeDatas.3.description>NAME обича да се мотае и мрази всичко продуктивно. HECAP се движи бавно и се разсейва лесно.</Industriousness.degreeDatas.3.description>
+
+  <PsychicSensitivity.degreeDatas.0.label>Много чувствителен психически</PsychicSensitivity.degreeDatas.0.label>
+  <PsychicSensitivity.degreeDatas.0.description>Мозъкът на NAME е като високочувствителна психическа антена. Всички психически феномени се отразяват на HECAP много по-силно.</PsychicSensitivity.degreeDatas.0.description>
+  <PsychicSensitivity.degreeDatas.1.label>Психически чувствителен</PsychicSensitivity.degreeDatas.1.label>
+  <PsychicSensitivity.degreeDatas.1.description>Всички психически феномени се отразяват върху NAME по-силно.</PsychicSensitivity.degreeDatas.1.description>
+  <PsychicSensitivity.degreeDatas.2.label>Притъпен психически</PsychicSensitivity.degreeDatas.2.label>
+  <PsychicSensitivity.degreeDatas.2.description>Мозъкът на NAME се притъпени в сравнение с другите. HECAP не се поддава лесно на психически феномени.</PsychicSensitivity.degreeDatas.2.description>
+  <PsychicSensitivity.degreeDatas.3.label>Психически глух</PsychicSensitivity.degreeDatas.3.label>
+  <PsychicSensitivity.degreeDatas.3.description>Мозъкът на NAME работи на друга вълна от другите. HECAP не се влияе изцяло от психически феномени.</PsychicSensitivity.degreeDatas.3.description>
+
+  <TemperaturePreference.degreeDatas.0.label>Обича студа</TemperaturePreference.degreeDatas.0.label>
+  <TemperaturePreference.degreeDatas.0.description>Тялото на NAME се е адаптирало към студа. HECAP с лекота живее при температури, при които другите отдавна треперят. HE обаче не понася високи температури много добре.</TemperaturePreference.degreeDatas.0.description>
+  <TemperaturePreference.degreeDatas.1.label>Издръжлив на студ</TemperaturePreference.degreeDatas.1.label>
+  <TemperaturePreference.degreeDatas.1.description>NAME издържа студени температури по-добре от останалите.</TemperaturePreference.degreeDatas.1.description>
+  <TemperaturePreference.degreeDatas.2.label>Издръжлив на топлина</TemperaturePreference.degreeDatas.2.label>
+  <TemperaturePreference.degreeDatas.2.description>NAME понася високи температури по-добре от останалите.</TemperaturePreference.degreeDatas.2.description>
+  <TemperaturePreference.degreeDatas.3.label>Обича топлината</TemperaturePreference.degreeDatas.3.label>
+  <TemperaturePreference.degreeDatas.3.description>NAME обича страшно много топлото време, и поради това не се чувства никак добре при ниски температури.</TemperaturePreference.degreeDatas.3.description>
+
+  <ShootingAccuracy.degreeDatas.0.label>Внимателен стрелец</ShootingAccuracy.degreeDatas.0.label>
+  <ShootingAccuracy.degreeDatas.0.description>NAME стреля много акуратно, но за сметка на това HE се нуждае от повече време за да се прицели в HIS мишена.</ShootingAccuracy.degreeDatas.0.description>
+  <ShootingAccuracy.degreeDatas.1.label>Винаги готов</ShootingAccuracy.degreeDatas.1.label>
+  <ShootingAccuracy.degreeDatas.1.description>Пукай там! NAME е ужасен стрелец, но на HIM хич не му пука, защото... оръжията са страхотни! Получава бонус към скоростта на стребла и наказание към акуратността.</ShootingAccuracy.degreeDatas.1.description>
+
+  <Prettiness.degreeDatas.0.label>Красив</Prettiness.degreeDatas.0.label>
+  <Prettiness.degreeDatas.0.description>NAME е изключително красив(а), и затова HE се обича от всички.</Prettiness.degreeDatas.0.description>
+  <Prettiness.degreeDatas.1.label>Грозен</Prettiness.degreeDatas.1.label>
+  <Prettiness.degreeDatas.1.description>NAME е изключително грозен(а), и затова HE се отбягва от всички.</Prettiness.degreeDatas.1.description>
+	
+</LanguageData>
