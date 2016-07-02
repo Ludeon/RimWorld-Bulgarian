@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ShipBasics.label>Основи на корабостроенето</ShipBasics.label>
+  <ShipBasics.description>Позволява допълнителни проекти, насочени към построяване на космически кораб, с който да напуснеш планетата (и спечелиш играта).</ShipBasics.description>
+
+  <ShipCryptosleep.label>Корабен ковчег за криптосън</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Позволява поставянето на ковчег за криптосън към основата на космически кораб с цел транспорт на пътници в състояние на летаргия между звездите.</ShipCryptosleep.description>
+
+  <ShipReactor.label>Корабен антиматериален реактор</ShipReactor.label>
+  <ShipReactor.description>Позволява поставянето на корабен антиматериален реактор, който да захранва космическия кораб с енергия.</ShipReactor.description>
+
+  <ShipEngine.label>Корабен антиматериален двигател</ShipEngine.label>
+  <ShipEngine.description>Позволява поставянето на корабен антиматериален двигател, който да задвижда космическия кораб.</ShipEngine.description>
+
+  <ShipComputerCore.label>Корабен компютърен процесор</ShipComputerCore.label>
+  <ShipComputerCore.description>Позволява поставянето на компютър на борда на космическия кораб, който да го навигира в пътешествието между звездите.</ShipComputerCore.description>
+
+</LanguageData>

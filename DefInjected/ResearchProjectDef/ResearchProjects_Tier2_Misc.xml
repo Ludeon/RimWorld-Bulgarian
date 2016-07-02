@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Tier 2 Misc -->
+
+  <Firefoam.label>Противопожарна пяна</Firefoam.label>
+  <Firefoam.description>Позволява поставянето на съдържатели на противопожарна пяна, които при активиране я разпръскват с цел потушаване на пожар.</Firefoam.description>
+
+  <GeothermalPower.label>Геотермална енергия</GeothermalPower.label>
+  <GeothermalPower.description>Позволява построяването на геотермални централи върху геотермални гейзери, които произвеждат електроенергия непрекъснато.</GeothermalPower.description>
+
+  <HospitalBed.label>Медицински легла</HospitalBed.label>
+  <HospitalBed.description>Позволява поставянето на медицински легла, които увеличават шанса за успешна операция или медицинска грижа.</HospitalBed.description>
+
+  <MultiAnalyzer.label>Мултианализатор</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Позволява поставянето на Мултианализатори, които увеличават скоростта на проучване, както и отключват нови изследователски проекти.</MultiAnalyzer.description>
+
+  <!-- Tier 2.5 Misc -->
+
+  <VitalsMonitor.label>Монитор на жизнени показатели</VitalsMonitor.label>
+  <VitalsMonitor.description>Позволява поставянето на монитори на жизнените показатели на пациенти в близост до медицински легла, които допълнително увеличават шанса за успешна операция или медицинска грижа.</VitalsMonitor.description>
+
+  <Cryptosleep.label>Ковчег за криптосън</Cryptosleep.label>
+  <Cryptosleep.description>Позволява построяването на ковчези за криптосън, които поставят заселниците в състояние на летаргия. Забележка: неподходящ за космически кораб.</Cryptosleep.description>
+
+  <ComponentAssembly.label>Производство на компоненти</ComponentAssembly.label>
+  <ComponentAssembly.description>Позволява произвеждането на компоненти, които са необходими за строежа и поддържането на различни обекти.</ComponentAssembly.description>
+
+  <PoweredArmor.label>Енергийна броня</PoweredArmor.label>
+  <PoweredArmor.description>Познанията по невромеметична роботика и подобрение на пластостоманата позволяват създаването на високотехнологични енергийни брони и шлемове.</PoweredArmor.description>
+
+  <ChargedShot.label>Енергийни оръжия</ChargedShot.label>
+  <ChargedShot.description>Разкрива тайните на пулсовите енергийни муниции, което позволява създаването на енергийни оръжия.</ChargedShot.description>
+
+  <MultibarrelWeapons.label>Многоцевни оръжия</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Позволява създаването на многоцевни картечници.</MultibarrelWeapons.description>
+
+  <!--
+  <LargeRockets.label>Raketenwerfer</LargeRockets.label>
+  <LargeRockets.description>Erlaubt die Herstellung von Doomsday- und Dreifachraketenwerfern, Einmal-Angriffswaffen die einen ordentlichen Schlag abgeben.</LargeRockets.description>
+  -->
+  
+</LanguageData>
