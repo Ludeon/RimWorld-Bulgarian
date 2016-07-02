@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Clear.label>Ясно</Clear.label>
+  <Clear.description>Ясно и безоблачно небе. Не носи предимства или недостатъци.</Clear.description>
+
+  <Fog.label>Мъгливо</Fog.label>
+  <Fog.description>Мъгливото време намалява шанса за поразяване на далечни мишени.</Fog.description>
+
+  <Rain.label>Дъждовно</Rain.label>
+  <Rain.description>Дъждът намалява шанса за поразяване на далечни мишени, забавя движението и гаси пожари.</Rain.description>
+
+  <DryThunderstorm.label>Суха гръмотевична буря</DryThunderstorm.label>
+  <DryThunderstorm.description>Сухите бури са много опасни, тъй като светкавиците мигат да запалят пожари, а няма дъжд, който да ги загаси.</DryThunderstorm.description>
+
+  <RainyThunderstorm.label>Дъждовна гръмотевична буря</RainyThunderstorm.label>
+  <RainyThunderstorm.description>Светкавиците могат да запалят огньве, които силният дъжд бързо угася, но за сметка на това намалява шанса за поразяване на далечни мишени и забавя движението.</RainyThunderstorm.description>
+
+  <FoggyRain.label>Мъгливо с дъжд</FoggyRain.label>
+  <FoggyRain.description>Дъждът намалява шанса за поразяване на далечни мишени (както и мъглата), забавя движението и гаси пожари.</FoggyRain.description>
+
+  <SnowHard.label>Силен снеговалеж</SnowHard.label>
+  <SnowHard.description>Снегът намалява шанса за поразяване на далечни мишени, забавя движението и гаси пожари.</SnowHard.description>
+
+  <SnowGentle.label>Лек снеговалеж</SnowGentle.label>
+  <SnowGentle.description>Снегът намалява шанса за поразяване на далечни мишени, забавя движението и гаси пожари.</SnowGentle.description>
+
+</LanguageData>
