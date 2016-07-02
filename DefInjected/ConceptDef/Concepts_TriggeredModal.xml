@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <TradeGoodsMustBeNearBeacon.helpTexts.0>За да търгуваш предмети или сребро с минаващ търговски космически кораб, ти трябва Орбитален търговски пост със склад в обхвата му, в който се намират предмети за търговия.</TradeGoodsMustBeNearBeacon.helpTexts.0>
+
+  <ArrestingCreatesEnemies.helpTexts.0>Внимание: Човекът, който искаш да плениш може да не се подчини. Ако го плениш, това ще ядоса фракцията, на която той принадлежи.</ArrestingCreatesEnemies.helpTexts.0>
+
+  <SwitchFlickingDesignation.helpTexts.0>Забележка: Това задава включването или изключването на определен обект.\n\nТова ще стане когато заселник го извърши ръчно, или изобщо, ако няма зададен заселник с необходимата роля.</SwitchFlickingDesignation.helpTexts.0>
+
+</LanguageData>
