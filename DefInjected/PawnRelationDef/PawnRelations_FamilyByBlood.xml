@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Parent.label>Баща</Parent.label>
+  <Parent.labelFemale>Майка</Parent.labelFemale>
+
+  <Child.label>Син</Child.label>
+  <Child.labelFemale>Дъщеря</Child.labelFemale>
+
+  <Sibling.label>Брат</Sibling.label>
+  <Sibling.labelFemale>Сестра</Sibling.labelFemale>
+
+  <HalfSibling.label>Полубрат</HalfSibling.label>
+  <HalfSibling.labelFemale>Полусестра</HalfSibling.labelFemale>
+
+  <Grandparent.label>Дядо</Grandparent.label>
+  <Grandparent.labelFemale>Баба</Grandparent.labelFemale>
+
+  <Grandchild.label>Внук</Grandchild.label>
+  <Grandchild.labelFemale>Внучка</Grandchild.labelFemale>
+
+  <NephewOrNiece.label>Племенник</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>Племенница</NephewOrNiece.labelFemale>
+
+  <UncleOrAunt.label>Чичо</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>Леля</UncleOrAunt.labelFemale>
+
+  <Cousin.label>Браточвед</Cousin.label>
+  <Cousin.labelFemale>Братовчедка</Cousin.labelFemale>
+
+  <!-- distant family -->
+
+  <GreatGrandparent.label>Прадядо</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>Прабаба</GreatGrandparent.labelFemale>
+
+  <GreatGrandchild.label>Правнук</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>Правнучка</GreatGrandchild.labelFemale>
+
+  <GranduncleOrGrandaunt.label>Прачичо</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>Пралеля</GranduncleOrGrandaunt.labelFemale>
+
+  <GrandnephewOrGrandniece.label>Праплеменник</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>Праплеменница</GrandnephewOrGrandniece.labelFemale>
+
+  <CousinOnceRemoved.label>Дете на първи братовчед</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>Дъщеря на първи братовчед</CousinOnceRemoved.labelFemale>
+
+  <SecondCousin.label>Втори Братовчед</SecondCousin.label>
+  <SecondCousin.labelFemale>Втора Братовчедка</SecondCousin.labelFemale>
+
+  <!-- kin -->
+
+  <Kin.label>роднина</Kin.label>
+
+</LanguageData>
