@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- General -->
+
+  <Basics.label>Основни</Basics.label>
+  <BasicsPawn.label>Основни</BasicsPawn.label>
+  <BasicsNonPawn.label>Основи</BasicsNonPawn.label>
+
+  <!-- Non-pawn -->
+
+  <Apparel.label>Екипировка</Apparel.label>
+  <Weapon.label>Оръжие</Weapon.label>
+  <Building.label>Постройка</Building.label>
+
+  <!-- Virtual categories -->
+
+  <EquippedStatOffsets.label>Добавени стойности при екипиране</EquippedStatOffsets.label>
+  <StuffStatFactors.label>Множител за екипиране</StuffStatFactors.label>
+  <StuffStatOffsets.label>Добавени стойности при екипиране</StuffStatOffsets.label>
+  <StuffOfEquipmentStatFactors.label>Множител за обличане на дадената екипировка</StuffOfEquipmentStatFactors.label>
+
+  <!-- Pawn -->
+
+  <PawnCombat.label>Битка</PawnCombat.label>
+  <PawnSocial.label>Социални</PawnSocial.label>
+  <PawnMisc.label>Разни</PawnMisc.label>
+  <PawnWork.label>Работа</PawnWork.label>
+
+</LanguageData>
