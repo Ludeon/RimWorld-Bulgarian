@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FreePlay.label>Свободна игра</FreePlay.label>
+  <FreePlay.description>Игра стил "Пясъчник" с цел обучение или строеж на красива колония. Ще има опасности, но те ще са много слаби.</FreePlay.description>
+
+  <Basebuilder.label>Строеж на База</Basebuilder.label>
+  <Basebuilder.description>Игра фокусирана върху строежа на ефективна база. Опасностите за колонията са с по-слаб ефект.</Basebuilder.description>
+
+  <Rough.label>Трудно</Rough.label>
+  <Rough.description>Опасностите могат да бъдат смъртоносни и бонусът към настроението и храната в сравнение с предните трудности е премахнат.</Rough.description>
+
+  <Challenge.label>Предизвикателно</Challenge.label>
+  <Challenge.description>Предизвикателна игра, която изисква стратегия, тактика, и дори късмет за да оцелееш. Това е трудността на кото играта е предвидена да се играе.</Challenge.description>
+
+  <Extreme.label>Екстремно</Extreme.label>
+  <Extreme.description>Максимална трудност. Враговете са силни и многобройни, цените са ниски, храната се набавя трудно ина всичкото отгоре заселниците са винаги недоволни. За играчите, които обичат дигитален тормоз.</Extreme.description>
+
+</LanguageData>
