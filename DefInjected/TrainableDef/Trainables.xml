@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Obedience.label>Покорство</Obedience.label>
+  <Obedience.description>На животното може да се определи собственик, който да следва и защитава.</Obedience.description>
+
+  <Release.label>Осбвободи</Release.label>
+  <Release.description>Животното може да бъде развързано, за да атакува далечни цели вместо да стои до стопанина си и да го защитава.</Release.description>
+
+  <Rescue.label>Спасяване</Rescue.label>
+  <Rescue.description>Животното може да спасява безсилни заселници и да ги замъква на безопасно място.</Rescue.description>
+
+  <Haul.label>Носене</Haul.label>
+  <Haul.description>Животното може да носи предмети до складове.</Haul.description>
+
+</LanguageData>
