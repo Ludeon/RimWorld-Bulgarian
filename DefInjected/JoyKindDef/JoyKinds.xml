@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Work.label>работещ</Work.label>
+  <Meditative.label>медитиращ</Meditative.label>
+  <Lewd.label>похотлив</Lewd.label>
+  <Social.label>социален</Social.label>
+  <Chemical.label>химически</Chemical.label>
+  <Gluttonous.label>алчен</Gluttonous.label>
+  <GamingDexterity.label>играе (сръчност)</GamingDexterity.label>
+  <GamingCerebral.label>играе (интелектуална)</GamingCerebral.label>
+  <Passive.label>пасивен</Passive.label>
+  <Study.label>учи</Study.label>
+
+</LanguageData>
