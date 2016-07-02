@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MapDollyUp.label>нагоре</MapDollyUp.label>
+  <MapDollyDown.label>надолу</MapDollyDown.label>
+  <MapDollyLeft.label>ляво</MapDollyLeft.label>
+  <MapDollyRight.label>дясно</MapDollyRight.label>
+  <MapZoomIn.label>приближи</MapZoomIn.label>
+  <MapZoomOut.label>отдалечи</MapZoomOut.label>
+
+  <!-- Map play -->
+
+  <TakeScreenshot.label>Принтирай екрана</TakeScreenshot.label>
+  <ToggleScreenshotMode.label>Промяна вид на картина от PrntScr</ToggleScreenshotMode.label>
+  <SelectNextInCell.label>Избери следващия обект в клетката</SelectNextInCell.label>
+  <TogglePause.label>Пауза вкл/изкл</TogglePause.label>
+  <TimeSpeedNormal.label>Скорост: Нормална</TimeSpeedNormal.label>
+  <TimeSpeedFast.label>Скорост: Бърза</TimeSpeedFast.label>
+  <TimeSpeedSuperfast.label>Скорост: Много бърза</TimeSpeedSuperfast.label>
+  <TimeSpeedUltrafast.label>Скорост: Ултра (за дебъг)</TimeSpeedUltrafast.label>
+  <PreviousColonist.label>Предходен заселник</PreviousColonist.label>
+  <NextColonist.label>Следващ заселник</NextColonist.label>
+
+  <!-- Misc (re-used) -->
+
+  <Misc1.label>Други 1</Misc1.label>
+  <Misc2.label>Други 2</Misc2.label>
+  <Misc3.label>Други 3</Misc3.label>
+  <Misc4.label>Други 4</Misc4.label>
+  <Misc5.label>Други 5</Misc5.label>
+  <Misc6.label>Други 6</Misc6.label>
+  <Misc7.label>Други 7</Misc7.label>
+  <Misc8.label>Други 8</Misc8.label>
+  <Misc9.label>Други 9</Misc9.label>
+  <Misc10.label>Други 10</Misc10.label>
+  <Misc11.label>Други 11</Misc11.label>
+  <Misc12.label>Други 12</Misc12.label>
+
+  <!-- Selection special -->
+
+  <CommandTogglePower.label>Енергия вкл/изкл</CommandTogglePower.label>
+  <CommandItemForbid.label>Забранен вкл/изкл</CommandItemForbid.label>
+  <CommandColonistDraft.label>Режим Войник вкл/изкл</CommandColonistDraft.label>
+
+  <!-- Architect: Common -->
+
+  <DesignatorCancel.label>Откажи</DesignatorCancel.label>
+  <DesignatorDeconstruct.label>Разруши</DesignatorDeconstruct.label>
+  <DesignatorRotateLeft.label>Завърти наляво</DesignatorRotateLeft.label>
+  <DesignatorRotateRight.label>Завърти надясно</DesignatorRotateRight.label>
+
+  <!-- Debug -->
+
+  <ToggleLog.label>Лог вкл/изкл</ToggleLog.label>
+  <DebugTickOnce.label>Дебъг: Една отметка</DebugTickOnce.label>
+
+</LanguageData>
