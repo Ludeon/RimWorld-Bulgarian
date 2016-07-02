@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Mood.label>Настроение</Mood.label>
+  <Mood.description>Настроението показва колко доволен или стресиран е заселникът. Ако падне много ниско, може да доведе до нервен срив.</Mood.description>
+
+  <Food.label>Храна</Food.label>
+  <Food.description>Нивото на храна показва доколко заселникът е сит. Ако стигне до 0, може да доведе до телесни щети поради недохранване.</Food.description>
+
+  <Rest.label>Почивка</Rest.label>
+  <Rest.description>Почивката показва дали заселникът е имал достатъчно време за сън.</Rest.description>
+
+  <Joy.label>Радост</Joy.label>
+  <Joy.description>Радотта показва нуждата да се свърши нещо приятно през деня. Повтарянето на един и същ вид приятна дейност носи по-ниско ниво на Радост.</Joy.description>
+
+  <Beauty.label>Красота</Beauty.label>
+  <Beauty.description>Показателят красота индикира доколко заселникът намира обстановката си за визуално приятна.</Beauty.description>
+
+  <Comfort.label>Комфорт</Comfort.label>
+  <Comfort.description>Комфортът се повишава при редовно ползване на удобни мебели.</Comfort.description>
+
+  <Space.label>Пространство</Space.label>
+  <Space.description>Пространството рефлектира чувството за волност и способността за свободно движение. Прекарване на време в тясно пространство влияе негативно на заселника.</Space.description>
+
+</LanguageData>
