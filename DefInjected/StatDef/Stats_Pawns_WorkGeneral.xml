@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <WorkSpeedGlobal.label>Скорост на работа</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>Показва колко бързо работи даден индивид.</WorkSpeedGlobal.description>
+
+  <MiningSpeed.label>Скорост на копаене</MiningSpeed.label>
+  <MiningSpeed.description>Показва колко бързо копае даден индивид.</MiningSpeed.description>
+
+  <SmoothingSpeed.label>Скорост на изравняване</SmoothingSpeed.label>
+  <SmoothingSpeed.description>Показва колко бързо даден индивид изравнява определена повърхност.</SmoothingSpeed.description>
+
+  <ResearchSpeed.label>Скорост на проучване</ResearchSpeed.label>
+  <ResearchSpeed.description>Показва колко бързо даден индивид проучва проект.</ResearchSpeed.description>
+
+  <ConstructionSpeed.label>Скорост на строеж</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Показва колко бързо даден индивид може да построи обект.</ConstructionSpeed.description>
+
+  <PlantWorkSpeed.label>Скорост на сеене</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>Показва колко бързо даден индивид може да засее растение.</PlantWorkSpeed.description>
+
+  <HarvestFailChance.label>Шанс за провал при реколта</HarvestFailChance.label>
+  <HarvestFailChance.description>Показва шанса за неуспешна реколта при пожънване на израстнало растение.</HarvestFailChance.description>
+
+  <FixBrokenDownBuildingFailChance.label>Шанс за провал при поправяне</FixBrokenDownBuildingFailChance.label>
+  <FixBrokenDownBuildingFailChance.description>Показва шанса за неуспешна поправка на обект.</FixBrokenDownBuildingFailChance.description>
+
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <RecruitPrisonerChance.label>Шанс за вербуване</RecruitPrisonerChance.label>
+  <RecruitPrisonerChance.description>Показва шанса, който заселникът има, за да вербува затворник.</RecruitPrisonerChance.description>
+
+  <TameAnimalChance.label>Шанс за опитомяване</TameAnimalChance.label>
+  <TameAnimalChance.description>Показва шанса, който заселникът има за да опитоми животно.</TameAnimalChance.description>
+
+  <TrainAnimalChance.label>Шанс за дресиране</TrainAnimalChance.label>
+  <TrainAnimalChance.description>Показва шанса, който заселникът има, за да дресира дадено животно. Зависи от животното.</TrainAnimalChance.description>
+
+  <SocialImpact.label>Отражение</SocialImpact.label>
+  <SocialImpact.description>Показва доколко социалните отношения на заселника се отразяват върху другите.</SocialImpact.description>
+
+  <GiftImpact.label>Подарък (сила)</GiftImpact.label>
+  <GiftImpact.description>Каква сила ще има въпросният подарък върху отношенията със съответната фракция.</GiftImpact.description>
+
+  <TradePriceImprovement.label>Повишение на търговска цена</TradePriceImprovement.label>
+  <TradePriceImprovement.description>Показва колко ще се повиши търговската цена на продукт при търговия.</TradePriceImprovement.description>
+
+</LanguageData>

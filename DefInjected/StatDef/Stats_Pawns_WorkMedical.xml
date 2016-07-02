@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MedicalOperationSpeed.label>Скорост на опериране</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Показва колко е бърз заселникът при извършване на операция.</MedicalOperationSpeed.description>
+
+  <SurgerySuccessChance.label>Шанс за успех на операция</SurgerySuccessChance.label>
+  <SurgerySuccessChance.description>Показва шанса за успешна операция. Неуспехи или загуба на време могат да нанесат трайни или нетрайни поражения на пациента.</SurgerySuccessChance.description>
+
+  <BaseHealingQuality.label>Качество на лечение</BaseHealingQuality.label>
+  <BaseHealingQuality.description>Показва най-ниското качество на лечение върху пациента, когато заселникът работи като Доктор.</BaseHealingQuality.description>
+
+  <HealingSpeed.label>Скорост на из;екуване</HealingSpeed.label>
+  <HealingSpeed.description>Показва колко бързо пациентът ще излекува съответното нараняване.</HealingSpeed.description>
+
+</LanguageData>

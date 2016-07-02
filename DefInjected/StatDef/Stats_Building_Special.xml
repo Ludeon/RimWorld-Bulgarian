@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DoorOpenSpeed.label>Скорост на отваряне на врата</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>Колко бързо се отваря вратата.</DoorOpenSpeed.description>
+
+  <BedRestEffectiveness.label>Ефективност на почивка</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>Показва колко ефективна е почивката в това легло.</BedRestEffectiveness.description>
+
+  <TrapMeleeDamage.label>Поражения (капан)</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>Показва колко поражения ще нанесе дадения капан. Реалните щети се определят от екипировка и други фактори.</TrapMeleeDamage.description>
+
+  <TrapSpringChance.label>Auslösungschance (Falle)</TrapSpringChance.label>
+  <TrapSpringChance.description>Wie hoch die Chance ist, dass die Falle von einer unachtsamen Kreatur ausgelöst wird.</TrapSpringChance.description>
+
+  <ResearchSpeedFactor.label>Мултипликатор за скорост на проучване</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>Показва мултипликатора за скоростта на проучване на дадения проект.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.0.customLabel>Raum-Sauberkeit.</ResearchSpeedFactor.parts.0.customLabel>
+
+  <MedicalTreatmentQualityFactor.label>Мултипликатор за обгрижване</MedicalTreatmentQualityFactor.label>
+  <MedicalTreatmentQualityFactor.description>Показва мултипликатора за обгрижване на дадения пациент.</MedicalTreatmentQualityFactor.description>
+
+  <ImmunityGainSpeedFactor.label>Имунизация</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>Показва мултипликатора за придобиване на имунна защита срещу болест.</ImmunityGainSpeedFactor.description>
+
+  <WorkTableWorkSpeedFactor.label>Скорост на работа</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Показва мултипликатора за глобална скорост на работа.</WorkTableWorkSpeedFactor.description>
+
+  <EntertainmentStrengthFactor.label>Фактор разгвор</EntertainmentStrengthFactor.label>
+  <EntertainmentStrengthFactor.description>Показва мултипликатора използван при определяне на отражението върху настроението на заселника след разговор.</EntertainmentStrengthFactor.description>
+
+</LanguageData>

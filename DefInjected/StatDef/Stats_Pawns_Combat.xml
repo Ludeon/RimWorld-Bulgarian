@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MeleeDPS.label>Щети за секунда (ръкопашен)</MeleeDPS.label>
+  <MeleeDPS.description>Средни щети за секунда при ръкопашен бой.</MeleeDPS.description>
+
+  <ShootingAccuracy.label>Акуратност при стрелба</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Шансът да се уцели мишената при произведен изстрел.</ShootingAccuracy.description>
+
+  <AimingDelayFactor.label>Време за прицел</AimingDelayFactor.label>
+  <AimingDelayFactor.description>Колко време е необходимо на заселника, за да се прицели.</AimingDelayFactor.description>
+
+  <MeleeHitChance.label>Акуратност (ръкопашен бой)</MeleeHitChance.label>
+  <MeleeHitChance.description>Шансът да се уцели мишената при ръкопашен бой.</MeleeHitChance.description>
+
+</LanguageData>

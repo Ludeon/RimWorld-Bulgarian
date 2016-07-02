@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MedicalPotency.label>Медицински потенциал</MedicalPotency.label>
+  <MedicalPotency.description>Показва доколко този обект е полезен при лекувания и операции. Колкото е по-висок потенциалът на обекта, толкова по-голям е шансът пациент да бъде успешно обгрижен и намалява шанса за неуспешни операции.</MedicalPotency.description>
+
+</LanguageData>

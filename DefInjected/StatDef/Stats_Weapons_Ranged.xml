@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AccuracyTouch.label>Акуратност (в съседство)</AccuracyTouch.label>
+  <AccuracyTouch.description>Умножител на акуратността на далекобойно оръжие в съседство с мишената.</AccuracyTouch.description>
+
+  <AccuracyShort.label>Акуратност (в близост)</AccuracyShort.label>
+  <AccuracyShort.description>Умножител на акуратността на далекобойно оръжие в близост с мишената.</AccuracyShort.description>
+
+  <AccuracyMedium.label>Акуратност (средно разстояние)</AccuracyMedium.label>
+  <AccuracyMedium.description>Умножител на акуратността на далекобойно оръжие от средно разстояние.</AccuracyMedium.description>
+
+  <AccuracyLong.label>Акуратност (далечно разстояние)</AccuracyLong.label>
+  <AccuracyLong.description>Умножител на акуратността на далекобойно оръжие от далечно разстояние.</AccuracyLong.description>
+
+  <RangedWeapon_Cooldown.label>Презареждане</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.description>Колко време трябва да мине, за да бъде презаредено оръжието.</RangedWeapon_Cooldown.description>
+
+</LanguageData>

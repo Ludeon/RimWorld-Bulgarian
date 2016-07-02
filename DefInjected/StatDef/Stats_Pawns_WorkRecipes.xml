@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Artistic recipes - speed not affected by skill. -->
+
+  <SculptingSpeed.label>Скорост на дялане</SculptingSpeed.label>
+  <SculptingSpeed.description>Показва колко бързо заселникът може да издяла скулптура.</SculptingSpeed.description>
+
+  <TailoringSpeed.label>Скорост на шиене</TailoringSpeed.label>
+  <TailoringSpeed.description>Показва колко бързо заселникът може да ушие дреха.</TailoringSpeed.description>
+
+  <SmithingSpeed.label>Скорост на коване</SmithingSpeed.label>
+  <SmithingSpeed.description>Показва колко бързо заселникът може да изкове предмет.</SmithingSpeed.description>
+
+  <!-- Production recipes - speed affected by skill. -->
+
+  <CookSpeed.label>Скорост на готвене</CookSpeed.label>
+  <CookSpeed.description>Показва колко бързо заселникът може да приготви ядене.</CookSpeed.description>
+
+  <FoodPoisonChance.label>Шанс за хранително натравяне</FoodPoisonChance.label>
+  <FoodPoisonChance.description>Показва шансът, който отделен заселник има за да получи хранително натравяне.</FoodPoisonChance.description>
+
+  <BrewingSpeed.label>Скорост на варене</BrewingSpeed.label>
+  <BrewingSpeed.description>Показва колко бързо заселникът може да свари алкохолно питие (напр. Бира).</BrewingSpeed.description>
+
+  <ButcheryFleshSpeed.label>Скорост на колене</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>Показва колко бързо заселникът може да заколи субект.</ButcheryFleshSpeed.description>
+
+  <ButcheryFleshEfficiency.label>Ефикасност на колене</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>Показва каква ефикасност има даденият заселник притежава при заколване на субект.</ButcheryFleshEfficiency.description>
+
+  <ButcheryMechanoidSpeed.label>Скорост на разглобяване</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>Показва колко бързо даденият заселник може да разглоби механоид.</ButcheryMechanoidSpeed.description>
+
+  <ButcheryMechanoidEfficiency.label>Ефикасност на разглобяване</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>Показва каква ефикасност даденият заселник притежава при разглобяване на механоид.</ButcheryMechanoidEfficiency.description>
+
+  <StonecuttingSpeed.label>Скорост на дялане</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>Показва колко бързо даденият заселник може да дяла камъни.</StonecuttingSpeed.description>
+
+  <SmeltingSpeed.label>Скорост на топене</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Показва колко бързо даденият заселник може да разтопи определен предмет.</SmeltingSpeed.description>
+
+</LanguageData>

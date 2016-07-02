@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MaxHitPoints.label>Макс. Издръжливост</MaxHitPoints.label>
+  <MaxHitPoints.description>Показва максималната издръжливост на предмета. Стойността определя колко поражения може да понесе преди да бъде изцяло унищожен.</MaxHitPoints.description>
+
+  <MarketValue.label>Пазарна цена</MarketValue.label>
+  <MarketValue.description>Пазарната цена на даден предмет. Истинската цена зависи от социалните умения на заселника и отношенията с търговеца.</MarketValue.description>
+
+  <SellPriceFactor.label>Умножител за продажна цена</SellPriceFactor.label>
+  <SellPriceFactor.description>Умножител на продажната цена, когато желаеш да продадеш нещо.</SellPriceFactor.description>
+
+  <Flammability.label>Устойчивост на огън</Flammability.label>
+  <Flammability.description>Показва колко бързо даден предмет ще започне да гори или ще изгори.</Flammability.description>
+
+  <WorkToMake.label>Количество работа</WorkToMake.label>
+  <WorkToMake.description>Показва остатъчното количество работа, което е достатъчно за изработване на даден обект след като са доставени всички материали.</WorkToMake.description>
+
+  <DeteriorationRate.label>Степен на влошаване</DeteriorationRate.label>
+  <DeteriorationRate.description>Показва колко бързо даден предмет ще се влоши ако е на открито (най-вече при валежи).</DeteriorationRate.description>
+
+  <Beauty.label>Красота</Beauty.label>
+  <Beauty.description>Показва доколко даден обект е приятен за заселниците, които са в близост до него.</Beauty.description>
+
+  <Cleanliness.label>Чистота</Cleanliness.label>
+  <Cleanliness.description>Показва колко чист е даден обект.</Cleanliness.description>
+
+  <Comfort.label>Комфорт</Comfort.label>
+  <Comfort.description>Показва колко удобен е даден обект, когато заселника седи или лежи на него.</Comfort.description>
+
+</LanguageData>

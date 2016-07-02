@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MoveSpeed.label>Скорост на движение</MoveSpeed.label>
+  <MoveSpeed.description>Показва колко бързо заселникът се придвижва в клетки за секунда.</MoveSpeed.description>
+
+  <MentalBreakThreshold.label>Ниво на нервен срив</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>Показва нивото, под което трябва да се слезе, за да има опасност от нервен срив.</MentalBreakThreshold.description>
+
+  <PsychicSensitivity.label>Психична чувствителност</PsychicSensitivity.label>
+  <PsychicSensitivity.description>При активни психически феномени се ползва даденият умножител за определяне на отражението им върху определен индивид.</PsychicSensitivity.description>
+
+  <GlobalLearningFactor.label>Скорост на обучение</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Показва скоростта, с която даденият индивид научава определено умение.</GlobalLearningFactor.description>
+
+  <EatingSpeed.label>Скорост на ядене</EatingSpeed.label>
+  <EatingSpeed.description>Показва скоростта с която даденият индивид изяжда ястие.</EatingSpeed.description>
+
+  <ComfyTemperatureMin.label>Комфортна температура (мин.)r</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Показва минималната температура, в която даденият заселник се чувства добре. Ако е принуден да пребивава в по-ниска температура от посочената, има опасност за здравето му.</ComfyTemperatureMin.description>
+
+  <ComfyTemperatureMax.label>Комфортна температура (макс.)</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Показва максималната температура, в която даденият заселник се чувства добре. Ако е принуден да пребивава в по-висока температура от посочената, има опасност за здравето му.</ComfyTemperatureMax.description>
+
+  <ImmunityGainSpeed.label>Скорост на имунизация</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Показва колко бързо пациентът ще придобие имунизация към дадената болест. След придобиване на имунизация, болестта влиза в ремисия и след време изчезва.</ImmunityGainSpeed.description>
+
+  <CarryingCapacity.label>Товароносимост</CarryingCapacity.label>
+  <CarryingCapacity.description>Показва колко единици от даденият продукт може да носи определен заселник.</CarryingCapacity.description>
+
+  <MeatAmount.label>Количество месо</MeatAmount.label>
+  <MeatAmount.description>Показва количеството месо, което се получава след заколване на субекта.</MeatAmount.description>
+
+  <LeatherAmount.label>Количество кожа</LeatherAmount.label>
+  <LeatherAmount.description>Показва количеството кожа, което се получава след заколване на субекта.</LeatherAmount.description>
+
+  <MinimumHandlingSkill.label>Ниво дресировка (мин)</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>Показва нивото на дресировка, на или над което индивидът има право да опитоми даденото животно.</MinimumHandlingSkill.description>
+
+</LanguageData>
