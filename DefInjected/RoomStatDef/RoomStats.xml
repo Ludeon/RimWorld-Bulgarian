@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Impressiveness.label>Внушителност</Impressiveness.label>
+  <Impressiveness.scoreStages.0.label>отвратителна</Impressiveness.scoreStages.0.label>
+  <Impressiveness.scoreStages.1.label>ужасна</Impressiveness.scoreStages.1.label>
+  <Impressiveness.scoreStages.2.label>безинтересна</Impressiveness.scoreStages.2.label>
+  <Impressiveness.scoreStages.3.label>средна</Impressiveness.scoreStages.3.label>
+  <Impressiveness.scoreStages.4.label>интересна</Impressiveness.scoreStages.4.label>
+  <Impressiveness.scoreStages.5.label>почти впечатляваща</Impressiveness.scoreStages.5.label>
+  <Impressiveness.scoreStages.6.label>впечатляваща</Impressiveness.scoreStages.6.label>
+  <Impressiveness.scoreStages.7.label>много впечатляваща</Impressiveness.scoreStages.7.label>
+  <Impressiveness.scoreStages.8.label>великолепна</Impressiveness.scoreStages.8.label>
+  <Impressiveness.scoreStages.9.label>почти фантастична</Impressiveness.scoreStages.9.label>
+  <Impressiveness.scoreStages.10.label>фантастична</Impressiveness.scoreStages.10.label>
+  <Impressiveness.scoreStages.11.label>Чудна</Impressiveness.scoreStages.11.label>
+
+  <Wealth.label>Благосъстояние</Wealth.label>
+  <Wealth.scoreStages.0.label>бедно</Wealth.scoreStages.0.label>
+  <Wealth.scoreStages.1.label>оскъдно</Wealth.scoreStages.1.label>
+  <Wealth.scoreStages.2.label>средно</Wealth.scoreStages.2.label>
+  <Wealth.scoreStages.3.label>добро</Wealth.scoreStages.3.label>
+  <Wealth.scoreStages.4.label>много добро</Wealth.scoreStages.4.label>
+  <Wealth.scoreStages.5.label>отлично</Wealth.scoreStages.5.label>
+  <Wealth.scoreStages.6.label>луксозно</Wealth.scoreStages.6.label>
+  <Wealth.scoreStages.7.label>много луксозно</Wealth.scoreStages.7.label>
+  <Wealth.scoreStages.8.label>несравнимо</Wealth.scoreStages.8.label>
+
+  <Space.label>Свободно пространство</Space.label>
+  <Space.scoreStages.0.label>много ограничено</Space.scoreStages.0.label>
+  <Space.scoreStages.1.label>ограничено</Space.scoreStages.1.label>
+  <Space.scoreStages.2.label>средно</Space.scoreStages.2.label>
+  <Space.scoreStages.3.label>порядъчно</Space.scoreStages.3.label>
+  <Space.scoreStages.4.label>почти просторно</Space.scoreStages.4.label>
+  <Space.scoreStages.5.label>просторно</Space.scoreStages.5.label>
+  <Space.scoreStages.6.label>много просторно</Space.scoreStages.6.label>
+
+  <Beauty.label>Красота</Beauty.label>
+  <Beauty.scoreStages.0.label>отвратителна</Beauty.scoreStages.0.label>
+  <Beauty.scoreStages.1.label>грозна</Beauty.scoreStages.1.label>
+  <Beauty.scoreStages.2.label>неутрална</Beauty.scoreStages.2.label>
+  <Beauty.scoreStages.3.label>порядъчна</Beauty.scoreStages.3.label>
+  <Beauty.scoreStages.4.label>красива</Beauty.scoreStages.4.label>
+  <Beauty.scoreStages.5.label>много красива</Beauty.scoreStages.5.label>
+  <Beauty.scoreStages.6.label>фантастична</Beauty.scoreStages.6.label>
+  <Beauty.scoreStages.7.label>великолепна</Beauty.scoreStages.7.label>
+
+  <Cleanliness.label>Чистота</Cleanliness.label>
+  <Cleanliness.scoreStages.0.label>много замърсена</Cleanliness.scoreStages.0.label>
+  <Cleanliness.scoreStages.1.label>замърсена</Cleanliness.scoreStages.1.label>
+  <Cleanliness.scoreStages.2.label>леко замърсена</Cleanliness.scoreStages.2.label>
+  <Cleanliness.scoreStages.3.label>чиста</Cleanliness.scoreStages.3.label>
+  <Cleanliness.scoreStages.4.label>стерилна</Cleanliness.scoreStages.4.label>
+
+  <InfectionChanceFactor.label>Шанс за инфекция</InfectionChanceFactor.label>
+  <SurgerySuccessChanceFactor.label>Шанс за успешна операция</SurgerySuccessChanceFactor.label>
+  <ResearchSpeedFactor.label>Фактор за скорост на проучване</ResearchSpeedFactor.label>
+  <GraveVisitingJoyGainFactor.label>Радост от посещение на гроб</GraveVisitingJoyGainFactor.label>
+  <FoodPoisonChanceFactor.label>Шанс за хранително натравяне</FoodPoisonChanceFactor.label>
+
+</LanguageData>
