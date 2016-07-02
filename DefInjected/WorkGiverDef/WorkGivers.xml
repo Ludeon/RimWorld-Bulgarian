@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ============= Firefighter ============= -->
+  
+  <FightFires.label>Гаси огън</FightFires.label>
+  <FightFires.verb>гася</FightFires.verb>
+  <FightFires.gerund>гаси</FightFires.gerund>
+  
+  <!-- ============= PatientEmergency ============= -->
+  
+  <PatientGoToBedEmergency.label>отида да получи медицинска грижа</PatientGoToBedEmergency.label>
+  <PatientGoToBedEmergency.verb>получавам обгрижване в</PatientGoToBedEmergency.verb>
+  <PatientGoToBedEmergency.gerund>бива обгрижван от</PatientGoToBedEmergency.gerund>
+  
+  <!-- ============= Doctor ============= -->
+  
+  <DoctorTreatEmergency.label>извършва спешна грижа</DoctorTreatEmergency.label>
+  <DoctorTreatEmergency.verb>обгрижвам</DoctorTreatEmergency.verb>
+  <DoctorTreatEmergency.gerund>обгрижва</DoctorTreatEmergency.gerund>
+  
+  <DoctorRescue.label>носи безсилен заселник до легло</DoctorRescue.label>
+  <DoctorRescue.verb>спасявам</DoctorRescue.verb>
+  <DoctorRescue.gerund>спасява</DoctorRescue.gerund>
+  
+  <DoBillsMedicalHumanOperation.label>Операция на пациент</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.verb>оперирам</DoBillsMedicalHumanOperation.verb>
+  <DoBillsMedicalHumanOperation.gerund>оперира</DoBillsMedicalHumanOperation.gerund>
+  
+  <DoBillsMedicalAnimalOperation.label>Операция на животно</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.verb>оперирам</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.gerund>оперира</DoBillsMedicalAnimalOperation.gerund>
+
+  <DoctorTreat.label>Обгрижва заселник</DoctorTreat.label>
+  <DoctorTreat.verb>обгрижвам</DoctorTreat.verb>
+  <DoctorTreat.gerund>обгрижва</DoctorTreat.gerund>
+  
+  <DoctorFeed.label>Храни пациент</DoctorFeed.label>
+  <DoctorFeed.verb>храня</DoctorFeed.verb>
+  <DoctorFeed.gerund>храни</DoctorFeed.gerund>
+  
+  <TakeToBedToOperate.label>носи пациент до мед. легло</TakeToBedToOperate.label>
+  <TakeToBedToOperate.verb>нося за операция</TakeToBedToOperate.verb>
+  <TakeToBedToOperate.gerund>носи за операция</TakeToBedToOperate.gerund>
+  
+  <VisitSickPawn.label>посещава болен пациент</VisitSickPawn.label>
+  <VisitSickPawn.verb>посещавам</VisitSickPawn.verb>
+  <VisitSickPawn.gerund>посещава</VisitSickPawn.gerund>
+  
+  <!-- ============= PatientBedRest ============= -->
+  
+  <PatientGoToBed.label>си почива в леглото</PatientGoToBed.label>
+  <PatientGoToBed.verb>почивам си в</PatientGoToBed.verb>
+  <PatientGoToBed.gerund>почива си в</PatientGoToBed.gerund>
+  
+  <!-- ============= Flicker ============= -->
+
+  <Flick.label>Вкл/изкл.</Flick.label>
+  <Flick.verb>задействам шалтер</Flick.verb>
+  <Flick.gerund>задейства шалтер</Flick.gerund>
+
+  <!-- ============= Warden ============= -->
+
+  <DoExecution.label>екзекутирай</DoExecution.label>
+  <DoExecution.verb>екзекутирам</DoExecution.verb>
+  <DoExecution.gerund>екзекутира</DoExecution.gerund>
+  
+  <ReleasePrisoner.label>Освободи затворник</ReleasePrisoner.label>
+  <ReleasePrisoner.verb>освобождавам затворник</ReleasePrisoner.verb>
+  <ReleasePrisoner.gerund>освобождава затворник</ReleasePrisoner.gerund>
+  
+  <TakePrisonerToBed.label>занеси затв. в легло</TakePrisonerToBed.label>
+  <TakePrisonerToBed.verb>нося към легло</TakePrisonerToBed.verb>
+  <TakePrisonerToBed.gerund>носи към легло</TakePrisonerToBed.gerund>
+  
+  <FeedPrisoner.label>нахрани затворник</FeedPrisoner.label>
+  <FeedPrisoner.verb>нахранвам</FeedPrisoner.verb>
+  <FeedPrisoner.gerund>нахранва</FeedPrisoner.gerund>
+  
+  <DeliverFoodToPrisoner.label>Носи храна на затворник</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.verb>нося храна на</DeliverFoodToPrisoner.verb>
+  <DeliverFoodToPrisoner.gerund>носи храна на</DeliverFoodToPrisoner.gerund>
+  
+  <ChatWithPrisoner.label>разговаряй със затворник</ChatWithPrisoner.label>
+  <ChatWithPrisoner.verb>разговарям с</ChatWithPrisoner.verb>
+  <ChatWithPrisoner.gerund>разговаря с</ChatWithPrisoner.gerund>
+
+  <!-- ============= Handling ============= -->
+
+  <Slaughter.label>Заколи животни</Slaughter.label>
+  <Slaughter.verb>коля</Slaughter.verb>
+  <Slaughter.gerund>коли</Slaughter.gerund>
+  
+  <Milk.label>Издои животни</Milk.label>
+  <Milk.verb>доя</Milk.verb>
+  <Milk.gerund>дои</Milk.gerund>
+  
+  <Shear.label>Бръсни животни</Shear.label>
+  <Shear.verb>бръсна</Shear.verb>
+  <Shear.gerund>бръсне</Shear.gerund>
+  
+  <Tame.label>Опитоми животни</Tame.label>
+  <Tame.verb>опитомявам</Tame.verb>
+  <Tame.gerund>опитомява</Tame.gerund>
+  
+  <Train.label>Дресирай животни</Train.label>
+  <Train.verb>дресирам</Train.verb>
+  <Train.gerund>дресира</Train.gerund>
+  
+  <!-- ============= Cooking ============= -->
+
+  <DoBillsCook.label>Готви ядене</DoBillsCook.label>
+  <DoBillsCook.verb>готвя</DoBillsCook.verb>
+  <DoBillsCook.gerund>готви</DoBillsCook.gerund>
+  
+  <DoBillsCookCampfire.label>Готви на лагерен огън</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.verb>готвя</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.gerund>готви</DoBillsCookCampfire.gerund>
+  
+  <DoBillsBrew.label>Вари алкохол</DoBillsBrew.label>
+  <DoBillsBrew.verb>варя</DoBillsBrew.verb>
+  <DoBillsBrew.gerund>вари</DoBillsBrew.gerund>
+  
+  <DoBillsButcherFlesh.label>Колене</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.verb>коля</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.gerund>коли</DoBillsButcherFlesh.gerund>
+  
+  <CookFillHopper.label>Напълни табло за храна</CookFillHopper.label>
+  <CookFillHopper.verb>пълня</CookFillHopper.verb>
+  <CookFillHopper.gerund>пълни</CookFillHopper.gerund>
+  
+  <!-- ============= Hunting ============= -->
+  
+  <HunterHunt.label>Лов</HunterHunt.label>
+  <HunterHunt.verb>ловувам</HunterHunt.verb>
+  <HunterHunt.gerund>ловува</HunterHunt.gerund>
+  
+  <!-- ============= Construction ============= -->
+
+  <Deconstruct.label>Разруши структура</Deconstruct.label>
+  <Deconstruct.verb>разрушавам</Deconstruct.verb>
+  <Deconstruct.gerund>разрушава</Deconstruct.gerund>
+  
+  <Uninstall.label>Премести структура</Uninstall.label>
+  <Uninstall.verb>премествам</Uninstall.verb>
+  <Uninstall.gerund>премества</Uninstall.gerund>
+  
+  <ConstructFinishFrames.label>Довърши постройка</ConstructFinishFrames.label>
+  <ConstructFinishFrames.verb>довършвам</ConstructFinishFrames.verb>
+  <ConstructFinishFrames.gerund>довършва</ConstructFinishFrames.gerund>
+  
+  <ConstructDeliverResourcesToFrames.label>Носи материали до</ConstructDeliverResourcesToFrames.label>
+  <ConstructDeliverResourcesToFrames.verb>нося материали до</ConstructDeliverResourcesToFrames.verb>
+  <ConstructDeliverResourcesToFrames.gerund>носи материали до</ConstructDeliverResourcesToFrames.gerund>
+  
+  <ConstructDeliverResourcesToBlueprints.label>Носи материали до</ConstructDeliverResourcesToBlueprints.label>
+  <ConstructDeliverResourcesToBlueprints.verb>нося материали до</ConstructDeliverResourcesToBlueprints.verb>
+  <ConstructDeliverResourcesToBlueprints.gerund>носи материали до</ConstructDeliverResourcesToBlueprints.gerund>
+  
+  <ConstructRemoveFloors.label>Премахни настилки</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.verb>премахвам настилка</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.gerund>премахва настилка</ConstructRemoveFloors.gerund>
+  
+  <ConstructSmoothFloors.label>Изравни настилка</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.verb>изравнявам</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.gerund>изравнява</ConstructSmoothFloors.gerund>
+  
+  <!-- ============= Repair ============= -->
+
+  <FixBrokenDownBuilding.label>поправи обект</FixBrokenDownBuilding.label>
+  <FixBrokenDownBuilding.verb>поправям обект</FixBrokenDownBuilding.verb>
+  <FixBrokenDownBuilding.gerund>поправя обект</FixBrokenDownBuilding.gerund>
+  
+  <Repair.label>поправи</Repair.label>
+  <Repair.verb>поправям</Repair.verb>
+  <Repair.gerund>поправя</Repair.gerund>
+
+  <DoBillsMedicalMechanoidOperation.label>модифицикай механоид</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>модифицирам</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>модифицира</DoBillsMedicalMechanoidOperation.gerund>
+  
+  <!-- ============= Growing ============= -->
+
+  <GrowerHarvest.label>Събери реколта</GrowerHarvest.label>
+  <GrowerHarvest.verb>събирам</GrowerHarvest.verb>
+  <GrowerHarvest.gerund>събира</GrowerHarvest.gerund>
+  
+  <GrowerSow.label>Засей разстение</GrowerSow.label>
+  <GrowerSow.verb>засявам</GrowerSow.verb>
+  <GrowerSow.gerund>засява</GrowerSow.gerund>
+  
+  <!-- ============= Mining ============= -->
+
+  <Mine.label>изкопай</Mine.label>
+  <Mine.verb>изкопавам</Mine.verb>
+  <Mine.gerund>изкопава</Mine.gerund>
+  
+  <!-- ============= PlantCutting ============= -->
+  
+  <PlantsCut.label>Режи растения</PlantsCut.label>
+  <PlantsCut.verb>режа</PlantsCut.verb>
+  <PlantsCut.gerund>реже</PlantsCut.gerund>
+  
+  <!-- ============= Smithing ============= -->
+  
+  <DoBillsMakeWeapons.label>Изработи оръжия</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.verb>изработвам</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.gerund>изработва</DoBillsMakeWeapons.gerund>
+
+  <DoBillsMachiningTable.label>Изработи на механична маса</DoBillsMachiningTable.label>
+  <DoBillsMachiningTable.verb>изработвам</DoBillsMachiningTable.verb>
+  <DoBillsMachiningTable.gerund>изработва</DoBillsMachiningTable.gerund>
+  
+  <DoBillsComponentAssemblyBench.label>Изработи компонент</DoBillsComponentAssemblyBench.label>
+  <DoBillsComponentAssemblyBench.verb>изработвам компонент</DoBillsComponentAssemblyBench.verb>
+  <DoBillsComponentAssemblyBench.gerund>изработва компонент</DoBillsComponentAssemblyBench.gerund>
+  
+  <!-- ============= Tailoring ============= -->
+  
+  <DoBillsMakeApparel.label>Ушии дреха</DoBillsMakeApparel.label>
+  <DoBillsMakeApparel.verb>шия</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.gerund>шие</DoBillsMakeApparel.gerund>
+  
+  <!-- ============= Art ============= -->
+  
+  <DoBillsSculpt.label>Изработи скулптура</DoBillsSculpt.label>
+  <DoBillsSculpt.verb>изработвам скулптура</DoBillsSculpt.verb>
+  <DoBillsSculpt.gerund>изработва скулптура</DoBillsSculpt.gerund>
+  
+  <!-- ============= Crafting ============= -->
+  
+  <DoBillsUseCraftingSpot.label>Изработи на място за работа</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.verb>изработвам</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.gerund>изработва</DoBillsUseCraftingSpot.gerund>
+
+  <DoBillsStonecut.label>Дялай камъни</DoBillsStonecut.label>
+  <DoBillsStonecut.verb>дялам камъни</DoBillsStonecut.verb>
+  <DoBillsStonecut.gerund>дяла камъни</DoBillsStonecut.gerund>
+
+  <DoBillsSmelter.label>разтопи предмети</DoBillsSmelter.label>
+  <DoBillsSmelter.verb>разтапям</DoBillsSmelter.verb>
+  <DoBillsSmelter.gerund>разтапя</DoBillsSmelter.gerund>
+  
+  <!-- ============= Hauling ============= -->
+  
+  <Refuel.label>зареди обект</Refuel.label>
+  <Refuel.verb>зареждам</Refuel.verb>
+  <Refuel.gerund>зарежда</Refuel.gerund>
+  
+  <RearmTraps.label>поднови капан</RearmTraps.label>
+  <RearmTraps.verb>подновявам капан</RearmTraps.verb>
+  <RearmTraps.gerund>подновява капан</RearmTraps.gerund>
+  
+  <Strip.label>Съблечи труп</Strip.label>
+  <Strip.verb>събличам</Strip.verb>
+  <Strip.gerund>съблича</Strip.gerund>
+  
+  <Open.label>Отвори предмет</Open.label>
+  <Open.verb>отварям</Open.verb>
+  <Open.gerund>отваря</Open.gerund>
+  
+  <DoBillsCremate.label>Кремирай</DoBillsCremate.label>
+  <DoBillsCremate.verb>кремирам</DoBillsCremate.verb>
+  <DoBillsCremate.gerund>кремира</DoBillsCremate.gerund>
+  
+  <BuryCorpses.label>Погреби трупове</BuryCorpses.label>
+  <BuryCorpses.verb>погребвам</BuryCorpses.verb>
+  <BuryCorpses.gerund>погребва</BuryCorpses.gerund>
+  
+  <HaulCorpses.label>Пренеси трупове</HaulCorpses.label>
+  <HaulCorpses.verb>нося</HaulCorpses.verb>
+  <HaulCorpses.gerund>носи</HaulCorpses.gerund>
+  
+  <HaulGeneral.label>Пренасяне</HaulGeneral.label>
+  <HaulGeneral.verb>нося</HaulGeneral.verb>
+  <HaulGeneral.gerund>носи</HaulGeneral.gerund>
+  
+  <!-- ============= Cleaning ============= -->
+  
+  <CleanClearSnow.label>Почисти сняг</CleanClearSnow.label>
+  <CleanClearSnow.verb>чистя</CleanClearSnow.verb>
+  <CleanClearSnow.gerund>чисти</CleanClearSnow.gerund>
+  
+  <CleanFilth.label>Почисти настилка</CleanFilth.label>
+  <CleanFilth.verb>чистя</CleanFilth.verb>
+  <CleanFilth.gerund>чисти</CleanFilth.gerund>
+  
+  <!-- ============= Research ============= -->
+  
+  <Research.label>проучвай</Research.label>
+  <Research.verb>проучвам</Research.verb>
+  <Research.gerund>проучва</Research.gerund>
+
+
+</LanguageData>
