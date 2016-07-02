@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Shooting.skillLabel>Стрелба</Shooting.skillLabel>
+  <Shooting.description>Умение за използването на различни далекобойни оръжия.</Shooting.description>
+  <Shooting.pawnLabel>Стрелец</Shooting.pawnLabel>
+
+  <Melee.skillLabel>Ръкопашен бой</Melee.skillLabel>
+  <Melee.description>Умение за използването на различни оръжия за ръкопашен бой (вкл. юмруци).</Melee.description>
+  <Melee.pawnLabel>Боец</Melee.pawnLabel>
+
+  <Social.skillLabel>Социални</Social.skillLabel>
+  <Social.description>Умения свързани с търговия, манипулиране, вербуване, командване и приповдигане духа на други хора.</Social.description>
+  <Social.pawnLabel>Оратор</Social.pawnLabel>
+
+  <Animals.skillLabel>Дресировка</Animals.skillLabel>
+  <Animals.description>Умението за дресировка, опитомяване и контрол на животни.</Animals.description>
+  <Animals.pawnLabel>Дресьор</Animals.pawnLabel>
+
+  <Medicine.skillLabel>Медицина</Medicine.skillLabel>
+  <Medicine.description>Умението за лекуване на наранявания и инфекции, както и провеждане на операции.</Medicine.description>
+  <Medicine.pawnLabel>Доктор</Medicine.pawnLabel>
+
+  <Cooking.skillLabel>Готвене</Cooking.skillLabel>
+  <Cooking.description>Умението за приготвяне на ястия от сурови съставки.</Cooking.description>
+  <Cooking.pawnLabel>Готвач</Cooking.pawnLabel>
+
+  <Construction.skillLabel>Строеж</Construction.skillLabel>
+  <Construction.description>Умението за построяване на по-качествени структури или мебели.</Construction.description>
+  <Construction.pawnLabel>Строител</Construction.pawnLabel>
+
+  <Growing.skillLabel>Градинарство</Growing.skillLabel>
+  <Growing.description>Умение, което определя способността на заселника да сее, обгрижва, и събира реколтата от различни растения.</Growing.description>
+  <Growing.pawnLabel>Градинар</Growing.pawnLabel>
+
+  <Mining.skillLabel>Миньор</Mining.skillLabel>
+  <Mining.description>Умението за копаене на скали и тунели, както и извличане на ценни минерали.</Mining.description>
+  <Mining.pawnLabel>Миньор</Mining.pawnLabel>
+
+  <Artistic.skillLabel>Изкуство</Artistic.skillLabel>
+  <Artistic.description>Умението за сътворяване на творби на изкуството.</Artistic.description>
+  <Artistic.pawnLabel>Творец</Artistic.pawnLabel>
+
+  <Crafting.skillLabel>Занаяти</Crafting.skillLabel>
+  <Crafting.description>Умението за изработка на предмети като напр. оръжия и инструменти.</Crafting.description>
+  <Crafting.pawnLabel>Занаятчия</Crafting.pawnLabel>
+
+  <Research.skillLabel>Проучване</Research.skillLabel>
+  <Research.description>Умението за извършване на различни проекти, експерименти и изследвания.</Research.description>
+  <Research.pawnLabel>Учен</Research.pawnLabel>
+
+</LanguageData>
