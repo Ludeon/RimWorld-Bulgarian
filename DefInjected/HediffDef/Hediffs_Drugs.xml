@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Alcohol.label>Алкохол</Alcohol.label>
+  <Alcohol.stages.0.label>леко опияниение (скрито)</Alcohol.stages.0.label>
+  <Alcohol.stages.1.label>топъл</Alcohol.stages.1.label>
+  <Alcohol.stages.2.label>опиянен</Alcohol.stages.2.label>
+  <Alcohol.stages.3.label>пиян</Alcohol.stages.3.label>
+  <Alcohol.stages.4.label>много пиян</Alcohol.stages.4.label>
+  <Alcohol.stages.5.label>под масата</Alcohol.stages.5.label>
+
+  <Hangover.label>Махмурлук</Hangover.label>
+  <Hangover.stages.0.label>лек</Hangover.stages.0.label>
+  <Hangover.stages.1.label>силен</Hangover.stages.1.label>
+  <Hangover.stages.2.label>пулсиращ</Hangover.stages.2.label>
+  <Hangover.stages.3.label>дезориентиращ</Hangover.stages.3.label>
+
+</LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BloodLoss.label>Кръвотечение</BloodLoss.label>
+  <BloodLoss.stages.0.label>минимално</BloodLoss.stages.0.label>
+  <BloodLoss.stages.1.label>леко</BloodLoss.stages.1.label>
+  <BloodLoss.stages.2.label>средно</BloodLoss.stages.2.label>
+  <BloodLoss.stages.3.label>силно</BloodLoss.stages.3.label>
+  <BloodLoss.stages.4.label>екстремно</BloodLoss.stages.4.label>
+
+  <Anesthetic.label>Упойка</Anesthetic.label>
+
+  <Concussion.label>Сътресение</Concussion.label>
+
+  <CryptosleepSickness.label>Неразположение след криптосън</CryptosleepSickness.label>
+
+  <PsychicShock.label>Психически шок</PsychicShock.label>
+
+  <FoodPoisoning.label>Хранително натравяне</FoodPoisoning.label>
+
+  <ToxicBuildup.label>Натравяне</ToxicBuildup.label>
+  <ToxicBuildup.stages.0.label>начално (скрити синдроми)</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>начално</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.2.label>леко</ToxicBuildup.stages.2.label>
+  <ToxicBuildup.stages.3.label>средно</ToxicBuildup.stages.3.label>
+  <ToxicBuildup.stages.4.label>силно</ToxicBuildup.stages.4.label>
+  <ToxicBuildup.stages.5.label>екстремно</ToxicBuildup.stages.5.label>
+
+  <Pregnant.label>Бременност</Pregnant.label>
+  <Pregnant.comps.0.discoverLetterLabel>{0} е бременна</Pregnant.comps.0.discoverLetterLabel>
+  <Pregnant.comps.0.discoverLetterText>{0} е бременна!</Pregnant.comps.0.discoverLetterText>
+  <Pregnant.stages.0.label>Първо тримесечие</Pregnant.stages.0.label>
+  <Pregnant.stages.1.label>Второ тримесечие</Pregnant.stages.1.label>
+  <Pregnant.stages.2.label>трето тримесечие</Pregnant.stages.2.label>
+
+</LanguageData>
