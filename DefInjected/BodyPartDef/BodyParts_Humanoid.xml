@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- base -->
+
+  <Torso.label>Торс</Torso.label>
+  <LeftShoulder.label>Ляво рамо</LeftShoulder.label>
+  <LeftArm.label>Лява ръка</LeftArm.label>
+  <LeftHand.label>Лява длан</LeftHand.label>
+  <LeftHandPinky.label>Кутре (ляво)</LeftHandPinky.label>
+  <LeftHandRingFinger.label>Безименен пръст (ляв)</LeftHandRingFinger.label>
+  <LeftHandMiddleFinger.label>Среден пръст (ляв)</LeftHandMiddleFinger.label>
+  <LeftHandIndexFinger.label>Показалец (ляв)</LeftHandIndexFinger.label>
+  <LeftHandThumb.label>Палец (ляв)</LeftHandThumb.label>
+  <RightShoulder.label>Дясно рамо</RightShoulder.label>
+  <RightArm.label>Дясна ръка</RightArm.label>
+  <RightHand.label>Дясна длан</RightHand.label>
+  <RightHandPinky.label>Кутре (rechts)</RightHandPinky.label>
+  <RightHandRingFinger.label>Безименен пръст (десен)</RightHandRingFinger.label>
+  <RightHandMiddleFinger.label>Среден пръст (десен)</RightHandMiddleFinger.label>
+  <RightHandIndexFinger.label>Показалец (десен)</RightHandIndexFinger.label>
+  <RightHandThumb.label>Палец (десен)</RightHandThumb.label>
+  <LeftFootLittleToe.label>Кутре на крак (ляв)</LeftFootLittleToe.label>
+  <LeftFootFourthToe.label>Четвърти пръст на крак (ляв)</LeftFootFourthToe.label>
+  <LeftFootMiddleToe.label>Среден пръст на крак (ляв)</LeftFootMiddleToe.label>
+  <LeftFootSecondToe.label>Втори пръст на крак (ляв)</LeftFootSecondToe.label>
+  <LeftFootBigToe.label>Голям пръст на крак (ляв)</LeftFootBigToe.label>
+  <RightFootLittleToe.label>Кутре на крак (десен)</RightFootLittleToe.label>
+  <RightFootFourthToe.label>Четвърти пръст на крак (десен)</RightFootFourthToe.label>
+  <RightFootMiddleToe.label>Среден пръст на крак (десен)</RightFootMiddleToe.label>
+  <RightFootSecondToe.label>Втори пръстна крак (десен)</RightFootSecondToe.label>
+  <RightFootBigToe.label>Голям пръст на крак (десен)</RightFootBigToe.label>
+
+  <!-- Bones -->
+
+  <LeftClavicle.label>Лява плешка</LeftClavicle.label>
+  <RightClavicle.label>Дясна плешка</RightClavicle.label>
+  <Sternum.label>Гръдна кост</Sternum.label>
+  <LeftHumerus.label>Лява раменна кост</LeftHumerus.label>
+  <RightHumerus.label>Дясна раменна кост</RightHumerus.label>
+  <LeftRadius.label>Лява лъчева кост</LeftRadius.label>
+  <RightRadius.label>Дясна лъчева кост</RightRadius.label>
+  <Pelvis.label>Слабини</Pelvis.label>
+  <LeftFemur.label>Лява бедрена кост</LeftFemur.label>
+  <RightFemur.label>Дясна бедрена кост</RightFemur.label>
+  <LeftTibia.label>Ляв пищял</LeftTibia.label>
+  <RightTibia.label>Десен пищял</RightTibia.label>
+
+</LanguageData>

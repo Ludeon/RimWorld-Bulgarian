@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Head.label>Глава</Head.label>
+  <Skull.label>Череп</Skull.label>
+  <Brain.label>Мозък</Brain.label>
+  <LeftEye.label>Ляво око</LeftEye.label>
+  <RightEye.label>Дясно око</RightEye.label>
+  <LeftEar.label>Ляво ухо</LeftEar.label>
+  <RightEar.label>Дясно ухо</RightEar.label>
+  <Nose.label>Нос</Nose.label>
+  <Jaw.label>Челюст</Jaw.label>
+  <Neck.label>Врат</Neck.label>
+  <Rib.label>Ребро</Rib.label>
+  <Spine.label>Гръбначен стълб</Spine.label>
+  <LeftLeg.label>Ляв крак</LeftLeg.label>
+  <LeftFoot.label>Ляво стъпало</LeftFoot.label>
+  <RightLeg.label>Десен крак</RightLeg.label>
+  <RightFoot.label>Дясно стъпало</RightFoot.label>
+
+</LanguageData>
