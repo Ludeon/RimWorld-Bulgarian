@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Root.label>Основна</Root.label>
+  <Resources.label>Ресурси</Resources.label>
+  <Foods.label>Храни</Foods.label>
+  <FoodMeals.label>Ястия</FoodMeals.label>
+  <FoodRaw.label>Сурови храни</FoodRaw.label>
+  <MeatRaw.label>Месо</MeatRaw.label>
+  <PlantFoodRaw.label>Вегетариански</PlantFoodRaw.label>
+  <AnimalProductRaw.label>Животински продукти</AnimalProductRaw.label>
+  <EggsUnfertilized.label>Яйца (неопл.)</EggsUnfertilized.label>
+  <EggsFertilized.label>Яйца (опл.)</EggsFertilized.label>
+  <Manufactured.label>Изработени предмети</Manufactured.label>
+  <Textiles.label>Текстил</Textiles.label>
+  <Leathers.label>Кожи</Leathers.label>
+  <Medicine.label>Лекарства</Medicine.label>
+  <ResourcesRaw.label>Суровини</ResourcesRaw.label>
+  <StoneBlocks.label>Каммени блокове</StoneBlocks.label>
+  <Items.label>Предмети</Items.label>
+  <Art.label>Творби</Art.label>
+  <Furniture.label>Мебели</Furniture.label>
+  <Unfinished.label>Незавършени</Unfinished.label>
+  <Weapons.label>Оръжия</Weapons.label>
+  <WeaponsMelee.label>Оръжия за ръкопашен бой</WeaponsMelee.label>
+  <WeaponsRanged.label>Огнестрелни оръжия</WeaponsRanged.label>
+  <Grenades.label>Гранати</Grenades.label>
+  <Apparel.label>Дрехи</Apparel.label>
+  <Headgear.label>Шапки и др.</Headgear.label>
+  <BodyPartsAndImplants.label>Телесни части</BodyPartsAndImplants.label>
+  <Chunks.label>Парчета</Chunks.label>
+  <StoneChunks.label>Каммени парчета</StoneChunks.label>
+  <Corpses.label>Трупове</Corpses.label>
+  <CorpsesHumanlike.label>Човешки трупове</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>Животински трупове</CorpsesAnimal.label>
+  <CorpsesMechanoid.label>Механоидни трупове</CorpsesMechanoid.label>
+
+</LanguageData>
