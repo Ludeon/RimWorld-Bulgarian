@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Combat -->
+
+  <Kills.label>Убити</Kills.label>
+  <Kills.description>Броят на враговете, които заселникът е убил.</Kills.description>
+
+  <KillsHumanlikes.label>Убити (човекоподобни)</KillsHumanlikes.label>
+  <KillsHumanlikes.description>Броят на човекоподобните врагове, които заселникът е убил.</KillsHumanlikes.description>
+
+  <KillsAnimals.label>Убити (животни)</KillsAnimals.label>
+  <KillsAnimals.description>Броят на животните, които заселникът е убил.</KillsAnimals.description>
+
+  <KillsMechanoids.label>Убити (механоиди)</KillsMechanoids.label>
+  <KillsMechanoids.description>Броят на механоидите, които заселникът е убил.</KillsMechanoids.description>
+
+  <PawnsDowned.label>Безсилни</PawnsDowned.label>
+  <PawnsDowned.description>Броят на враговете, които заселникът е довел до безсилен статус.</PawnsDowned.description>
+
+  <PawnsDownedHumanlikes.label>Безсилни (човекоподобни)</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.description>Броят на човекоподобните врагове, които заселникът е довел до безсилен статус.</PawnsDownedHumanlikes.description>
+
+  <PawnsDownedAnimals.label>Безсилни (животни)</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.description>Броят на животните, които заселникът е довел до безсилен статус.</PawnsDownedAnimals.description>
+
+  <PawnsDownedMechanoids.label>Безсилни (механоиди)</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.description>Броят на механоидите, които заселникът е довел до безсилен статус.</PawnsDownedMechanoids.description>
+
+  <ShotsFired.label>Брой изстрели</ShotsFired.label>
+  <ShotsFired.description>Броят изстрели, които заселникът е направил.</ShotsFired.description>
+
+  <Headshots.label>Изстрели в главата</Headshots.label>
+  <Headshots.description>Броят на изстрелите в главата, които заселникът е нанесъл.</Headshots.description>
+
+  <DamageDealt.label>Нанесени щети</DamageDealt.label>
+  <DamageDealt.description>Щетите, които заселникът е нанесъл.</DamageDealt.description>
+
+  <DamageTaken.label>Понесени щети</DamageTaken.label>
+  <DamageTaken.description>Щетите, които заселникът е понесъл.</DamageTaken.description>
+
+  <!-- Excitement -->
+
+  <TimesInMentalState.label>Нерви сривове</TimesInMentalState.label>
+  <TimesInMentalState.description>Броят нервни сривове, които заселникът е понесъл.</TimesInMentalState.description>
+
+  <TimesOnFire.label>Изгорен</TimesOnFire.label>
+  <TimesOnFire.description>Броят случаи, в които заселникът е горял.</TimesOnFire.description>
+
+  <FiresExtinguished.label>Потушени огньове</FiresExtinguished.label>
+  <FiresExtinguished.description>Броят огньове, които заселникът е потушил.</FiresExtinguished.description>
+
+  <!-- Work -->
+
+  <OperationsReceived.label>Понесени операции</OperationsReceived.label>
+  <OperationsReceived.description>Броят на операциите, които заселникът е понесъл.</OperationsReceived.description>
+
+  <OperationsPerformed.label>Извършени операции</OperationsPerformed.label>
+  <OperationsPerformed.description>Броят на операциите, които заселникът е извършил.</OperationsPerformed.description>
+
+  <TimesTendedTo.label>Понесени обгрижвания</TimesTendedTo.label>
+  <TimesTendedTo.description>Броят случаи, в които заселникът е бил обгрижван.</TimesTendedTo.description>
+
+  <TimesTendedOther.label>Обгрижвания</TimesTendedOther.label>
+  <TimesTendedOther.description>Брой случаи, в които заселникът в обгрижвал други.</TimesTendedOther.description>
+
+  <PeopleCaptured.label>Пленени хора</PeopleCaptured.label>
+  <PeopleCaptured.description>Броят хора, които заселникът е пленил.</PeopleCaptured.description>
+
+  <PrisonersRecruited.label>Вербувани пленници</PrisonersRecruited.label>
+  <PrisonersRecruited.description>Броят пленници, които заселникът е вербувал.</PrisonersRecruited.description>
+
+  <PrisonersChatted.label>Разговори със затворници</PrisonersChatted.label>
+  <PrisonersChatted.description>Броят на разговори, които заселникът е провел със затворници.</PrisonersChatted.description>
+
+  <AnimalsTamed.label>Опитомени животни</AnimalsTamed.label>
+  <AnimalsTamed.description>Броят животни, които заселникът е опитомил.</AnimalsTamed.description>
+
+  <AnimalsSlaughtered.label>Заколени животни</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.description>Броят животни, които заселникът е заколил.</AnimalsSlaughtered.description>
+
+  <MealsCooked.label>Сготвени ястия</MealsCooked.label>
+  <MealsCooked.description>Броят ястия, които заселникът е сготвил.</MealsCooked.description>
+
+  <ThingsConstructed.label>Построени неща</ThingsConstructed.label>
+  <ThingsConstructed.description>Броят неща, които заселникът е построил.</ThingsConstructed.description>
+
+  <ThingsInstalled.label>Инсталирани предмети</ThingsInstalled.label>
+  <ThingsInstalled.description>Броят неща, които заселникът е инсталирал.</ThingsInstalled.description>
+
+  <ThingsRepaired.label>Поправени предмети</ThingsRepaired.label>
+  <ThingsRepaired.description>Броят предмети, които заселникът е поправил.</ThingsRepaired.description>
+
+  <ThingsCrafted.label>Създадени предмети</ThingsCrafted.label>
+  <ThingsCrafted.description>Броят предмети, които заселникът е създал.</ThingsCrafted.description>
+
+  <ThingsHauled.label>Пренесени предмети</ThingsHauled.label>
+  <ThingsHauled.description>Броят предмети, които заселникът е пренесъл.</ThingsHauled.description>
+
+  <PlantsSown.label>Засадени растения</PlantsSown.label>
+  <PlantsSown.description>Броят растения, които заселникът е засадил.</PlantsSown.description>
+
+  <PlantsHarvested.label>Ожънати растения</PlantsHarvested.label>
+  <PlantsHarvested.description>Броят растения, които заселникът е ожънал.</PlantsHarvested.description>
+
+  <CellsMined.label>Изкопани клетки</CellsMined.label>
+  <CellsMined.description>Броят клетки, които заселникът е изкопал.</CellsMined.description>
+
+  <MessesCleaned.label>Почистена мръсотия</MessesCleaned.label>
+  <MessesCleaned.description>Броят пъти, в които заселникът е почистил мръсотия.</MessesCleaned.description>
+
+  <ResearchPointsResearched.label>Извършени проучвания</ResearchPointsResearched.label>
+  <ResearchPointsResearched.description>Броят проучвания, които заселникът е извършил.</ResearchPointsResearched.description>
+
+  <CorpsesBuried.label>Погребани трупове</CorpsesBuried.label>
+  <CorpsesBuried.description>Броят трупове, които заселникът е погребал.</CorpsesBuried.description>
+
+  <NutritionEaten.label>Изядени ястия</NutritionEaten.label>
+  <NutritionEaten.description>Броят ястия, които заселникът е консумирал.</NutritionEaten.description>
+
+  <TrapsRearmed.label>Реактивирани капани</TrapsRearmed.label>
+  <TrapsRearmed.description>Броят капани, които заселникът е реактивирал.</TrapsRearmed.description>
+
+  <BodiesStripped.label>Съблечени тела</BodiesStripped.label>
+  <BodiesStripped.description>Броят тела, от които заселникът е съблякъл дрехи.</BodiesStripped.description>
+
+  <ThingsUninstalled.label>Преместени предмети</ThingsUninstalled.label>
+  <ThingsUninstalled.description>Броят предмети, които заселникът е преместил.</ThingsUninstalled.description>
+
+  <ThingsDeconstructed.label>Разрушени постройки</ThingsDeconstructed.label>
+  <ThingsDeconstructed.description>Броят постройки, които заселникът е разрушил.</ThingsDeconstructed.description>
+
+  <ArtifactsActivated.label>Активирани артефакти</ArtifactsActivated.label>
+  <ArtifactsActivated.description>Броят артефакти, които заселникът е активирал.</ArtifactsActivated.description>
+
+  <ContainersOpened.label>Отворени съдове</ContainersOpened.label>
+  <ContainersOpened.description>Броят съдове (от всеки тип), които заселникът е отворил.</ContainersOpened.description>
+
+  <SwitchesFlicked.label>Натиснати шалтери</SwitchesFlicked.label>
+  <SwitchesFlicked.description>Броят на шалтерите, които заселникът е натиснал.</SwitchesFlicked.description>
+
+</LanguageData>
