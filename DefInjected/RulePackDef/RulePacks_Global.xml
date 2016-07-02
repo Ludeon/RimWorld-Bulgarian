@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GlobalUtility.rulePack.rulesStrings.0>quantity_adjphrase->група</GlobalUtility.rulePack.rulesStrings.0>
+  <GlobalUtility.rulePack.rulesStrings.1>quantity_adjphrase->няколко</GlobalUtility.rulePack.rulesStrings.1>
+  <GlobalUtility.rulePack.rulesStrings.2>quantity_adjphrase->дузини</GlobalUtility.rulePack.rulesStrings.2>
+  <GlobalUtility.rulePack.rulesStrings.3>quantity_adjphrase->две</GlobalUtility.rulePack.rulesStrings.3>
+  <GlobalUtility.rulePack.rulesStrings.4>quantity_adjphrase->три</GlobalUtility.rulePack.rulesStrings.4>
+  <GlobalUtility.rulePack.rulesStrings.5>quantity_adjphrase->четири</GlobalUtility.rulePack.rulesStrings.5>
+  <GlobalUtility.rulePack.rulesStrings.6>quantity_adjphrase->пет</GlobalUtility.rulePack.rulesStrings.6>
+  <GlobalUtility.rulePack.rulesStrings.7>quantity_adjphrase->шест</GlobalUtility.rulePack.rulesStrings.7>
+  <GlobalUtility.rulePack.rulesStrings.8>quantity_adjphrase->безбройни</GlobalUtility.rulePack.rulesStrings.8>
+  <GlobalUtility.rulePack.rulesStrings.9>quantity_adjphrase->много</GlobalUtility.rulePack.rulesStrings.9>
+  <GlobalUtility.rulePack.rulesStrings.10>game->покер</GlobalUtility.rulePack.rulesStrings.10>
+  <GlobalUtility.rulePack.rulesStrings.11>game->шах</GlobalUtility.rulePack.rulesStrings.11>
+  <GlobalUtility.rulePack.rulesStrings.12>game->карти</GlobalUtility.rulePack.rulesStrings.12>
+  <GlobalUtility.rulePack.rulesStrings.13>game->табла</GlobalUtility.rulePack.rulesStrings.13>
+  <GlobalUtility.rulePack.rulesStrings.14>game->RimWorld</GlobalUtility.rulePack.rulesStrings.14>
+  <GlobalUtility.rulePack.rulesStrings.15>game->Монопол</GlobalUtility.rulePack.rulesStrings.15>
+  <GlobalUtility.rulePack.rulesStrings.16>game->рулетка</GlobalUtility.rulePack.rulesStrings.16>
+  <GlobalUtility.rulePack.rulesStrings.17>game->блекджек</GlobalUtility.rulePack.rulesStrings.17>
+  <GlobalUtility.rulePack.rulesStrings.18>vegetable->домат</GlobalUtility.rulePack.rulesStrings.18>
+  <GlobalUtility.rulePack.rulesStrings.19>vegetable->морков</GlobalUtility.rulePack.rulesStrings.19>
+  <GlobalUtility.rulePack.rulesStrings.20>vegetable->лук</GlobalUtility.rulePack.rulesStrings.20>
+  <GlobalUtility.rulePack.rulesStrings.21>vegetable->ряпа</GlobalUtility.rulePack.rulesStrings.21>
+  <GlobalUtility.rulePack.rulesStrings.22>vegetable->зелка</GlobalUtility.rulePack.rulesStrings.22>
+  <GlobalUtility.rulePack.rulesStrings.23>vegetable->целина</GlobalUtility.rulePack.rulesStrings.23>
+  <GlobalUtility.rulePack.rulesStrings.24>vegetable->кратуна от тиква</GlobalUtility.rulePack.rulesStrings.24>
+  <GlobalUtility.rulePack.rulesStrings.25>vegetable->тиква</GlobalUtility.rulePack.rulesStrings.25>
+  <GlobalUtility.rulePack.rulesStrings.26>vegetable->броколи</GlobalUtility.rulePack.rulesStrings.26>
+  <GlobalUtility.rulePack.rulesStrings.27>vegetable->цветно зеле</GlobalUtility.rulePack.rulesStrings.27>
+  <GlobalUtility.rulePack.rulesStrings.28>vegetable->пипер</GlobalUtility.rulePack.rulesStrings.28>
+  <GlobalUtility.rulePack.rulesStrings.29>vegetable->картоф</GlobalUtility.rulePack.rulesStrings.29>
+  <GlobalUtility.rulePack.rulesStrings.30>vegetable->гъба</GlobalUtility.rulePack.rulesStrings.30>
+  <GlobalUtility.rulePack.rulesStrings.31>trans->от</GlobalUtility.rulePack.rulesStrings.31>
+  <GlobalUtility.rulePack.rulesStrings.32>trans->за</GlobalUtility.rulePack.rulesStrings.32>
+  <GlobalUtility.rulePack.rulesStrings.33>trans->на</GlobalUtility.rulePack.rulesStrings.33>
+  <GlobalUtility.rulePack.rulesStrings.34>trans->с</GlobalUtility.rulePack.rulesStrings.34>
+
+</LanguageData>
