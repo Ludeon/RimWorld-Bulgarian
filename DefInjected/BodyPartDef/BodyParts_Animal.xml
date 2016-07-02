@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- torso for animals -->
+
+  <Body.label>Тяло</Body.label>
+  <Beak.label>Клюн</Beak.label>
+  <InsectHead.label>Глава</InsectHead.label>
+  <SnakeBody.label>Тяло</SnakeBody.label>
+  <SnakeHead.label>Глава</SnakeHead.label>
+  <SnakeMouth.label>Уста</SnakeMouth.label>
+  <InsectHeart.label>Сърце</InsectHeart.label>
+  <InsectNostril.label>Ноздра</InsectNostril.label>
+  <InsectMouth.label>Уста</InsectMouth.label>
+  <Jowl.label>Буза</Jowl.label>
+  <Tail.label>Опашка</Tail.label>
+  <LeftAntenna.label>Лява антена</LeftAntenna.label>
+  <RightAntenna.label>Дясна антена</RightAntenna.label>
+  <Pronotum.label>щит</Pronotum.label>
+  <Shell.label>броня</Shell.label>
+  <LeftElytra.label>Лява елитра</LeftElytra.label>
+  <RightElytra.label>Дясна елитра</RightElytra.label>
+  <LeftTusk.label>Ляв бивник</LeftTusk.label>
+  <RightTusk.label>Десен бивник</RightTusk.label>
+  <Trunk.label>Хобот</Trunk.label>
+  <Horn.label>Рог</Horn.label>
+  <HeadClaw.label>Нокът на главата</HeadClaw.label>
+  <Hump.label>гърбица</Hump.label>
+  <TurtleShell.label>коруба</TurtleShell.label>
+  <Plastron.label>коремен щит</Plastron.label>
+  <TurtleBeak.label>Клюн</TurtleBeak.label>
+
+  <!-- animals legs -->
+
+  <FrontLeftLeg.label>Преден ляв крак</FrontLeftLeg.label>
+  <FrontRightLeg.label>Преден десен крак</FrontRightLeg.label>
+  <MiddleLeftLeg.label>Среден ляв крак</MiddleLeftLeg.label>
+  <MiddleRightLeg.label>Среден десен крак</MiddleRightLeg.label>
+  <RearLeftLeg.label>Заден ляв крак</RearLeftLeg.label>
+  <RearRightLeg.label>Заден десен крак</RearRightLeg.label>
+
+  <FrontLeftInsectLeg.label>Преден ляв крак</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>Преден десен крак</FrontRightInsectLeg.label>
+  <MiddleLeftInsectLeg.label>Среден ляв крак</MiddleLeftInsectLeg.label>
+  <MiddleRightInsectLeg.label>Среден десен крак</MiddleRightInsectLeg.label>
+  <RearLeftInsectLeg.label>Заден ляв крак</RearLeftInsectLeg.label>
+  <RearRightInsectLeg.label>Заден десен крак</RearRightInsectLeg.label>
+
+  <FrontLeftPaw.label>Предна лява лапа</FrontLeftPaw.label>
+  <FrontRightPaw.label>Предна дясна лапа</FrontRightPaw.label>
+  <RearLeftPaw.label>Задна лява лапа</RearLeftPaw.label>
+  <RearRightPaw.label>Задна дясна лапа</RearRightPaw.label>
+  <FrontLeftHoof.label>Предно ляво копито</FrontLeftHoof.label>
+  <FrontRightHoof.label>Предно дясно копито</FrontRightHoof.label>
+  <RearLeftHoof.label>Задно ляво копити</RearLeftHoof.label>
+  <RearRightHoof.label>Задно дясно копито</RearRightHoof.label>
+
+  <FrontLeftLegFirstClaw.label>Преден ляв крак, първи нокът</FrontLeftLegFirstClaw.label>
+  <FrontLeftLegSecondClaw.label>Преден ляв крак, втори нокът</FrontLeftLegSecondClaw.label>
+  <FrontLeftLegThirdClaw.label>Преден ляв крак, трети нокът</FrontLeftLegThirdClaw.label>
+  <FrontLeftLegFourthClaw.label>Преден ляв крак, четвърти нокът</FrontLeftLegFourthClaw.label>
+  <FrontLeftLegFifthClaw.label>Преден ляв крак, пети нокът</FrontLeftLegFifthClaw.label>
+  <FrontRightLegFirstClaw.label>Преден десен крак, първи нокът</FrontRightLegFirstClaw.label>
+  <FrontRightLegSecondClaw.label>Преден десен крак, втори нокът</FrontRightLegSecondClaw.label>
+  <FrontRightLegThirdClaw.label>Преден десен крак, трети нокът</FrontRightLegThirdClaw.label>
+  <FrontRightLegFourthClaw.label>Преден десен крак, четвърти нокът</FrontRightLegFourthClaw.label>
+  <FrontRightLegFifthClaw.label>Преден десен крак, пети нокът</FrontRightLegFifthClaw.label>
+
+  <RearLeftLegFirstClaw.label>Заден ляв крак, първи нокът</RearLeftLegFirstClaw.label>
+  <RearLeftLegSecondClaw.label>Заден ляв крак, втори нокът</RearLeftLegSecondClaw.label>
+  <RearLeftLegThirdClaw.label>Заден ляв крак, трети нокът</RearLeftLegThirdClaw.label>
+  <RearLeftLegFourthClaw.label>Заден ляв крак, четвърти нокът</RearLeftLegFourthClaw.label>
+  <RearLeftLegFifthClaw.label>Заден ляв крак, пети нокът</RearLeftLegFifthClaw.label>
+  <RearRightLegFirstClaw.label>Заден десен крак, първи нокът</RearRightLegFirstClaw.label>
+  <RearRightLegSecondClaw.label>Заден десен крак, втори нокът</RearRightLegSecondClaw.label>
+  <RearRightLegThirdClaw.label>Заден десен крак, трети нокът</RearRightLegThirdClaw.label>
+  <RearRightLegFourthClaw.label>Заден десен крак, четвърти нокът</RearRightLegFourthClaw.label>
+  <RearRightLegFifthClaw.label>Заден десен крак, пети нокът</RearRightLegFifthClaw.label>
+
+</LanguageData>
