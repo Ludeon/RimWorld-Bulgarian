@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Firefighter.labelShort>Пожарникар</Firefighter.labelShort>
+  <Firefighter.pawnLabel>Пожарникар</Firefighter.pawnLabel>
+  <Firefighter.gerundLabel>Борба с огъня</Firefighter.gerundLabel>
+  <Firefighter.verb>Загаси</Firefighter.verb>
+  <Firefighter.description>Загася огън в основната зона на колонията.</Firefighter.description>
+
+  <PatientEmergency.labelShort>Пациент</PatientEmergency.labelShort>
+  <PatientEmergency.pawnLabel>Пациент</PatientEmergency.pawnLabel>
+  <PatientEmergency.gerundLabel>Пациент</PatientEmergency.gerundLabel>
+  <PatientEmergency.verb>стани пациент</PatientEmergency.verb>
+  <PatientEmergency.description>При наранявания и опасни за живота болести, заселникът ще приеме роля на пациент и ще отиде в най-близкото болнично легло (или собствено, ако липсва медицинско).</PatientEmergency.description>
+
+  <Doctor.labelShort>Доктор</Doctor.labelShort>
+  <Doctor.pawnLabel>Доктор</Doctor.pawnLabel>
+  <Doctor.gerundLabel>Обгрижване</Doctor.gerundLabel>
+  <Doctor.verb>лекувам</Doctor.verb>
+  <Doctor.description>Лекуване и обгрижване на пациентите. Докторите се грижат както за заселници, така и за затворници.</Doctor.description>
+
+  <PatientBedRest.labelShort>На легло</PatientBedRest.labelShort>
+  <PatientBedRest.pawnLabel>На легло</PatientBedRest.pawnLabel>
+  <PatientBedRest.gerundLabel>На легло</PatientBedRest.gerundLabel>
+  <PatientBedRest.verb>На легло е</PatientBedRest.verb>
+  <PatientBedRest.description>Кара заселниците да си почиват от болести, които не са опасни за живота в медицинско легло (или собствено, ако липсва медицинско).</PatientBedRest.description>
+
+  <Flicker.labelShort>Вкл/изкл.</Flicker.labelShort>
+  <Flicker.pawnLabel>Вкл/изкл.</Flicker.pawnLabel>
+  <Flicker.gerundLabel>Вкл/изкл.</Flicker.gerundLabel>
+  <Flicker.verb>Вкл/изкл.</Flicker.verb>
+  <Flicker.description>Включване или изключване на механизми. Заселниците, на които е зададена тази работа ще отидат до макриран обект (напр. огнева кула) за да го активират или деактивират.</Flicker.description>
+
+  <Warden.labelShort>Надзирател</Warden.labelShort>
+  <Warden.pawnLabel>Надзирател</Warden.pawnLabel>
+  <Warden.gerundLabel>Надзирава</Warden.gerundLabel>
+  <Warden.verb>надзиравам</Warden.verb>
+  <Warden.description>Занимание, обгижване и вербуване на затворници.</Warden.description>
+
+  <Handling.labelShort>Дресьор</Handling.labelShort>
+  <Handling.pawnLabel>Дресьор</Handling.pawnLabel>
+  <Handling.gerundLabel>Дресировка</Handling.gerundLabel>
+  <Handling.verb>дресира</Handling.verb>
+  <Handling.description>Опитомява диви животни, обучава питомни, или извлича ресурси от домашни животни (напр. мляко).</Handling.description>
+
+  <Cooking.labelShort>Готвач</Cooking.labelShort>
+  <Cooking.pawnLabel>Готвач</Cooking.pawnLabel>
+  <Cooking.gerundLabel>Готвене</Cooking.gerundLabel>
+  <Cooking.verb>приготвя</Cooking.verb>
+  <Cooking.description>Занимава се с готвенето на ядене или коленето на различни трупове.</Cooking.description>
+
+  <Hunting.labelShort>Ловец</Hunting.labelShort>
+  <Hunting.pawnLabel>Ловец</Hunting.pawnLabel>
+  <Hunting.gerundLabel>ловува</Hunting.gerundLabel>
+  <Hunting.verb>ловувам</Hunting.verb>
+  <Hunting.description>Убива маркираните животни и ги носи до склад.</Hunting.description>
+
+  <Construction.labelShort>Строител</Construction.labelShort>
+  <Construction.pawnLabel>Строител</Construction.pawnLabel>
+  <Construction.gerundLabel>строилтел</Construction.gerundLabel>
+  <Construction.verb>строя</Construction.verb>
+  <Construction.description>Построява различни постройки върху картата.</Construction.description>
+
+  <Repair.labelShort>Механик</Repair.labelShort>
+  <Repair.pawnLabel>Механик</Repair.pawnLabel>
+  <Repair.gerundLabel>поправя</Repair.gerundLabel>
+  <Repair.verb>поправям</Repair.verb>
+  <Repair.description>Поправя повредени или поразени обекти и постройки.</Repair.description>
+
+  <Growing.labelShort>Градинар</Growing.labelShort>
+  <Growing.pawnLabel>Градинар</Growing.pawnLabel>
+  <Growing.gerundLabel>градинар</Growing.gerundLabel>
+  <Growing.verb>засявам</Growing.verb>
+  <Growing.description>Градинарят засява зони за сеене и събира реколтата.</Growing.description>
+
+  <Mining.labelShort>Миньор</Mining.labelShort>
+  <Mining.pawnLabel>Миньор</Mining.pawnLabel>
+  <Mining.gerundLabel>копае</Mining.gerundLabel>
+  <Mining.verb>копая</Mining.verb>
+  <Mining.description>Миньорът копае камъни или извлича ресурси от избраните клетки.</Mining.description>
+
+  <PlantCutting.labelShort>Дървар</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>Дървар</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>дървосекач</PlantCutting.gerundLabel>
+  <PlantCutting.verb>сека</PlantCutting.verb>
+  <PlantCutting.description>Дърварят сече дървета и събира горски пловоде (напр. ягоди), които растат по различни храсти.</PlantCutting.description>
+
+  <Smithing.labelShort>Ковач</Smithing.labelShort>
+  <Smithing.pawnLabel>Ковач</Smithing.pawnLabel>
+  <Smithing.gerundLabel>коване</Smithing.gerundLabel>
+  <Smithing.verb>кове</Smithing.verb>
+  <Smithing.description>Ковачът изработва оръжия и сечива от различни материали.</Smithing.description>
+
+  <Tailoring.labelShort>Шивач</Tailoring.labelShort>
+  <Tailoring.pawnLabel>Шивач</Tailoring.pawnLabel>
+  <Tailoring.gerundLabel>шиене</Tailoring.gerundLabel>
+  <Tailoring.verb>шия</Tailoring.verb>
+  <Tailoring.description>Шивачът изработва дрехи от кожи, памук и други материали.</Tailoring.description>
+
+  <Art.labelShort>Творец</Art.labelShort>
+  <Art.pawnLabel>Творец</Art.pawnLabel>
+  <Art.gerundLabel>творчество</Art.gerundLabel>
+  <Art.verb>твори</Art.verb>
+  <Art.description>Изработва произведения на изкуството (напр. скулптури) от различни материали.</Art.description>
+
+  <Crafting.labelShort>Занаятчия</Crafting.labelShort>
+  <Crafting.pawnLabel>Занаятчия</Crafting.pawnLabel>
+  <Crafting.gerundLabel>Занаятчия</Crafting.gerundLabel>
+  <Crafting.verb>изработва</Crafting.verb>
+  <Crafting.description>Занаятчията извършва примитивни работи като изработване на прости сечива и оръжия, дялане на камъни, претопяване на предмети и др.</Crafting.description>
+
+  <Hauling.labelShort>Носач</Hauling.labelShort>
+  <Hauling.pawnLabel>Носач</Hauling.pawnLabel>
+  <Hauling.gerundLabel>пренасяне</Hauling.gerundLabel>
+  <Hauling.verb>носи</Hauling.verb>
+  <Hauling.description>Пренася различни предмети в складовете, към които принадлежат.</Hauling.description>
+
+  <Cleaning.labelShort>Чистач</Cleaning.labelShort>
+  <Cleaning.pawnLabel>Чистач</Cleaning.pawnLabel>
+  <Cleaning.gerundLabel>чистене</Cleaning.gerundLabel>
+  <Cleaning.verb>почиства</Cleaning.verb>
+  <Cleaning.description>Чистачите премахват сняг, изхвърлят боклуци и чистят подовете, за да бъде колонията по-красива и всички по-доволни.</Cleaning.description>
+
+  <Research.labelShort>Учен</Research.labelShort>
+  <Research.pawnLabel>Учен</Research.pawnLabel>
+  <Research.gerundLabel>проучване</Research.gerundLabel>
+  <Research.verb>проучва</Research.verb>
+  <Research.description>Извършва изследователски проекти.</Research.description>
+
+
+
+</LanguageData>
