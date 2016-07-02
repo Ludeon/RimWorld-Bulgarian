@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Apparel_CowboyHat.label>Каубойска шапка</Apparel_CowboyHat.label>
+  <Apparel_CowboyHat.description>Стилна шапка, предпазваща както от слънце, така и от дъжд. Важна част от традиционните облекла на Дивия Запад.</Apparel_CowboyHat.description>
+
+  <Apparel_Tuque.label>Шапка</Apparel_Tuque.label>
+  <Apparel_Tuque.description>Мека вълнена шапка, която дърви главата топла през зимата.</Apparel_Tuque.description>
+
+  <Apparel_PowerArmorHelmet.label>Енергиен шлем</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.description>Част от енергийна броня, обикновено носена от тежката пехота.</Apparel_PowerArmorHelmet.description>
+
+  <Apparel_KevlarHelmet.label>Шлем</Apparel_KevlarHelmet.label>
+  <Apparel_KevlarHelmet.description>Шлем направен от кевлар, важна част от защитната екипировка на всеки заселник.</Apparel_KevlarHelmet.description>
+
+  <Apparel_MilitaryHelmet.label>Военен шлем</Apparel_MilitaryHelmet.label>
+  <Apparel_MilitaryHelmet.description>Тежък, стар военен шлем, който е все още годен за ползване. Предпазва от изстрели, шрапнели и падащи камъни.</Apparel_MilitaryHelmet.description>
+
+  <Apparel_PsychicFoilHelmet.label>Психичен шлем</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.description>Тънък шлем, направен от специално фолио, което абсорбира психичните вълни и помага при различни психични феномени.</Apparel_PsychicFoilHelmet.description>
+
+</LanguageData>
