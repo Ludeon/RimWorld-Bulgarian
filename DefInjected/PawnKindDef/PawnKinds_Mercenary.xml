@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MercenaryGunner.label>Наемен Войник</MercenaryGunner.label>
+  <MercenarySniper.label>Наемен Снайперист</MercenarySniper.label>
+  <GrenadierDestructive.label>Гренадир</GrenadierDestructive.label>
+  <GrenadierEMP.label>EMP-Гренадир</GrenadierEMP.label>
+  <MercenarySlasher.label>Наемен Войник</MercenarySlasher.label>
+  <MercenaryHeavy.label>Тежко Оборудван Наемен Войник</MercenaryHeavy.label>
+  <PirateBoss.label>Шеф</PirateBoss.label>
+  <MercenaryElite.label>Наемен Елитен Войник</MercenaryElite.label>
+
+</LanguageData>

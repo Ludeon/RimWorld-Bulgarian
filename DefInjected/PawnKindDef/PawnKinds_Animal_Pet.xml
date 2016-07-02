@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Warg.label>Варг</Warg.label>
+  <Warg.lifeStages.0.label>Пале Варг</Warg.lifeStages.0.label>
+  <Warg.lifeStages.1.label>Млад Варг</Warg.lifeStages.1.label>
+  <Warg.lifeStages.2.label>Варг</Warg.lifeStages.2.label>
+
+  <YorkshireTerrier.label>Йоркширски Териер</YorkshireTerrier.label>
+  <YorkshireTerrier.lifeStages.0.label>Пале Йоркширски Териер</YorkshireTerrier.lifeStages.0.label>
+  <YorkshireTerrier.lifeStages.1.label>Млад Йоркширски Териер</YorkshireTerrier.lifeStages.1.label>
+  <YorkshireTerrier.lifeStages.2.label>Йоркширски Териер</YorkshireTerrier.lifeStages.2.label>
+
+  <Husky.label>Хъски</Husky.label>
+  <Husky.lifeStages.0.label>Пале Хъски</Husky.lifeStages.0.label>
+  <Husky.lifeStages.1.label>Младо Хъски</Husky.lifeStages.1.label>
+  <Husky.lifeStages.2.label>Хъски</Husky.lifeStages.2.label>
+
+  <LabradorRetriever.label>Labrador Retriever</LabradorRetriever.label>
+  <LabradorRetriever.lifeStages.0.label>Labrador Retriever Welpe</LabradorRetriever.lifeStages.0.label>
+  <LabradorRetriever.lifeStages.1.label>Junger Labrador Retriever</LabradorRetriever.lifeStages.1.label>
+  <LabradorRetriever.lifeStages.2.label>Labrador Retriever</LabradorRetriever.lifeStages.2.label>
+
+  <Cat.label>Котка</Cat.label>
+  <Cat.lifeStages.0.label>Коте бебе</Cat.lifeStages.0.label>
+  <Cat.lifeStages.1.labelMale>Млад Котарак</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.1.labelFemale>Млада Котка</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.2.labelMale>Котарак</Cat.lifeStages.2.labelMale>
+  <Cat.lifeStages.2.labelFemale>Котка</Cat.lifeStages.2.labelFemale>
+
+</LanguageData>

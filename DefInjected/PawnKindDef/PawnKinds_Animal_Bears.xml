@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GrizzlyBear.label>Мечка Гризли</GrizzlyBear.label>
+  <GrizzlyBear.lifeStages.0.label>Бебе Мечка Гризли</GrizzlyBear.lifeStages.0.label>
+  <GrizzlyBear.lifeStages.1.label>Млада Мечка Гризли</GrizzlyBear.lifeStages.1.label>
+  <GrizzlyBear.lifeStages.2.label>Мечка Гризли</GrizzlyBear.lifeStages.2.label>
+
+  <PolarBear.label>Полярна Мечка</PolarBear.label>
+  <PolarBear.lifeStages.0.label>Бебе Полярна Мечка</PolarBear.lifeStages.0.label>
+  <PolarBear.lifeStages.1.label>Млада Полярна Мечка</PolarBear.lifeStages.1.label>
+  <PolarBear.lifeStages.2.label>Полярна Мечка</PolarBear.lifeStages.2.label>
+
+</LanguageData>

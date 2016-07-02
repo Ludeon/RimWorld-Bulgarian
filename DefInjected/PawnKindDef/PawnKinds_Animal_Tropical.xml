@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Cobra.label>Кобра</Cobra.label>
+  <Cobra.lifeStages.0.label>Кобра Бебе</Cobra.lifeStages.0.label>
+  <Cobra.lifeStages.1.label>Млада Кобра</Cobra.lifeStages.1.label>
+  <Cobra.lifeStages.2.label>Кобра</Cobra.lifeStages.2.label>
+
+  <Monkey.label>Маймуна</Monkey.label>
+  <Monkey.lifeStages.0.label>Бебе Маймуна</Monkey.lifeStages.0.label>
+  <Monkey.lifeStages.1.label>Млада Маймуна</Monkey.lifeStages.1.label>
+  <Monkey.lifeStages.2.label>Маймуна</Monkey.lifeStages.2.label>
+
+  <Chinchilla.label>Чинчила</Chinchilla.label>
+  <Chinchilla.lifeStages.0.label>Бебе Чинчила</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.1.label>Млада Чинчила</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.2.label>Чинчила</Chinchilla.lifeStages.2.label>
+
+  <Boomalope.label>Буумалопа</Boomalope.label>
+  <Boomalope.lifeStages.0.label>Бебе Буумалопа</Boomalope.lifeStages.0.label>
+  <Boomalope.lifeStages.1.label>Млада Буумалопа</Boomalope.lifeStages.1.label>
+  <Boomalope.lifeStages.2.label>Буумалопа</Boomalope.lifeStages.2.label>
+
+  <Capybara.label>Капибара</Capybara.label>
+  <Capybara.lifeStages.0.label>Бебе Капибара</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.1.label>Млада Капибара</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.2.label>Капибара</Capybara.lifeStages.2.label>
+
+  <Cougar.label>Пума</Cougar.label>
+  <Cougar.lifeStages.0.label>Бебе Пума</Cougar.lifeStages.0.label>
+  <Cougar.lifeStages.1.label>Млада Пума</Cougar.lifeStages.1.label>
+  <Cougar.lifeStages.2.label>Пума</Cougar.lifeStages.2.label>
+
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Squirrel.label>Катерица</Squirrel.label>
+  <Squirrel.lifeStages.0.label>Катеричка</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.1.label>Млада Катерица</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.2.label>Катерица</Squirrel.lifeStages.2.label>
+
+  <Boomrat.label>Буум-плъх</Boomrat.label>
+  <Boomrat.lifeStages.0.label>Бебе Буум-плъх</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.1.label>Млад Буум-плъх</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.2.label>Буум-плъх</Boomrat.lifeStages.2.label>
+
+  <WildBoar.label>Глиган</WildBoar.label>
+  <WildBoar.lifeStages.0.label>Прасенце</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.1.label>Млад Глиган</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.2.label>Глиган</WildBoar.lifeStages.2.label>
+
+  <Deer.label>Елен</Deer.label>
+  <Deer.lifeStages.0.label>бебе елен</Deer.lifeStages.0.label>
+  <Deer.lifeStages.1.labelMale>Млад Елен</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelFemale>Млада Сърна</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.2.labelMale>Елен</Deer.lifeStages.2.labelMale>
+  <Deer.lifeStages.2.labelFemale>Сърна</Deer.lifeStages.2.labelFemale>
+
+  <Tortoise.label>Костенурка</Tortoise.label>
+  <Tortoise.lifeStages.0.label>Малка Костенурка</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.1.label>Млада Костенурка</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.2.label>Костенурка</Tortoise.lifeStages.2.label>
+
+  <Elk.label>Лос</Elk.label>
+  <Elk.lifeStages.0.label>Теле Лос</Elk.lifeStages.0.label>
+  <Elk.lifeStages.1.label>Млад Лос</Elk.lifeStages.1.label>
+  <Elk.lifeStages.1.labelMale>Млад Лос</Elk.lifeStages.1.labelMale>
+  <Elk.lifeStages.1.labelFemale>Млад Женски Лос</Elk.lifeStages.1.labelFemale>
+  <Elk.lifeStages.2.label>Лос</Elk.lifeStages.2.label>
+  <Elk.lifeStages.2.labelMale>Лос</Elk.lifeStages.2.labelMale>
+  <Elk.lifeStages.2.labelFemale>Женски Лос</Elk.lifeStages.2.labelFemale>
+
+  <Alphabeaver.label>Алфа Бобър</Alphabeaver.label>
+  <Alphabeaver.lifeStages.0.label>Бебе Бобър</Alphabeaver.lifeStages.0.label>
+  <Alphabeaver.lifeStages.1.label>Млад Бобър</Alphabeaver.lifeStages.1.label>
+  <Alphabeaver.lifeStages.2.label>Алфа Бобър</Alphabeaver.lifeStages.2.label>
+
+  <Thrumbo.label>Тръмбо</Thrumbo.label>
+  <Thrumbo.lifeStages.0.label>Бебе Тръмбо</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.1.label>Младо Тръмбо</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.2.label>Алфа Тръмбо</Thrumbo.lifeStages.2.label>
+
+</LanguageData>

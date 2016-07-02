@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Villager.label>Селянин</Villager.label>
+  <TownCouncilman.label>Съветник</TownCouncilman.label>
+  <TownTrader.label>Търговец</TownTrader.label>
+  <TownGuard.label>Стражар</TownGuard.label>
+
+</LanguageData>

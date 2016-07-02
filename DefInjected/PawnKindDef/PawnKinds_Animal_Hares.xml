@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Hare.label>Заек</Hare.label>
+  <Hare.lifeStages.0.label>Зайче</Hare.lifeStages.0.label>
+  <Hare.lifeStages.1.label>млад Заек</Hare.lifeStages.1.label>
+  <Hare.lifeStages.2.label>Заек</Hare.lifeStages.2.label>
+
+  <Snowhare.label>Полярен Заек</Snowhare.label>
+  <Snowhare.lifeStages.0.label>Полярно Зайче</Snowhare.lifeStages.0.label>
+  <Snowhare.lifeStages.1.label>Млад Полярен Заек</Snowhare.lifeStages.1.label>
+  <Snowhare.lifeStages.2.label>Полярен Заек</Snowhare.lifeStages.2.label>
+
+</LanguageData>
