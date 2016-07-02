@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root->[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group->[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group->[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->Diese [depiction] се отнася за [tale_noun] на [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->Diese [depiction] разказва за [tale_noun] на [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->Diese [depiction] разказва историята на [tale_noun] на [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
+
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root->[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>desc_sentence_group->[style_group]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>
+
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.0>style_group->[artextra_clause]. [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.0>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.1>style_group->[style_clause]. [artextra_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.1>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.2>style_group->[artextra_clause] и [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.2>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.3>style_group->[artextra_clause], по време на [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.3>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.4>artextra_clause->Картината е заобиколена от [quantity_adjphrase] [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.4>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.5>artextra_clause->Там има [community] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.5>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.6>artextra_clause->Вижда се [terrainfeature] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.6>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.7>artextra_clause->Вижда се [animal] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.7>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause->Случката се развива пред [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.8>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.9>artextra_clause->Сцената се развива в [community]</ArtDescriptionUtility_Global.rulePack.rulesStrings.9>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.10>artextra_clause->Случката изглежда, че се развива извън [community]</ArtDescriptionUtility_Global.rulePack.rulesStrings.10>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.11>artextra_clause->Усмихнатото лице на [outlander] бди над всички</ArtDescriptionUtility_Global.rulePack.rulesStrings.11>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause->Сцената се развива в [community] близо до [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.12>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause->В долната част на картината доминира [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.13>  <ArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause->Das ganze Bild ist sorgfältig aus hunderten kleinen Figuren der Art [animal] zusammengestellt worden</ArtDescriptionUtility_Global.rulePack.rulesStrings.14>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.15>artextra_clause->[outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.15>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.16>artextra_clause->[animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.16>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.17>artextra_clause->Мъртъв [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.17>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.18>artextra_clause->Персонифициран образ на [concept] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.18>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.19>artextra_clause->[animal] [side_position] изглежда да [concept]e darzustellen</ArtDescriptionUtility_Global.rulePack.rulesStrings.19>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.20>artextra_clause->Няколко [quantity_adjphrase] [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.20>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.21>artextra_clause->Ако присвиеш очи, се вижда [composition] приличаща на отдалечен [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.21>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.22>style_clause->Картината издава следната концепция [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.22>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.23>style_clause->Тази творба пресъздава идеята за [concept] и е сътворена в [artstyle_adj] стил</ArtDescriptionUtility_Global.rulePack.rulesStrings.23>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.24>style_clause->Творбата е с [concept] насоченост</ArtDescriptionUtility_Global.rulePack.rulesStrings.24>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.25>style_clause->Творбата е сътворена в [artstyle_adj] стил</ArtDescriptionUtility_Global.rulePack.rulesStrings.25>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.26>style_clause->Стилът [artstyle_adj] на централната сцена силно противоречи на [artstyle_adj] стил на фона</ArtDescriptionUtility_Global.rulePack.rulesStrings.26>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.27>style_clause->Творбата предизвика чувството за [artstyle_adj] стил и притежава структура на [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.27>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause->Постановката на творбата е [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.29>style_clause->Творбата е в стил [artstyle_adj] с елемнти на [artstyle_adj] стил</ArtDescriptionUtility_Global.rulePack.rulesStrings.29>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause->В творбата отсъстват концепции за [concept] както и [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.31>style_clause->Творбата успява някакси да преплете концепции за [concept] както и [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.31>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause->[composition] структура на този портрет се доближава до [artstyle_adj] стил</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.33>style_clause->Потретът е в следните светлосенки [color] и [color]</ArtDescriptionUtility_Global.rulePack.rulesStrings.33>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.34>style_clause->Почти всички форми в потрета изглеждат да са [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.34>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.35>depicts->изобразява</ArtDescriptionUtility_Global.rulePack.rulesStrings.35>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.36>depicts->пресъздава</ArtDescriptionUtility_Global.rulePack.rulesStrings.36>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.37>depicts->е с образ на</ArtDescriptionUtility_Global.rulePack.rulesStrings.37>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.38>depicts->разказва за</ArtDescriptionUtility_Global.rulePack.rulesStrings.38>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.39>depicts->е свързан с разказа за</ArtDescriptionUtility_Global.rulePack.rulesStrings.39>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.40>depicts->е подобно на представянето на</ArtDescriptionUtility_Global.rulePack.rulesStrings.40>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.41>depicts->е с фора на портрет на</ArtDescriptionUtility_Global.rulePack.rulesStrings.41>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.42>depiction->представяне</ArtDescriptionUtility_Global.rulePack.rulesStrings.42>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.43>depiction->показване</ArtDescriptionUtility_Global.rulePack.rulesStrings.43>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.44>depiction->портретизиране</ArtDescriptionUtility_Global.rulePack.rulesStrings.44>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.45>depiction->изображение</ArtDescriptionUtility_Global.rulePack.rulesStrings.45>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.46>depiction->илюстрация</ArtDescriptionUtility_Global.rulePack.rulesStrings.46>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.47>depiction->произведение</ArtDescriptionUtility_Global.rulePack.rulesStrings.47>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.48>composition->триъгълен</ArtDescriptionUtility_Global.rulePack.rulesStrings.48>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.49>composition->четириъгълен</ArtDescriptionUtility_Global.rulePack.rulesStrings.49>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.50>composition->квадратен</ArtDescriptionUtility_Global.rulePack.rulesStrings.50>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.51>composition->неуравновесен</ArtDescriptionUtility_Global.rulePack.rulesStrings.51>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.52>composition->уравновесен</ArtDescriptionUtility_Global.rulePack.rulesStrings.52>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.53>composition->динамичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.53>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.54>composition->статичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.54>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.55>artstyle_adj->неоригинален</ArtDescriptionUtility_Global.rulePack.rulesStrings.55>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.56>artstyle_adj->обикновен</ArtDescriptionUtility_Global.rulePack.rulesStrings.56>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.57>artstyle_adj->комплексен и реалистичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.57>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.58>artstyle_adj->нереален</ArtDescriptionUtility_Global.rulePack.rulesStrings.58>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.59>artstyle_adj->класически</ArtDescriptionUtility_Global.rulePack.rulesStrings.59>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.60>artstyle_adj->модерен</ArtDescriptionUtility_Global.rulePack.rulesStrings.60>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.61>artstyle_adj->символичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.61>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.62>artstyle_adj->аматьорски</ArtDescriptionUtility_Global.rulePack.rulesStrings.62>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.63>artstyle_adj->детайлен</ArtDescriptionUtility_Global.rulePack.rulesStrings.63>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.64>artstyle_adj->ъгловат</ArtDescriptionUtility_Global.rulePack.rulesStrings.64>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.65>artstyle_adj->кубичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.65>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.66>artstyle_adj->импресионистичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.66>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.67>artstyle_adj->експесионистичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.67>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.68>artstyle_adj->фотографски</ArtDescriptionUtility_Global.rulePack.rulesStrings.68>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.69>artstyle_adj->бароков</ArtDescriptionUtility_Global.rulePack.rulesStrings.69>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.70>artstyle_adj->дадаичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.70>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.71>artstyle_adj->смущаващ</ArtDescriptionUtility_Global.rulePack.rulesStrings.71>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.72>artstyle_adj->пикселизиран</ArtDescriptionUtility_Global.rulePack.rulesStrings.72>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.73>artstyle_adj->фовичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.73>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.74>artstyle_adj->популярен</ArtDescriptionUtility_Global.rulePack.rulesStrings.74>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.75>artstyle_adj->картинен</ArtDescriptionUtility_Global.rulePack.rulesStrings.75>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.76>artstyle_adj->заплетен</ArtDescriptionUtility_Global.rulePack.rulesStrings.76>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.77>artstyle_adj->геометричен</ArtDescriptionUtility_Global.rulePack.rulesStrings.77>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.78>artstyle_adj->абстрактен</ArtDescriptionUtility_Global.rulePack.rulesStrings.78>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.79>artstyle_adj->реалистиен</ArtDescriptionUtility_Global.rulePack.rulesStrings.79>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.80>artstyle_adj->попкултурен</ArtDescriptionUtility_Global.rulePack.rulesStrings.80>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.81>artstyle_adj->минималистичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.81>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.82>artstyle_adj->неокласически</ArtDescriptionUtility_Global.rulePack.rulesStrings.82>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.83>artstyle_adj->светлосенчест</ArtDescriptionUtility_Global.rulePack.rulesStrings.83>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.84>artstyle_adj->постимпресионистичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.84>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.85>artstyle_adj->пуристичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.85>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.86>artstyle_adj->рококо</ArtDescriptionUtility_Global.rulePack.rulesStrings.86>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.87>artstyle_adj->романски</ArtDescriptionUtility_Global.rulePack.rulesStrings.87>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.88>artstyle_adj->романтиченch</ArtDescriptionUtility_Global.rulePack.rulesStrings.88>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.89>artstyle_adj->графити</ArtDescriptionUtility_Global.rulePack.rulesStrings.89>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.90>artstyle_adj->еротичен</ArtDescriptionUtility_Global.rulePack.rulesStrings.90>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.91>artstyle_adj->чувствен</ArtDescriptionUtility_Global.rulePack.rulesStrings.91>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.92>artstyle_adj->сърдечен</ArtDescriptionUtility_Global.rulePack.rulesStrings.92>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.93>idle_verb_progressive->седи</ArtDescriptionUtility_Global.rulePack.rulesStrings.93>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.94>idle_verb_progressive->стои</ArtDescriptionUtility_Global.rulePack.rulesStrings.94>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.95>idle_verb_progressive->чака</ArtDescriptionUtility_Global.rulePack.rulesStrings.95>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.96>idle_verb_progressive->се усмихва</ArtDescriptionUtility_Global.rulePack.rulesStrings.96>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.97>idle_verb_progressive->лежи</ArtDescriptionUtility_Global.rulePack.rulesStrings.97>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.98>idle_verb_progressive->позира</ArtDescriptionUtility_Global.rulePack.rulesStrings.98>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.99>idle_verb_progressive->се появява</ArtDescriptionUtility_Global.rulePack.rulesStrings.99>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.100>idle_verb_progressive->се показва</ArtDescriptionUtility_Global.rulePack.rulesStrings.100>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.101>idle_verb_progressive->изскача</ArtDescriptionUtility_Global.rulePack.rulesStrings.101>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.102>idle_verb_progressive->се плъзга</ArtDescriptionUtility_Global.rulePack.rulesStrings.102>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position->малко настрани</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position->близо до рамката на картината</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.105>side_position->на фона</ArtDescriptionUtility_Global.rulePack.rulesStrings.105>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.106>side_position->на разстояние</ArtDescriptionUtility_Global.rulePack.rulesStrings.106>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.107>side_position->в долната част на картината</ArtDescriptionUtility_Global.rulePack.rulesStrings.107>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.108>side_position->в горната част на картината</ArtDescriptionUtility_Global.rulePack.rulesStrings.108>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.109>side_position->под основната тема</ArtDescriptionUtility_Global.rulePack.rulesStrings.109>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.110>side_position->под средата</ArtDescriptionUtility_Global.rulePack.rulesStrings.110>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.111>side_position->в лявата част на картината</ArtDescriptionUtility_Global.rulePack.rulesStrings.111>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.112>side_position->вдясно от основната сцена</ArtDescriptionUtility_Global.rulePack.rulesStrings.112>
+
+</LanguageData>
