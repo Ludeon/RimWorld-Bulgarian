@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Meditative -->
+
+  <Skygaze.reportString>Гледа облаците.</Skygaze.reportString>
+  <Meditate.reportString>Медитира.</Meditate.reportString>
+  <Pray.reportString>Моли се.</Pray.reportString>
+  <GoForWalk.reportString>Отива на разходка.</GoForWalk.reportString>
+  <BuildSnowman.reportString>Прави снежен човек.</BuildSnowman.reportString>
+  <VisitGrave.reportString>Посещава гроб.</VisitGrave.reportString>
+
+  <!-- Social -->
+
+  <SocialRelax.reportString>Разговаря с другите.</SocialRelax.reportString>
+  <VisitSickPawn.reportString>Посещава пациента TargetA.</VisitSickPawn.reportString>
+
+  <!-- Building interaction -->
+
+  <PlayHorseshoes.reportString>Играе на подкови.</PlayHorseshoes.reportString>
+  <PlayChess.reportString>Играе шах.</PlayChess.reportString>
+  <PlayBilliards.reportString>Играе билярд.</PlayBilliards.reportString>
+  <WatchTelevision.reportString>Гледа телевизия.</WatchTelevision.reportString>
+  <UseTelescope.reportString>Гледа през телескопа.</UseTelescope.reportString>
+
+</LanguageData>

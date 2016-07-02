@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Goto.reportString>Движи се.</Goto.reportString>
+  <GotoSafeTemperature.reportString>Отива на място с безопасна температура.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>Отива на разходка.</GotoWander.reportString>
+  <Wait.reportString>Чака.</Wait.reportString>
+  <WaitDowned.reportString>Безсилен.</WaitDowned.reportString>
+  <WaitSafeTemperature.reportString>Чака за безопасна температура.</WaitSafeTemperature.reportString>
+  <WaitWander.reportString>Отива на разходка.</WaitWander.reportString>
+  <WaitCombat.reportString>В готовност.</WaitCombat.reportString>
+  <AttackStatic.reportString>Атакува TargetA.</AttackStatic.reportString>
+  <AttackMelee.reportString>Атакува TargetA в ръкопашен бой.</AttackMelee.reportString>
+  <Equip.reportString>Екипира TargetA.</Equip.reportString>
+  <TakeInventory.reportString>Взема TargetA.</TakeInventory.reportString>
+
+  <!-- Love -->
+
+  <Lovin.reportString>Екшън под завивките</Lovin.reportString>
+
+</LanguageData>
