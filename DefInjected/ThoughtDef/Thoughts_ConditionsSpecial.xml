@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Imprisoned.stages.0.label>Пленен</Imprisoned.stages.0.label>
+  <Imprisoned.stages.0.description>Не мо харесва, че съм пленен и окован.</Imprisoned.stages.0.description>
+
+  <SharedBedroom.stages.0.label>Споделена спалня</SharedBedroom.stages.0.label>
+  <SharedBedroom.stages.0.description>Да деля спалня с други не е никак приянто. Искам собствена стая!</SharedBedroom.stages.0.description>
+
+  <SharedBed.stages.0.label>Споделено легло</SharedBed.stages.0.label>
+  <SharedBed.stages.0.description>Налага ми се да деля легло с някой, което не ми допада особено.</SharedBed.stages.0.description>
+
+  <ColonistLeftUnburied.stages.0.label>Заселник е непогребан</ColonistLeftUnburied.stages.0.label>
+  <ColonistLeftUnburied.stages.0.description>Един от нас почина и сме го оставили просто така да гние на земята. Полага му се порядъчно погребение!</ColonistLeftUnburied.stages.0.description>
+
+  <Naked.stages.0.label>Гол</Naked.stages.0.label>
+  <Naked.stages.0.description>Съвсем гол съм. Това е толкова срамно!</Naked.stages.0.description>
+
+  <Pain.stages.0.label>Лека болка</Pain.stages.0.label>
+  <Pain.stages.0.description>Ох! Това боли.</Pain.stages.0.description>
+  <Pain.stages.1.label>Усилваща се болка</Pain.stages.1.label>
+  <Pain.stages.1.description>Охххх... Тази болка ше спре ли?</Pain.stages.1.description>
+  <Pain.stages.2.label>Силна болка</Pain.stages.2.label>
+  <Pain.stages.2.description>Някой да я накара да спре!!!</Pain.stages.2.description>
+  <Pain.stages.3.label>Екстремна болка</Pain.stages.3.label>
+  <Pain.stages.3.description>АААААААА! КАКВА БОЛКА! Някой да ме застреля!</Pain.stages.3.description>
+
+</LanguageData>

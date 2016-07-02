@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+
+  <MasochistPain.stages.0.label>Лека болка</MasochistPain.stages.0.label>
+  <MasochistPain.stages.0.description>Ооох... хо хо хо... Бива!</MasochistPain.stages.0.description>
+
+  <MasochistPain.stages.1.label>Усилваща се болка</MasochistPain.stages.1.label>
+  <MasochistPain.stages.1.description>Уууух... Боли ама... е яко! Още, още!</MasochistPain.stages.1.description>
+
+  <MasochistPain.stages.2.label>Силна болка</MasochistPain.stages.2.label>
+  <MasochistPain.stages.2.description>Олей... май страших нещо... ама какво усещане само!</MasochistPain.stages.2.description>
+
+  <MasochistPain.stages.3.label>Екстремна болка</MasochistPain.stages.3.label>
+  <MasochistPain.stages.3.description>АААААААА... на небето ли съм вече?</MasochistPain.stages.3.description>
+
+  <ProsthophileNoProsthetic.stages.0.label>Няма бионична част</ProsthophileNoProsthetic.stages.0.label>
+  <ProsthophileNoProsthetic.stages.0.description>Плътта е такъв ограничител. Искам да имам бионична част на тялото.</ProsthophileNoProsthetic.stages.0.description>
+
+  <ProsthophileHappy.stages.0.label>Има бионична част</ProsthophileHappy.stages.0.label>
+  <ProsthophileHappy.stages.0.description>Вече съм продукт на модерната технология! По-добър съм във всичко!</ProsthophileHappy.stages.0.description>
+
+  <ProsthophobeUnhappy.stages.0.label>Има бионична част</ProsthophobeUnhappy.stages.0.label>
+  <ProsthophobeUnhappy.stages.0.description>Срам и позор! Превърнаха ме в чудовище! Де да ми бяхте дали избор...</ProsthophobeUnhappy.stages.0.description>
+
+  <BrawlerUnhappy.stages.0.label>Бияч носи далекобойно оръжие</BrawlerUnhappy.stages.0.label>
+  <BrawlerUnhappy.stages.0.description>Стрелбата отдалеч е за страхливци! Дай ми оръжие за близък бой да ти покажа как се прави!</BrawlerUnhappy.stages.0.description>
+
+  <ClothedNudist.stages.0.label>нудист носи дрехи</ClothedNudist.stages.0.label>
+  <ClothedNudist.stages.0.description>Аз съм нудист, а трябва да нося дрехи - това е невъобразимо! Не е съвсем непоносимо, но е доста неудобно за мен.</ClothedNudist.stages.0.description>
+
+  <HappyNude.stages.0.label>гол и доволен</HappyNude.stages.0.label>
+  <HappyNude.stages.0.description>Аз съм гол и съм едно с природата около себе си! Прекрасно!</HappyNude.stages.0.description>
+
+  <NightOwlDuringTheDay.stages.0.label>Ден е</NightOwlDuringTheDay.stages.0.label>
+  <NightOwlDuringTheDay.stages.0.description>Аз съм нощна птица, а се налага да работя през деня. Никак не ми харесва.</NightOwlDuringTheDay.stages.0.description>
+
+  <NightOwlDuringTheNight.stages.0.label>Нощ е</NightOwlDuringTheNight.stages.0.label>
+  <NightOwlDuringTheNight.stages.0.description>Аз съм нощна птица. Чувствам се изцяло в своя елемент.</NightOwlDuringTheNight.stages.0.description>
+
+  <Greedy.stages.0.label>Безинтересна спалня</Greedy.stages.0.label>
+  <Greedy.stages.0.description>Аз съм алчен и искам да имам красива спалня!</Greedy.stages.0.description>
+
+  <Greedy.stages.1.label>Безинтересна спалня</Greedy.stages.1.label>
+  <Greedy.stages.1.description>Аз съм алчен, а спалнята ми е жалка! Искам да имам красива спалня!</Greedy.stages.1.description>
+
+  <Greedy.stages.2.label>Безинтересна спалня</Greedy.stages.2.label>
+  <Greedy.stages.2.description>Аз съм алчен, а спалнята ми е далеч от хубава! Искам да имам красива спалня!</Greedy.stages.2.description>
+
+  <Greedy.stages.3.label>Безинтересна спалня</Greedy.stages.3.label>
+  <Greedy.stages.3.description>Аз съм алчен, а спалнята ми не е достатъчно добра! Искам да имам красива спалня!</Greedy.stages.3.description>
+
+  <Greedy.stages.4.label>Безинтересна спалня</Greedy.stages.4.label>
+  <Greedy.stages.4.description>Аз съм алчен, а спалнята ми все още не е достатъчно добра! Искам да имам още по-красива спалня!</Greedy.stages.4.description>
+
+  <Jealous.stages.0.label>Ревнува</Jealous.stages.0.label>
+  <Jealous.stages.0.description>Някой има по-хубава спалня от мен!</Jealous.stages.0.description>
+
+  <Ascetic.stages.0.label>Отвратителна спалня</Ascetic.stages.0.label>
+  <Ascetic.stages.0.description>Спалнята ми е бедна и обикновена и ми харесва точно такава, каквато е.</Ascetic.stages.0.description>
+
+  <Ascetic.stages.1.label>Грозна спалня</Ascetic.stages.1.label>
+  <Ascetic.stages.1.description>Спалнята ми е бедна и обикновена и ми харесва точно такава, каквато е.</Ascetic.stages.1.description>
+
+  <Ascetic.stages.2.label>Лоша спалня</Ascetic.stages.2.label>
+  <Ascetic.stages.2.description>Спалнята ми е бедна и обикновена и ми харесва точно такава, каквато е.</Ascetic.stages.2.description>
+
+  <Ascetic.stages.5.label>Хубава спалня</Ascetic.stages.5.label>
+  <Ascetic.stages.5.description>Аз съм аскетик и не ми харесва тази спалня.</Ascetic.stages.5.description>
+
+  <Ascetic.stages.6.label>Много хубава спалня</Ascetic.stages.6.label>
+  <Ascetic.stages.6.description>Аз съм аскетик и не ми харесва тази спалня.</Ascetic.stages.6.description>
+
+  <Ascetic.stages.7.label>Отлична спалня</Ascetic.stages.7.label>
+  <Ascetic.stages.7.description>Аз съм аскетик и не ми харесва тази спалня.</Ascetic.stages.7.description>
+
+  <Ascetic.stages.8.label>Внушителна спалня</Ascetic.stages.8.label>
+  <Ascetic.stages.8.description>Аз съм аскетик и не ми харесва тази спалня.</Ascetic.stages.8.description>
+
+  <Ascetic.stages.9.label>Прекрасна спалня</Ascetic.stages.9.label>
+  <Ascetic.stages.9.description>Аз съм аскетик и не ми харесва тази спалня. Прекалено е красива.</Ascetic.stages.9.description>
+
+  <Ascetic.stages.10.label>Фантастична спалня</Ascetic.stages.10.label>
+  <Ascetic.stages.10.description>Аз съм аскетик и не ми харесва тази спалня. Прекалено е помпозна.</Ascetic.stages.10.description>
+
+  <Ascetic.stages.11.label>Чудна спалня</Ascetic.stages.11.label>
+  <Ascetic.stages.11.description>Аз съм аскетик и не ми харесва тази спалня. За какво са ми всичките тези неща тук?</Ascetic.stages.11.description>
+
+</LanguageData>

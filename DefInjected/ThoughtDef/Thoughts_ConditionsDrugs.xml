@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Inebriated.stages.0.label>Алкохол (скрито)</Inebriated.stages.0.label>
+  <Inebriated.stages.0.description>Начална фаза.</Inebriated.stages.0.description>
+  <Inebriated.stages.1.label>Алкохол (топло)</Inebriated.stages.1.label>
+  <Inebriated.stages.1.description>След като ударих това питие усещам безгрижие. Това е добре.</Inebriated.stages.1.description>
+  <Inebriated.stages.2.label>Алкохол (пийнал)</Inebriated.stages.2.label>
+  <Inebriated.stages.2.description>Малко ми се подгъват краката. Яко!</Inebriated.stages.2.description>
+  <Inebriated.stages.3.label>Алкохол (пиян)</Inebriated.stages.3.label>
+  <Inebriated.stages.3.description>Чувствам се освободен и всесилен! Само така!</Inebriated.stages.3.description>
+  <Inebriated.stages.4.label>Алкохол (препил)</Inebriated.stages.4.label>
+  <Inebriated.stages.4.description>Ехаа! Защо всичко се върти? ...</Inebriated.stages.4.description>
+
+  <Hungover.stages.0.label>Махмурлук (лек)</Hungover.stages.0.label>
+  <Hungover.stages.0.description>Главоболието е почти отминало.</Hungover.stages.0.description>
+  <Hungover.stages.1.label>Махмурлук (силен)</Hungover.stages.1.label>
+  <Hungover.stages.1.description>Че ме боли главата, ама...</Hungover.stages.1.description>
+  <Hungover.stages.2.label>Махмурлук (пулсиращ)</Hungover.stages.2.label>
+  <Hungover.stages.2.description>Чувствам се все едно в главата ми бият църковни камбани...</Hungover.stages.2.description>
+  <Hungover.stages.3.label>Махмурлук (скрит)</Hungover.stages.3.label>
+  <Hungover.stages.3.description>Начална фаза.</Hungover.stages.3.description>
+
+</LanguageData>

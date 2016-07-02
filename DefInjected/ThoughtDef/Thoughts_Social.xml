@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MySonDied.stages.0.label>Синът почина</MySonDied.stages.0.label>
+  <MySonDied.stages.0.description>Синът ми е мъртъв... моята собствена плът и кръв...</MySonDied.stages.0.description>
+
+  <MyDaughterDied.stages.0.label>Дъщерята почина</MyDaughterDied.stages.0.label>
+  <MyDaughterDied.stages.0.description>Дъщеря ми е мъртва... моята собствена плът и кръв...</MyDaughterDied.stages.0.description>
+
+  <MyHusbandDied.stages.0.label>Съпругът почина</MyHusbandDied.stages.0.label>
+  <MyHusbandDied.stages.0.description>Съпругът ми почина... Толкова е самотно сега...</MyHusbandDied.stages.0.description>
+
+  <MyWifeDied.stages.0.label>Съпругата почина</MyWifeDied.stages.0.label>
+  <MyWifeDied.stages.0.description>Съпругата ми почина...Толкова е самотно сега...</MyWifeDied.stages.0.description>
+
+  <MyFianceDied.stages.0.label>Любимият почина</MyFianceDied.stages.0.label>
+  <MyFianceDied.stages.0.description>Любимият ми почина... Какъв човек... Цялото ми бъдеще е разбито.</MyFianceDied.stages.0.description>
+
+  <MyFianceeDied.stages.0.label>Любимата почина</MyFianceeDied.stages.0.label>
+  <MyFianceeDied.stages.0.description>Любимата ми почина... Каква жена... Цялото ми бъдеще е разбито..</MyFianceeDied.stages.0.description>
+
+  <MyLoverDied.stages.0.label>Почина любовник(ца)</MyLoverDied.stages.0.label>
+  <MyLoverDied.stages.0.description>Почина моят любовник(ца)... Толкова е самотно сега...</MyLoverDied.stages.0.description>
+
+  <MyBrotherDied.stages.0.label>Почина брат</MyBrotherDied.stages.0.label>
+  <MyBrotherDied.stages.0.description>Брат ми е мъртъв... моята собствена плът и кръв...</MyBrotherDied.stages.0.description>
+
+  <MySisterDied.stages.0.label>Почина сестра</MySisterDied.stages.0.label>
+  <MySisterDied.stages.0.description>Сестра ми е мъртва... моята собствена плът и кръв...</MySisterDied.stages.0.description>
+
+  <MyFatherDied.stages.0.label>Почина баща</MyFatherDied.stages.0.label>
+  <MyFatherDied.stages.0.description>Баща ми почина... няма го завинаги...</MyFatherDied.stages.0.description>
+
+  <MyMotherDied.stages.0.label>Почина майка</MyMotherDied.stages.0.label>
+  <MyMotherDied.stages.0.description>Майка ми почина... няма я завинаги....</MyMotherDied.stages.0.description>
+
+  <MyNieceDied.stages.0.label>Почина племенница</MyNieceDied.stages.0.label>
+  <MyNieceDied.stages.0.description>Племенницата ми почина. Такова прекрасно дете.</MyNieceDied.stages.0.description>
+
+  <MyNephewDied.stages.0.label>Почина племенник</MyNephewDied.stages.0.label>
+  <MyNephewDied.stages.0.description>Племенникът ми почина. Такова прекрасно дете.</MyNephewDied.stages.0.description>
+
+  <MyAuntDied.stages.0.label>Леля почина</MyAuntDied.stages.0.label>
+  <MyAuntDied.stages.0.description>Леля ми е мъртва.</MyAuntDied.stages.0.description>
+
+  <MyUncleDied.stages.0.label>Чичо почина</MyUncleDied.stages.0.label>
+  <MyUncleDied.stages.0.description>Чичо ми е мъртъв.</MyUncleDied.stages.0.description>
+
+  <MyHalfSiblingDied.stages.0.label>Полубрат почина</MyHalfSiblingDied.stages.0.label>
+  <MyHalfSiblingDied.stages.0.description>Полубратът ми е мъртъв... моята собствена плът и кръв...</MyHalfSiblingDied.stages.0.description>
+
+  <MyGrandchildDied.stages.0.label>Почина внук</MyGrandchildDied.stages.0.label>
+  <MyGrandchildDied.stages.0.description>Внукът ми е мъртъв... моята собствена плът и кръв...</MyGrandchildDied.stages.0.description>
+
+  <MyGrandparentDied.stages.0.label>Почина прародител</MyGrandparentDied.stages.0.label>
+  <MyGrandparentDied.stages.0.description>Моят прародител почина.</MyGrandparentDied.stages.0.description>
+
+  <MyCousinDied.stages.0.label>Почина братовчед</MyCousinDied.stages.0.label>
+  <MyCousinDied.stages.0.description>Братовчед ми е мъртъв... моята собствена плът и кръв...</MyCousinDied.stages.0.description>
+
+  <MyKinDied.stages.0.label>Роднина почина</MyKinDied.stages.0.label>
+  <MyKinDied.stages.0.description>Мой роднина почина.</MyKinDied.stages.0.description>
+
+  <!-- Related (not family) pawn died thoughts -->
+
+  <BondedAnimalDied.stages.0.label>Животното ми почина</BondedAnimalDied.stages.0.label>
+  <BondedAnimalDied.stages.0.description>Толкова жизнерадостно и уникални животно. Вселената е толкова жестока!</BondedAnimalDied.stages.0.description>
+
+  <!-- Good/bad opinion -->
+
+  <PawnWithGoodOpinionDied.stages.0.label>Приятел почина</PawnWithGoodOpinionDied.stages.0.label>
+  <PawnWithGoodOpinionDied.stages.0.description>Такъв прекрасен човек. Всичко изглежда толкова по-мрачно сега.</PawnWithGoodOpinionDied.stages.0.description>
+
+  <PawnWithBadOpinionDied.stages.0.label>Врагът ми почина</PawnWithBadOpinionDied.stages.0.label>
+  <PawnWithBadOpinionDied.stages.0.description>Моят враг вече не е сред живите. Така му се пада!</PawnWithBadOpinionDied.stages.0.description>
+
+  <!-- Love -->
+
+  <GotMarried.stages.0.label>Ожених се</GotMarried.stages.0.label>
+  <GotMarried.stages.0.description>Вече съм женен! Толкова невероятни неша може да се случат сега!</GotMarried.stages.0.description>
+
+  <GotSomeLovin.stages.0.label>Прави секс</GotSomeLovin.stages.0.label>
+  <GotSomeLovin.stages.0.description>Нищо по хубаво от секс за повдигане на настроението!</GotSomeLovin.stages.0.description>
+
+  <!-- Misc -->
+
+  <AttendedWedding.stages.0.label>Присъства на сватба</AttendedWedding.stages.0.label>
+  <AttendedWedding.stages.0.description>Толкова е красиво да видиш двама души, които искат заедно да прекарат дните си.</AttendedWedding.stages.0.description>
+
+  <AttendedParty.stages.0.label>Беше на парти</AttendedParty.stages.0.label>
+  <AttendedParty.stages.0.description>Много се забавлявах на партито.</AttendedParty.stages.0.description>
+
+</LanguageData>

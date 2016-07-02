@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Psychic drone -->
+
+  <PsychicDrone.stages.0.label>Психическо успокоение (средно)</PsychicDrone.stages.0.label>
+  <PsychicDrone.stages.0.description>Усещам успокояващ глас в главата си, който ме кара да се чувствам добре.</PsychicDrone.stages.0.description>
+
+  <PsychicDrone.stages.1.label>Психическо боботене (леко)</PsychicDrone.stages.1.label>
+  <PsychicDrone.stages.1.description>Все едно някой шепне в ушите ми. Разбирам някоя-друга дума, но не ми харесва.</PsychicDrone.stages.1.description>
+
+  <PsychicDrone.stages.2.label>Психическо боботене (умерено)</PsychicDrone.stages.2.label>
+  <PsychicDrone.stages.2.description>Чувствам се все едно има някой до мен, а всъщност няма. Гласът повтаря едно и също нещо... трябва да го нараня... Накарайте го да спре!</PsychicDrone.stages.2.description>
+
+  <PsychicDrone.stages.3.label>Психическо боботене (силно)</PsychicDrone.stages.3.label>
+  <PsychicDrone.stages.3.description>Боботенето е толкова силно, че не мога да чуя собствените си мисли. Не мога изобщо да се концентрирам. Усешам, че се опитвам да му отговарям и му викам да спре. Но то продължава...</PsychicDrone.stages.3.description>
+
+  <PsychicDrone.stages.4.label>Психическо боботене (екстремно)</PsychicDrone.stages.4.label>
+  <PsychicDrone.stages.4.description>Сърцето ми бие в ушите и се потя без спиране. Мога да мисля само за болката и за всичките си врагове. Ще ги избия! Ще ги избия всичките! Ще избия всичко и всички...</PsychicDrone.stages.4.description>
+
+</LanguageData>

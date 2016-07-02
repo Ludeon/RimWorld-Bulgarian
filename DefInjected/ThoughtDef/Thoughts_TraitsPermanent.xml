@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MoodOffsetSanguine.stages.0.label>Сангвиник</MoodOffsetSanguine.stages.0.label>
+  <MoodOffsetSanguine.stages.0.description>Сангвиникът получава директен бонус (+12) към настроението си.</MoodOffsetSanguine.stages.0.description>
+
+  <MoodOffsetOptimist.stages.0.label>Оптимист</MoodOffsetOptimist.stages.0.label>
+  <MoodOffsetOptimist.stages.0.description>Оптимистът получава директен бонус (+6) към настроението си.</MoodOffsetOptimist.stages.0.description>
+
+  <MoodOffsetPessimist.stages.0.label>Песимист</MoodOffsetPessimist.stages.0.label>
+  <MoodOffsetPessimist.stages.0.description>Песимистът има постоянно намаление (-6) на общото си настроение.</MoodOffsetPessimist.stages.0.description>
+
+  <MoodOffsetDepressive.stages.0.label>Депресант</MoodOffsetDepressive.stages.0.label>
+  <MoodOffsetDepressive.stages.0.description>Депресантът има постоянно намаление (-12) на общото си настроение.</MoodOffsetDepressive.stages.0.description>
+
+</LanguageData>

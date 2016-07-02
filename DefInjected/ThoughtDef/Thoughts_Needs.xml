@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Hungry.stages.0.label>Глад</Hungry.stages.0.label>
+  <Hungry.stages.0.description>Не съм ял от известно време.</Hungry.stages.0.description>
+  <Hungry.stages.1.label>Много гладен</Hungry.stages.1.label>
+  <Hungry.stages.1.description>Много съм гладен, искам да хапна нещо веднага.</Hungry.stages.1.description>
+  <Hungry.stages.2.label>Прегладнял</Hungry.stages.2.label>
+  <Hungry.stages.2.description>Искам да ям - не ми пука какво. Иначе ще умра!</Hungry.stages.2.description>
+
+  <Tired.stages.0.label>Изморен</Tired.stages.0.label>
+  <Tired.stages.0.description>Не съм спал от известно време.</Tired.stages.0.description>
+  <Tired.stages.1.label>Много изморен</Tired.stages.1.label>
+  <Tired.stages.1.description>Толкова съм изморен. Искам да си почина поне за малко...</Tired.stages.1.description>
+  <Tired.stages.2.label>Изтощен</Tired.stages.2.label>
+  <Tired.stages.2.description>Толкова съм изтощен, едва се държа на краката си. Оставете ме да отида да спя...</Tired.stages.2.description>
+
+  <JoyLevel.stages.0.label>Без забавления (отдавна)</JoyLevel.stages.0.label>
+  <JoyLevel.stages.0.description>Толкова отдавна не съм правил нещо приятно.</JoyLevel.stages.0.description>
+  <JoyLevel.stages.1.label>Без забавления (отскоро)</JoyLevel.stages.1.label>
+  <JoyLevel.stages.1.description>Нямам време да се позабавлявам.</JoyLevel.stages.1.description>
+  <JoyLevel.stages.2.label>Липса на забавления</JoyLevel.stages.2.label>
+  <JoyLevel.stages.2.description>Иска ми се да си почина и да се позабавлявам с нещо.</JoyLevel.stages.2.description>
+  <JoyLevel.stages.3.label>Доволен</JoyLevel.stages.3.label>
+  <JoyLevel.stages.3.description>Прекарах си добре. Беше за кратко, но беше приятно.</JoyLevel.stages.3.description>
+  <JoyLevel.stages.4.label>Много доволен</JoyLevel.stages.4.label>
+  <JoyLevel.stages.4.description>Че хубаво се забавлявах, ама! Най-накрая српях да мисля за трудностите. Беше перфектно!</JoyLevel.stages.4.description>
+
+  <ComfortLevel.stages.0.label>Неудобство</ComfortLevel.stages.0.label>
+  <ComfortLevel.stages.0.description>Доста ми е неудобно тук. Ще е хубаво да измислим нещо удобно за сядане или лягане.</ComfortLevel.stages.0.description>
+  <ComfortLevel.stages.1.label>Удобство</ComfortLevel.stages.1.label>
+  <ComfortLevel.stages.1.description>Тук се чувствам удобно.</ComfortLevel.stages.1.description>
+  <ComfortLevel.stages.2.label>Голямо удобство</ComfortLevel.stages.2.label>
+  <ComfortLevel.stages.2.description>Тук се чувствам много удобно.</ComfortLevel.stages.2.description>
+  <ComfortLevel.stages.3.label>Изключително удобство</ComfortLevel.stages.3.label>
+  <ComfortLevel.stages.3.description>Това е толкова меко и удобно. Прекрасно усещане!</ComfortLevel.stages.3.description>
+  <ComfortLevel.stages.4.label>Лукс</ComfortLevel.stages.4.label>
+  <ComfortLevel.stages.4.description>Това е удобно, все едно спя в облаците!</ComfortLevel.stages.4.description>
+
+  <EnvironmentUgly.stages.0.label>Грозно обкръжение</EnvironmentUgly.stages.0.label>
+  <EnvironmentUgly.stages.0.description>Много неприятно е да се намирам в това обркъжение.</EnvironmentUgly.stages.0.description>
+  <EnvironmentUgly.stages.1.label>Отвратително обкръжение</EnvironmentUgly.stages.1.label>
+  <EnvironmentUgly.stages.1.description>Това място е толкова неприятно. Не искам да стоя тук повече.</EnvironmentUgly.stages.1.description>
+  <EnvironmentUgly.stages.2.label>Ужасно обркъжение</EnvironmentUgly.stages.2.label>
+  <EnvironmentUgly.stages.2.description>Това място е непоносимо. Искам да се махна...</EnvironmentUgly.stages.2.description>
+  <EnvironmentPretty.stages.0.label>Приятно обркъжение</EnvironmentPretty.stages.0.label>
+  <EnvironmentPretty.stages.0.description>Това място е хубаво.</EnvironmentPretty.stages.0.description>
+  <EnvironmentPretty.stages.1.label>Красиво обкръжение</EnvironmentPretty.stages.1.label>
+  <EnvironmentPretty.stages.1.description>Много ми харесва това място, много е красиво.</EnvironmentPretty.stages.1.description>
+  <EnvironmentPretty.stages.2.label>Великолепно обкръжение</EnvironmentPretty.stages.2.label>
+  <EnvironmentPretty.stages.2.description>Това място е прекрасно, тук се чувствам истински жив.</EnvironmentPretty.stages.2.description>
+
+  <EnvironmentCramped.stages.0.label>Тясно обкръжение</EnvironmentCramped.stages.0.label>
+  <EnvironmentCramped.stages.0.description>Това място е толкова тясно, едва си поемам въздух.</EnvironmentCramped.stages.0.description>
+  <EnvironmentCramped.stages.1.label>Много тясно обркъжение</EnvironmentCramped.stages.1.label>
+  <EnvironmentCramped.stages.1.description>Вече зная как се чувстват клаустрофобите. Все едно съм в клетка. Не мога да мръдна изобщо!</EnvironmentCramped.stages.1.description>
+
+  <EnvironmentSpaciousInterior.stages.0.label>Просторно обркъжение</EnvironmentSpaciousInterior.stages.0.label>
+  <EnvironmentSpaciousInterior.stages.0.description>Това помещение е голяма и просторно. Харесва ми.</EnvironmentSpaciousInterior.stages.0.description>
+
+</LanguageData>

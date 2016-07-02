@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Bedroom.stages.0.label>Отвратителна спалня</Bedroom.stages.0.label>
+  <Bedroom.stages.0.description>Спалнята ми е в отвратително състояние.</Bedroom.stages.0.description>
+
+  <Bedroom.stages.1.label>Грозна спалня</Bedroom.stages.1.label>
+  <Bedroom.stages.1.description>Спалнята ми е в лошо състояние.</Bedroom.stages.1.description>
+
+  <Bedroom.stages.4.label>Хубава спалня</Bedroom.stages.4.label>
+  <Bedroom.stages.4.description>Спалнята ми е хубава. Харесва ми.</Bedroom.stages.4.description>
+
+  <Bedroom.stages.5.label>Много хубава спалня</Bedroom.stages.5.label>
+  <Bedroom.stages.5.description>Спалнята ми е много хубава. Харесва ми.</Bedroom.stages.5.description>
+
+  <Bedroom.stages.6.label>Отлична спалня</Bedroom.stages.6.label>
+  <Bedroom.stages.6.description>Спалнята ми е в отлично състояние. Идеално!</Bedroom.stages.6.description>
+
+  <Bedroom.stages.7.label>Внушителна спалня</Bedroom.stages.7.label>
+  <Bedroom.stages.7.description>Спалнята ми е толкова интересна и внушителна. Най-якото място в колонията!</Bedroom.stages.7.description>
+
+  <Bedroom.stages.8.label>Много внушителна спалня</Bedroom.stages.8.label>
+  <Bedroom.stages.8.description>Спалнята ми изглежда толкова внушително. Най-якото място в колонията!</Bedroom.stages.8.description>
+
+  <Bedroom.stages.9.label>Прекрасна спалня</Bedroom.stages.9.label>
+  <Bedroom.stages.9.description>Спалнята ми е просто прекрасна. Не бих бил на друго място в момента!</Bedroom.stages.9.description>
+
+  <Bedroom.stages.10.label>Фантастична спалня</Bedroom.stages.10.label>
+  <Bedroom.stages.10.description>Спалнята ми е просто фантастична. Не бих бил на друго място в момента.</Bedroom.stages.10.description>
+
+  <Bedroom.stages.11.label>Чудна спалня</Bedroom.stages.11.label>
+  <Bedroom.stages.11.description>Спалнята ми е произведение на изкуството. И е цялата моя! Някой да ме ощипе...</Bedroom.stages.11.description>
+
+  <PrisonCell.stages.0.label>Отвратителна килия</PrisonCell.stages.0.label>
+  <PrisonCell.stages.0.description>Килията ми е в отвратително състояние.</PrisonCell.stages.0.description>
+
+  <PrisonCell.stages.1.label>Грозна килия</PrisonCell.stages.1.label>
+  <PrisonCell.stages.1.description>Килията ми е в много лошо състояние.</PrisonCell.stages.1.description>
+
+  <PrisonCell.stages.4.label>Хубава килия</PrisonCell.stages.4.label>
+  <PrisonCell.stages.4.description>Килията ми е хубава.</PrisonCell.stages.4.description>
+
+  <PrisonCell.stages.5.label>Много хубава килия</PrisonCell.stages.5.label>
+  <PrisonCell.stages.5.description>Килията ми изглежда доста добре.</PrisonCell.stages.5.description>
+
+  <PrisonCell.stages.6.label>Отлична килия</PrisonCell.stages.6.label>
+  <PrisonCell.stages.6.description>Килията ми изглежда отлично. Вие така ли се отнасяте със затворниците тук?</PrisonCell.stages.6.description>
+
+  <PrisonCell.stages.7.label>Внушителна килия</PrisonCell.stages.7.label>
+  <PrisonCell.stages.7.description>Килията ми е внушителна. Не мога да повярвам, че ме затворихте тук. Харесва ми!</PrisonCell.stages.7.description>
+
+  <PrisonCell.stages.8.label>Много внушителна килия</PrisonCell.stages.8.label>
+  <PrisonCell.stages.8.description>Килията ми е много внушителна. Не мога да повярвам, че ме затворихте тук. Харесва ми!</PrisonCell.stages.8.description>
+
+  <PrisonCell.stages.9.label>Прекрасна килия</PrisonCell.stages.9.label>
+  <PrisonCell.stages.9.description>Тази килия е прекрасна. Най-хубавото място, където съм бил!</PrisonCell.stages.9.description>
+
+  <PrisonCell.stages.10.label>Фантастична килия</PrisonCell.stages.10.label>
+  <PrisonCell.stages.10.description>Тази килия е фантастична! Тук мога да остана завинаги.</PrisonCell.stages.10.description>
+
+  <PrisonCell.stages.11.label>Чудна килия</PrisonCell.stages.11.label>
+  <PrisonCell.stages.11.description>Ама вие сериозно ли ме затворихте тук? Това място е произведение на изкуството. Ако зависеше от мен, не бих мръднал оттук.</PrisonCell.stages.11.description>
+
+  <Barracks.stages.0.label>Отвратителна обща стая</Barracks.stages.0.label>
+  <Barracks.stages.0.description>Общата ни стая е в отвратително състояние.</Barracks.stages.0.description>
+
+  <Barracks.stages.1.label>Грозна обща стая</Barracks.stages.1.label>
+  <Barracks.stages.1.description>Общата ни стая е в лошо състояние.</Barracks.stages.1.description>
+
+  <Barracks.stages.5.label>Порядъчна обща стая</Barracks.stages.5.label>
+  <Barracks.stages.5.description>Общата ни стая... бива, но ми се иска да имам собствена спалня.</Barracks.stages.5.description>
+
+  <Barracks.stages.6.label>Хубава обща стая</Barracks.stages.6.label>
+  <Barracks.stages.6.description>Общата ни стая е хубава и ми харесва, но ми се иска да имам собствена спалня.</Barracks.stages.6.description>
+
+  <Barracks.stages.7.label>Много хубава обща стая</Barracks.stages.7.label>
+  <Barracks.stages.7.description>Общата ни стая е много хубава и ми харесва!</Barracks.stages.7.description>
+
+  <Barracks.stages.8.label>Отлична обща стая</Barracks.stages.8.label>
+  <Barracks.stages.8.description>Общата ни стая е отлична и много ми харесва!</Barracks.stages.8.description>
+
+  <Barracks.stages.9.label>Внушителна обща стая</Barracks.stages.9.label>
+  <Barracks.stages.9.description>Общата ни стая е наистина внушителна! Най-хубавото място в колонията!</Barracks.stages.9.description>
+
+  <Barracks.stages.10.label>Фантастична обща стая</Barracks.stages.10.label>
+  <Barracks.stages.10.description>Общата ни стая е най-красивото място, което мога да си представя.</Barracks.stages.10.description>
+
+  <Barracks.stages.11.label>Чудна обща стая</Barracks.stages.11.label>
+  <Barracks.stages.11.description>Това наистина ли се случва? Ощипете ме, защото не мога да повярвам, че спя в такава стая.</Barracks.stages.11.description>
+
+  <PrisonBarracks.stages.0.label>Отвратителна обща килия</PrisonBarracks.stages.0.label>
+  <PrisonBarracks.stages.0.description>Общата ни килия е в отвратително състояние.</PrisonBarracks.stages.0.description>
+
+  <PrisonBarracks.stages.1.label>Грозна обща килия</PrisonBarracks.stages.1.label>
+  <PrisonBarracks.stages.1.description>Общата ни килия е в лошо състояние.</PrisonBarracks.stages.1.description>
+
+  <PrisonBarracks.stages.5.label>Порядъчна обща килия</PrisonBarracks.stages.5.label>
+  <PrisonBarracks.stages.5.description>Общата ни килия е в добро състояние.</PrisonBarracks.stages.5.description>
+
+  <PrisonBarracks.stages.6.label>Хубава обща килия</PrisonBarracks.stages.6.label>
+  <PrisonBarracks.stages.6.description>Общата ни килия изглежда добре. Харесва ми.</PrisonBarracks.stages.6.description>
+
+  <PrisonBarracks.stages.7.label>Много хубава обща килия</PrisonBarracks.stages.7.label>
+  <PrisonBarracks.stages.7.description>Общата ни килия изглежда доста добре. Харесва ми..</PrisonBarracks.stages.7.description>
+
+  <PrisonBarracks.stages.8.label>Отлична обща килия</PrisonBarracks.stages.8.label>
+  <PrisonBarracks.stages.8.description>Общата ни килия изглежда отлично. Не мога да повярвам, че ме затворихте на такова място.</PrisonBarracks.stages.8.description>
+
+  <PrisonBarracks.stages.9.label>Внушителна обща килия</PrisonBarracks.stages.9.label>
+  <PrisonBarracks.stages.9.description>Общата ни килия изглежда наистина внушително. Не мога да повярвам, че ме затворихте на такова място.</PrisonBarracks.stages.9.description>
+
+  <PrisonBarracks.stages.10.label>Фантастична обща килия</PrisonBarracks.stages.10.label>
+  <PrisonBarracks.stages.10.description>Общата ни килия изглежда наистина фантастично. Не мога да повярвам, че ме затворихте на такова място.</PrisonBarracks.stages.10.description>
+
+  <PrisonBarracks.stages.11.label>Чудна обща килия</PrisonBarracks.stages.11.label>
+  <PrisonBarracks.stages.11.description>Това наистина ли се случва? Ощипете ме, защото не мога да повярвам, че спя в такава килия.</PrisonBarracks.stages.11.description>
+
+  <AteInImpressiveDiningRoom.stages.5.label>Яде в хубава трапезария</AteInImpressiveDiningRoom.stages.5.label>
+  <AteInImpressiveDiningRoom.stages.5.description>Нахраних се в хубава трапезария.</AteInImpressiveDiningRoom.stages.5.description>
+
+  <AteInImpressiveDiningRoom.stages.6.label>Яде в красива трапезария</AteInImpressiveDiningRoom.stages.6.label>
+  <AteInImpressiveDiningRoom.stages.6.description>Нахраних се в красива трапезария.</AteInImpressiveDiningRoom.stages.6.description>
+
+  <AteInImpressiveDiningRoom.stages.7.label>Яде в отлична трапезария</AteInImpressiveDiningRoom.stages.7.label>
+  <AteInImpressiveDiningRoom.stages.7.description>Трапезарията, в която се нахраних изглеждаше отлично.</AteInImpressiveDiningRoom.stages.7.description>
+
+  <AteInImpressiveDiningRoom.stages.8.label>Яде във внушителна трапезария</AteInImpressiveDiningRoom.stages.8.label>
+  <AteInImpressiveDiningRoom.stages.8.description>Трапезарията, в която се нахраних изглеждаше наистина внушителна. Направо не ми се ставаше.</AteInImpressiveDiningRoom.stages.8.description>
+
+  <AteInImpressiveDiningRoom.stages.9.label>Яде в прекрасна трапезария</AteInImpressiveDiningRoom.stages.9.label>
+  <AteInImpressiveDiningRoom.stages.9.description>Трапезарията, в която се нахраних изглеждаше наистина прекрасно. Направо не ми се ставаше.</AteInImpressiveDiningRoom.stages.9.description>
+
+  <AteInImpressiveDiningRoom.stages.10.label>Яде във фантастична трапезария</AteInImpressiveDiningRoom.stages.10.label>
+  <AteInImpressiveDiningRoom.stages.10.description>Трапезарията, в която се нахраних изглеждаше наистина фантастично. Направо не ми се ставаше!</AteInImpressiveDiningRoom.stages.10.description>
+
+  <AteInImpressiveDiningRoom.stages.11.label>Яде в чудна трапезария</AteInImpressiveDiningRoom.stages.11.label>
+  <AteInImpressiveDiningRoom.stages.11.description>Трапезарията, в която се нахраних бе произведение на изкуството. Мога да стоя тук завинаги!</AteInImpressiveDiningRoom.stages.11.description>
+
+  <JoyActivityInImpressiveRecRoom.stages.5.label>Хубава всекидневна</JoyActivityInImpressiveRecRoom.stages.5.label>
+  <JoyActivityInImpressiveRecRoom.stages.5.description>Изкарах си добре в хубавата ни всекидневна.</JoyActivityInImpressiveRecRoom.stages.5.description>
+
+  <JoyActivityInImpressiveRecRoom.stages.6.label>Красива всекидневна</JoyActivityInImpressiveRecRoom.stages.6.label>
+  <JoyActivityInImpressiveRecRoom.stages.6.description>Изкарах си добре в красивата ни всекидневна.</JoyActivityInImpressiveRecRoom.stages.6.description>
+
+  <JoyActivityInImpressiveRecRoom.stages.7.label>Отлична всекидневна</JoyActivityInImpressiveRecRoom.stages.7.label>
+  <JoyActivityInImpressiveRecRoom.stages.7.description>Изкарах си добре в отличната ни всекидневна.</JoyActivityInImpressiveRecRoom.stages.7.description>
+
+  <JoyActivityInImpressiveRecRoom.stages.8.label>Внушителна всекидневна</JoyActivityInImpressiveRecRoom.stages.8.label>
+  <JoyActivityInImpressiveRecRoom.stages.8.description>Изкарах си добре във внушителната ни всекидневна. Направо не ми се ставаше.</JoyActivityInImpressiveRecRoom.stages.8.description>
+
+  <JoyActivityInImpressiveRecRoom.stages.9.label>Прекрасна всекидневна</JoyActivityInImpressiveRecRoom.stages.9.label>
+  <JoyActivityInImpressiveRecRoom.stages.9.description>Изкарах си добре в прекрасната ни всекидневна. Направо не ми се ставаше.</JoyActivityInImpressiveRecRoom.stages.9.description>
+
+  <JoyActivityInImpressiveRecRoom.stages.10.label>Фантастична всекидневна</JoyActivityInImpressiveRecRoom.stages.10.label>
+  <JoyActivityInImpressiveRecRoom.stages.10.description>Изкарах си добре в фантастичната ни всекидневна. Направо не ми се ставаше!</JoyActivityInImpressiveRecRoom.stages.10.description>
+
+  <JoyActivityInImpressiveRecRoom.stages.11.label>Чудна всекидневна</JoyActivityInImpressiveRecRoom.stages.11.label>
+  <JoyActivityInImpressiveRecRoom.stages.11.description>Изкарах си прекрасно в най-добрата всекидневна на света. Мога да стоя тук завинаги!</JoyActivityInImpressiveRecRoom.stages.11.description>
+
+  <HospitalPatientRoomStats.stages.4.label>Хубава болница</HospitalPatientRoomStats.stages.4.label>
+  <HospitalPatientRoomStats.stages.4.description>Тази болница е хубава. Вече се чувствам доста по-добре.</HospitalPatientRoomStats.stages.4.description>
+
+  <HospitalPatientRoomStats.stages.5.label>Много хубава болница</HospitalPatientRoomStats.stages.5.label>
+  <HospitalPatientRoomStats.stages.5.description>Тази болница е много хубава. Вече се чувствам доста по-добре.</HospitalPatientRoomStats.stages.5.description>
+
+  <HospitalPatientRoomStats.stages.6.label>Прекрасна болница</HospitalPatientRoomStats.stages.6.label>
+  <HospitalPatientRoomStats.stages.6.description>Тази болница е прекрасна. Вече се чувствам доста по-добре.</HospitalPatientRoomStats.stages.6.description>
+
+  <HospitalPatientRoomStats.stages.7.label>Фантастична болница</HospitalPatientRoomStats.stages.7.label>
+  <HospitalPatientRoomStats.stages.7.description>Тази болница е фантастична. Вече се чувствам доста по-добре.</HospitalPatientRoomStats.stages.7.description>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Psychic drone -->
+
+  <FeelingRandom.stages.0.label>Супер съм</FeelingRandom.stages.0.label>
+  <FeelingRandom.stages.0.description>Няма особена причина за това, но се чувствам просто супер.</FeelingRandom.stages.0.description>
+
+  <FeelingRandom.stages.1.label>Чувстам се добре</FeelingRandom.stages.1.label>
+  <FeelingRandom.stages.1.description>Няма особена причина за това, но се чувствам добре.</FeelingRandom.stages.1.description>
+
+  <FeelingRandom.stages.2.label>Зле ми е</FeelingRandom.stages.2.label>
+  <FeelingRandom.stages.2.description>Не се чувствам особено добре, и то без особена причина.</FeelingRandom.stages.2.description>
+
+  <FeelingRandom.stages.3.label>Имам лош ден</FeelingRandom.stages.3.label>
+  <FeelingRandom.stages.3.description>В момента се чувствам отвратително, без особено причина. Не ми стойте на пътя.</FeelingRandom.stages.3.description>
+
+</LanguageData>

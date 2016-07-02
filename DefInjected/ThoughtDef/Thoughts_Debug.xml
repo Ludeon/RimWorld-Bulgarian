@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DebugBad.stages.0.label>Debugging: Лощо настроение</DebugBad.stages.0.label>
+  <DebugBad.stages.0.description>Тест за лошо настроение</DebugBad.stages.0.description>
+
+  <DebugGood.stages.0.label>Debugging: Добро настроение</DebugGood.stages.0.label>
+  <DebugGood.stages.0.description>Тест за добро настроение</DebugGood.stages.0.description>
+
+</LanguageData>

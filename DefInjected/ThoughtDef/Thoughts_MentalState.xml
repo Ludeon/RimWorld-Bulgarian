@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CurrentlyInMentalStateBerserk.stages.0.label>Полудял</CurrentlyInMentalStateBerserk.stages.0.label>
+  <CurrentlyInMentalStateBerserk.stages.0.description>Трябва да унищожавам! ... Трябва да режа! ... Трябва да убивам!</CurrentlyInMentalStateBerserk.stages.0.description>
+
+  <CurrentlyInMentalStateSad.stages.0.label>Пречупен</CurrentlyInMentalStateSad.stages.0.label>
+  <CurrentlyInMentalStateSad.stages.0.description>Не мога повече... това не е честно...</CurrentlyInMentalStateSad.stages.0.description>
+
+  <CurrentlyInMentalStatePanicFlee.stages.0.label>Паникьосан</CurrentlyInMentalStatePanicFlee.stages.0.label>
+  <CurrentlyInMentalStatePanicFlee.stages.0.description>Искам да се махна!</CurrentlyInMentalStatePanicFlee.stages.0.description>
+
+</LanguageData>

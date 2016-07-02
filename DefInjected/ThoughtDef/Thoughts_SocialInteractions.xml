@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <Chitchat.stages.0.label>разговор</Chitchat.stages.0.label>
+
+  <DeepTalk.stages.0.label>дълбок разговор</DeepTalk.stages.0.label>
+
+  <Slighted.stages.0.label>ядосан</Slighted.stages.0.label>
+
+  <Insulted.stages.0.label>обиден</Insulted.stages.0.label>
+
+  <!-- Special -->
+
+  <!-- note that it doesn't affect opinion -->
+
+  <PrisonerFriendlyChat.stages.0.label>Убеден от надзирател</PrisonerFriendlyChat.stages.0.label>
+  <PrisonerFriendlyChat.stages.0.description>Разговарях с надзирателя на колонията. Изглежда добро място...</PrisonerFriendlyChat.stages.0.description>
+
+  <!-- Social fights -->
+
+  <HadAngeringFight.stages.0.label>яростна драка</HadAngeringFight.stages.0.label>
+
+  <HadCatharticFight.stages.0.label>прочистваща драка</HadCatharticFight.stages.0.label>
+
+  <!-- Misc actions affecting opinion -->
+
+  <HarmedMe.stages.0.label>ме нарани</HarmedMe.stages.0.label>
+
+  <BotchedMySurgery.stages.0.label>ме оперира лошо</BotchedMySurgery.stages.0.label>
+
+  <KilledMyKin.stages.0.label>уби мой роднина</KilledMyKin.stages.0.label>
+
+  <RescuedMe.stages.0.label>ме спаси</RescuedMe.stages.0.label>
+
+  <RecruitedMe.stages.0.label>ме вербува</RecruitedMe.stages.0.label>
+
+  <CrashedTogether.stages.0.label>заедно кацнахме</CrashedTogether.stages.0.label>
+
+  <SoldMyLovedOne.stages.0.label>продаде любим човек</SoldMyLovedOne.stages.0.label>
+  <SoldMyLovedOne.stages.0.labelSocial>любимият ми човек бе продаден</SoldMyLovedOne.stages.0.labelSocial>
+  <SoldMyLovedOne.stages.0.description>Някой продаде любимият ми човек на някакзв търговец все едно е парче месо!</SoldMyLovedOne.stages.0.description>
+
+  <SoldMyBondedAnimal.stages.0.label>продаде любимо животно</SoldMyBondedAnimal.stages.0.label>
+  <SoldMyBondedAnimal.stages.0.labelSocial>любимото ми жовотно бе продадено</SoldMyBondedAnimal.stages.0.labelSocial>
+  <SoldMyBondedAnimal.stages.0.description>Някой продаде любимото ми питомно животно на търговец!</SoldMyBondedAnimal.stages.0.description>
+
+  <!-- Love -->
+
+  <CheatedOnMe.stages.0.label>ми изневери</CheatedOnMe.stages.0.label>
+
+  <Rebuffed.stages.0.label>ме отблъсна</Rebuffed.stages.0.label>
+
+  <FailedRomanceAttempt.stages.0.label>отказа да е с мен</FailedRomanceAttempt.stages.0.label>
+
+  <BrokeUpWithMe.stages.0.label>скъса с мен</BrokeUpWithMe.stages.0.label>
+
+  <DivorcedMe.stages.0.label>се разведе с мен</DivorcedMe.stages.0.label>
+
+  <RejectedMyProposal.stages.0.label>ми отказа</RejectedMyProposal.stages.0.label>
+
+  <IRejectedTheirProposal.stages.0.label>отказах предложението</IRejectedTheirProposal.stages.0.label>
+
+  <HoneymoonPhase.stages.0.label>меден месец</HoneymoonPhase.stages.0.label>
+
+</LanguageData>

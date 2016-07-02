@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SleepDisturbed.stages.0.label>Прекъснат сън</SleepDisturbed.stages.0.label>
+  <SleepDisturbed.stages.0.description>Въобще не можех да спя спокойно, защото хора през цялото време влизаха, излизаха и сновяха наоколо. Не бих отказал собствена стая.</SleepDisturbed.stages.0.description>
+
+  <AteRawFood.stages.0.label>Яде сурова храна</AteRawFood.stages.0.label>
+  <AteRawFood.stages.0.description>Трябваше да ям сурова храна. Не можеше ли поне да я сготвим или да я направим на хранителна паста?</AteRawFood.stages.0.description>
+
+  <AteCorpse.stages.0.label>Яде от труп</AteCorpse.stages.0.label>
+  <AteCorpse.stages.0.description>Какъв кошмар! Трябваше да ям трупно месо като животно!</AteCorpse.stages.0.description>
+
+  <AteNutrientPasteMeal.stages.0.label>Яде хранителна паста</AteNutrientPasteMeal.stages.0.label>
+  <AteNutrientPasteMeal.stages.0.description>Ядох хранителна паста... ясно, че е полезна, ама тази каша не му харесва на никого.</AteNutrientPasteMeal.stages.0.description>
+
+  <AteFineMeal.stages.0.label>Яде вкусно ястие</AteFineMeal.stages.0.label>
+  <AteFineMeal.stages.0.description>Ммм, това беше вкусно!</AteFineMeal.stages.0.description>
+
+  <AteLavishMeal.stages.0.label>Яде обилно ястие</AteLavishMeal.stages.0.label>
+  <AteLavishMeal.stages.0.description>Това ядене беше толкова вкусно и толкова обилно. Как само се натъпках!</AteLavishMeal.stages.0.description>
+
+  <AteWithoutTable.stages.0.label>Яде без маса</AteWithoutTable.stages.0.label>
+  <AteWithoutTable.stages.0.description>Трябваше да ям от пода като неандерталец. Не можем ли да си направим маса?</AteWithoutTable.stages.0.description>
+
+  <NewColonyOptimism.stages.0.label>Оптимизъм на нов заселник</NewColonyOptimism.stages.0.label>
+  <NewColonyOptimism.stages.0.description>Тъкмо кацнахме. Няма да е лесно, но много искам да помогна за създаването на нова колония.</NewColonyOptimism.stages.0.description>
+
+  <NewColonyHope.stages.0.label>Надежда за колонията</NewColonyHope.stages.0.label>
+  <NewColonyHope.stages.0.description>Почвам да посвиквам със ситуацията. Имам надежда, че ще се справим...</NewColonyHope.stages.0.description>
+
+  <SleptOutside.stages.0.label>Спал навън</SleptOutside.stages.0.label>
+  <SleptOutside.stages.0.description>Трябваше да спя под открито небе!</SleptOutside.stages.0.description>
+
+  <SleptOnGround.stages.0.label>Спал на земята</SleptOnGround.stages.0.label>
+  <SleptOnGround.stages.0.description>Трябваше да спя на земята като животно.</SleptOnGround.stages.0.description>
+
+  <SleptInCold.stages.0.label>Спал на студено</SleptInCold.stages.0.label>
+  <SleptInCold.stages.0.description>Спах на студено. Трябва да стоплим помещението!</SleptInCold.stages.0.description>
+
+  <SleptInHeat.stages.0.label>Спал на топло</SleptInHeat.stages.0.label>
+  <SleptInHeat.stages.0.description>Спах при непоносима жега! Няма ли как да охладим помещението?</SleptInHeat.stages.0.description>
+
+  <KnowPrisonerSold.stages.0.label>Продаден затворник</KnowPrisonerSold.stages.0.label>
+  <KnowPrisonerSold.stages.0.description>Продадохме затворник все едно сме търговци на роби.</KnowPrisonerSold.stages.0.description>
+
+  <KnowGuestExecuted.stages.0.label>Евтаназия на гост</KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.0.description>Извършихме евтаназия на гост или затворник на колонията.</KnowGuestExecuted.stages.0.description>
+  <KnowGuestExecuted.stages.1.label>Екзекутиран гост</KnowGuestExecuted.stages.1.label>
+  <KnowGuestExecuted.stages.1.description>Екзекутирахме гост или затворник на колонията.</KnowGuestExecuted.stages.1.description>
+  <KnowGuestExecuted.stages.2.label>Смърт при премахване на орган</KnowGuestExecuted.stages.2.label>
+  <KnowGuestExecuted.stages.2.description>Гост или затворник на колонията почина докато му вземахме орган. Това е ужасно!</KnowGuestExecuted.stages.2.description>
+
+  <KnowColonistExecuted.stages.0.label>Евтаназия на заселник</KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.0.description>Извършихме евтаназия на един от нас!</KnowColonistExecuted.stages.0.description>
+  <KnowColonistExecuted.stages.1.label>Екзекутиран затворник</KnowColonistExecuted.stages.1.label>
+  <KnowColonistExecuted.stages.1.description>Един от нас бе хладнокръвно екзекутиран. Настроението в колонията се влошава с всеки ден.</KnowColonistExecuted.stages.1.description>
+  <KnowColonistExecuted.stages.2.label>Смърт при премахване на орган</KnowColonistExecuted.stages.2.label>
+  <KnowColonistExecuted.stages.2.description>Един от нас почина, докато му вземахме орган. Това е ужасно!</KnowColonistExecuted.stages.2.description>
+
+  <KnowGuestOrganHarvested.stages.0.label>Премахване на орган (друг)</KnowGuestOrganHarvested.stages.0.label>
+  <KnowGuestOrganHarvested.stages.0.description>Премахнахме нечий орган. Това е отвратително - режем безпомощен човек на парчета!</KnowGuestOrganHarvested.stages.0.description>
+
+  <KnowColonistOrganHarvested.stages.0.label>Премахване на орган (зас.)</KnowColonistOrganHarvested.stages.0.label>
+  <KnowColonistOrganHarvested.stages.0.description>Премахнахме орган на един от нас. Това е отвратително - режем безпомощен човек на парчета!</KnowColonistOrganHarvested.stages.0.description>
+
+  <MyOrganHarvested.stages.0.label>Бе ми махнат орган</MyOrganHarvested.stages.0.label>
+  <MyOrganHarvested.stages.0.description>Махнахте ми важен орган на тялото! Аз за какво съм ви тук, за резервни части ли?!</MyOrganHarvested.stages.0.description>
+
+  <WasImprisoned.stages.0.label>Бе арестуван</WasImprisoned.stages.0.label>
+  <WasImprisoned.stages.0.description>Другите ме арестуваха, все едно съм животно.</WasImprisoned.stages.0.description>
+
+  <GreenThumbHappy.stages.0.label>Събрал реколта</GreenThumbHappy.stages.0.label>
+  <GreenThumbHappy.stages.0.description>Светът се нуждае от повече растения!</GreenThumbHappy.stages.0.description>
+
+  <Catharsis.stages.0.label>Катарзис</Catharsis.stages.0.label>
+  <Catharsis.stages.0.description>Това, което ми се случи ... прочистващо. Зная, че мога да бъда по-добър човек.</Catharsis.stages.0.description>
+
+  <Nuzzled.stages.0.label>Погалих животно</Nuzzled.stages.0.label>
+  <Nuzzled.stages.0.description>Сладко животно ми позволи да го погаля.</Nuzzled.stages.0.description>
+
+  <KnowBuriedInSarcophagus.stages.0.label>Погребан в саркофаг</KnowBuriedInSarcophagus.stages.0.label>
+  <KnowBuriedInSarcophagus.stages.0.description>Нашата колония погреба мъртвец в саркофаг. Нека почива в мир.</KnowBuriedInSarcophagus.stages.0.description>
+  
+
+  <!-- Cannibalism -->
+
+  <AteHumanlikeMeatDirect.stages.0.label>Канибализъм (сурово)</AteHumanlikeMeatDirect.stages.0.label>
+  <AteHumanlikeMeatDirect.stages.0.description>Какъв кошмар - ядох сурово човешко месо като хищник!</AteHumanlikeMeatDirect.stages.0.description>
+
+  <AteHumanlikeMeatAsIngredient.stages.0.label>Канибализъм (сготвено)</AteHumanlikeMeatAsIngredient.stages.0.label>
+  <AteHumanlikeMeatAsIngredient.stages.0.description>Това ядене съдържаше човешко месо. Това е ужасно.</AteHumanlikeMeatAsIngredient.stages.0.description>
+
+  <AteHumanlikeMeatDirectCannibal.stages.0.label>Канибализъм (сурово)</AteHumanlikeMeatDirectCannibal.stages.0.label>
+  <AteHumanlikeMeatDirectCannibal.stages.0.description>Ядох сурово човешко месо като хищник. Беше сочно.</AteHumanlikeMeatDirectCannibal.stages.0.description>
+
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>Канибализъм (сготвено)</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Това ядене съдържаше човешко месо и беше толкова вкусно. Да имаше и малко пиене с него...</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+
+  <ButcheredHumanlikeCorpse.stages.0.label>Заколил човек</ButcheredHumanlikeCorpse.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.0.description>Заколих човек все едно беше някакво животно...</ButcheredHumanlikeCorpse.stages.0.description>
+
+  <KnowButcheredHumanlikeCorpse.stages.0.label>Заколихме човек</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.description>Закой от нас заколи човек все едно беше някакво животно.</KnowButcheredHumanlikeCorpse.stages.0.description>
+  
+
+  <!-- Combat -->
+
+  <ObservedLayingCorpse.stages.0.label>Видя труп</ObservedLayingCorpse.stages.0.label>
+  <ObservedLayingCorpse.stages.0.description>Видях труп, лежаш на земята.</ObservedLayingCorpse.stages.0.description>
+
+  <ObservedLayingRottingCorpse.stages.0.label>Видях разложен труп</ObservedLayingRottingCorpse.stages.0.label>
+  <ObservedLayingRottingCorpse.stages.0.description>Видях разложен труп. Това бе отвратително - цялата тази разлагаща се плът и миризмата... ух...</ObservedLayingRottingCorpse.stages.0.description>
+
+  <WitnessedDeathAlly.stages.0.label>Видя смърт на приятел</WitnessedDeathAlly.stages.0.label>
+  <WitnessedDeathAlly.stages.0.description>Един от приятелите ми умря. Един ден беше тук, а на другия не...</WitnessedDeathAlly.stages.0.description>
+
+  <WitnessedDeathStranger.stages.0.label>Видя смърт</WitnessedDeathStranger.stages.0.label>
+  <WitnessedDeathStranger.stages.0.description>Видях как непознат човек умря. Преди малко беше жив, а вече не е...</WitnessedDeathStranger.stages.0.description>
+
+  <WitnessedDeathStrangerBloodlust.stages.0.label>Видя смърт (полож.)</WitnessedDeathStrangerBloodlust.stages.0.label>
+  <WitnessedDeathStrangerBloodlust.stages.0.description>Видях как някой умря! Колко екзалтиращо!</WitnessedDeathStrangerBloodlust.stages.0.description>
+
+  <KilledHumanlikeBloodlust.stages.0.label>Убил някого</KilledHumanlikeBloodlust.stages.0.label>
+  <KilledHumanlikeBloodlust.stages.0.description>Убих някого. Какво усешане само!</KilledHumanlikeBloodlust.stages.0.description>
+
+  <BattleWounded.stages.0.label>Ранен</BattleWounded.stages.0.label>
+  <BattleWounded.stages.0.description>Това е моята кръв! Бях ранен в битка!</BattleWounded.stages.0.description>
+
+</LanguageData>
