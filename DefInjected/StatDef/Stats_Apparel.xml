@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ArmorRating_Blunt.label>Броня (тъпи предмети)</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.description>Броня, защитаваща от удари с тъпи предмети като тояги, хвърляни камъни, лавини от камъни, както и екплозии.</ArmorRating_Blunt.description>
+
+  <ArmorRating_Sharp.label>Броня (остри предмети)</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.description>Броня защитаваща от удари с остри предмети като куршуми, пробождания с меч или кама, захапки.</ArmorRating_Sharp.description>
+
+  <ArmorRating_Heat.label>Броня (горещина)</ArmorRating_Heat.label>
+  <ArmorRating_Heat.description>Броня защитаваща от топлинни атаки (напр. огън).</ArmorRating_Heat.description>
+
+  <ArmorRating_Electric.label>Броня (електричество)</ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>Броня защитаваща от електрически атаки, вкл. ЕМР гранати.</ArmorRating_Electric.description>
+
+  <Insulation_Cold.label>Изолация (студ)</Insulation_Cold.label>
+  <Insulation_Cold.description>Показва доколко екипировката предпазва от най-ниската търпима температура при носене.</Insulation_Cold.description>
+
+  <Insulation_Heat.label>Изолация (топлина)</Insulation_Heat.label>
+  <Insulation_Heat.description>Показва доколко екипировката предпазва от най-високата търпима температура при носене.</Insulation_Heat.description>
+
+  <PersonalShieldEnergyMax.label>Персонален щит (макс. енергия)</PersonalShieldEnergyMax.label>
+  <PersonalShieldEnergyMax.description>Показва максималната енергия на носения от заселника енергиен щит. Колкото е по-висока е стойността, толкова повече щети може да понесе преди да изгуби защитата си.</PersonalShieldEnergyMax.description>
+
+  <PersonalShieldRechargeRate.label>Ниво на зареждане на щит</PersonalShieldRechargeRate.label>
+  <PersonalShieldRechargeRate.description>Показва стойността на въстановяване на енергийния щит след разрушаването му в битка.</PersonalShieldRechargeRate.description>
+
+</LanguageData>
