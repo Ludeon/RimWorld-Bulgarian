@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Misc Tile -->
+
+  <MetalTile.label>Метални плочки</MetalTile.label>
+  <MetalTile.description>Метални плочки, които придават на помещението футуристичен вид и изглеждат добре, но изискват много материали и време.</MetalTile.description>
+
+  <SilverTile.label>Сребърни плочки</SilverTile.label>
+  <SilverTile.description>Сребърните плочки придават луксозен вид на помещението, но изискват много материали и време.</SilverTile.description>
+
+  <GoldTile.label>Златни плочки</GoldTile.label>
+  <GoldTile.description>Само най-екстравагантните помещения са покрити със златни плочки. Те са изключително скъпи и изискват много време и материали.</GoldTile.description>
+
+  <SterileTile.label>Стерилни плочки</SterileTile.label>
+  <SterileTile.description>Стерилниче плочки помагат да се поддържа едно помещение чисто. Те се ползват за намаляване на шанса за инфекция на пациентите в болничните стаи. Те изглеждат неутрално и изискват много време за поставяне.</SterileTile.description>
+
+  <PavedTile.label>Паве</PavedTile.label>
+  <PavedTile.description>Павета. Не са приятни на вид, но са евтини и заселниците се придвижват по-бързо по тях. Изискват много време за поставяне.</PavedTile.description>
+
+  <Concrete.label>Бетон</Concrete.label>
+  <Concrete.description>Бързосъхнещ бетон, по който заселниците могат да се придвижват бързо. Лесен за поставяне, но неприятен за окото.</Concrete.description>
+
+  <WoodPlankFloor.label>Дървен под</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Дървен под, който предизвиква настроение на уют.</WoodPlankFloor.description>
+
+  <!-- Carpets -->
+
+  <CarpetRed.label>Червен мокет</CarpetRed.label>
+  <CarpetRed.description>Мокет, оцветен в червено.</CarpetRed.description>
+
+  <CarpetGreen.label>Зелен мокет</CarpetGreen.label>
+  <CarpetGreen.description>Мокет, оцветен в естествено зелено.</CarpetGreen.description>
+
+  <CarpetBlue.label>Син мокет</CarpetBlue.label>
+  <CarpetBlue.description>Мокет, оцветен в синьо.</CarpetBlue.description>
+
+  <CarpetCream.label>Кремав мокет</CarpetCream.label>
+  <CarpetCream.description>Мокет, оцветен в кремаво.</CarpetCream.description>
+
+  <CarpetDark.label>Сив мокет</CarpetDark.label>
+  <CarpetDark.description>Мокет, оцветен в тъмно сиво.</CarpetDark.description>
+
+  <!-- Special: Floors from stones -->
+
+  <Sandstone_Rough.label>Груб пясъчник</Sandstone_Rough.label>
+  <Sandstone_RoughHewn.label>Грубоизсечен пясъчник</Sandstone_RoughHewn.label>
+  <Sandstone_Smooth.label>Изгладен пясъчник</Sandstone_Smooth.label>
+  <Granite_Rough.label>Груб гранит</Granite_Rough.label>
+  <Granite_RoughHewn.label>Грубоизсечен гранит</Granite_RoughHewn.label>
+  <Granite_Smooth.label>Изгладен гранит</Granite_Smooth.label>
+  <Limestone_Rough.label>Груб варовик</Limestone_Rough.label>
+  <Limestone_RoughHewn.label>Грубоизсечен варовик</Limestone_RoughHewn.label>
+  <Limestone_Smooth.label>Изгладен варовик</Limestone_Smooth.label>
+  <Slate_Rough.label>Груба шистова скала</Slate_Rough.label>
+  <Slate_RoughHewn.label>Грубоизсечена шистова скала</Slate_RoughHewn.label>
+  <Slate_Smooth.label>Изгладена шистова скала</Slate_Smooth.label>
+  <Marble_Rough.label>Груб мрамор</Marble_Rough.label>
+  <Marble_RoughHewn.label>Грубоизсечен мрамор</Marble_RoughHewn.label>
+  <Marble_Smooth.label>Изгладен мрамор</Marble_Smooth.label>
+
+</LanguageData>
