@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <StageThenAttack.letterLabelEnemy>Нападение</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.arrivalTextEnemy>Те ще се подговят за атака.\n\nПриготви защита или атакувай превантивно.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelFriendly>Съюзници</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.arrivalTextFriendly>Те трябва да се подготвят преди да ти помогнат.</StageThenAttack.arrivalTextFriendly>
+
+  <ImmediateAttack.letterLabelEnemy>Нападение</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.arrivalTextEnemy>Те атакуват веднага.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.letterLabelFriendly>Съюзници</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.arrivalTextFriendly>Те веднага се притичват на помощ.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttackSappers.letterLabelEnemy>Нападение</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>Изглежда, че ще се опитат да използват взривове за да избегнат защитните ти постройки.</ImmediateAttackSappers.arrivalTextEnemy>
+
+  <Siege.letterLabelEnemy>Обсада</Siege.letterLabelEnemy>
+  <Siege.arrivalTextEnemy>Те ще направят обсада на колонията и ще използват гаубици за да бомбардират заселниците ти отдалеч. Можеш да изчакаш да се откажат или да ги атакуваш.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelFriendly>Съюзници</Siege.letterLabelFriendly>
+  <Siege.arrivalTextFriendly>Изглежда, че съюзниците ще помагат с обсадна техника.</Siege.arrivalTextFriendly>
+
+</LanguageData>
