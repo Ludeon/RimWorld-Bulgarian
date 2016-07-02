@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <None.label>Нищо</None.label>
+  <Name.label>Име</Name.label>
+  <MarketValue.label>Пазарна цена</MarketValue.label>
+  <Category.label>Категория</Category.label>
+  <Quality.label>Качество</Quality.label>
+  <HitPointsPercentage.label>Издръжливост</HitPointsPercentage.label>
+
+</LanguageData>
