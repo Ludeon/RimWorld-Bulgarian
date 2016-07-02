@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ButcherCorpseFlesh.label>Заколи труп</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Ще заколи труп за да получи сурово месо от него.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Коли труп.</ButcherCorpseFlesh.jobString>
+  
+  <ButcherCorpseMechanoid.label>Разглоби механоид</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>Разглобява механоид на съставните му части.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>Разглобява механоид.</ButcherCorpseMechanoid.jobString>
+  
+  <MakeKibble.label>Направи суха храна</MakeKibble.label>
+  <MakeKibble.description>Произвежда суха храна за животни от растелия или сурово месо.</MakeKibble.description>
+  <MakeKibble.jobString>Прави суха храна.</MakeKibble.jobString>
+
+</LanguageData>
