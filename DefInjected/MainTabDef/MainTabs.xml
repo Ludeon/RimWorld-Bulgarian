@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Inspect.label>Прегледай</Inspect.label>
+
+  <Architect.label>Архитект</Architect.label>
+  <Architect.description>Определя къде заселниците трябва да строят, складират, сеят, и т.н.</Architect.description>
+
+  <Work.label>Работа</Work.label>
+  <Work.description>Определя кой заселник кои задачи ще извършва и в какъв порядък.</Work.description>
+
+  <Restrict.label>Ограничения</Restrict.label>
+  <Restrict.description>Ограничава действията на заселниците спрямо зона, част на деня, задължения и т.н.</Restrict.description>
+
+  <Assign.label>Задаване</Assign.label>
+  <Assign.description>Определя какъв тип дрехи ще носят заселниците и как ше реагират на заплахи.</Assign.description>
+
+  <Animals.label>Животни</Animals.label>
+  <Animals.description>Определя как да се третират питонмите животни в колонията.</Animals.description>
+
+  <Factions.label>Фракции</Factions.label>
+  <Factions.description>За преглен на фракциите и отношението им към колонията.</Factions.description>
+
+  <World.label>Свят</World.label>
+  <World.description>Отваря световната карта.</World.description>
+
+  <History.label>История</History.label>
+  <History.description>За преглед на историята на колонията.</History.description>
+
+  <Statistics.label>Статистики</Statistics.label>
+  <Statistics.description>За преглед на статистиките на колонията.</Statistics.description>
+
+  <Research.label>Проучване</Research.label>
+  <Research.description>За преглен на проектите за проучване и определяне на основен.</Research.description>
+
+  <Menu.label>Меню</Menu.label>
+  <Menu.description>Други опции, запис, зареждане или приключване на игра.</Menu.description>
+
+</LanguageData>
