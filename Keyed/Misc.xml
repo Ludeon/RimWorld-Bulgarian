@@ -1,60 +1,73 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Autosaving>Автоматичен запис</Autosaving>
-  
-  <GameStartDialog>Тримата се събуждате от криптосън от звука на раздиращ се метал и сирени за тревога. Едва достигате до капсулите за евакуация преди корабът да бъде изцяло разкъсан.\n\nМалко по-късно се събуждате на непознат rimworld (непознат пограничен свят).\n\nДокато части от разрушеният космически кораб падат наоколо, започвате да кроите планове за оцеляване.</GameStartDialog>
+	<Autosaving>Автоматичен запис</Autosaving>
+    <GameStartDialog>Тримата се събуждате от дълбок криптосън от звука на раздиращ се метал и сирената. Едва достигате до капсулите за евакуация преди корабът да бъде изцяло разкъсан.\n\nМалко по-късно се приземявате на тази неизвестна планета.\n\nДокато части от разрушеният космически кораб падат наоколо, започвате да кроите планове за оцеляване.</GameStartDialog>
+    <Colony>колония</Colony>
+    <ChangeLanguageFromMainMenu>Езика може да се смени само в главното меню.</ChangeLanguageFromMainMenu>
+    <AndLower>и</AndLower>
+	<DisabledLower>недостъпно</DisabledLower>
 
-  <Colony>Колония</Colony>
-  
-  <ChangeLanguageFromMainMenu>Имаш право да смениш езика само от опциите на главното меню.</ChangeLanguageFromMainMenu>
+	<VersionIndicator>Версия {0}</VersionIndicator>
+	<DevelopmentBuildLower>само за тестери</DevelopmentBuildLower>
+	<CompiledOn>Компилирана {0}</CompiledOn>
+	<LoggedIntoSteamAs>Влезли сте в Steam като {0}</LoggedIntoSteamAs>
 
-  <AndLower>и</AndLower>
-  <DisabledLower>негоден</DisabledLower>
+	<!-- General-use words -->
+	<Yes>Да</Yes>
+	<No>Не</No>
+	<min>мин</min>
+	<max>макс</max>
+	<chance>вероятност</chance>
+	<context>обстановка</context>
+	<multiplier>коефициент</multiplier>
+	<damage>щета</damage>
+	<radius>радиус</radius>
+	<durationDays>продължителност (дни)</durationDays>
+	<intervalDays>интервал (дни)</intervalDays>
+	<repeat>повтори</repeat>
+	<default>по подразбиране</default>
+	<distance>разстояние</distance>
 
-  <CloseButton>Затвори</CloseButton>
+	<!-- Content generation-->
 
-  <VersionIndicator>Версия {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Компилирана {0}</CompiledOn>
-  <LoggedIntoSteamAs>Регистриран в Steam като {0}</LoggedIntoSteamAs>
-
-  
-  <!-- Content generation-->
-  
 	<MeatLabel>{0} месо</MeatLabel>
-  <MeatDesc>Сурова плът от {0}.</MeatDesc>
+	<MeatDesc>Сурово месо. Може да се готви или да се яде сурово.</MeatDesc>
 
-  <LeatherLabel>{0} кожа</LeatherLabel>
-  <LeatherDesc>Кожа направено от {0}.</LeatherDesc>
+	<LeatherLabel>Кожа {0}</LeatherLabel>
+	<LeatherDesc>Дъбена, изсушена, чиста кожа. Добър материал за направа на дрехи и чанти.</LeatherDesc>
 
-  <CorpseLabel>{0} труп</CorpseLabel>
-	<CorpseDesc>Труп на {0}.</CorpseDesc>
-  <DeadLabel>{0} (мъртъв)</DeadLabel>
+	<CorpseLabel>труп {0}</CorpseLabel>
+	<CorpseDesc>Мъртво тяло {0}.</CorpseDesc>
+	<DeadLabel>{0} (мъртви)</DeadLabel>
 
-  <RoughStoneTerrainLabel>Груб {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>Груб, естествен {0} земя.</RoughStoneTerrainDesc>
-  <RoughHewnStoneTerrainLabel>грубо изсечен {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>Грубо изсечен естествен {0} под.</RoughHewnStoneTerrainDesc>
-  <SmoothStoneTerrainLabel>загладен {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>Загладен естествен {0} под.</SmoothStoneTerrainDesc>
+	<RoughStoneTerrainLabel>Груб {0}</RoughStoneTerrainLabel>
+	<RoughStoneTerrainDesc>Груб, естествен {0} земя.</RoughStoneTerrainDesc>
+	<RoughHewnStoneTerrainLabel>недодялан {0}</RoughHewnStoneTerrainLabel>
+	<RoughHewnStoneTerrainDesc>недодялан, естествен {0} под.</RoughHewnStoneTerrainDesc>
+	<SmoothStoneTerrainLabel>загладен {0}</SmoothStoneTerrainLabel>
+	<SmoothStoneTerrainDesc>загладен, естествен {0} под.</SmoothStoneTerrainDesc>
 
-  <BlueprintLabelExtra> (чертеж)</BlueprintLabelExtra>
-  <FrameLabelExtra> (постройка)</FrameLabelExtra>
+	<BlueprintLabelExtra> (чертеж)</BlueprintLabelExtra>
+	<FrameLabelExtra> (постройка)</FrameLabelExtra>
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
-  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+	<ThingMadeOfStuffLabel>{1} от {0}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{0} на {1}</SomeonesRoom>
-  <CouplesRoom>{0} на {1} и {2}</CouplesRoom>
-  
-  <VariousLabel>(разни)</VariousLabel>
+	<SomeonesRoom>{1} {0}</SomeonesRoom>
+	<CouplesRoom>{2} {0} и {1}</CouplesRoom>
 
-  <!-- History events -->
-  <ColonistDied>Заселник почина</ColonistDied>
-  
-  
-  
+	<VariousLabel>(различно)</VariousLabel>
+
+	<!-- History events -->
+	<ColonistDied>Заселник почина.</ColonistDied>
+
+	<!-- Rotation -->
+	<North>Север</North>
+	<South>Юг</South>
+	<West>Запад</West>
+	<East>Изток</East>
+
 </LanguageData>
