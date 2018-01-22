@@ -1,17 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Unlandable biomes -->
+	<TemperateForest.label>умерен пояс</TemperateForest.label>
+	<TemperateForest.description>Удобна за живеене област с много дървета, плодородни почви и животни. През зимата движението е затруднено</TemperateForest.description>
 
-  <Ocean.label>Океан</Ocean.label>
-  <Ocean.description>Обширен океан. Много подходящ за рибите, но не и за хората.</Ocean.description>
-
-  <!-- Buildable biomes -->
-
-  <TemperateForest.label>Умерен пояс</TemperateForest.label>
-  <TemperateForest.description>Удобна за оцеляване област с множество дървета, плодородни почви и животни.</TemperateForest.description>
-
-  <TropicalRainforest.label>Тропична гора</TropicalRainforest.label>
-  <TropicalRainforest.description>Област, покрита от джунгла. Влажна и топла, тази зона е дом на много растения и агресивни животни, които затрудняват строежа и оцеляването.</TropicalRainforest.description>
+	<TemperateSwamp.label>тресавище</TemperateSwamp.label>
+	<TemperateSwamp.description>Блатиста местност заедно с гъстата растителност силно затрудняват движението и строежите.</TemperateSwamp.description>
 
 </LanguageData>
