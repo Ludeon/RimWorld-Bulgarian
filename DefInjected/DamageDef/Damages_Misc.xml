@@ -1,17 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Deterioration.label>Развален</Deterioration.label>
-  <Mining.label>Копай</Mining.label>
-  <Rotting.label>Гниещ</Rotting.label>
-  <Extinguish.label>Изгаси</Extinguish.label>
+	<Deterioration.label>рана</Deterioration.label>
+	<Deterioration.deathMessage>{0} почина.</Deterioration.deathMessage>
 
-  <!-- Stun -->
+	<Mining.label>мина</Mining.label>
+	<Mining.deathMessage>{0} почина.</Mining.deathMessage>
 
-  <Stun.label>Зешеметен</Stun.label>
-  <Stun.deathMessage>{0} беше зашеметен и почина.</Stun.deathMessage>
+	<Rotting.label>разлагане</Rotting.label>
+	<Rotting.deathMessage>{0} почина.</Rotting.deathMessage>
 
-  <EMP.label>EMP граната</EMP.label>
-  <EMP.deathMessage>{0} беше убит от EMP граната.</EMP.deathMessage>
+	<Extinguish.label>задушаване</Extinguish.label>
+	<Extinguish.deathMessage>{0} почина.</Extinguish.deathMessage>
+
+	<Bomb.label>взрив</Bomb.label>
+	<Bomb.deathMessage>{0} почина от експлозия.</Bomb.deathMessage>
+
+	<Smoke.label>дим</Smoke.label>
+	<Smoke.deathMessage>{0} задушен от дим.</Smoke.deathMessage>
 
 </LanguageData>

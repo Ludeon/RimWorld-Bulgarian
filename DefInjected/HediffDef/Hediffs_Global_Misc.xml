@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BloodLoss.label>загуба на кръв</BloodLoss.label>
+  <BloodLoss.stages.0.label>слаба</BloodLoss.stages.0.label>
+  <BloodLoss.stages.1.label>лека</BloodLoss.stages.1.label>
+  <BloodLoss.stages.2.label>средна</BloodLoss.stages.2.label>
+  <BloodLoss.stages.3.label>голяма</BloodLoss.stages.3.label>
+  <BloodLoss.stages.4.label>огромна</BloodLoss.stages.4.label>
+
+  <Anesthetic.label>анестезия</Anesthetic.label>
+
+  <CatatonicBreakdown.label>кататония</CatatonicBreakdown.label>
+  <CatatonicBreakdown.labelNoun>кататония</CatatonicBreakdown.labelNoun>
+
+  <PsychicShock.label>психически шок</PsychicShock.label>
+  <PsychicShock.labelNoun>психически шок</PsychicShock.labelNoun>
+
+  <CryptosleepSickness.label>сънна болест</CryptosleepSickness.label>
+  <FoodPoisoning.label>хранително отравяне</FoodPoisoning.label>
+
+  <ToxicBuildup.label>отравяне от токсини</ToxicBuildup.label>
+  <ToxicBuildup.stages.0.label>интермитентно</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>начално</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.2.label>леко</ToxicBuildup.stages.2.label>
+  <ToxicBuildup.stages.3.label>средно</ToxicBuildup.stages.3.label>
+  <ToxicBuildup.stages.4.label>сериозно</ToxicBuildup.stages.4.label>
+  <ToxicBuildup.stages.5.label>екстремално</ToxicBuildup.stages.5.label>
+
+  <Pregnant.label>бременност</Pregnant.label>
+  <Pregnant.comps.0.discoverLetterLabel>{0} бременна</Pregnant.comps.0.discoverLetterLabel>
+  <Pregnant.comps.0.discoverLetterText>{0} бременна!</Pregnant.comps.0.discoverLetterText>
+  <Pregnant.stages.0.label>първо тримесечие</Pregnant.stages.0.label>
+  <Pregnant.stages.1.label>второ тримесечие</Pregnant.stages.1.label>
+  <Pregnant.stages.2.label>трето тримесечие</Pregnant.stages.2.label>
+  <Pregnant.labelNoun>бременност</Pregnant.labelNoun>
+
+  <HeartAttack.label>сърдечен пристъп</HeartAttack.label>
+  <HeartAttack.stages.0.label>болезнен</HeartAttack.stages.0.label>
+  <HeartAttack.stages.1.label>отслабващ</HeartAttack.stages.1.label>
+  <HeartAttack.stages.2.label>смъртоносен</HeartAttack.stages.2.label>
+  <HeartAttack.labelNoun>сърдечен пристъп</HeartAttack.labelNoun>
+
+  <DrugOverdose.label>свръх доза</DrugOverdose.label>
+  <DrugOverdose.comps.1.discoverLetterLabel>Предозировка: {0}</DrugOverdose.comps.1.discoverLetterLabel>
+  <DrugOverdose.comps.1.discoverLetterText>{0} взел свръх доза!</DrugOverdose.comps.1.discoverLetterText>
+  <DrugOverdose.stages.0.label>интермитентна</DrugOverdose.stages.0.label>
+  <DrugOverdose.stages.1.label>малка</DrugOverdose.stages.1.label>
+  <DrugOverdose.stages.2.label>силна</DrugOverdose.stages.2.label>
+  <DrugOverdose.labelNoun>предозировка</DrugOverdose.labelNoun>
+
+  <ResurrectionSickness.label>синдром на възкръсване</ResurrectionSickness.label>
+
+
+</LanguageData>

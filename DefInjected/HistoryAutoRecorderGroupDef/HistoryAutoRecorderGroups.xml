@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Wealth.label>Богатство</Wealth.label>
-  <Wealth.graphLabelY>Стойност</Wealth.graphLabelY>
+  <Wealth.label>богатство</Wealth.label>
+  <Population.label>население</Population.label>
+  <ColonistMood.label>настроение</ColonistMood.label>
 
-  <Population.label>Население</Population.label>
-  <Population.graphLabelY>Заселници</Population.graphLabelY>
-
-  <ColonistMood.label>Настроение на заселниците</ColonistMood.label>
-  <ColonistMood.graphLabelY>Процент</ColonistMood.graphLabelY>
-
+  
 </LanguageData>

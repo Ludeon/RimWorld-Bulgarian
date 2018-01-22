@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GutWorms.label>чревни червей</GutWorms.label>
+  <MuscleParasites.label>мускулни паразити</MuscleParasites.label>
+
+  <FibrousMechanites.label>влакнести механити</FibrousMechanites.label>
+  <FibrousMechanites.stages.0.label>умерена болка</FibrousMechanites.stages.0.label>
+  <FibrousMechanites.stages.1.label>силна болка</FibrousMechanites.stages.1.label>
+
+  <SensoryMechanites.label>сензорни механити</SensoryMechanites.label>
+  <SensoryMechanites.stages.0.label>умерена болка</SensoryMechanites.stages.0.label>
+  <SensoryMechanites.stages.1.label>силна болка</SensoryMechanites.stages.1.label>
+
+  <WoundInfection.label>инфекция</WoundInfection.label>
+  <WoundInfection.stages.0.label>лека</WoundInfection.stages.0.label>
+  <WoundInfection.stages.1.label>средна</WoundInfection.stages.1.label>
+  <WoundInfection.stages.2.label>дълбока</WoundInfection.stages.2.label>
+  <WoundInfection.stages.3.label>смъртоносна</WoundInfection.stages.3.label>
+  <WoundInfection.labelNoun>инфекция</WoundInfection.labelNoun>
+
+  <Flu.label>грипа</Flu.label>
+  <Flu.stages.0.label>интермитентна</Flu.stages.0.label>
+  <Flu.stages.1.label>лека</Flu.stages.1.label>
+  <Flu.stages.2.label>тежка</Flu.stages.2.label>
+  <Flu.stages.3.label>смъртоносна</Flu.stages.3.label>
+
+  <Plague.label>чума</Plague.label>
+  <Plague.stages.0.label>интермитентна</Plague.stages.0.label>
+  <Plague.stages.1.label>лека</Plague.stages.1.label>
+  <Plague.stages.2.label>средна</Plague.stages.2.label>
+  <Plague.stages.3.label>тежка</Plague.stages.3.label>
+  <Plague.stages.4.label>смъртоносна</Plague.stages.4.label>
+
+  <Malaria.label>малария</Malaria.label>
+  <Malaria.stages.0.label>интермитентна</Malaria.stages.0.label>
+  <Malaria.stages.1.label>лека</Malaria.stages.1.label>
+  <Malaria.stages.2.label>тежка</Malaria.stages.2.label>
+  <Malaria.stages.3.label>смъртоносна</Malaria.stages.3.label>
+
+  <SleepingSickness.label>сънна болест</SleepingSickness.label>
+  <SleepingSickness.stages.0.label>интермитентна</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>лека</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>умерена</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.3.label>тежка</SleepingSickness.stages.3.label>
+  <SleepingSickness.stages.4.label>опасна</SleepingSickness.stages.4.label>
+  <SleepingSickness.stages.5.label>смъртоносна</SleepingSickness.stages.5.label>
+
+
+</LanguageData>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-
-  <Repair.label>Поправи</Repair.label>
-  <HealInjury.label>Излекувай нараняване</HealInjury.label>
-  <HealGlobal.label>Излекувай всички наранявания</HealGlobal.label>
-  <RestoreBodyPart.label>Възстанови част на тялото</RestoreBodyPart.label>
-
-</LanguageData>

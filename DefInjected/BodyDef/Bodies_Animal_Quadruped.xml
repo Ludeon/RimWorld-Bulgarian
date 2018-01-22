@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <QuadrupedAnimalWithPaws.label>Чифтокопитно животно</QuadrupedAnimalWithPaws.label>
-  <QuadrupedAnimalWithPawsAndTail.label>Чифтокопитно животно</QuadrupedAnimalWithPawsAndTail.label>
-  <QuadrupedAnimalWithHooves.label>Чифтокопитно животно</QuadrupedAnimalWithHooves.label>
-  <QuadrupedAnimalWithHoovesAndHump.label>Чифтокопитно животно</QuadrupedAnimalWithHoovesAndHump.label>
-  <QuadrupedAnimalWithHoovesAndTusks.label>Чифтокопитно животно</QuadrupedAnimalWithHoovesAndTusks.label>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Чифтокопитно животно</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
-  <QuadrupedAnimalWithHoovesAndHorn.label>Чифтокопитно животно</QuadrupedAnimalWithHoovesAndHorn.label>
-  <QuadrupedAnimalWithClawsTailAndJowl.label>Чифтокопитно животно</QuadrupedAnimalWithClawsTailAndJowl.label>
+	<QuadrupedAnimalWithPaws.label>четирикрак</QuadrupedAnimalWithPaws.label>
+	<QuadrupedAnimalWithPawsAndTail.label>четирикрак с опашка</QuadrupedAnimalWithPawsAndTail.label>
+	<QuadrupedAnimalWithHooves.label>чифтокопитно животно</QuadrupedAnimalWithHooves.label>
+	<QuadrupedAnimalWithHoovesAndHump.label>чифтокопитно с гръб</QuadrupedAnimalWithHoovesAndHump.label>
+	<QuadrupedAnimalWithHoovesAndTusks.label>чифтокопитно с бивни</QuadrupedAnimalWithHoovesAndTusks.label>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.label>чифтокопитно с бивни и хобот</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+	<QuadrupedAnimalWithHoovesAndHorn.label>чифтокопитно с рога</QuadrupedAnimalWithHoovesAndHorn.label>
+	<QuadrupedAnimalWithClawsTailAndJowl.label>четирикрак с нокти, опашка и челюсти</QuadrupedAnimalWithClawsTailAndJowl.label>
 
-  <TurtleLike.label>Костенурка (и подобни)</TurtleLike.label>
-  <Monkey.label>Маймуна</Monkey.label>
+	<TurtleLike.label>костенурка (и подобни)</TurtleLike.label>
+	<Monkey.label>маймуна</Monkey.label>
 
 </LanguageData>

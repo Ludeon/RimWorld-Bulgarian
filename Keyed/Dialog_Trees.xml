@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <FactionGreetingHostile>{0} изстрелва няколко нецензурни епитета и се изключва.</FactionGreetingHostile>
@@ -6,19 +6,26 @@
   <FactionGreetingWarm>{0} поздравява {1} топло и питат как е колонията.</FactionGreetingWarm>
 
   <Disconnect>Изключи</Disconnect>
-
+  
+  <!-- gift offer -->
   <OfferGift>Предложи подарък</OfferGift>
   <NeedSilverLaunchable>трябват {0} сребро в близост до Търговските постове</NeedSilverLaunchable>
   <NotEnoughSilver>Недостатъчно сребро.</NotEnoughSilver>
-  <SilverForGoodwill>{0} сребро за {1} Доброжелание</SilverForGoodwill>
-  <SilverGiftSent>Председателят на {0} благодари.\n\n(Доброжеланието се повишава с {1}).</SilverGiftSent>
-
-
-  <RequestMilitaryAid>Помоли за незабавна военна помощ ({0} Доброжелание)</RequestMilitaryAid>
+  <SilverForGoodwill>{0} сребро за {1} репутация</SilverForGoodwill>
+  <SilverGiftSent>{0} ви благодари.\n\n(репутацията се покачи с {1}).</SilverGiftSent>
+  
+  <!-- trade caravan request -->
+  <RequestTrader>Заяви търговски керван (стойност: {0} сребро)</RequestTrader>
+  <ChooseTraderKind>{0} попита, какъв тип керван ви трябва.</ChooseTraderKind>
+  <TraderSent>{0} се съгласи да изпрати към вас търговски керван. Ще пристигне в рамките на няколко дни.</TraderSent>
+  <WaitTime>изчакване {0}</WaitTime>
+  
+  
+  <!-- military aid request -->
+  <RequestMilitaryAid>Помоли за незабавна военна помощ (стойност: {0} репутация)</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} няма да помогне срещу фракции което не са им врагове. Това включва и тези, които те заплашват, {1}. Желаеш ли помощ все още?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Да, обади им се все пак.</CallConfirm>
   <CallCancel>Не, няма нужда.</CallCancel>
-  <MilitaryAidSent>Председателят на {0} се съгласява да изпрати бойци да ти помогнат.</MilitaryAidSent>
-  
+  <MilitaryAidSent>{0} се съгласи да изпрати бойци към вас за помощ.</MilitaryAidSent>
   
 </LanguageData>

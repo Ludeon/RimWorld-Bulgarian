@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClockTime>Време</ClockTime>
-  <ClockDate>Дата</ClockDate>
-  <ClockYear>Година</ClockYear>
-  <DateReadoutTip>Изминали дни от кацането: {0}\nИма {1} дни във всеки сезон.\nНастоящ сезон: {2}</DateReadoutTip>
+    <ClockTime>Време</ClockTime>
+    <ClockDate>Дата</ClockDate>
+    <ClockYear>Година</ClockYear>
+	<DateReadoutTip>Изминали {0} дни от кацането\nТекущо тримесечие — {4}\nТекущ сезон — {2}\n\nГодината се състой от 4 тримесечия, по {3} дни за всяка. Тримесечията са еднакви навсякъде, а сезоните се различават.\n\nРазпределление на сезони по тримесечията за това място:\n{5}</DateReadoutTip>
 
-  <FullDate>{0} , {1}, {2}</FullDate>
-	<DateReadout>{0} , {1}, {2}</DateReadout>
-  <SeasonFullDate>{0} , {1}</SeasonFullDate>
-  <WholeYear>Цяла година</WholeYear>
+    <FullDate>{0} , {1}, {2} г</FullDate>
+	<DateReadout>{0} , {1}-е, {2} г</DateReadout>
+    <SeasonFullDate>{0} , {1}-е</SeasonFullDate>
+    <WholeYear>Цяла година</WholeYear>
   
 </LanguageData>

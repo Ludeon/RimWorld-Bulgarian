@@ -1,19 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FreePlay.label>Свободна игра</FreePlay.label>
-  <FreePlay.description>Игра стил "Пясъчник" с цел обучение или строеж на красива колония. Ще има опасности, но те ще са много слаби.</FreePlay.description>
+	<Peaceful.label>Свободна игра</Peaceful.label>
+	<Peaceful.description>За тези който искат да строят без ограничения в стил "Пясъчник".\n\nСъбития, опасности са изключени, но въпреки това заселниците все още могат да се ядосват, а животните понякога могат да полудеят.</Peaceful.description>
 
-  <Basebuilder.label>Строеж на База</Basebuilder.label>
-  <Basebuilder.description>Игра фокусирана върху строежа на ефективна база. Опасностите за колонията са с по-слаб ефект.</Basebuilder.description>
+	<VeryEasy.label>Строеж на База</VeryEasy.label>
+	<VeryEasy.description>Подходяща за тези който искат да се фокусират върху строежа на колонията.\n\nОпасности има, но много слаби. Част от опасните събития са изключени.</VeryEasy.description>
 
-  <Rough.label>Трудно</Rough.label>
-  <Rough.description>Опасностите могат да бъдат смъртоносни и бонусът към настроението и храната в сравнение с предните трудности е премахнат.</Rough.description>
+	<Easy.label>Леко изпитание</Easy.label>
+	<Easy.description>За начинаещи или случайни играчи, жадуващи за малки предизвикателства.\n\nЗаплахите са опасни, но не и смъртоносни.</Easy.description>
 
-  <Challenge.label>Предизвикателно</Challenge.label>
-  <Challenge.description>Предизвикателна игра, която изисква стратегия, тактика, и дори късмет за да оцелееш. Това е трудността на кото играта е предвидена да се играе.</Challenge.description>
+	<Medium.label>Трудно</Medium.label>
+	<Medium.description>Сурова и неприветлива планета.\n\nЗаплахите могат да бъдат много опасни. Не се препоръчва за начинаещи.</Medium.description>
 
-  <Extreme.label>Екстремно</Extreme.label>
-  <Extreme.description>Максимална трудност. Враговете са силни и многобройни, цените са ниски, храната се набавя трудно ина всичкото отгоре заселниците са винаги недоволни. За играчите, които обичат дигитален тормоз.</Extreme.description>
+	<Hard.label>Предизвикателно</Hard.label>
+	<Hard.description>Сериозни предизвикателства.\n\nУспехът на това ниво изисква добри умения за оцеляване и малко късмет.</Hard.description>
+
+	<VeryHard.label>Екстремно</VeryHard.label>
+	<VeryHard.description>Дамоклевият меч постоянно виси над колонията.\n\nСилни врагове, незадоволителни цени, много малко храна, а заселниците ядосани. Самият цифров ад.</VeryHard.description>
 
 </LanguageData>

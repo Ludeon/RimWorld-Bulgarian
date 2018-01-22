@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AlcoholHigh.label>алкохол</AlcoholHigh.label>
+  <AlcoholHigh.stages.0.label>почти трезвен</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>подпийнал</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>нетрезвен</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>пиян</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>много пиян</AlcoholHigh.stages.4.label>
+  <AlcoholHigh.stages.5.label>в безсъзнание</AlcoholHigh.stages.5.label>
+  <AlcoholHigh.labelNoun>опиянен</AlcoholHigh.labelNoun>
+
+  <Hangover.label>махмурлук</Hangover.label>
+  <Hangover.stages.0.label>лек</Hangover.stages.0.label>
+  <Hangover.stages.1.label>силен</Hangover.stages.1.label>
+  <Hangover.stages.2.label>убийствен</Hangover.stages.2.label>
+  <Hangover.labelNoun>махмурлия</Hangover.labelNoun>
+
+
+  <!-- Alcohol addiction -->
+
+  <AlcoholTolerance.label>Толерантност към алкохол</AlcoholTolerance.label>
+  <AlcoholTolerance.stages.0.label>малък</AlcoholTolerance.stages.0.label>
+  <AlcoholTolerance.stages.1.label>малък</AlcoholTolerance.stages.1.label>
+  <AlcoholTolerance.stages.2.label>среден</AlcoholTolerance.stages.2.label>
+  <AlcoholTolerance.stages.3.label>силен</AlcoholTolerance.stages.3.label>
+
+  <AlcoholAddiction.label>алкохолизъм</AlcoholAddiction.label>
+  <AlcoholAddiction.stages.1.label>алкохолна абстиненция</AlcoholAddiction.stages.1.label>
+
+
+</LanguageData>

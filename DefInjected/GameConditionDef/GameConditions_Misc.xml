@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SolarFlare.label>слънчево изригване</SolarFlare.label>
+	<SolarFlare.description>Слънчевото изригване достигна планетата. Заради силните електрически смущения, повечето електрически устройства няма да работят.</SolarFlare.description>
+	<SolarFlare.endMessage>Слънчевото изригване приключи.</SolarFlare.endMessage>
+
+	<Eclipse.label>затъмнение</Eclipse.label>
+	<Eclipse.description>Затъмнението засенчва повърхността на планетата. Ще бъде тъмно, дори през дневно време.</Eclipse.description>
+	<Eclipse.endMessage>Затъмнението приключи.</Eclipse.endMessage>
+
+	<PsychicDrone.label>психически дрон</PsychicDrone.label>
+	<PsychicDrone.description>Неизвестен мощен ИИ излъчва вълни от психоактивни енергии, от която хората могат да полудяват.</PsychicDrone.description>
+	<PsychicDrone.endMessage>Психическият дрон спря.</PsychicDrone.endMessage>
+
+	<PsychicSoothe.label>умиротворител</PsychicSoothe.label>
+	<PsychicSoothe.description>Неизвестен мощен ИИ излъчва вълни от психоактивни енергии, която успокоява хората и стабилизира емоционалното им състояние.</PsychicSoothe.description>
+	<PsychicSoothe.endMessage>Умиротворителя приключи.</PsychicSoothe.endMessage>
+
+	<ToxicFallout.label>токсични валежи</ToxicFallout.label>
+	<ToxicFallout.description>Далече от колонията е станал инцидент с химически отпадъци. Всяко същество, които не се намира под покрив ще получи химическо отравяне или изгаряния.</ToxicFallout.description>
+	<ToxicFallout.endMessage>Токсичните валежи спряха.</ToxicFallout.endMessage>
+
+	<VolcanicWinter.label>вулканична зима</VolcanicWinter.label>
+	<VolcanicWinter.description>Вулкан изригна!\n\nДалечен вулкан е изригнал, разсипвайки милиони тонове пепел в атмосферата, затъмнявайки небето.</VolcanicWinter.description>
+	<VolcanicWinter.endMessage>Вулкана спря да изригва пепел.</VolcanicWinter.endMessage>
+
+	<HeatWave.label>гореща вълна</HeatWave.label>
+	<HeatWave.description>Горещата вълна води до топлинни удари и изсъхване на земята.</HeatWave.description>
+	<HeatWave.endMessage>Горещата вълна премина.</HeatWave.endMessage>
+
+	<ColdSnap.label>рязко застудяване</ColdSnap.label>
+	<ColdSnap.description>Необичайното рязко застудяване замразява местността.</ColdSnap.description>
+	<ColdSnap.endMessage>застудяване приключи.</ColdSnap.endMessage>
+
+	<Flashstorm.label>гръмотевична буря</Flashstorm.label>
+	<Flashstorm.description>Голям брой светкавици върху малка площ.</Flashstorm.description>
+	<Flashstorm.endMessage>Гръмотевичната буря приключи.</Flashstorm.endMessage>
+
+	<ClimateCycle.label>климатичен цикъл</ClimateCycle.label>
+	<ClimateCycle.description>Десетилетия климатичен цикъл заради елиптичната орбита.</ClimateCycle.description>
+
+	<Planetkiller.label>разрушител на планети</Planetkiller.label>
+	<Planetkiller.description>Междузвездно оръжие за унищожаване на планети приближава. Когато удари тук на повърхността, всички живи същества ще бъдат изтребени.</Planetkiller.description>
+
+	<Aurora.label>полярно сияние</Aurora.label>
+	<Aurora.description>Разноцветни светлини озаряват небесата. Поразително красив танц на разноцветни светлини в небето пленява погледа и въображението на онези, който имат късмета да надзърват полярното сияние.</Aurora.description>
+	<Aurora.endMessage>Полярното сияние приключи.</Aurora.endMessage>
+
+</LanguageData>

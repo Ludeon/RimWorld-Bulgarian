@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WakeUpHigh.label>под въздействие бодрина</WakeUpHigh.label>
+  <WakeUpHigh.labelNoun>въздействие на бодрина</WakeUpHigh.labelNoun>
+
+
+  <!-- WakeUp addiction -->
+
+  <WakeUpTolerance.label>толерантност към бодрина</WakeUpTolerance.label>
+  <WakeUpTolerance.stages.0.label>малък</WakeUpTolerance.stages.0.label>
+  <WakeUpTolerance.stages.1.label>малък</WakeUpTolerance.stages.1.label>
+  <WakeUpTolerance.stages.2.label>среден</WakeUpTolerance.stages.2.label>
+  <WakeUpTolerance.stages.3.label>силен</WakeUpTolerance.stages.3.label>
+
+  <WakeUpAddiction.label>зависим от бодрин</WakeUpAddiction.label>
+  <WakeUpAddiction.stages.1.label>абстиненция</WakeUpAddiction.stages.1.label>
+
+
+</LanguageData>

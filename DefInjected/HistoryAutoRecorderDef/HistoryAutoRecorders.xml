@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WealthTotal.label>Стойност (Обща)</WealthTotal.label>
-  <WealthItems.label>Стойност (Предмети)</WealthItems.label>
-  <WealthBuildings.label>Стойност (Постройки)</WealthBuildings.label>
-  <FreeColonists.label>Свободни заселници</FreeColonists.label>
-  <Prisoners.label>Затворници</Prisoners.label>
-  <ColonistMood.label>Настроение</ColonistMood.label>
+  <WealthTotal.label>богатство (общо)</WealthTotal.label>
+  <WealthTotal.graphLabelY>Amount</WealthTotal.graphLabelY>
+
+  <WealthItems.label>предмети</WealthItems.label>
+  <WealthItems.graphLabelY>Amount</WealthItems.graphLabelY>
+
+  <WealthBuildings.label>постройки</WealthBuildings.label>
+  <WealthBuildings.graphLabelY>Amount</WealthBuildings.graphLabelY>
+
+  <FreeColonists.label>свободни заселници</FreeColonists.label>
+  <FreeColonists.graphLabelY>Colonists</FreeColonists.graphLabelY>
+
+  <Prisoners.label>затворници</Prisoners.label>
+  <Prisoners.graphLabelY>Prisoners</Prisoners.graphLabelY>
+
+  <ColonistMood.label>настроение</ColonistMood.label>
+  <ColonistMood.graphLabelY>Percent</ColonistMood.graphLabelY>
+
 
 </LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Stun.label>зашеметяване</Stun.label>
+	<Stun.deathMessage>{0} зашеметен(а) и убит(а).</Stun.deathMessage>
+
+	<EMP.label>ЕМИ</EMP.label>
+	<EMP.deathMessage>{0} убит от ЕМИ.</EMP.deathMessage>
+
+</LanguageData>

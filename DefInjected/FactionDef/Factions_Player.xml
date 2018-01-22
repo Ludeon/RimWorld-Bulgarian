@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlayerColony.label>новодошли</PlayerColony.label>
+	<PlayerColony.description>Собствената ви общност.</PlayerColony.description>
+	<PlayerColony.pawnsPlural>колонист</PlayerColony.pawnsPlural>
+
+	<PlayerTribe.label>племе</PlayerTribe.label>
+	<PlayerTribe.description>Собственото ви племе.</PlayerTribe.description>
+	<PlayerTribe.pawnsPlural>съплеменник</PlayerTribe.pawnsPlural>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Malnutrition.label>недохранване</Malnutrition.label>
+  <Malnutrition.stages.0.label>незначително</Malnutrition.stages.0.label>
+  <Malnutrition.stages.1.label>леко</Malnutrition.stages.1.label>
+  <Malnutrition.stages.2.label>нормално</Malnutrition.stages.2.label>
+  <Malnutrition.stages.3.label>остро</Malnutrition.stages.3.label>
+  <Malnutrition.stages.4.label>силно</Malnutrition.stages.4.label>
+
+
+</LanguageData>

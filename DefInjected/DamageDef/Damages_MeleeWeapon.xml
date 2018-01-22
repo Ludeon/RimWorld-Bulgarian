@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Cut.label>нарязан</Cut.label>
+	<Cut.deathMessage>{0} беше нарязан до смърт.</Cut.deathMessage>
+
+	<Crush.label>потрошен</Crush.label>
+	<Crush.deathMessage>{0} беше премазан до смърт.</Crush.deathMessage>
+
+	<Blunt.label>удар</Blunt.label>
+	<Blunt.deathMessage>{0} беше разбит до смърт.</Blunt.deathMessage>
+
+	<!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
+	<Poke.label>пребит</Poke.label>
+	<Poke.deathMessage>{0} беше пребит до смърт.</Poke.deathMessage>
+
+	<Stab.label>промушен</Stab.label>
+	<Stab.deathMessage>{0} беше промушен до смърт.</Stab.deathMessage>
+
+	<Scratch.label>разкъсан</Scratch.label>
+	<Scratch.deathMessage>{0} беше разкъсан до смърт.</Scratch.deathMessage>
+
+	<Bite.label>ухапан</Bite.label>
+	<Bite.deathMessage>{0} беше ухапан до смърт.</Bite.deathMessage>
+
+	<ToxicBite.label>отрова</ToxicBite.label>
+	<ToxicBite.deathMessage>{0} починал от отравяне.</ToxicBite.deathMessage>
+
+</LanguageData>

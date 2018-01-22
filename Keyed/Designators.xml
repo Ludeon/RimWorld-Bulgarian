@@ -1,120 +1,125 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
-  <DesignatorCancel>Откажи</DesignatorCancel>
-  <DesignatorCancelDesc>Откажи определената задача, както и всички останали команди.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Отрежи растенията</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Определя растения за отрязване и унищожение. Растението ще бъде премахнато, и всякаква храна или ресурси ще се събере.</DesignatorCutPlantsDesc>
+	<DesignatorCancel>Отмени</DesignatorCancel>
+	<DesignatorCancelDesc>Отмени строеж, добив, пренос, събиране на реколта и други указания.</DesignatorCancelDesc>
 
-  <DesignatorDeconstruct>Премахване</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Премахни обекта и получи обратно част от, или всички използвани ресурси.</DesignatorDeconstructDesc>
+	<DesignatorCutPlants>Срежи</DesignatorCutPlants>
+	<DesignatorCutPlantsDesc>Отбележи растения за срязване и унищожаване. Растенията ще бъдат напълно премахнати, а всичките ресурси получени от растенията ще бъдат събрани.</DesignatorCutPlantsDesc>
 
-  <DesignatorUninstall>Преместване</DesignatorUninstall>
-  <DesignatorUninstallDesc>Премахни обекта, за да може да бъде преместен, продаден, или поставен на друго място.</DesignatorUninstallDesc>
+	<DesignatorDeconstruct>Демонтирай</DesignatorDeconstruct>
+	<DesignatorDeconstructDesc>Демонтирай и върни част от ресурсите.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvest>Събиране</DesignatorHarvest>
-  <DesignatorHarvestDesc>Определя растения за събиране на храната или ресурсите им.</DesignatorHarvestDesc>
+	<DesignatorUninstall>Премахни</DesignatorUninstall>
+	<DesignatorUninstallDesc>Премахни, за да бъдат преместени на друго място или продадени.</DesignatorUninstallDesc>
 
-  <DesignatorHarvestWood>Нацепи дърва</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Определя дървета за нацепване.</DesignatorHarvestWoodDesc>
+	<DesignatorHarvest>Събери</DesignatorHarvest>
+	<DesignatorHarvestDesc>Отбележи растения за събиране на храна или други продукти.</DesignatorHarvestDesc>
 
-  <DesignatorHaulThings>Пренеси неща</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Определя камъни, части от предмети и други за пренасяне до Складове за Отпадъци. Не е необходима команда за трупове или храна.</DesignatorHaulThingsDesc>
-  <MustHaulHaulables>Определи неща, които не са преносими по подразбиране (напр. камъни).</MustHaulHaulables>
+	<DesignatorHarvestWood>Нацепи дърва</DesignatorHarvestWood>
+	<DesignatorHarvestWoodDesc>Отбележи дърва, който трябват да се нацепят за получаване на дървесина.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHunt>Ловувай</DesignatorHunt>
-  <DesignatorHuntDesc>Определи животни за ловуване.</DesignatorHuntDesc>
+	<DesignatorHaulThings>Пренеси</DesignatorHaulThings>
+	<DesignatorHaulThingsDesc>Отбележи камъни и други обекти, за да се пренасят в сметището. Не се изисква за неща като храна и трупове, те са преносими.</DesignatorHaulThingsDesc>
+	<MustHaulHaulables>Предмети, който заселниците не събират (например: метал и каменни отломки), могат да бъдат отбелязани за пренасяне.</MustHaulHaulables>
 
-  <DesignatorMine>Копай</DesignatorMine>
-  <DesignatorMineDesc>Определи скали за копаене.</DesignatorMineDesc>
+	<DesignatorHunt>Лови</DesignatorHunt>
+	<DesignatorHuntDesc>Отбележи животни за вашите ловци.</DesignatorHuntDesc>
 
-  <DesignatorSmoothFloor>Изравняване на под</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Определи неравен терен да бъде изравнен.</DesignatorSmoothFloorDesc>
+	<DesignatorMine>Копай</DesignatorMine>
+	<DesignatorMineDesc>Обозначи скали за минни дейности.</DesignatorMineDesc>
 
-  <DesignatorPlan>Планиране</DesignatorPlan>
-  <DesignatorPlanDesc>Определи планови участъци. Те няма да бъдат застроени, а са с цел планиране на постройки и цели.</DesignatorPlanDesc>
+	<DesignatorSmoothFloor>Изравни поле</DesignatorSmoothFloor>
+	<DesignatorSmoothFloorDesc>Обозначи неравна каменна повърхност за изравняване.</DesignatorSmoothFloorDesc>
 
-  <DesignatorPlanRemove>Премахни планиране</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Премахване на планирани постройки и цели.</DesignatorPlanRemoveDesc>
+	<DesignatorPlan>Планиране</DesignatorPlan>
+	<DesignatorPlanDesc>Определя планови участъци. Те са с цел планиране на постройки и цели, няма да бъдат застроени.</DesignatorPlanDesc>
 
-  <DesignatorAreaHomeExpand>Разшири Основна Зона</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>Заселниците ще поправят постройки, чистят и потушават огньове в основната зона.</DesignatorAreaHomeExpandDesc>
-  <DesignatorAreaHomeClear>Премахни Основна Зона</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>Премахва част от Основна Зона. Заселниците няма да чистят, поправят, или потушават огньове.</DesignatorAreaHomeClearDesc>
+	<DesignatorPlanRemove>Изтрий план</DesignatorPlanRemove>
+	<DesignatorPlanRemoveDesc>Изтрийте обозначен план.</DesignatorPlanRemoveDesc>
 
-  <DesignatorAreaNoRoofExpand>Разшири Безпокривна Зона</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Създай зона, която няма покрив. Тази команда също така премахва тънки покриви.</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>Премахни Безпокривна Зона</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Премахва Безпокривна Зона. Ще се създаде покрив, а съществуващите покриви ще се запазят.</DesignatorAreaNoRoofClearDesc>
+	<DesignatorAreaHomeExpand>Разшири домашната зона</DesignatorAreaHomeExpand>
+	<DesignatorAreaHomeExpandDesc>Заселниците ще се занимават с чистене, потушаване на пожари и ремонтиране на обекти, само в домашната зона.</DesignatorAreaHomeExpandDesc>
+	<DesignatorAreaHomeClear>Намали домашната зона</DesignatorAreaHomeClear>
+	<DesignatorAreaHomeClearDesc>Премахва клетки от домашната зона. Заселниците вече няма да се занимават тук с чистене, потушаване на пожари и ремонтиране на обекти.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaSnowClearExpand>Разшири Зона за почистване на Сняг</DesignatorAreaSnowClearExpand>
-  <DesignatorAreaSnowClearExpandDesc>Създава зона, в която заселниците да почистват натрупан сняг.</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>Премахни Зона за почистване на Сняг</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>Премахва Зона за почистване на Сняг. Заселниците няма да почистват натрупан сняг в зоната.</DesignatorAreaSnowClearClearDesc>
+	<DesignatorAreaBuildRoofExpand>Строй покрив</DesignatorAreaBuildRoofExpand>
+	<DesignatorAreaBuildRoofExpandDesc>Заселниците ще започнат да строят покрив в тази зона.</DesignatorAreaBuildRoofExpandDesc>
 
-  <DesignatorExpandAreaAllowed>Разшири Позволена Зона</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Разширява Позволена Зона.\n\nПозволени Зони са райони, разрешени за определени заселници. Определените заселници няма да работят или задоволяват нужди извън Позволената Зона.</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>Премахни Позволена Зона</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Премахва част от Позволената Зона.\n\nПозволените Зони са райони, разрешени за определени заселници. Определените заселници няма да работят или задоволяват нужди извън Позволената Зона.</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>Определи район...</ManageAreas>
+	<DesignatorAreaIgnoreRoofExpand>Игнорирай покрив</DesignatorAreaIgnoreRoofExpand>
+	<DesignatorAreaIgnoreRoofExpandDesc>Заселниците няма да обръщат внимание за наличие или отсъствие на покрив в тази зона.</DesignatorAreaIgnoreRoofExpandDesc>
 
-  <DesignatorGrowingZoneDesc>Създай зона, в която заселниците ще засеят определено растение.</DesignatorGrowingZoneDesc>
+	<DesignatorAreaNoRoofExpand>Отстрани покрив</DesignatorAreaNoRoofExpand>
+	<DesignatorAreaNoRoofExpandDesc>Заселниците ще започнат да отстранят покрива в тази зона. Каменната горна пласт, намираща се в тази зона, не може да се отстранява.</DesignatorAreaNoRoofExpandDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Създай зона, в която заселниците ще складират ресурси.\nМоже да се използва и за разширение на съществуващ Склад.</DesignatorZoneCreateStorageResourcesDesc>
+	<DesignatorAreaSnowClearExpand>Разшири зона без сняг</DesignatorAreaSnowClearExpand>
+	<DesignatorAreaSnowClearExpandDesc>Тази зона ще бъде почистена от сняг.</DesignatorAreaSnowClearExpandDesc>
+	<DesignatorAreaSnowClearClear>Намали зона без сняг</DesignatorAreaSnowClearClear>
+	<DesignatorAreaSnowClearClearDesc>Премахва клетки от зона без сняг. Заселниците вече няма да се занимават с почистването на сняг в тази зона.</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Създай Склад за Отпадъци.\nМоже да се използва и за разширение на съществуващ Склад за Отпадъци.</DesignatorZoneCreateStorageDumpingDesc>
+	<DesignatorExpandAreaAllowed>Разшири достъпната зона</DesignatorExpandAreaAllowed>
+	<DesignatorExpandAreaAllowedDesc>Добавя клетки към достъпната зона.\n\nТакива зони може да назначите по отделно за всеки заселник. Заселниците няма да направят нищо извън определени за тях зони.</DesignatorExpandAreaAllowedDesc>
+	<DesignatorClearAreaAllowed>Намали достъпната зона</DesignatorClearAreaAllowed>
+	<DesignatorClearAreaAllowedDesc>Премахва клетки към достъпната зона.\n\nТакива зони може да назначите по отделно за всеки заселник. Заселниците няма да направят нищо извън определени за тях зони.</DesignatorClearAreaAllowedDesc>
+	<ManageAreas>Управление на зони...</ManageAreas>
 
-  <DesignatorZoneDelete>Изтрий Зони</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Изтрива зони, като например Складове или Зони за Засяване на Растения.</DesignatorZoneDeleteDesc>
-  
-  <DesignatorClaim>Завземи</DesignatorClaim>
-  <DesignatorClaimDesc>Завзема неутрална постройка за колонията, включително руини и изоставени Обсадни Бази. Завзетите постройки ще бъдат поправяни и поддържани от заселниците.</DesignatorClaimDesc>
+	<DesignatorGrowingZoneDesc>Създай зона, където вашите заселници ще отглеждат определен вид растение.</DesignatorGrowingZoneDesc>
 
-  <DesignatorRemoveFloor>Премахни настилка</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Премахва настилка от сграда и открива терена отдолу.</DesignatorRemoveFloorDesc>
+	<DesignatorZoneCreateStorageResourcesDesc>Създай зона за съхраняване на различни ресурси.\nЗоната също така може да се разширява.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorStrip>Съблечи</DesignatorStrip>
-  <DesignatorStripDesc>Съблича дрехи от трупове или ранени.</DesignatorStripDesc>
+	<DesignatorZoneCreateStorageDumpingDesc>Създай зона за съхраняване на отпадъци.\nЗоната също така може да се разширява.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorRearmTrap>Възобнови Капан</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Възобновява използван Капан.</DesignatorRearmTrapDesc>
+	<DesignatorZoneDelete>Премахни зона</DesignatorZoneDelete>
+	<DesignatorZoneDeleteDesc>Премахва зона, такива като склад или засаждане.</DesignatorZoneDeleteDesc>
 
-  <DesignatorOpen>Отвори</DesignatorOpen>
-  <DesignatorOpenDesc>Отваря гробове или сандъци.</DesignatorOpenDesc>
-  
-  <DesignatorSlaughter>Заколи</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Заколи съответното питомно животно.</DesignatorSlaughterDesc>
+	<DesignatorClaim>Окупирай </DesignatorClaim>
+	<DesignatorClaimDesc>Неутрални структури, включително древни руйни и изоставени обсадни бази, ще бъдат присъединени към колонията. Вашите заселници ще могат да ремонтират и поддържат завоюваните структури.</DesignatorClaimDesc>
 
-  <DesignatorTame>Опитоми</DesignatorTame>
-  <DesignatorTameDesc>Опитоми съответното диво животно.</DesignatorTameDesc>
+	<DesignatorRemoveFloor>Премахни настилка</DesignatorRemoveFloor>
+	<DesignatorRemoveFloorDesc>Премахва настилката и открива терена отдолу.</DesignatorRemoveFloorDesc>
+
+	<DesignatorStrip>Съблечи</DesignatorStrip>
+	<DesignatorStripDesc>Взема дрехите от трупове и ранени</DesignatorStripDesc>
+
+	<DesignatorRearmTrap>Възобнови Капан</DesignatorRearmTrap>
+	<DesignatorRearmTrapDesc>Възобновява капан, за да може да се използва наново.</DesignatorRearmTrapDesc>
+
+	<DesignatorOpen>Отвори</DesignatorOpen>
+	<DesignatorOpenDesc>Отваря гробове или сандъци.</DesignatorOpenDesc>
+
+	<DesignatorSlaughter>Заколи</DesignatorSlaughter>
+	<DesignatorSlaughterDesc>Заколва домашно животно.</DesignatorSlaughterDesc>
+
+	<DesignatorTame>Опитоми</DesignatorTame>
+	<DesignatorTameDesc>Опитомява диво животно.</DesignatorTameDesc>
 
 
-  <!-- Failure messages -->
-  <UnchosenStuff>Неизбран материал</UnchosenStuff>
-  <TooCloseToMapEdge>Прекалено близо до ръба на картата.</TooCloseToMapEdge>
-  <OutOfBounds>Извън предел.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Не може да се постави в неоткрит район.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Мястото е блокирано от {0}.</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>Мястото е извън предела.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Мястото ще се блокира от {0}.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} ще блокира мястото на {1}.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>Теренът тук вече е {0}.</TerrainIsAlready>
-  <TerrainBeingSmoothed>Теренът вече е определен за изравняване.</TerrainBeingSmoothed>
-  <IdenticalThingExists>Идентичен обект вече съществува на това място.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Идентичен обект ще се построи тук.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>Теренът не може да поддържа тази постройка.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Мястото вече е заето.</SpaceAlreadyOccupied>
-  <TerrainMustBeRemovable>Избери настилка, който да може да се премахне.</TerrainMustBeRemovable>
-  
-  
-  <!-- Mouse attachments -->
-  <ExpandOrCreateZone>Разшири {0} или\nСъздай нова {1}</ExpandOrCreateZone>
-  <CreateNewZone>Създай нова {0}</CreateNewZone>
-  
-  
-  <!-- Desc helpers -->
-  <TransmitsPower>Прехвърля енергия</TransmitsPower>
+	<!-- Failure messages -->
+	<UnchosenStuff>Неизбран материал</UnchosenStuff>
+	<TooCloseToMapEdge>Твърде близо към края на картата.</TooCloseToMapEdge>
+	<OutOfBounds>Извън предел.</OutOfBounds>
+	<CannotPlaceInUndiscovered>Не може да се постави в неизследвана зона.</CannotPlaceInUndiscovered>
+	<InteractionSpotBlocked>Мястото е блокирано от {0}.</InteractionSpotBlocked>
+	<InteractionSpotOutOfBounds>Мястото е извън границата.</InteractionSpotOutOfBounds>
+	<InteractionSpotWillBeBlocked>Мястото ще се блокира от {0}.</InteractionSpotWillBeBlocked>
+	<WouldBlockInteractionSpot>{0} ще блокира мястото на {1}.</WouldBlockInteractionSpot>
+	<TerrainIsAlready>Теренът тук вече е {0}.</TerrainIsAlready>
+	<TerrainBeingSmoothed>Теренът вече е отбелязан за изравняване.</TerrainBeingSmoothed>
+	<IdenticalThingExists>Такъв обект вече съществува тук.</IdenticalThingExists>
+	<IdenticalBlueprintExists>Такъв план вече съществува тук.</IdenticalBlueprintExists>
+	<TerrainCannotSupport>Теренът не може да поддържа тази постройка.</TerrainCannotSupport>
+	<SpaceAlreadyOccupied>Мястото е заето.</SpaceAlreadyOccupied>
+    <SpaceBeingSmoothed>Терена е изравнен.</SpaceBeingSmoothed>
+	<TerrainMustBeRemovable>Тук няма настилка, която да се премахне.</TerrainMustBeRemovable>
 
+
+	<!-- Mouse attachments -->
+	<ExpandOrCreateZone>Разшири {0} или\nСъздай {1}</ExpandOrCreateZone>
+	<CreateNewZone>Създай {0}</CreateNewZone>
+
+
+	<!-- Desc helpers -->
+	<TransmitsPower>Прехвърля енергия</TransmitsPower>
+	<ConstructionNeeded>Изисква се умение за строителство</ConstructionNeeded>
 
 </LanguageData>

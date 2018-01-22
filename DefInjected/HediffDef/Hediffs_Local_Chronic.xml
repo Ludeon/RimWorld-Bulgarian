@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BadBack.label>лош гръб</BadBack.label>
+  <BadBack.labelNoun>лош гръб</BadBack.labelNoun>
+
+  <Frail.label>слабост</Frail.label>
+  <Frail.labelNoun>слабост</Frail.labelNoun>
+
+  <Cataract.label>катаракта</Cataract.label>
+  <Cataract.labelNoun>катаракта</Cataract.labelNoun>
+
+  <Blindness.label>слепота</Blindness.label>
+  <HearingLoss.label>загуба на слуха</HearingLoss.label>
+  <Dementia.label>деменция</Dementia.label>
+
+  <Alzheimers.label>болест на Алцхаймер</Alzheimers.label>
+  <Alzheimers.stages.0.label>начална</Alzheimers.stages.0.label>
+  <Alzheimers.stages.1.label>лека</Alzheimers.stages.1.label>
+  <Alzheimers.stages.2.label>умерена</Alzheimers.stages.2.label>
+  <Alzheimers.stages.3.label>тежка</Alzheimers.stages.3.label>
+
+  <Asthma.label>астма</Asthma.label>
+  <Asthma.stages.0.label>лека</Asthma.stages.0.label>
+  <Asthma.stages.1.label>умерена</Asthma.stages.1.label>
+  <Asthma.stages.2.label>тежка</Asthma.stages.2.label>
+
+  <HeartArteryBlockage.label>атеросклероза</HeartArteryBlockage.label>
+  <HeartArteryBlockage.stages.0.label>начална</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.1.label>лека</HeartArteryBlockage.stages.1.label>
+  <HeartArteryBlockage.stages.2.label>умерена</HeartArteryBlockage.stages.2.label>
+  <HeartArteryBlockage.stages.3.label>тежка</HeartArteryBlockage.stages.3.label>
+  <HeartArteryBlockage.stages.4.label>екстремна</HeartArteryBlockage.stages.4.label>
+  <HeartArteryBlockage.labelNoun>атеросклероза</HeartArteryBlockage.labelNoun>
+
+  <Carcinoma.label>карцинома</Carcinoma.label>
+  <Carcinoma.stages.0.label>начална</Carcinoma.stages.0.label>
+  <Carcinoma.stages.1.label>лека</Carcinoma.stages.1.label>
+  <Carcinoma.stages.2.label>умерена</Carcinoma.stages.2.label>
+  <Carcinoma.stages.3.label>тежка</Carcinoma.stages.3.label>
+  <Carcinoma.stages.4.label>екстремна</Carcinoma.stages.4.label>
+  <Carcinoma.stages.5.label>последен стадий</Carcinoma.stages.5.label>
+  <Carcinoma.labelNoun>карцинома</Carcinoma.labelNoun>
+
+
+
+</LanguageData>

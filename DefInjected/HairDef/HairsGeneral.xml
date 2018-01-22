@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Afro.label>Афро</Afro.label>
-  <Bob.label>Къса</Bob.label>
-  <Burgundy.label>Червена</Burgundy.label>
-  <Flowy.label>Пусната</Flowy.label>
-  <Long.label>Дълга</Long.label>
-  <Mohawk.label>Мохок</Mohawk.label>
-  <Mop.label>Рошава</Mop.label>
-  <Pigtails.label>Плитки</Pigtails.label>
-  <Shaved.label>Бръсната</Shaved.label>
-  <Spikes.label>На шипове</Spikes.label>
-  <Tuft.label>На кичури</Tuft.label>
-  <Wavy.label>Вълниста</Wavy.label>
-  <BraidedKnot.label>Плетени кичури</BraidedKnot.label>
-  <Topdog.label>Шеф</Topdog.label>
-  <Senorita.label>Сеньорита</Senorita.label>
-  <ScorpionTail.label>Опашна на скорпион</ScorpionTail.label>
-  <BriefPonytail.label>Къса конска опашка</BriefPonytail.label>
-  <Troubadour.label>Трубадур</Troubadour.label>
-  <Messy.label>Мръсна</Messy.label>
-  <Princess.label>Принцеса</Princess.label>
-  <Firestarter.label>Огнен дявол</Firestarter.label>
-  <GreasySwoop.label>Помпадур</GreasySwoop.label>
-  <Curly.label>Къдрава</Curly.label>
-  <Scatman.label>Унищожител</Scatman.label>
+    <Afro.label>Афро</Afro.label>
+    <Bob.label>Къса</Bob.label>
+    <Burgundy.label>Червена</Burgundy.label>
+    <Flowy.label>Пусната</Flowy.label>
+    <Long.label>Дълга</Long.label>
+    <Mohawk.label>Мохок</Mohawk.label>
+    <Mop.label>Рошава</Mop.label>
+    <Pigtails.label>Плитки</Pigtails.label>
+    <Shaved.label>Бръсната</Shaved.label>
+    <Spikes.label>На шипове</Spikes.label>
+    <Tuft.label>На кичури</Tuft.label>
+    <Wavy.label>Вълниста</Wavy.label>
+    <BraidedKnot.label>Плетени кичури</BraidedKnot.label>
+    <Topdog.label>Шеф</Topdog.label>
+    <Senorita.label>Сеньорита</Senorita.label>
+    <ScorpionTail.label>Опашка на скорпион</ScorpionTail.label>
+    <BriefPonytail.label>Къса конска опашка</BriefPonytail.label>
+    <Troubadour.label>Трубадур</Troubadour.label>
+    <Messy.label>Мръсна</Messy.label>
+    <Princess.label>Принцеса</Princess.label>
+    <Firestarter.label>Огнен дявол</Firestarter.label>
+    <GreasySwoop.label>Помпадур</GreasySwoop.label>
+    <Curly.label>Къдрава</Curly.label>
+    <Scatman.label>Гладка</Scatman.label>
 
 </LanguageData>

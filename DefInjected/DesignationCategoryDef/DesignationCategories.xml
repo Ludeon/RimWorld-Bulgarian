@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Orders.label>Заповеди</Orders.label>
-  <Orders.description>За извършване на определени задачи.</Orders.description>
+	<Orders.label>заповеди</Orders.label>
+	<Orders.description>За извършване на определени задачи.</Orders.description>
 
-  <Zone.label>Зона</Zone.label>
-  <Zone.description>Определя различни зони в които заселниците да извършват задачи или складират предмети.</Zone.description>
+	<Zone.label>области</Zone.label>
+	<Zone.description>Определя зони за определени видове задачи.</Zone.description>
 
-  <Structure.label>Структури</Structure.label>
-  <Structure.description>Строеж на структури, като стени или врати.</Structure.description>
+	<Structure.label>постройка</Structure.label>
+	<Structure.description>строеж на стени и поставяне на врати.</Structure.description>
 
-  <Production.label>Производство</Production.label>
-  <Production.description>Обекти чрез които могат да се произвеждат стоки.</Production.description>
+	<Production.label>производство</Production.label>
+	<Production.description>Работни маси, машини и други оборудвания за производство.</Production.description>
 
-  <Furniture.label>Мебели</Furniture.label>
-  <Furniture.description>Малки предмети за поставяне в различни стаи.</Furniture.description>
+	<Furniture.label>мебел</Furniture.label>
+	<Furniture.description>Предмети за обзавеждане на жилищни и обществени помещения.</Furniture.description>
 
-  <Power.label>Енергия</Power.label>
-  <Power.description>За създаване, транспортиране, управление и съхраняване на електрическа енергия.</Power.description>
+	<Power.label>енергия</Power.label>
+	<Power.description>Производство, пренос и управление на електроенергия.</Power.description>
 
-  <Security.label>Сигурност</Security.label>
-  <Security.description>Структури за сигурност или различни огневи кули.</Security.description>
+	<Security.label>защита</Security.label>
+	<Security.description>Защитни и боеви конструкции.</Security.description>
 
-  <Misc.label>Разни</Misc.label>
-  <Misc.description>Разни конструкции.</Misc.description>
+	<Misc.label>разни</Misc.label>
+	<Misc.description>Разни конструкции.</Misc.description>
 
-  <Floors.label>Настилки</Floors.label>
-  <Floors.description>Различни подови настилки.</Floors.description>
+	<Floors.label>покритие</Floors.label>
+	<Floors.description>Подови настилки.</Floors.description>
 
-  <Joy.label>Радост</Joy.label>
-  <Joy.description>Съдържа предмети за повишаване на настроенито на заселниците.</Joy.description>
+	<Joy.label>развлечения</Joy.label>
+	<Joy.description>Занимателни или приятни вещи за забавление на заселници.</Joy.description>
 
-  <Ship.label>Кораб</Ship.label>
-  <Ship.description>Компоненти, необходими за създаване на космически кораб.</Ship.description>
+	<Ship.label>кораб</Ship.label>
+	<Ship.description>Компоненти за вашият спасителен кораб.</Ship.description>
 
-  <Temperature.label>Температура</Temperature.label>
-  <Temperature.description>Обекти за регулиране на температурата.</Temperature.description>
+	<Temperature.label>температура</Temperature.label>
+	<Temperature.description>Средства за управляване на температурата.</Temperature.description>
 
 </LanguageData>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <BeetleLike.label>Насекомо</BeetleLike.label>
-  <BeetleLikeWithClaw.label>Насекомо с нокти</BeetleLikeWithClaw.label>
+    <BeetleLike.label>насекомо</BeetleLike.label>
+    <BeetleLikeWithClaw.label>насекомо с нокти</BeetleLikeWithClaw.label>
 
 </LanguageData>

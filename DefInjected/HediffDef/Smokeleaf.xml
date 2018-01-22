@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmokeleafHigh.label>под въздействие на димолист</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>напушен от димолист</SmokeleafHigh.labelNoun>
+
+
+  <!-- Smokeleaf addiction -->
+
+  <SmokeleafTolerance.label>толерантност към димолист</SmokeleafTolerance.label>
+  <SmokeleafTolerance.stages.0.label>малък</SmokeleafTolerance.stages.0.label>
+  <SmokeleafTolerance.stages.1.label>малък</SmokeleafTolerance.stages.1.label>
+  <SmokeleafTolerance.stages.2.label>среден</SmokeleafTolerance.stages.2.label>
+  <SmokeleafTolerance.stages.3.label>силен</SmokeleafTolerance.stages.3.label>
+
+  <SmokeleafAddiction.label>зависим от димолист</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.1.label>абстиненция</SmokeleafAddiction.stages.1.label>
+
+
+</LanguageData>

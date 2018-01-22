@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Torso.label>Торс</Torso.label>
-  <FullHead.label>Цяло тяло</FullHead.label>
-  <Eyes.label>Очи</Eyes.label>
-  <Teeth.label>Зъби</Teeth.label>
-  <Mouth.label>Уста</Mouth.label>
-  <Arms.label>Ръце</Arms.label>
-  <Shoulders.label>Рамена</Shoulders.label>
-  <Hands.label>Ръце</Hands.label>
-  <LeftHand.label>Лява длан</LeftHand.label>
-  <RightHand.label>Дясна длан</RightHand.label>
-  <Legs.label>Крака</Legs.label>
-  <Feet.label>Стъпала</Feet.label>
-  <FrontLeftPaw.label>Предна лява лапа</FrontLeftPaw.label>
-  <FrontRightPaw.label>Предна дясна лапа</FrontRightPaw.label>
-  <HeadAttackTool.label>Глава</HeadAttackTool.label>
-  <FrontLeftLeg.label>Преден ляв крак</FrontLeftLeg.label>
-  <FrontRightLeg.label>Преден десен крак</FrontRightLeg.label>
-  <FrontLeftClaws.label>Преден ляв нокът</FrontLeftClaws.label>
-  <FrontRightClaws.label>Преден десен нокът</FrontRightClaws.label>
-  <LeftBlade.label>Ляво острие</LeftBlade.label>
-  <RightBlade.label>Дясно острие</RightBlade.label>
-  <CoveredByNaturalArmor.label>Покрит с хитин</CoveredByNaturalArmor.label>
-  <TuskAttackTool.label>Бивник</TuskAttackTool.label>
-  <HornAttackTool.label>Рог</HornAttackTool.label>
-  <HeadClaw.label>Нокът</HeadClaw.label>
-  <TurtleBeakAttackTool.label>Клюн</TurtleBeakAttackTool.label>
+    <Torso.label>торс</Torso.label>
+	<UpperHead.label>горна част на глава</UpperHead.label>
+    <FullHead.label>глава</FullHead.label>
+    <Eyes.label>очи</Eyes.label>
+    <Teeth.label>зъби</Teeth.label>
+    <Mouth.label>уста</Mouth.label>
+	<Neck.label>врат</Neck.label>
+    <Arms.label>ръце</Arms.label>
+    <Shoulders.label>рамо</Shoulders.label>
+    <Hands.label>длан</Hands.label>
+    <LeftHand.label>ляв длан</LeftHand.label>
+    <RightHand.label>десен длан</RightHand.label>
+	<Waist.label>кръст</Waist.label>
+    <Legs.label>крака</Legs.label>
+    <Feet.label>стъпало</Feet.label>
+    <FrontLeftPaw.label>предна лява лапа</FrontLeftPaw.label>
+    <FrontRightPaw.label>предна дясна лапа</FrontRightPaw.label>
+    <HeadAttackTool.label>глава</HeadAttackTool.label>
+    <FrontLeftLeg.label>преден ляв крак</FrontLeftLeg.label>
+    <FrontRightLeg.label>преден десен крак</FrontRightLeg.label>
+    <FrontLeftClaws.label>преден ляв нокът</FrontLeftClaws.label>
+    <FrontRightClaws.label>преден десен нокът</FrontRightClaws.label>
+    <LeftBlade.label>ляво острие</LeftBlade.label>
+    <RightBlade.label>дясно острие</RightBlade.label>
+	<TuskAttackTool.label>бивни</TuskAttackTool.label>
+	<HornAttackTool.label>рог</HornAttackTool.label>
+	<HeadClaw.label>нокът</HeadClaw.label>
+	<TurtleBeakAttackTool.label>клюн</TurtleBeakAttackTool.label>
+	<Beak.label>клюн</Beak.label>
 
 </LanguageData>

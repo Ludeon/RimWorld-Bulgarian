@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MechanicalThorax.label>Гръден кош</MechanicalThorax.label>
-  <LeftBlade.label>Ляво острие</LeftBlade.label>
-  <RightBlade.label>Дясно острие</RightBlade.label>
-  <MechanicalNeck.label>Врат</MechanicalNeck.label>
-  <MechanicalHead.label>Глава</MechanicalHead.label>
-  <LeftSightSensor.label>Ляв оптичен сензор</LeftSightSensor.label>
-  <RightSightSensor.label>Десен оптичен сензор</RightSightSensor.label>
-  <LeftHearingSensor.label>Ляв акустичен сензор</LeftHearingSensor.label>
-  <RightHearingSensor.label>Десен акустичен сензор</RightHearingSensor.label>
-  <SmellSensor.label>Сензор за миризми</SmellSensor.label>
-  <LeftMechanicalShoulder.label>Ляво механично рамо</LeftMechanicalShoulder.label>
-  <LeftMechanicalArm.label>Лява механична ръка</LeftMechanicalArm.label>
-  <LeftMechanicalHand.label>Лява механична длан</LeftMechanicalHand.label>
-  <LeftHandMechanicalPinky.label>Механично кутре (ляво)</LeftHandMechanicalPinky.label>
-  <LeftHandMechanicalMiddleFinger.label>Механичен среден пръст (ляв)</LeftHandMechanicalMiddleFinger.label>
-  <LeftHandMechanicalIndexFinger.label>Механичен показалец (ляв)</LeftHandMechanicalIndexFinger.label>
-  <LeftHandMechanicalThumb.label>Механичен палец (ляв)</LeftHandMechanicalThumb.label>
-  <RightMechanicalShoulder.label>Дясно механично рамо</RightMechanicalShoulder.label>
-  <RightMechanicalArm.label>Дясна механична ръка</RightMechanicalArm.label>
-  <RightMechanicalHand.label>Дясна механична длан</RightMechanicalHand.label>
-  <RightHandMechanicalPinky.label>Механично кутре (дясно)</RightHandMechanicalPinky.label>
-  <RightHandMechanicalMiddleFinger.label>Механичен среден пръст (десен)</RightHandMechanicalMiddleFinger.label>
-  <RightHandMechanicalIndexFinger.label>Механичен показалец (десен)</RightHandMechanicalIndexFinger.label>
-  <RightHandMechanicalThumb.label>Механичен палец (десен)</RightHandMechanicalThumb.label>
-  <LeftMechanicalLeg.label>Ляв механичен крак</LeftMechanicalLeg.label>
-  <LeftMechanicalFoot.label>Ляво механично стъпало</LeftMechanicalFoot.label>
-  <RightMechanicalLeg.label>Десен механичен крак</RightMechanicalLeg.label>
-  <RightMechanicalFoot.label>Дясно механично стъпало</RightMechanicalFoot.label>
-  <MechanicalCentipedeBodyFirstRing.label>Първи телесен пръстен</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodySecondRing.label>Втори телесен пръстен</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodyThirdRing.label>Трети телесен пръстен</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyFourthRing.label>Четвърти телесен пръстен</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFifthRing.label>Пети телесен пръстен</MechanicalCentipedeBodyFifthRing.label>
-  <MechanicalCentipedeBodySixthRing.label>Шести телесен пръстен</MechanicalCentipedeBodySixthRing.label>
-  <ArtificialBrain.label>Изкуствен мозък</ArtificialBrain.label>
+
+
+    <MechanicalThorax.label>гръден кош</MechanicalThorax.label>
+    <LeftBlade.label>ляво острие</LeftBlade.label>
+    <RightBlade.label>дясно острие</RightBlade.label>
+    <MechanicalNeck.label>врат</MechanicalNeck.label>
+    <MechanicalHead.label>глава</MechanicalHead.label>
+    <LeftSightSensor.label>ляв оптичен сензор</LeftSightSensor.label>
+    <RightSightSensor.label>десен оптичен сензор</RightSightSensor.label>
+    <LeftHearingSensor.label>ляв акустичен сензор</LeftHearingSensor.label>
+    <RightHearingSensor.label>десен акустичен сензор</RightHearingSensor.label>
+    <SmellSensor.label>сензор за миризми</SmellSensor.label>
+    <LeftMechanicalShoulder.label>ляво механично рамо</LeftMechanicalShoulder.label>
+    <LeftMechanicalArm.label>лява механична ръка</LeftMechanicalArm.label>
+    <LeftMechanicalHand.label>лява механична длан</LeftMechanicalHand.label>
+    <LeftHandMechanicalPinky.label>механично кутре (ляво)</LeftHandMechanicalPinky.label>
+    <LeftHandMechanicalMiddleFinger.label>механичен среден пръст (ляв)</LeftHandMechanicalMiddleFinger.label>
+    <LeftHandMechanicalIndexFinger.label>механичен показалец (ляв)</LeftHandMechanicalIndexFinger.label>
+    <LeftHandMechanicalThumb.label>механичен палец (ляв)</LeftHandMechanicalThumb.label>
+    <RightMechanicalShoulder.label>дясно механично рамо</RightMechanicalShoulder.label>
+    <RightMechanicalArm.label>дясна механична ръка</RightMechanicalArm.label>
+    <RightMechanicalHand.label>дясна механична длан</RightMechanicalHand.label>
+    <RightHandMechanicalPinky.label>механично кутре (дясно)</RightHandMechanicalPinky.label>
+    <RightHandMechanicalMiddleFinger.label>механичен среден пръст (десен)</RightHandMechanicalMiddleFinger.label>
+    <RightHandMechanicalIndexFinger.label>механичен показалец (десен)</RightHandMechanicalIndexFinger.label>
+    <RightHandMechanicalThumb.label>механичен палец (десен)</RightHandMechanicalThumb.label>
+	
+    <LeftMechanicalLeg.label>ляв механичен крак</LeftMechanicalLeg.label>
+    <LeftMechanicalFoot.label>ляво механично стъпало</LeftMechanicalFoot.label>
+    <RightMechanicalLeg.label>десен механичен крак</RightMechanicalLeg.label>
+    <RightMechanicalFoot.label>дясно механично стъпало</RightMechanicalFoot.label>
+	
+    <MechanicalCentipedeBodyFirstRing.label>първи телесен пръстен</MechanicalCentipedeBodyFirstRing.label>
+    <MechanicalCentipedeBodySecondRing.label>втори телесен пръстен</MechanicalCentipedeBodySecondRing.label>
+    <MechanicalCentipedeBodyThirdRing.label>трети телесен пръстен</MechanicalCentipedeBodyThirdRing.label>
+    <MechanicalCentipedeBodyFourthRing.label>четвърти телесен пръстен</MechanicalCentipedeBodyFourthRing.label>
+    <MechanicalCentipedeBodyFifthRing.label>пети телесен пръстен</MechanicalCentipedeBodyFifthRing.label>
+    <MechanicalCentipedeBodySixthRing.label>шести телесен пръстен</MechanicalCentipedeBodySixthRing.label>
+	
+    <ArtificialBrain.label>изкуствен мозък</ArtificialBrain.label>
 
 </LanguageData>

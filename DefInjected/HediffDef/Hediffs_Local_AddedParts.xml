@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <PegLeg.label>дървен крак</PegLeg.label>
+  <PegLeg.labelNoun>дървен крак</PegLeg.labelNoun>
+
+  <Denture.label>зъбна протеза</Denture.label>
+  <Denture.labelNoun>зъбна протеза</Denture.labelNoun>
+
+  <SimpleProstheticLeg.label>проста протеза на крак</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>проста протеза на крак</SimpleProstheticLeg.labelNoun>
+
+  <SimpleProstheticArm.label>проста протеза на ръка</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>юмрук</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>проста протеза на ръка</SimpleProstheticArm.labelNoun>
+
+  <BionicEye.label>бионични очи</BionicEye.label>
+  <BionicEye.labelNoun>бионични очи</BionicEye.labelNoun>
+
+  <BionicArm.label>бионична ръка</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>юмрук</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>бионична ръка</BionicArm.labelNoun>
+
+  <BionicLeg.label>бионичен крак</BionicLeg.label>
+  <BionicLeg.labelNoun>бионичен крак</BionicLeg.labelNoun>
+
+  <PowerClaw.label>силни нокти</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>нокти</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>силни нокти</PowerClaw.labelNoun>
+
+  <ScytherBlade.label>жътварски сърп</ScytherBlade.label>
+  <ScytherBlade.comps.0.tools.0.label>острие</ScytherBlade.comps.0.tools.0.label>
+  <ScytherBlade.comps.0.tools.1.label>остър</ScytherBlade.comps.0.tools.1.label>
+  <ScytherBlade.labelNoun>жътварски сърп</ScytherBlade.labelNoun>
+
+
+</LanguageData>

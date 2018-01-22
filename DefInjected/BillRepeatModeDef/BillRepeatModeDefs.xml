@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RepeatCount.label>направи в X пъти</RepeatCount.label>
+	<TargetCount.label>повтори до X пъти</TargetCount.label>
+	<Forever.label>направи безкраен</Forever.label>
+
+</LanguageData>

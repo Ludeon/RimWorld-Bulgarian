@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <WorldCameraMovement.helpTexts.0>Приближи или отдалечи камерата с колелото на мишката или с PgUp и PgDown.\n\nМожеш да местиш екрана с WASD, стрелките, или с дърпане при натиснат среден бутон на мишката.</WorldCameraMovement.helpTexts.0>
+	<WorldCameraMovement.label>Преместване и обзор</WorldCameraMovement.label>
+	<WorldCameraMovement.helpText>Приближете или отдалечете камерата с помощта на скролера на мишката или с клавиши {Key:MapZoomIn} и {Key:MapZoomOut}.\n\nМожете да преместите камерата с клавиши {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} или като натиснете средния бутон на мишката.</WorldCameraMovement.helpText>
 
 </LanguageData>

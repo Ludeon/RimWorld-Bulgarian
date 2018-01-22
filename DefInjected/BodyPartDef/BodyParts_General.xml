@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Head.label>Глава</Head.label>
-  <Skull.label>Череп</Skull.label>
-  <Brain.label>Мозък</Brain.label>
-  <LeftEye.label>Ляво око</LeftEye.label>
-  <RightEye.label>Дясно око</RightEye.label>
-  <LeftEar.label>Ляво ухо</LeftEar.label>
-  <RightEar.label>Дясно ухо</RightEar.label>
-  <Nose.label>Нос</Nose.label>
-  <Jaw.label>Челюст</Jaw.label>
-  <Neck.label>Врат</Neck.label>
-  <Rib.label>Ребро</Rib.label>
-  <Spine.label>Гръбначен стълб</Spine.label>
-  <LeftLeg.label>Ляв крак</LeftLeg.label>
-  <LeftFoot.label>Ляво стъпало</LeftFoot.label>
-  <RightLeg.label>Десен крак</RightLeg.label>
-  <RightFoot.label>Дясно стъпало</RightFoot.label>
+    <Head.label>глава</Head.label>
+    <Skull.label>череп</Skull.label>
+    <Brain.label>мозък</Brain.label>
+    <LeftEye.label>ляво око</LeftEye.label>
+    <RightEye.label>дясно око</RightEye.label>
+    <LeftEar.label>ляво ухо</LeftEar.label>
+    <RightEar.label>дясно ухо</RightEar.label>
+    <Nose.label>нос</nose.label>
+    <Jaw.label>челюст</Jaw.label>
+    <Neck.label>врат</Neck.label>
+    <Rib.label>ребро</Rib.label>
+    <Spine.label>гръбначен стълб</Spine.label>
+    <LeftLeg.label>ляв крак</LeftLeg.label>
+    <LeftFoot.label>ляво стъпало</LeftFoot.label>
+    <RightLeg.label>десен крак</RightLeg.label>
+    <RightFoot.label>дясно стъпало</RightFoot.label>
 
 </LanguageData>

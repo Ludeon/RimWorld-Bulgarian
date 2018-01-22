@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <TradeGoodsMustBeNearBeacon.helpTexts.0>За да търгуваш предмети или сребро с минаващ търговски космически кораб, ти трябва Орбитален търговски пост със склад в обхвата му, в който се намират предмети за търговия.</TradeGoodsMustBeNearBeacon.helpTexts.0>
+	<TradeGoodsMustBeNearBeacon.label>Обмен на стоки и търговски маяк</TradeGoodsMustBeNearBeacon.label>
+	<TradeGoodsMustBeNearBeacon.helpText>За да изпращате стоки или сребро на орбиталните търговци, постройте търговски маяк и поставете до него склад без покрив със стоките.</TradeGoodsMustBeNearBeacon.helpText>
 
-  <ArrestingCreatesEnemies.helpTexts.0>Внимание: Човекът, който искаш да плениш може да не се подчини. Ако го плениш, това ще ядоса фракцията, на която той принадлежи.</ArrestingCreatesEnemies.helpTexts.0>
+	<ArrestingCreatesEnemies.label>Арестът влошава отношенията с фракциите</ArrestingCreatesEnemies.label>
+	<ArrestingCreatesEnemies.helpText>Внимание: Човекът, който опитвате да арестувате, може да предизвиква съпротива.\n\nАко арестувате представител на друга фракция, фракцията ще стане ваш враг.</ArrestingCreatesEnemies.helpText>
 
-  <SwitchFlickingDesignation.helpTexts.0>Забележка: Това задава включването или изключването на определен обект.\n\nТова ще стане когато заселник го извърши ръчно, или изобщо, ако няма зададен заселник с необходимата роля.</SwitchFlickingDesignation.helpTexts.0>
+	<SwitchFlickingDesignation.label>Заповед за превключване</SwitchFlickingDesignation.label>
+	<SwitchFlickingDesignation.helpText>Това действие — само заповядва на заселниците.\n\nНищо няма да се случи, докато заселникът, назначения оператор, не се появява и не превключва превключвателя ръчно.</SwitchFlickingDesignation.helpText>
+
+	<MaxNumberOfPlayerHomes.label>Брой население</MaxNumberOfPlayerHomes.label>
+	<MaxNumberOfPlayerHomes.helpText>Внимание: RimWorld разчита на това играча да управлява само една колония. Броят на населението може да се увеличи, но това може да доведе до загуба на бързи действия и проблеми с баланса. Препоръчително е да играете с една колония, поне първият път.</MaxNumberOfPlayerHomes.helpText>
 
 </LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
+	<RangedStab.label>прободна рана</RangedStab.label>
+	<RangedStab.deathMessage>{0} беше намушкан до смърт.</RangedStab.deathMessage>
+
+	<Bullet.label>куршум</Bullet.label>
+	<Bullet.deathMessage>{0} застрелян.</Bullet.deathMessage>
+
+	<Arrow.label>стрела</Arrow.label>
+	<Arrow.deathMessage>{0} убит от лък.</Arrow.deathMessage>
+
+	<ArrowHighVelocity.label>стрела</ArrowHighVelocity.label>
+	<ArrowHighVelocity.deathMessage>{0} убит от лък.</ArrowHighVelocity.deathMessage>
+
+</LanguageData>

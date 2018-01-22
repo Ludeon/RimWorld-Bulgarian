@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Flame.label>огън</Flame.label>
+	<Flame.deathMessage>{0} изгорен до смърт.</Flame.deathMessage>
+
+	<!-- Burn is like Flame, but doesn't ignite anything -->
+	<Burn.label>изгаряне</Burn.label>
+	<Burn.deathMessage>{0} изгорен до смърт.</Burn.deathMessage>
+
+	<Frostbite.label>измръзване</Frostbite.label>
+	<Frostbite.deathMessage>{0} станал жертва на измръзване.</Frostbite.deathMessage>
+
+	<TornadoScratch.label>одран</TornadoScratch.label>
+	<TornadoScratch.deathMessage>{0} беше одран до смърт.</TornadoScratch.deathMessage>
+
+</LanguageData>
