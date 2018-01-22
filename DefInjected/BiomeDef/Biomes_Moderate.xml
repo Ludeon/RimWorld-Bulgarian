@@ -4,14 +4,14 @@
   <!-- Unlandable biomes -->
 
   <Ocean.label>Океан</Ocean.label>
-  <Ocean.description>Обширен океан. Много подходящ за рибите, но не и за хората.</Ocean.description>
+  <Ocean.description>Обширен океан. Много подходящ за риби, но не и за хора.</Ocean.description>
 
   <!-- Buildable biomes -->
 
   <TemperateForest.label>Умерен пояс</TemperateForest.label>
-  <TemperateForest.description>Удобна за оцеляване област с множество дървета, плодородни почви и животни.</TemperateForest.description>
+  <TemperateForest.description>Удобна за живеене област с много дървета, плодородни почви и животни.</TemperateForest.description>
 
   <TropicalRainforest.label>Тропична гора</TropicalRainforest.label>
-  <TropicalRainforest.description>Област, покрита от джунгла. Влажна и топла, тази зона е дом на много растения и агресивни животни, които затрудняват строежа и оцеляването.</TropicalRainforest.description>
+  <TropicalRainforest.description>Област, покрита от джунгла. Влажна и топла, тази зона е дом на много растения и агресивни видове животни, което затруднява строежите и оцеляването.</TropicalRainforest.description>
 
 </LanguageData>
