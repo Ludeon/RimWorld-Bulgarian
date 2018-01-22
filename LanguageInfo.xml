@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
-  <friendlyNameNative>Български</friendlyNameNative>
-  <friendlyNameEnglish>Bulgarian</friendlyNameEnglish>
-  <canBeTiny>true</canBeTiny>
-
-  <credits>
-    <li Class="CreditRecord_Role">
-      <roleKey>Credit_Writer</roleKey>
-      <creditee>Dobri "DG" Dobrev</creditee>
-    </li>
-  </credits>
+    <friendlyNameNative>Български</friendlyNameNative>
+    <friendlyNameEnglish>Bulgarian</friendlyNameEnglish>
+    <canBeTiny>true</canBeTiny>
+	<credits>
+		<li Class="CreditRecord_Role">
+			<roleKey>Credit_Translator</roleKey>
+			<creditee>Dobri "DG" Dobrev</creditee>
+		</li>
+		<li Class="CreditRecord_Role">
+			<roleKey>Credit_Translator</roleKey>
+			<creditee>Hulk</creditee>
+        </li>
+    </credits>
 </LanguageInfo>
