@@ -277,7 +277,7 @@
   <!-- Cryptosleep casket -->
   <CasketContains>Съдържа</CasketContains>
   <CasketUnknownContents>Непознат</CasketUnknownContents>
-  <CasketWarning>Внимание!\n\nNAME е последният ти заселник! Ако го поставиш в криптосън, няма да может да продължиш играта. Със сигурност ли искаш да продължиш?</CasketWarning>
+  <CasketWarning>Внимание!\n\n[PAWN_nameDef] е последният ти заселник! Ако го поставиш в криптосън, няма да может да продължиш играта. Със сигурност ли искаш да продължиш?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Негоден за изстрелване в космоса.</ShipReportCannotLaunch>

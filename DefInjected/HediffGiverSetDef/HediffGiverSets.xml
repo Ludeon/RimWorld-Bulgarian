@@ -2,7 +2,7 @@
 <LanguageData>
 
   <OrganicStandard.hediffGivers.4.letterLabel>Подсилен след Травма</OrganicStandard.hediffGivers.4.letterLabel>
-  <OrganicStandard.hediffGivers.4.letter>Травмата на NAME породи странен ефект! HE придоби различни подсилени способности.</OrganicStandard.hediffGivers.4.letter>
+  <OrganicStandard.hediffGivers.4.letter>Травмата на [PAWN_nameDef] породи странен ефект! [PAWN_pronoun] придоби различни подсилени способности.</OrganicStandard.hediffGivers.4.letter>
 
   
 </LanguageData>

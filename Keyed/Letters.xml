@@ -34,10 +34,10 @@
 
   <LetterLabelNewDisease>Болест</LetterLabelNewDisease>
   <NewDisease>{0} се разболя от {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewDisease>
-  <NewPartDisease>{0} се разболя от {3}. Инфекцията се е зародила в HIS {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewPartDisease>
+  <NewPartDisease>{0} се разболя от {3}. Инфекцията се е зародила в [PAWN_possessive] {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>Древна опасностr</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>когато {0} се приближава до древната стена, HIM е обзет от изключително лошо предчувствие. HECAP не знае защо, но HE чувства, че тази прашна структура таи огромна опасност.</AncientShrineWarning>
+  <AncientShrineWarning>когато {0} се приближава до древната стена, [PAWN_objective] е обзет от изключително лошо предчувствие. [PAWN_pronoun] не знае защо, но [PAWN_pronoun] чувства, че тази прашна структура таи огромна опасност.</AncientShrineWarning>
 
   <StruckMineable>Намерихме {0}!</StruckMineable>
 
@@ -66,8 +66,8 @@
   <LetterFamilyMembersTraderShipSlaves>Търговски кораб продава членове на семейството на твои заселници или затворници:</LetterFamilyMembersTraderShipSlaves>
   
   <FamilyLetterAppendedSuffix>(семейство)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME е член от семейството на заселник. HECAP е {0} на {1}.</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME е член от семейството на затворник. HECAP е {0} на {1}.</FamilyLetterAppendedTextPrisoner>
+  <FamilyLetterAppendedTextColonist>[PAWN_nameDef] е член от семейството на заселник. [PAWN_pronoun] е {0} на {1}.</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>[PAWN_nameDef] е член от семейството на затворник. [PAWN_pronoun] е {0} на {1}.</FamilyLetterAppendedTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Афера</LetterLabelAffair>

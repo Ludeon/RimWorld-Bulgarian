@@ -35,19 +35,19 @@
 
   <TraderArrival>Търговски космически кораб минава наблизо.\n\nТе се наричат {0}. Те са {1}.</TraderArrival>
 
-  <SingleTravelerPassing>{0} от {1} минава наблизо. HECAP се казва {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>{0} от {1} минава наблизо. [PAWN_pronoun] се казва {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Група пътешественици от {0} минават наблизо.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Посетител</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>{0} от {1} посещава колонията.\n\nHECAP се казва {2}.{3}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP изглежда, че има няколко предмета за търгуване.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrives>{0} от {1} посещава колонията.\n\n[PAWN_pronoun] се казва {2}.{3}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] изглежда, че има няколко предмета за търгуване.</SingleVisitorArrivesTraderInfo>
   <LetterLabelGroupVisitorsArrive>Посетители</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Група от {0} посещават колонията.{1}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nИзглежда, че имат предмети за търгуване.</GroupVisitorsArriveTraderInfo>
   <VisitorsLeaving>Посетителите от {0} си заминават.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Бездомник се присъединява</LetterLabelWandererJoin>
-  <WandererJoin>{0} наречен NAME пристигна наблизо и се присъединява към колонията. HECAP е {1}.</WandererJoin>
+  <WandererJoin>{0} наречен [PAWN_nameDef] пристигна наблизо и се присъединява към колонията. [PAWN_pronoun] е {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Човекоядни животни</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Стадо от човекоядни животни {0} влезе в района. Те ще ловуват активно за човешка плът.\n\nЖивотните не могат да минават през врати, тоест всяко оградено място е безопасно. Те няма да нападнат неактивни Огневи Кули, затова може да ги изключиш ако искаш да ги запазиш.\n\nЖивотните ще напуснат района след няколко дни.</ManhunterPackArrived>
@@ -80,7 +80,7 @@
   <BeaversArrived>Група от гладни Алфа-Бобри пристигна току-що.\n\nОпитай се да ги елиминираш преди да унищожат всяко едно дърво в региона.</BeaversArrived>
   
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>{1} наречен {0} се обажда отблизо. HECAP е гонен от {2} от {3}!\n\nHECAP те умолява за помощ и предлага да се присъедини към колонията. Биологически, HE е на {4} години.\n\nВнимание - ако приемеш, ще трябва да се биеш с {2} които преследват HIS.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>{1} наречен {0} се обажда отблизо. [PAWN_pronoun] е гонен от {2} от {3}!\n\n[PAWN_pronoun] те умолява за помощ и предлага да се присъедини към колонията. Биологически, [PAWN_pronoun] е на {4} години.\n\nВнимание - ако приемеш, ще трябва да се биеш с {2} които преследват [PAWN_possessive].</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Предложи безопасност</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Игнорирай съобщението</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} изкрешява от паника през малкия говорител момент преди да прекъснеш връзката.</RefugeeChasedRejected>
