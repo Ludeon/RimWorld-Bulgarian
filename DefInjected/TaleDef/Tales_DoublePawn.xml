@@ -2,218 +2,238 @@
 <LanguageData>
 
 	<Captured.label>Person gefangen</Captured.label>
-	<Captured.rulePack.rulesStrings.0>tale_noun->залавянето на [prisoner_nameShortDef]</Captured.rulePack.rulesStrings.0>
-	<Captured.rulePack.rulesStrings.1>image->залавянето на [prisoner_nameFull] от [capturer_nameFull] [circumstance_group]</Captured.rulePack.rulesStrings.1>
-	<Captured.rulePack.rulesStrings.2>image->[capturer_nameFull] завързва ръцете на [prisoner_nameFull] [circumstance_group]</Captured.rulePack.rulesStrings.2>
-	<Captured.rulePack.rulesStrings.3>image->[capturer_nameFull] при заляването на [prisoner_nameFull]. Една от ръцете в вдигната за удар</Captured.rulePack.rulesStrings.3>
-	<Captured.rulePack.rulesStrings.4>circumstance_phrase->докато [prisoner_pronoun] се гърчи на земята</Captured.rulePack.rulesStrings.4>
-	<Captured.rulePack.rulesStrings.5>circumstance_phrase->докато [prisoner_pronoun] се превива от болка</Captured.rulePack.rulesStrings.5>
-	<Captured.rulePack.rulesStrings.6>circumstance_phrase->като професионалист</Captured.rulePack.rulesStrings.6>
-	<Captured.rulePack.rulesStrings.7>circumstance_phrase->с грубо, аматьорско</Captured.rulePack.rulesStrings.7>
-	<Captured.rulePack.rulesStrings.8>circumstance_phrase->и с ненужно насилие</Captured.rulePack.rulesStrings.8>
-	<Captured.rulePack.rulesStrings.9>circumstance_phrase->и очевидно доволен от</Captured.rulePack.rulesStrings.9>
-	<Captured.rulePack.rulesStrings.10>circumstance_phrase->с доминираща усмивка</Captured.rulePack.rulesStrings.10>
-	<Captured.rulePack.rulesStrings.11>desc_sentence->[capturer_nameShortDef] поглежда [prisoner_nameShortDef] доминиращо в очите.</Captured.rulePack.rulesStrings.11>
-	<Captured.rulePack.rulesStrings.12>desc_sentence->[prisoner_nameShortDef] е наранен и изгежда, че изпитва болка.</Captured.rulePack.rulesStrings.12>
-	<Captured.rulePack.rulesStrings.13>desc_sentence->[prisoner_nameShortDef] изглежда, че [prisoner_possessive] се е оставил на волята на съдбата.</Captured.rulePack.rulesStrings.13>
-	<Captured.rulePack.rulesStrings.14>desc_sentence->[prisoner_nameShortDef] реве от яд заради поражението си.</Captured.rulePack.rulesStrings.14>
-	<Captured.rulePack.rulesStrings.15>desc_sentence->[capturer_nameShortDef] показва как [prisoner_nameShortDef] се заема с [prisoner_objective].</Captured.rulePack.rulesStrings.15>
-	<Captured.rulePack.rulesStrings.16>desc_sentence->[capturer_nameShortDef] дърпа ухото на [prisoner_nameShortDef].</Captured.rulePack.rulesStrings.16>
-	<Captured.rulePack.rulesStrings.17>desc_sentence->[capturer_nameShortDef] души [prisoner_nameShortDef].</Captured.rulePack.rulesStrings.17>
-	<Captured.rulePack.rulesStrings.18>desc_sentence->[capturer_nameShortDef] плюе в лицето на [prisoner_nameShortDef].</Captured.rulePack.rulesStrings.18>
-	<Captured.rulePack.rulesStrings.19>desc_sentence->[capturer_nameShortDef] се смее, докато [prisoner_nameShortDef] плаче.</Captured.rulePack.rulesStrings.19>
-	<Captured.rulePack.rulesStrings.20>desc_sentence->[capturer_nameShortDef] рита [prisoner_nameShortDef] без причина.</Captured.rulePack.rulesStrings.20>
+	<Captured.rulePack.rulesStrings>
+		<li>tale_noun->залавянето на [prisoner_nameShortDef]</li>
+		<li>image->залавянето на [prisoner_nameFull] от [capturer_nameFull] [circumstance_group]</li>
+		<li>image->[capturer_nameFull] завързва ръцете на [prisoner_nameFull] [circumstance_group]</li>
+		<li>image->[capturer_nameFull] при заляването на [prisoner_nameFull]. Една от ръцете в вдигната за удар</li>
+		<li>circumstance_phrase->докато [prisoner_pronoun] се гърчи на земята</li>
+		<li>circumstance_phrase->докато [prisoner_pronoun] се превива от болка</li>
+		<li>circumstance_phrase->като професионалист</li>
+		<li>circumstance_phrase->с грубо, аматьорско</li>
+		<li>circumstance_phrase->и с ненужно насилие</li>
+		<li>circumstance_phrase->и очевидно доволен от</li>
+		<li>circumstance_phrase->с доминираща усмивка</li>
+		<li>desc_sentence->[capturer_nameShortDef] поглежда [prisoner_nameShortDef] доминиращо в очите.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] е наранен и изгежда, че изпитва болка.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] изглежда, че [prisoner_possessive] се е оставил на волята на съдбата.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] реве от яд заради поражението си.</li>
+		<li>desc_sentence->[capturer_nameShortDef] показва как [prisoner_nameShortDef] се заема с [prisoner_objective].</li>
+		<li>desc_sentence->[capturer_nameShortDef] дърпа ухото на [prisoner_nameShortDef].</li>
+		<li>desc_sentence->[capturer_nameShortDef] души [prisoner_nameShortDef].</li>
+		<li>desc_sentence->[capturer_nameShortDef] плюе в лицето на [prisoner_nameShortDef].</li>
+		<li>desc_sentence->[capturer_nameShortDef] се смее, докато [prisoner_nameShortDef] плаче.</li>
+		<li>desc_sentence->[capturer_nameShortDef] рита [prisoner_nameShortDef] без причина.</li>
+	</Captured.rulePack.rulesStrings>
 
 
 	<Recruited.label>Вербуван затворник</Recruited.label>
-	<Recruited.rulePack.rulesStrings.0>tale_noun->вербуването на [joiner_nameShortDef]</Recruited.rulePack.rulesStrings.0>
-	<Recruited.rulePack.rulesStrings.1>image->вербуването на [joiner_nameFull] [circumstance_group] от [recruiter_nameFull]</Recruited.rulePack.rulesStrings.1>
-	<Recruited.rulePack.rulesStrings.2>image->[recruiter_nameFull], както и [recruiter_pronoun] приветстват [joiner_nameFull] [circumstance_group] с добре дошъл</Recruited.rulePack.rulesStrings.2>
-	<Recruited.rulePack.rulesStrings.3>image->[recruiter_nameFull] [circumstance_group], както и [recruiter_pronoun] разговарят с [joiner_nameFull] за колонията</Recruited.rulePack.rulesStrings.3>
-	<Recruited.rulePack.rulesStrings.4>circumstance_phrase->доброжелателно</Recruited.rulePack.rulesStrings.4>
-	<Recruited.rulePack.rulesStrings.5>circumstance_phrase->със сърдечно ръкостискане</Recruited.rulePack.rulesStrings.5>
-	<Recruited.rulePack.rulesStrings.6>circumstance_phrase->с усмивка</Recruited.rulePack.rulesStrings.6>
-	<Recruited.rulePack.rulesStrings.7>circumstance_phrase->от цялата колония</Recruited.rulePack.rulesStrings.7>
-	<Recruited.rulePack.rulesStrings.8>circumstance_phrase->в една килия</Recruited.rulePack.rulesStrings.8>
-	<Recruited.rulePack.rulesStrings.9>desc_sentence->[joiner_nameShortDef] кима разбиращо.</Recruited.rulePack.rulesStrings.9>
-	<Recruited.rulePack.rulesStrings.10>desc_sentence->[joiner_nameShortDef] се усмихва и стои в очакване.</Recruited.rulePack.rulesStrings.10>
-	<Recruited.rulePack.rulesStrings.11>desc_sentence->[joiner_nameShortDef] изглежда облекчен.</Recruited.rulePack.rulesStrings.11>
-	<Recruited.rulePack.rulesStrings.12>desc_sentence->[joiner_nameShortDef] изглежда обнадежден.</Recruited.rulePack.rulesStrings.12>
+	<Recruited.rulePack.rulesStrings>
+		<li>tale_noun->вербуването на [joiner_nameShortDef]</li>
+		<li>image->вербуването на [joiner_nameFull] [circumstance_group] от [recruiter_nameFull]</li>
+		<li>image->[recruiter_nameFull], както и [recruiter_pronoun] приветстват [joiner_nameFull] [circumstance_group] с добре дошъл</li>
+		<li>image->[recruiter_nameFull] [circumstance_group], както и [recruiter_pronoun] разговарят с [joiner_nameFull] за колонията</li>
+		<li>circumstance_phrase->доброжелателно</li>
+		<li>circumstance_phrase->със сърдечно ръкостискане</li>
+		<li>circumstance_phrase->с усмивка</li>
+		<li>circumstance_phrase->от цялата колония</li>
+		<li>circumstance_phrase->в една килия</li>
+		<li>desc_sentence->[joiner_nameShortDef] кима разбиращо.</li>
+		<li>desc_sentence->[joiner_nameShortDef] се усмихва и стои в очакване.</li>
+		<li>desc_sentence->[joiner_nameShortDef] изглежда облекчен.</li>
+		<li>desc_sentence->[joiner_nameShortDef] изглежда обнадежден.</li>
+	</Recruited.rulePack.rulesStrings>
 
 
 	<Hunted.label>Ловуване</Hunted.label>
-	<Hunted.rulePack.rulesStrings.0>tale_noun->успешният лов на [hunter_nameShortDef]</Hunted.rulePack.rulesStrings.0>
-	<Hunted.rulePack.rulesStrings.1>image->[prey_nameFull] се ловува от [hunter_nameFull] [circumstance_group]</Hunted.rulePack.rulesStrings.1>
-	<Hunted.rulePack.rulesStrings.2>image->[hunter_nameFull], като [hunter_pronoun] се прокрадва бавно към [prey_nameFull]</Hunted.rulePack.rulesStrings.2>
-	<Hunted.rulePack.rulesStrings.3>image->[hunter_nameFull] [circumstance_group]при ловуването на [prey_nameFull]</Hunted.rulePack.rulesStrings.3>
-	<Hunted.rulePack.rulesStrings.4>circumstance_phrase->докато [prey_nameShortDef] е спокойно</Hunted.rulePack.rulesStrings.4>
-	<Hunted.rulePack.rulesStrings.5>circumstance_phrase->докато [prey_nameShortDef] скита</Hunted.rulePack.rulesStrings.5>
-	<Hunted.rulePack.rulesStrings.6>circumstance_phrase->докато [prey_nameShortDef] яде</Hunted.rulePack.rulesStrings.6>
-	<Hunted.rulePack.rulesStrings.7>desc_sentence->[prey_nameShortDef] не го забелязва.</Hunted.rulePack.rulesStrings.7>
-	<Hunted.rulePack.rulesStrings.8>desc_sentence->[hunter_nameShortDef] хваща решително [hunter_possessive]то оръжие.</Hunted.rulePack.rulesStrings.8>
-	<Hunted.rulePack.rulesStrings.9>desc_sentence->[prey_nameShortDef] се сепва, когато [prey_pronoun] се усеща, че нещо не е наред.</Hunted.rulePack.rulesStrings.9>
+	<Hunted.rulePack.rulesStrings>
+		<li>tale_noun->успешният лов на [hunter_nameShortDef]</li>
+		<li>image->[prey_nameFull] се ловува от [hunter_nameFull] [circumstance_group]</li>
+		<li>image->[hunter_nameFull], като [hunter_pronoun] се прокрадва бавно към [prey_nameFull]</li>
+		<li>image->[hunter_nameFull] [circumstance_group]при ловуването на [prey_nameFull]</li>
+		<li>circumstance_phrase->докато [prey_nameShortDef] е спокойно</li>
+		<li>circumstance_phrase->докато [prey_nameShortDef] скита</li>
+		<li>circumstance_phrase->докато [prey_nameShortDef] яде</li>
+		<li>desc_sentence->[prey_nameShortDef] не го забелязва.</li>
+		<li>desc_sentence->[hunter_nameShortDef] хваща решително [hunter_possessive]то оръжие.</li>
+		<li>desc_sentence->[prey_nameShortDef] се сепва, когато [prey_pronoun] се усеща, че нещо не е наред.</li>
+	</Hunted.rulePack.rulesStrings>
 
 
 	<DidSurgery.label>Операция</DidSurgery.label>
-	<DidSurgery.rulePack.rulesStrings.0>tale_noun-> операцията на [patient_nameShortDef]</DidSurgery.rulePack.rulesStrings.0>
-	<DidSurgery.rulePack.rulesStrings.1>image->[surgeon_nameFull], в ролята на [surgeon_pronoun] използва упойка върху [patient_nameFull] [circumstance_group]</DidSurgery.rulePack.rulesStrings.1>
-	<DidSurgery.rulePack.rulesStrings.2>image->[surgeon_nameFull] който по време на операцията [circumstance_group], в която [surgeon_pronoun] е до лакти в кръвта на [patient_nameFull]</DidSurgery.rulePack.rulesStrings.2>
-	<DidSurgery.rulePack.rulesStrings.3>image->[surgeon_nameFull], в ролята на [surgeon_pronoun] който по време на операцията [circumstance_group] реже [patient_nameFull]</DidSurgery.rulePack.rulesStrings.3>
-	<DidSurgery.rulePack.rulesStrings.4>circumstance_phrase->през което [patient_pronoun] трепери от страх</DidSurgery.rulePack.rulesStrings.4>
-	<DidSurgery.rulePack.rulesStrings.5>circumstance_phrase->през която се събира кръв в краката на [surgeon_nameShortDef]</DidSurgery.rulePack.rulesStrings.5>
-	<DidSurgery.rulePack.rulesStrings.6>circumstance_phrase->обграден от страховито изглеждащи инструменти</DidSurgery.rulePack.rulesStrings.6>
-	<DidSurgery.rulePack.rulesStrings.7>circumstance_phrase->с импровизирани, но ефективни инструменти</DidSurgery.rulePack.rulesStrings.7>
-	<DidSurgery.rulePack.rulesStrings.8>desc_sentence->[surgeon_nameShortDef] се поти обилно.</DidSurgery.rulePack.rulesStrings.8>
-	<DidSurgery.rulePack.rulesStrings.9>desc_sentence->[surgeon_nameShortDef] изглежда много концентриран в работата си</DidSurgery.rulePack.rulesStrings.9>
-	<DidSurgery.rulePack.rulesStrings.10>desc_sentence->[surgeon_nameShortDef] има кръв по [surgeon_possessive] си</DidSurgery.rulePack.rulesStrings.10>
-	<DidSurgery.rulePack.rulesStrings.11>desc_sentence->[patient_nameShortDef] се гърчи и опъва</DidSurgery.rulePack.rulesStrings.11>
+	<DidSurgery.rulePack.rulesStrings>
+		<li>tale_noun-> операцията на [patient_nameShortDef]</li>
+		<li>image->[surgeon_nameFull], в ролята на [surgeon_pronoun] използва упойка върху [patient_nameFull] [circumstance_group]</li>
+		<li>image->[surgeon_nameFull] който по време на операцията [circumstance_group], в която [surgeon_pronoun] е до лакти в кръвта на [patient_nameFull]</li>
+		<li>image->[surgeon_nameFull], в ролята на [surgeon_pronoun] който по време на операцията [circumstance_group] реже [patient_nameFull]</li>
+		<li>circumstance_phrase->през което [patient_pronoun] трепери от страх</li>
+		<li>circumstance_phrase->през която се събира кръв в краката на [surgeon_nameShortDef]</li>
+		<li>circumstance_phrase->обграден от страховито изглеждащи инструменти</li>
+		<li>circumstance_phrase->с импровизирани, но ефективни инструменти</li>
+		<li>desc_sentence->[surgeon_nameShortDef] се поти обилно.</li>
+		<li>desc_sentence->[surgeon_nameShortDef] изглежда много концентриран в работата си</li>
+		<li>desc_sentence->[surgeon_nameShortDef] има кръв по [surgeon_possessive] си</li>
+		<li>desc_sentence->[patient_nameShortDef] се гърчи и опъва</li>
+	</DidSurgery.rulePack.rulesStrings>
 
 
 	<ExecutedPrisoner.label>Екзекутиран затворник</ExecutedPrisoner.label>
-	<ExecutedPrisoner.rulePack.rulesStrings.0>tale_noun->екзекутирането на [prisoner_nameShortDef]</ExecutedPrisoner.rulePack.rulesStrings.0>
-	<ExecutedPrisoner.rulePack.rulesStrings.1>image->[warden_nameFull], в ролята на [warden_pronoun] екзекутира [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.1>
-	<ExecutedPrisoner.rulePack.rulesStrings.2>image->[warden_nameFull], в ролята на [warden_pronoun] убива [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.2>
-	<ExecutedPrisoner.rulePack.rulesStrings.3>image->[warden_nameFull] който [circumstance_group] се приготвя да екзекутира [prisoner_nameFull]</ExecutedPrisoner.rulePack.rulesStrings.3>
-	<ExecutedPrisoner.rulePack.rulesStrings.4>image->[warden_nameFull] при влизането в килията, за да екзекутира [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.4>
-	<ExecutedPrisoner.rulePack.rulesStrings.5>circumstance_phrase->докато [prisoner_pronoun] се гърчи на земята</ExecutedPrisoner.rulePack.rulesStrings.5>
-	<ExecutedPrisoner.rulePack.rulesStrings.6>circumstance_phrase->докато [prisoner_pronoun] се гърчи от болка</ExecutedPrisoner.rulePack.rulesStrings.6>
-	<ExecutedPrisoner.rulePack.rulesStrings.7>circumstance_phrase->докато [prisoner_pronoun] вика от страх</ExecutedPrisoner.rulePack.rulesStrings.7>
-	<ExecutedPrisoner.rulePack.rulesStrings.8>circumstance_phrase->много професионално</ExecutedPrisoner.rulePack.rulesStrings.8>
-	<ExecutedPrisoner.rulePack.rulesStrings.9>circumstance_phrase->аматьорски грубо</ExecutedPrisoner.rulePack.rulesStrings.9>
-	<ExecutedPrisoner.rulePack.rulesStrings.10>circumstance_phrase->насилнически</ExecutedPrisoner.rulePack.rulesStrings.10>
-	<ExecutedPrisoner.rulePack.rulesStrings.11>circumstance_phrase->с очевидно задоволство</ExecutedPrisoner.rulePack.rulesStrings.11>
-	<ExecutedPrisoner.rulePack.rulesStrings.12>circumstance_phrase->с доминираща усмивка на лицето</ExecutedPrisoner.rulePack.rulesStrings.12>
-	<ExecutedPrisoner.rulePack.rulesStrings.13>circumstance_phrase->със сълзи в очите на [warden_possessive]</ExecutedPrisoner.rulePack.rulesStrings.13>
-	<ExecutedPrisoner.rulePack.rulesStrings.14>circumstance_phrase->без емоция</ExecutedPrisoner.rulePack.rulesStrings.14>
-	<ExecutedPrisoner.rulePack.rulesStrings.15>circumstance_phrase->докато [warden_pronoun] извършва ненужен тормоз</ExecutedPrisoner.rulePack.rulesStrings.15>
-	<ExecutedPrisoner.rulePack.rulesStrings.16>circumstance_phrase->докато [warden_pronoun] мисли за друго</ExecutedPrisoner.rulePack.rulesStrings.16>
-	<ExecutedPrisoner.rulePack.rulesStrings.17>circumstance_phrase->за общото благо</ExecutedPrisoner.rulePack.rulesStrings.17>
-	<ExecutedPrisoner.rulePack.rulesStrings.18>desc_sentence->[warden_nameShortDef] се поти силно.</ExecutedPrisoner.rulePack.rulesStrings.18>
-	<ExecutedPrisoner.rulePack.rulesStrings.19>desc_sentence->[warden_nameShortDef] му текат лигите.</ExecutedPrisoner.rulePack.rulesStrings.19>
-	<ExecutedPrisoner.rulePack.rulesStrings.20>desc_sentence->[warden_nameShortDef] има размазана кръв по лицето на [warden_possessive]</ExecutedPrisoner.rulePack.rulesStrings.20>
-	<ExecutedPrisoner.rulePack.rulesStrings.21>desc_sentence->[prisoner_nameShortDef] се гърчи и опъва</ExecutedPrisoner.rulePack.rulesStrings.21>
-	<ExecutedPrisoner.rulePack.rulesStrings.22>desc_sentence->[prisoner_nameShortDef] се е предал окончателно</ExecutedPrisoner.rulePack.rulesStrings.22>
-	<ExecutedPrisoner.rulePack.rulesStrings.23>desc_sentence->[prisoner_nameShortDef] [prisoner_possessive] е затворил очите си и се моли на боговете си</ExecutedPrisoner.rulePack.rulesStrings.23>
-	<ExecutedPrisoner.rulePack.rulesStrings.24>desc_sentence->[prisoner_nameShortDef] гледа предизвикателно</ExecutedPrisoner.rulePack.rulesStrings.24>
+	<ExecutedPrisoner.rulePack.rulesStrings>
+		<li>tale_noun->екзекутирането на [prisoner_nameShortDef]</li>
+		<li>image->[warden_nameFull], в ролята на [warden_pronoun] екзекутира [prisoner_nameFull] [circumstance_group]</li>
+		<li>image->[warden_nameFull], в ролята на [warden_pronoun] убива [prisoner_nameFull] [circumstance_group]</li>
+		<li>image->[warden_nameFull] който [circumstance_group] се приготвя да екзекутира [prisoner_nameFull]</li>
+		<li>image->[warden_nameFull] при влизането в килията, за да екзекутира [prisoner_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->докато [prisoner_pronoun] се гърчи на земята</li>
+		<li>circumstance_phrase->докато [prisoner_pronoun] се гърчи от болка</li>
+		<li>circumstance_phrase->докато [prisoner_pronoun] вика от страх</li>
+		<li>circumstance_phrase->много професионално</li>
+		<li>circumstance_phrase->аматьорски грубо</li>
+		<li>circumstance_phrase->насилнически</li>
+		<li>circumstance_phrase->с очевидно задоволство</li>
+		<li>circumstance_phrase->с доминираща усмивка на лицето</li>
+		<li>circumstance_phrase->със сълзи в очите на [warden_possessive]</li>
+		<li>circumstance_phrase->без емоция</li>
+		<li>circumstance_phrase->докато [warden_pronoun] извършва ненужен тормоз</li>
+		<li>circumstance_phrase->докато [warden_pronoun] мисли за друго</li>
+		<li>circumstance_phrase->за общото благо</li>
+		<li>desc_sentence->[warden_nameShortDef] се поти силно.</li>
+		<li>desc_sentence->[warden_nameShortDef] му текат лигите.</li>
+		<li>desc_sentence->[warden_nameShortDef] има размазана кръв по лицето на [warden_possessive]</li>
+		<li>desc_sentence->[prisoner_nameShortDef] се гърчи и опъва</li>
+		<li>desc_sentence->[prisoner_nameShortDef] се е предал окончателно</li>
+		<li>desc_sentence->[prisoner_nameShortDef] [prisoner_possessive] е затворил очите си и се моли на боговете си</li>
+		<li>desc_sentence->[prisoner_nameShortDef] гледа предизвикателно</li>
+	</ExecutedPrisoner.rulePack.rulesStrings>
 
 
 	<KidnappedColonist.label>Отвлечен заселник</KidnappedColonist.label>
-	<KidnappedColonist.rulePack.rulesStrings.0>tale_noun->отвличането на [victim_nameShortDef]</KidnappedColonist.rulePack.rulesStrings.0>
-	<KidnappedColonist.rulePack.rulesStrings.1>image->[kidnapper_nameFull] влече [victim_nameFull] [circumstance_group] към поселището на '[kidnapper_factionName]'</KidnappedColonist.rulePack.rulesStrings.1>
-	<KidnappedColonist.rulePack.rulesStrings.2>image->[kidnapper_nameFull] '[kidnapper_factionName]' отвлича [victim_nameFull] [circumstance_group]</KidnappedColonist.rulePack.rulesStrings.2>
-	<KidnappedColonist.rulePack.rulesStrings.3>image->[kidnapper_nameFull] при отвличането на [victim_nameFull] [circumstance_group]</KidnappedColonist.rulePack.rulesStrings.3>
-	<KidnappedColonist.rulePack.rulesStrings.4>circumstance_phrase->докато [victim_pronoun] се гърчи от болка</KidnappedColonist.rulePack.rulesStrings.4>
-	<KidnappedColonist.rulePack.rulesStrings.5>circumstance_phrase->много професионално</KidnappedColonist.rulePack.rulesStrings.5>
-	<KidnappedColonist.rulePack.rulesStrings.6>circumstance_phrase->аматьорско</KidnappedColonist.rulePack.rulesStrings.6>
-	<KidnappedColonist.rulePack.rulesStrings.7>circumstance_phrase->насилнически</KidnappedColonist.rulePack.rulesStrings.7>
-	<KidnappedColonist.rulePack.rulesStrings.8>circumstance_phrase->с очевидно задоволство</KidnappedColonist.rulePack.rulesStrings.8>
-	<KidnappedColonist.rulePack.rulesStrings.9>circumstance_phrase->с доминираща усмивка на лицето</KidnappedColonist.rulePack.rulesStrings.9>
-	<KidnappedColonist.rulePack.rulesStrings.10>circumstance_phrase->в кръв и мръсотия</KidnappedColonist.rulePack.rulesStrings.10>
-	<KidnappedColonist.rulePack.rulesStrings.11>desc_sentence->[kidnapper_nameShortDef] се е предал окончателно</KidnappedColonist.rulePack.rulesStrings.11>
-	<KidnappedColonist.rulePack.rulesStrings.12>desc_sentence->[victim_nameShortDef] [prisoner_possessive] с затворил очите си и се моли на боговете си.</KidnappedColonist.rulePack.rulesStrings.12>
-	<KidnappedColonist.rulePack.rulesStrings.13>desc_sentence->[victim_nameShortDef] гледа предизвикателно</KidnappedColonist.rulePack.rulesStrings.13>
-	<KidnappedColonist.rulePack.rulesStrings.14>desc_sentence->[victim_nameShortDef] реве от гняв и страх</KidnappedColonist.rulePack.rulesStrings.14>
-	<KidnappedColonist.rulePack.rulesStrings.15>desc_sentence->[victim_nameShortDef] изглежда изтощен и пречупен</KidnappedColonist.rulePack.rulesStrings.15>
-	<KidnappedColonist.rulePack.rulesStrings.16>desc_sentence->[victim_nameShortDef] изглежда лошо ранен</KidnappedColonist.rulePack.rulesStrings.16>
+	<KidnappedColonist.rulePack.rulesStrings>
+		<li>tale_noun->отвличането на [victim_nameShortDef]</li>
+		<li>image->[kidnapper_nameFull] влече [victim_nameFull] [circumstance_group] към поселището на '[kidnapper_factionName]'</li>
+		<li>image->[kidnapper_nameFull] '[kidnapper_factionName]' отвлича [victim_nameFull] [circumstance_group]</li>
+		<li>image->[kidnapper_nameFull] при отвличането на [victim_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->докато [victim_pronoun] се гърчи от болка</li>
+		<li>circumstance_phrase->много професионално</li>
+		<li>circumstance_phrase->аматьорско</li>
+		<li>circumstance_phrase->насилнически</li>
+		<li>circumstance_phrase->с очевидно задоволство</li>
+		<li>circumstance_phrase->с доминираща усмивка на лицето</li>
+		<li>circumstance_phrase->в кръв и мръсотия</li>
+		<li>desc_sentence->[kidnapper_nameShortDef] се е предал окончателно</li>
+		<li>desc_sentence->[victim_nameShortDef] [prisoner_possessive] с затворил очите си и се моли на боговете си.</li>
+		<li>desc_sentence->[victim_nameShortDef] гледа предизвикателно</li>
+		<li>desc_sentence->[victim_nameShortDef] реве от гняв и страх</li>
+		<li>desc_sentence->[victim_nameShortDef] изглежда изтощен и пречупен</li>
+		<li>desc_sentence->[victim_nameShortDef] изглежда лошо ранен</li>
+	</KidnappedColonist.rulePack.rulesStrings>
 
 
 	<TamedAnimal.label>Опитомено животно</TamedAnimal.label>
-	<TamedAnimal.rulePack.rulesStrings.0>tale_noun->при опитомяването на [animal_nameShortDef] от [human_nameShortDef]</TamedAnimal.rulePack.rulesStrings.0>
-	<TamedAnimal.rulePack.rulesStrings.1>image->[human_nameFull] опитомява [circumstance_group] [animal_nameFull]</TamedAnimal.rulePack.rulesStrings.1>
-	<TamedAnimal.rulePack.rulesStrings.2>image->[human_nameFull] дава храна на  [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.2>
-	<TamedAnimal.rulePack.rulesStrings.3>image->[human_nameFull] шепне [circumstance_group] на [animal_nameFull]</TamedAnimal.rulePack.rulesStrings.3>
-	<TamedAnimal.rulePack.rulesStrings.4>image->[human_nameFull] успокоява [circumstance_group] неопитомен [animal_nameFull]</TamedAnimal.rulePack.rulesStrings.4>
-	<TamedAnimal.rulePack.rulesStrings.5>circumstance_phrase->нежно и внимателно</TamedAnimal.rulePack.rulesStrings.5>
-	<TamedAnimal.rulePack.rulesStrings.6>circumstance_phrase->с усмивка</TamedAnimal.rulePack.rulesStrings.6>
-	<TamedAnimal.rulePack.rulesStrings.7>circumstance_phrase->изтощен, но доволен</TamedAnimal.rulePack.rulesStrings.7>
-	<TamedAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] се държи агресивно</TamedAnimal.rulePack.rulesStrings.8>
-	<TamedAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] изглежда сънливо и любвеобилно</TamedAnimal.rulePack.rulesStrings.9>
-	<TamedAnimal.rulePack.rulesStrings.10>desc_sentence->[animal_nameShortDef] гледа като хипнотизирано</TamedAnimal.rulePack.rulesStrings.10>
-	<TamedAnimal.rulePack.rulesStrings.11>desc_sentence->[animal_nameShortDef] гледа страхливо, но заинтересовано</TamedAnimal.rulePack.rulesStrings.11>
-	<TamedAnimal.rulePack.rulesStrings.12>desc_sentence->[animal_nameShortDef] изглежда очаровано</TamedAnimal.rulePack.rulesStrings.12>
-	<TamedAnimal.rulePack.rulesStrings.13>desc_sentence->[human_nameShortDef] излъчва аура на любов към [animal_nameShortDef].</TamedAnimal.rulePack.rulesStrings.13>
+	<TamedAnimal.rulePack.rulesStrings>
+		<li>tale_noun->при опитомяването на [animal_nameShortDef] от [human_nameShortDef]</li>
+		<li>image->[human_nameFull] опитомява [circumstance_group] [animal_nameFull]</li>
+		<li>image->[human_nameFull] дава храна на  [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] шепне [circumstance_group] на [animal_nameFull]</li>
+		<li>image->[human_nameFull] успокоява [circumstance_group] неопитомен [animal_nameFull]</li>
+		<li>circumstance_phrase->нежно и внимателно</li>
+		<li>circumstance_phrase->с усмивка</li>
+		<li>circumstance_phrase->изтощен, но доволен</li>
+		<li>desc_sentence->[animal_nameShortDef] се държи агресивно</li>
+		<li>desc_sentence->[animal_nameShortDef] изглежда сънливо и любвеобилно</li>
+		<li>desc_sentence->[animal_nameShortDef] гледа като хипнотизирано</li>
+		<li>desc_sentence->[animal_nameShortDef] гледа страхливо, но заинтересовано</li>
+		<li>desc_sentence->[animal_nameShortDef] изглежда очаровано</li>
+		<li>desc_sentence->[human_nameShortDef] излъчва аура на любов към [animal_nameShortDef].</li>
+	</TamedAnimal.rulePack.rulesStrings>
 
 
 	<KilledBy.label>Смърт</KilledBy.label>
-	<KilledBy.rulePack.rulesStrings.0>tale_noun->смъртта на [victim_nameShortDef]</KilledBy.rulePack.rulesStrings.0>
-	<KilledBy.rulePack.rulesStrings.1>tale_noun->смъртта на [victim_nameShortDef], убит от [killer_nameShortDef]</KilledBy.rulePack.rulesStrings.1>
-	<KilledBy.rulePack.rulesStrings.2>tale_noun->смъртта на [victim_nameShortDef]</KilledBy.rulePack.rulesStrings.2>
-	<KilledBy.rulePack.rulesStrings.3>image->[victim_nameFull] който бе убит от [killer_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.3>
-	<KilledBy.rulePack.rulesStrings.4>image->[killer_nameFull] убива [circumstance_group] [victim_nameFull]</KilledBy.rulePack.rulesStrings.4>
-	<KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull] приключва [circumstance_group] живота на [victim_nameFull]</KilledBy.rulePack.rulesStrings.5>
-	<KilledBy.rulePack.rulesStrings.6>image->[killer_nameFull] убива [circumstance_group] [victim_nameFull]</KilledBy.rulePack.rulesStrings.6>
-	<KilledBy.rulePack.rulesStrings.7>image->[victim_nameFull] е убит [circumstance_group]</KilledBy.rulePack.rulesStrings.7>
-	<KilledBy.rulePack.rulesStrings.8>circumstance_phrase->без всякаква милост</KilledBy.rulePack.rulesStrings.8>
-	<KilledBy.rulePack.rulesStrings.9>circumstance_phrase->със студена прецизност</KilledBy.rulePack.rulesStrings.9>
-	<KilledBy.rulePack.rulesStrings.10>circumstance_phrase->с очевидна ярост</KilledBy.rulePack.rulesStrings.10>
-	<KilledBy.rulePack.rulesStrings.11>circumstance_phrase->с бързи и ефективни движения</KilledBy.rulePack.rulesStrings.11>
-	<KilledBy.rulePack.rulesStrings.12>circumstance_phrase->без всякаква емоция</KilledBy.rulePack.rulesStrings.12>
-	<KilledBy.rulePack.rulesStrings.13>circumstance_phrase->от чиста нужда</KilledBy.rulePack.rulesStrings.13>
-	<KilledBy.rulePack.rulesStrings.14>circumstance_phrase->коравосърдечно</KilledBy.rulePack.rulesStrings.14>
-	<KilledBy.rulePack.rulesStrings.15>desc_sentence->на фона на символично залязващо сънце.</KilledBy.rulePack.rulesStrings.15>
-	<KilledBy.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [animal] гледат случката.</KilledBy.rulePack.rulesStrings.16>
-	<KilledBy.rulePack.rulesStrings.17>desc_sentence->един [outlander] гледа безмълвно [side_position].</KilledBy.rulePack.rulesStrings.17>
-	<KilledBy.rulePack.rulesStrings.18>desc_sentence->локва кръв се образува около тялото на [victim_nameShortDef].</KilledBy.rulePack.rulesStrings.18>
-	<KilledBy.rulePack.rulesStrings.19>desc_sentence->очите на [victim_nameShortDef] са безжизнени.</KilledBy.rulePack.rulesStrings.19>
-	<KilledBy.rulePack.rulesStrings.20>desc_sentence->[killer_nameShortDef] оголва [killer_possessive] зъби.</KilledBy.rulePack.rulesStrings.20>
-	<KilledBy.rulePack.rulesStrings.21>desc_sentence->[killer_nameShortDef] изгежда доволен.</KilledBy.rulePack.rulesStrings.21>
-	<KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef] гледа тъжно какво [killer_pronoun] извършва.</KilledBy.rulePack.rulesStrings.22>
-	<KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef] изглежда доволен от събитията.</KilledBy.rulePack.rulesStrings.23>
-	<KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef] гледа триумфиращо.</KilledBy.rulePack.rulesStrings.24>
+	<KilledBy.rulePack.rulesStrings>
+		<li>tale_noun->смъртта на [victim_nameShortDef]</li>
+		<li>tale_noun->смъртта на [victim_nameShortDef], убит от [killer_nameShortDef]</li>
+		<li>tale_noun->смъртта на [victim_nameShortDef]</li>
+		<li>image->[victim_nameFull] който бе убит от [killer_nameFull] [circumstance_group]</li>
+		<li>image->[killer_nameFull] убива [circumstance_group] [victim_nameFull]</li>
+		<li>image->[killer_nameFull] приключва [circumstance_group] живота на [victim_nameFull]</li>
+		<li>image->[killer_nameFull] убива [circumstance_group] [victim_nameFull]</li>
+		<li>image->[victim_nameFull] е убит [circumstance_group]</li>
+		<li>circumstance_phrase->без всякаква милост</li>
+		<li>circumstance_phrase->със студена прецизност</li>
+		<li>circumstance_phrase->с очевидна ярост</li>
+		<li>circumstance_phrase->с бързи и ефективни движения</li>
+		<li>circumstance_phrase->без всякаква емоция</li>
+		<li>circumstance_phrase->от чиста нужда</li>
+		<li>circumstance_phrase->коравосърдечно</li>
+		<li>desc_sentence->на фона на символично залязващо сънце.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] гледат случката.</li>
+		<li>desc_sentence->един [outlander] гледа безмълвно [side_position].</li>
+		<li>desc_sentence->локва кръв се образува около тялото на [victim_nameShortDef].</li>
+		<li>desc_sentence->очите на [victim_nameShortDef] са безжизнени.</li>
+		<li>desc_sentence->[killer_nameShortDef] оголва [killer_possessive] зъби.</li>
+		<li>desc_sentence->[killer_nameShortDef] изгежда доволен.</li>
+		<li>desc_sentence->[killer_nameShortDef] гледа тъжно какво [killer_pronoun] извършва.</li>
+		<li>desc_sentence->[killer_nameShortDef] изглежда доволен от събитията.</li>
+		<li>desc_sentence->[killer_nameShortDef] гледа триумфиращо.</li>
+	</KilledBy.rulePack.rulesStrings>
 
 
 	<SoldPrisoner.label>Продаден затворник</SoldPrisoner.label>
-	<SoldPrisoner.rulePack.rulesStrings.0>tale_noun->продажбата на [prisoner_nameShortDef] на робовладелци</SoldPrisoner.rulePack.rulesStrings.0>
-	<SoldPrisoner.rulePack.rulesStrings.1>image->[trader_nameFull] купува [prisoner_nameFull] от [seller_nameFull] [circumstance_group]</SoldPrisoner.rulePack.rulesStrings.1>
-	<SoldPrisoner.rulePack.rulesStrings.2>image->[seller_nameFull] продава [prisoner_nameFull] на [seller_nameFull] [circumstance_group]</SoldPrisoner.rulePack.rulesStrings.2>
-	<SoldPrisoner.rulePack.rulesStrings.3>circumstance_phrase->докато заселниците гледат с пренебрежение</SoldPrisoner.rulePack.rulesStrings.3>
-	<SoldPrisoner.rulePack.rulesStrings.4>circumstance_phrase->докато [seller_nameShortDef] брои парите</SoldPrisoner.rulePack.rulesStrings.4>
-	<SoldPrisoner.rulePack.rulesStrings.5>circumstance_phrase->докато [prisoner_nameShortDef] стене жално</SoldPrisoner.rulePack.rulesStrings.5>
-	<SoldPrisoner.rulePack.rulesStrings.6>circumstance_phrase->[prisoner_nameShortDef] гледа ядовито</SoldPrisoner.rulePack.rulesStrings.6>
-	<SoldPrisoner.rulePack.rulesStrings.7>desc_sentence->[trader_nameShortDef] се усмихва дяволито.</SoldPrisoner.rulePack.rulesStrings.7>
-	<SoldPrisoner.rulePack.rulesStrings.8>desc_sentence->[seller_nameShortDef] се смее надменно.</SoldPrisoner.rulePack.rulesStrings.8>
-	<SoldPrisoner.rulePack.rulesStrings.9>desc_sentence->[seller_nameShortDef] предава [prisoner_nameShortDef] с неохота на робовладелеца.</SoldPrisoner.rulePack.rulesStrings.9>
-	<SoldPrisoner.rulePack.rulesStrings.10>desc_sentence->[prisoner_nameShortDef] гледа непокорно [prisoner_possessive] своя нов господар.</SoldPrisoner.rulePack.rulesStrings.10>
-	<SoldPrisoner.rulePack.rulesStrings.11>desc_sentence->[trader_nameShortDef] дърпа веригата на [prisoner_nameShortDef] [prisoner_possessive].</SoldPrisoner.rulePack.rulesStrings.11>
-	<SoldPrisoner.rulePack.rulesStrings.12>desc_sentence->[prisoner_nameShortDef] гледа [seller_nameShortDef] яростно и планира [prisoner_possessive] възмездие.</SoldPrisoner.rulePack.rulesStrings.12>
-	<SoldPrisoner.rulePack.rulesStrings.13>desc_sentence->[prisoner_nameShortDef] плаче.</SoldPrisoner.rulePack.rulesStrings.13>
-	<SoldPrisoner.rulePack.rulesStrings.14>desc_sentence->[prisoner_nameShortDef] се изплюва в лицето на [seller_nameShortDef].</SoldPrisoner.rulePack.rulesStrings.14>
-	<SoldPrisoner.rulePack.rulesStrings.15>desc_sentence->[Prisoner_nameShortDef] пада на колене.</SoldPrisoner.rulePack.rulesStrings.15>
-	<SoldPrisoner.rulePack.rulesStrings.16>desc_sentence->[Seller_nameShortDef] дава енергично веригата на [prisoner_nameShortDef] в ръцете на [trader_nameShortDef].</SoldPrisoner.rulePack.rulesStrings.16>
-	<SoldPrisoner.rulePack.rulesStrings.17>desc_sentence->Ситуацията издава чувство на безнадежност.</SoldPrisoner.rulePack.rulesStrings.17>
+	<SoldPrisoner.rulePack.rulesStrings>
+		<li>tale_noun->продажбата на [prisoner_nameShortDef] на робовладелци</li>
+		<li>image->[trader_nameFull] купува [prisoner_nameFull] от [seller_nameFull] [circumstance_group]</li>
+		<li>image->[seller_nameFull] продава [prisoner_nameFull] на [seller_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->докато заселниците гледат с пренебрежение</li>
+		<li>circumstance_phrase->докато [seller_nameShortDef] брои парите</li>
+		<li>circumstance_phrase->докато [prisoner_nameShortDef] стене жално</li>
+		<li>circumstance_phrase->[prisoner_nameShortDef] гледа ядовито</li>
+		<li>desc_sentence->[trader_nameShortDef] се усмихва дяволито.</li>
+		<li>desc_sentence->[seller_nameShortDef] се смее надменно.</li>
+		<li>desc_sentence->[seller_nameShortDef] предава [prisoner_nameShortDef] с неохота на робовладелеца.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] гледа непокорно [prisoner_possessive] своя нов господар.</li>
+		<li>desc_sentence->[trader_nameShortDef] дърпа веригата на [prisoner_nameShortDef] [prisoner_possessive].</li>
+		<li>desc_sentence->[prisoner_nameShortDef] гледа [seller_nameShortDef] яростно и планира [prisoner_possessive] възмездие.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] плаче.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] се изплюва в лицето на [seller_nameShortDef].</li>
+		<li>desc_sentence->[Prisoner_nameShortDef] пада на колене.</li>
+		<li>desc_sentence->[Seller_nameShortDef] дава енергично веригата на [prisoner_nameShortDef] в ръцете на [trader_nameShortDef].</li>
+		<li>desc_sentence->Ситуацията издава чувство на безнадежност.</li>
+	</SoldPrisoner.rulePack.rulesStrings>
 
 
 	<TrainedAnimal.label>Дресирано животно</TrainedAnimal.label>
-	<TrainedAnimal.rulePack.rulesStrings.0>tale_noun->дресирането на [animal_nameShortDef]</TrainedAnimal.rulePack.rulesStrings.0>
-	<TrainedAnimal.rulePack.rulesStrings.1>image->[human_nameFull] [train_syn] [animal_nameFull] в [trainable_label] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.1>
-	<TrainedAnimal.rulePack.rulesStrings.2>image->[human_nameFull] обучава [trainable_label] на животното [animal_nameFull] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.2>
-	<TrainedAnimal.rulePack.rulesStrings.3>image->[human_nameFull] практикува [trainable_label] с животното [animal_nameFull] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.3>
-	<TrainedAnimal.rulePack.rulesStrings.4>train_syn->дресира</TrainedAnimal.rulePack.rulesStrings.4>
-	<TrainedAnimal.rulePack.rulesStrings.5>train_syn->обучава</TrainedAnimal.rulePack.rulesStrings.5>
-	<TrainedAnimal.rulePack.rulesStrings.6>train_syn->научава</TrainedAnimal.rulePack.rulesStrings.6>
-	<TrainedAnimal.rulePack.rulesStrings.7>train_syn->ръководи</TrainedAnimal.rulePack.rulesStrings.7>
-	<TrainedAnimal.rulePack.rulesStrings.8>train_syn->показва</TrainedAnimal.rulePack.rulesStrings.8>
-	<TrainedAnimal.rulePack.rulesStrings.9>circumstance_phrase->докато другите гледат</TrainedAnimal.rulePack.rulesStrings.9>
-	<TrainedAnimal.rulePack.rulesStrings.10>circumstance_phrase->докато диви [animal] гледат с отвращение</TrainedAnimal.rulePack.rulesStrings.10>
-	<TrainedAnimal.rulePack.rulesStrings.11>circumstance_phrase->докато [animal_nameShortDef] мисли за дните през които [animal_pronoun] беше все още див</TrainedAnimal.rulePack.rulesStrings.11>
-	<TrainedAnimal.rulePack.rulesStrings.12>circumstance_phrase->докато [human_nameShortDef] какво ще вечеря</TrainedAnimal.rulePack.rulesStrings.12>
-	<TrainedAnimal.rulePack.rulesStrings.13>circumstance_phrase->докато останалите заселници вършат своята работа</TrainedAnimal.rulePack.rulesStrings.13>
-	<TrainedAnimal.rulePack.rulesStrings.14>desc_sentence->[human_nameShortDef] изглежда доволен.</TrainedAnimal.rulePack.rulesStrings.14>
-	<TrainedAnimal.rulePack.rulesStrings.15>desc_sentence->[human_nameShortDef] се усмижва.</TrainedAnimal.rulePack.rulesStrings.15>
-	<TrainedAnimal.rulePack.rulesStrings.16>desc_sentence->[human_nameShortDef] изглежда отегчен.</TrainedAnimal.rulePack.rulesStrings.16>
-	<TrainedAnimal.rulePack.rulesStrings.17>desc_sentence->[human_nameShortDef] размахва заплашително [human_possessive] юмрук.</TrainedAnimal.rulePack.rulesStrings.17>
-	<TrainedAnimal.rulePack.rulesStrings.18>desc_sentence->[human_nameShortDef] сбръчква [human_possessive] чело.</TrainedAnimal.rulePack.rulesStrings.18>
-	<TrainedAnimal.rulePack.rulesStrings.19>desc_sentence->[animal_nameShortDef] изглежда объркан.</TrainedAnimal.rulePack.rulesStrings.19>
-	<TrainedAnimal.rulePack.rulesStrings.20>desc_sentence->[animal_nameShortDef] носи оръжие [animal_possessive] уста.</TrainedAnimal.rulePack.rulesStrings.20>
-	<TrainedAnimal.rulePack.rulesStrings.21>desc_sentence->[animal_nameShortDef] изръмжава от усилие.</TrainedAnimal.rulePack.rulesStrings.21>
-	<TrainedAnimal.rulePack.rulesStrings.22>desc_sentence->[human_nameShortDef] клати недоволно [human_possessive] глава.</TrainedAnimal.rulePack.rulesStrings.22>
-	<TrainedAnimal.rulePack.rulesStrings.23>desc_sentence->[animal_nameShortDef] трепери от страх.</TrainedAnimal.rulePack.rulesStrings.23>
-	<TrainedAnimal.rulePack.rulesStrings.24>desc_sentence->[animal_nameShortDef] си играе с [vegetable].</TrainedAnimal.rulePack.rulesStrings.24>
-	<TrainedAnimal.rulePack.rulesStrings.25>desc_sentence->[animal_nameShortDef] е изобразено привито.</TrainedAnimal.rulePack.rulesStrings.25>
-	<TrainedAnimal.rulePack.rulesStrings.26>desc_sentence->[animal_nameShortDef] е половината [color] и половината [color].</TrainedAnimal.rulePack.rulesStrings.26>
-	<TrainedAnimal.rulePack.rulesStrings.27>desc_sentence->[animal_nameShortDef] е въшлясало.</TrainedAnimal.rulePack.rulesStrings.27>
-	<TrainedAnimal.rulePack.rulesStrings.28>desc_sentence->[human_nameShortDef] е изобразен с [quantity] ръце.</TrainedAnimal.rulePack.rulesStrings.28>
-	<TrainedAnimal.rulePack.rulesStrings.29>desc_sentence->[human_nameShortDef] се занимава с [animal_ShortDefinite].</TrainedAnimal.rulePack.rulesStrings.29>
+	<TrainedAnimal.rulePack.rulesStrings>
+		<li>tale_noun->дресирането на [animal_nameShortDef]</li>
+		<li>image->[human_nameFull] [train_syn] [animal_nameFull] в [trainable_label] [circumstance_group]</li>
+		<li>image->[human_nameFull] обучава [trainable_label] на животното [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] практикува [trainable_label] с животното [animal_nameFull] [circumstance_group]</li>
+		<li>train_syn->дресира</li>
+		<li>train_syn->обучава</li>
+		<li>train_syn->научава</li>
+		<li>train_syn->ръководи</li>
+		<li>train_syn->показва</li>
+		<li>circumstance_phrase->докато другите гледат</li>
+		<li>circumstance_phrase->докато диви [animal] гледат с отвращение</li>
+		<li>circumstance_phrase->докато [animal_nameShortDef] мисли за дните през които [animal_pronoun] беше все още див</li>
+		<li>circumstance_phrase->докато [human_nameShortDef] какво ще вечеря</li>
+		<li>circumstance_phrase->докато останалите заселници вършат своята работа</li>
+		<li>desc_sentence->[human_nameShortDef] изглежда доволен.</li>
+		<li>desc_sentence->[human_nameShortDef] се усмижва.</li>
+		<li>desc_sentence->[human_nameShortDef] изглежда отегчен.</li>
+		<li>desc_sentence->[human_nameShortDef] размахва заплашително [human_possessive] юмрук.</li>
+		<li>desc_sentence->[human_nameShortDef] сбръчква [human_possessive] чело.</li>
+		<li>desc_sentence->[animal_nameShortDef] изглежда объркан.</li>
+		<li>desc_sentence->[animal_nameShortDef] носи оръжие [animal_possessive] уста.</li>
+		<li>desc_sentence->[animal_nameShortDef] изръмжава от усилие.</li>
+		<li>desc_sentence->[human_nameShortDef] клати недоволно [human_possessive] глава.</li>
+		<li>desc_sentence->[animal_nameShortDef] трепери от страх.</li>
+		<li>desc_sentence->[animal_nameShortDef] си играе с [vegetable].</li>
+		<li>desc_sentence->[animal_nameShortDef] е изобразено привито.</li>
+		<li>desc_sentence->[animal_nameShortDef] е половината [color] и половината [color].</li>
+		<li>desc_sentence->[animal_nameShortDef] е въшлясало.</li>
+		<li>desc_sentence->[human_nameShortDef] е изобразен с [quantity] ръце.</li>
+		<li>desc_sentence->[human_nameShortDef] се занимава с [animal_ShortDefinite].</li>
+	</TrainedAnimal.rulePack.rulesStrings>
 
 
 </LanguageData>

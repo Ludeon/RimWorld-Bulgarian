@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent->Това предизвика [recipient_nameShortDef] да се сбие с [recipient_pronoun]!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
+	<Sentence_SocialFightStarted.rulePack.rulesStrings>
+		<li>sent->Това предизвика [recipient_nameShortDef] да се сбие с [recipient_pronoun]!</li>
+	</Sentence_SocialFightStarted.rulePack.rulesStrings>
 
-  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] е съгласен/а. Те са вече заедно.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>
+	<Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] е съгласен/а. Те са вече заедно.</li>
+	</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
 
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] отказа предложението.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>
+	<Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] отказа предложението.</li>
+	</Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
 
-  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] е съгласен/а. Те ще се оженят в бъдеще.</Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>
+	<Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] е съгласен/а. Те ще се оженят в бъдеще.</li>
+	</Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
 
-  <Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] отказа предложението.</Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>
+	<Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] отказа предложението.</li>
+	</Sentence_MarriageProposalRejected.rulePack.rulesStrings>
 
-  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>sent->Това бе краят на връзката. Те се разделиха.</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>
+	<Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+		<li>sent->Това бе краят на връзката. Те се разделиха.</li>
+	</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
 
-  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] успешно вербува [initiator_nameShortDef].</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
+	<Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] успешно вербува [initiator_nameShortDef].</li>
+	</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
 
-  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] отказа да бъде вербуван.</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
+	<Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] отказа да бъде вербуван.</li>
+	</Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
 
 </LanguageData>

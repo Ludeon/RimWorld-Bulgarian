@@ -2,66 +2,74 @@
 <LanguageData>
 
  	<BondedWithAnimal.label>Създадена връзка</BondedWithAnimal.label>
-	<BondedWithAnimal.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef] създаде връзка с [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.0>
-    <BondedWithAnimal.rulePack.rulesStrings.1>image->[human_nameFull] стана собственик на [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
-    <BondedWithAnimal.rulePack.rulesStrings.2>image->[human_nameFull] има дълбока връзка с [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
-    <BondedWithAnimal.rulePack.rulesStrings.3>image->[human_nameFull] показва [human_possessive] привързаност към [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.3>
-    <BondedWithAnimal.rulePack.rulesStrings.4>circumstance_phrase->докато другите животни гледат</BondedWithAnimal.rulePack.rulesStrings.4>
-    <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase->докато [human_pronoun] гледа в очите на [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.5>
-    <BondedWithAnimal.rulePack.rulesStrings.6>circumstance_phrase->с чувство на спокойствие</BondedWithAnimal.rulePack.rulesStrings.6>
-    <BondedWithAnimal.rulePack.rulesStrings.7>desc_sentence->[animal_nameShortDef] се отърква в [human_nameShortDef].</BondedWithAnimal.rulePack.rulesStrings.7>
-    <BondedWithAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] изглежда сънлив и любвеобилен.</BondedWithAnimal.rulePack.rulesStrings.8>
-    <BondedWithAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] стои изправен и внушителен.</BondedWithAnimal.rulePack.rulesStrings.9>
-    <BondedWithAnimal.rulePack.rulesStrings.10>desc_sentence->[animal_nameShortDef] реагира позитивно.</BondedWithAnimal.rulePack.rulesStrings.10>
+	<BondedWithAnimal.rulePack.rulesStrings>
+		<li>tale_noun->[human_nameShortDef] създаде връзка с [animal_nameShortDef]</li>
+		<li>image->[human_nameFull] стана собственик на [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] има дълбока връзка с [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] показва [human_possessive] привързаност към [animal_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->докато другите животни гледат</li>
+		<li>circumstance_phrase->докато [human_pronoun] гледа в очите на [animal_nameShortDef]</li>
+		<li>circumstance_phrase->с чувство на спокойствие</li>
+		<li>desc_sentence->[animal_nameShortDef] се отърква в [human_nameShortDef].</li>
+		<li>desc_sentence->[animal_nameShortDef] изглежда сънлив и любвеобилен.</li>
+		<li>desc_sentence->[animal_nameShortDef] стои изправен и внушителен.</li>
+		<li>desc_sentence->[animal_nameShortDef] реагира позитивно.</li>
+	</BondedWithAnimal.rulePack.rulesStrings>
  
  	<BecameLover.label>Влюбване</BecameLover.label>
-    <BecameLover.rulePack.rulesStrings.0>tale_noun->[firstPawn_nameShortDef] и [secondPawn_nameShortDef] се влюбиха</BecameLover.rulePack.rulesStrings.0>
-    <BecameLover.rulePack.rulesStrings.1>image->[circumstance_group] шепне [firstPawn_nameFull] сладки думи в ухото на [secondPawn_nameFull]</BecameLover.rulePack.rulesStrings.1>
-    <BecameLover.rulePack.rulesStrings.2>image->[circumstance_group] [firstPawn_nameFull] и [secondPawn_nameFull] се разхождат под ръка </BecameLover.rulePack.rulesStrings.2>
-    <BecameLover.rulePack.rulesStrings.3>image->[circumstance_group] [firstPawn_nameFull] и [secondPawn_nameFull] се забавляват в леглото</BecameLover.rulePack.rulesStrings.3>
-    <BecameLover.rulePack.rulesStrings.4>image->[circumstance_group] [firstPawn_nameFull] и [secondPawn_nameFull] се целуват страстно</BecameLover.rulePack.rulesStrings.4>
-    <BecameLover.rulePack.rulesStrings.5>circumstance_phrase->в едно голямо легло</BecameLover.rulePack.rulesStrings.5>
-    <BecameLover.rulePack.rulesStrings.6>circumstance_phrase->пок завивките</BecameLover.rulePack.rulesStrings.6>
-    <BecameLover.rulePack.rulesStrings.7>circumstance_phrase->с малко дрехи</BecameLover.rulePack.rulesStrings.7>
-    <BecameLover.rulePack.rulesStrings.8>circumstance_phrase->обляни в пот</BecameLover.rulePack.rulesStrings.8>
-    <BecameLover.rulePack.rulesStrings.9>desc_sentence->[firstPawn_nameShortDef] се гушка с [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.9>
-    <BecameLover.rulePack.rulesStrings.10>desc_sentence->[firstPawn_nameShortDef] и [secondPawn_nameShortDef] се гледат с любов в очите.</BecameLover.rulePack.rulesStrings.10>
-    <BecameLover.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] захапва леко [secondPawn_nameShortDef] по ухото.</BecameLover.rulePack.rulesStrings.11>
-    <BecameLover.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] изглежда стилистично привързан към [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.12>
-    <BecameLover.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] се намира в близост до [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.13>
-    <BecameLover.rulePack.rulesStrings.14>desc_sentence->[firstPawn_nameShortDef] докосва [secondPawn_nameShortDef] с любов.</BecameLover.rulePack.rulesStrings.14>
+	<BecameLover.rulePack.rulesStrings>
+		<li>tale_noun->[firstPawn_nameShortDef] и [secondPawn_nameShortDef] се влюбиха</li>
+		<li>image->[circumstance_group] шепне [firstPawn_nameFull] сладки думи в ухото на [secondPawn_nameFull]</li>
+		<li>image->[circumstance_group] [firstPawn_nameFull] и [secondPawn_nameFull] се разхождат под ръка </li>
+		<li>image->[circumstance_group] [firstPawn_nameFull] и [secondPawn_nameFull] се забавляват в леглото</li>
+		<li>image->[circumstance_group] [firstPawn_nameFull] и [secondPawn_nameFull] се целуват страстно</li>
+		<li>circumstance_phrase->в едно голямо легло</li>
+		<li>circumstance_phrase->пок завивките</li>
+		<li>circumstance_phrase->с малко дрехи</li>
+		<li>circumstance_phrase->обляни в пот</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] се гушка с [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] и [secondPawn_nameShortDef] се гледат с любов в очите.</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] захапва леко [secondPawn_nameShortDef] по ухото.</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] изглежда стилистично привързан към [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] се намира в близост до [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] докосва [secondPawn_nameShortDef] с любов.</li>
+	</BecameLover.rulePack.rulesStrings>
  
  	<Breakup.label>Раздяла</Breakup.label>
-    <Breakup.rulePack.rulesStrings.0>tale_noun->раздялата на [firstPawn_nameShortDef] и [secondPawn_nameShortDef]</Breakup.rulePack.rulesStrings.0>
-    <Breakup.rulePack.rulesStrings.1>image->[circumstance_group], показва [firstPawn_nameFull] и [secondPawn_nameFull] които водят неприятен разговор</Breakup.rulePack.rulesStrings.1>
-    <Breakup.rulePack.rulesStrings.2>image->[circumstance_group], показва [firstPawn_nameFull] и [secondPawn_nameFull] далеч един от друг</Breakup.rulePack.rulesStrings.2>
-    <Breakup.rulePack.rulesStrings.3>image->[circumstance_group], изхвърля [firstPawn_nameFull] [secondPawn_nameFull] от леглото си</Breakup.rulePack.rulesStrings.3>
-    <Breakup.rulePack.rulesStrings.4>image->[circumstance_group], отказва [firstPawn_nameFull] прегръдката на [secondPawn_nameFull]</Breakup.rulePack.rulesStrings.4>
-    <Breakup.rulePack.rulesStrings.5>circumstance_phrase->в момент на голяма тъга</Breakup.rulePack.rulesStrings.5>
-    <Breakup.rulePack.rulesStrings.6>circumstance_phrase->докато другите извръщат поглед от неудобство</Breakup.rulePack.rulesStrings.6>
-    <Breakup.rulePack.rulesStrings.7>circumstance_phrase->докато другите гледат</Breakup.rulePack.rulesStrings.7>
-    <Breakup.rulePack.rulesStrings.8>desc_sentence->[secondPawn_nameShortDef] силно плаче.</Breakup.rulePack.rulesStrings.8>
-    <Breakup.rulePack.rulesStrings.9>desc_sentence->[secondPawn_nameShortDef] гледа снизходително.</Breakup.rulePack.rulesStrings.9>
-    <Breakup.rulePack.rulesStrings.10>desc_sentence->[secondPawn_nameShortDef] е в шок от случката.</Breakup.rulePack.rulesStrings.10>
-    <Breakup.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] е стилистично отдалечен от [secondPawn_nameShortDef].</Breakup.rulePack.rulesStrings.11>
-    <Breakup.rulePack.rulesStrings.12>desc_sentence->[secondPawn_nameShortDef] е пресъздаден хленчейки на пода.</Breakup.rulePack.rulesStrings.12>
-    <Breakup.rulePack.rulesStrings.13>desc_sentence->[secondPawn_nameShortDef] жестикулира ядосано към [firstPawn_nameShortDef].</Breakup.rulePack.rulesStrings.13>
+	<Breakup.rulePack.rulesStrings>
+		<li>tale_noun->раздялата на [firstPawn_nameShortDef] и [secondPawn_nameShortDef]</li>
+		<li>image->[circumstance_group], показва [firstPawn_nameFull] и [secondPawn_nameFull] които водят неприятен разговор</li>
+		<li>image->[circumstance_group], показва [firstPawn_nameFull] и [secondPawn_nameFull] далеч един от друг</li>
+		<li>image->[circumstance_group], изхвърля [firstPawn_nameFull] [secondPawn_nameFull] от леглото си</li>
+		<li>image->[circumstance_group], отказва [firstPawn_nameFull] прегръдката на [secondPawn_nameFull]</li>
+		<li>circumstance_phrase->в момент на голяма тъга</li>
+		<li>circumstance_phrase->докато другите извръщат поглед от неудобство</li>
+		<li>circumstance_phrase->докато другите гледат</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] силно плаче.</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] гледа снизходително.</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] е в шок от случката.</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] е стилистично отдалечен от [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] е пресъздаден хленчейки на пода.</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] жестикулира ядосано към [firstPawn_nameShortDef].</li>
+	</Breakup.rulePack.rulesStrings>
  
  	<Marriage.label>Сватба</Marriage.label>
-    <Marriage.rulePack.rulesStrings.0>tale_noun->сватбата на [firstPawn_nameShortDef] и [secondPawn_nameShortDef]</Marriage.rulePack.rulesStrings.0>
-    <Marriage.rulePack.rulesStrings.1>image->[circumstance_group] [firstPawn_nameFull] се жени за [secondPawn_nameFull]</Marriage.rulePack.rulesStrings.1>
-    <Marriage.rulePack.rulesStrings.2>image->[circumstance_group] показва [firstPawn_nameFull] при [firstPawn_possessive] жанитба с[secondPawn_nameFull]</Marriage.rulePack.rulesStrings.2>
-    <Marriage.rulePack.rulesStrings.3>image->[circumstance_group] се водят [firstPawn_nameFull] и [secondPawn_nameFull] към олтара</Marriage.rulePack.rulesStrings.3>
-    <Marriage.rulePack.rulesStrings.4>image->[circumstance_group] [firstPawn_nameFull] държи за ръката [secondPawn_nameFull] по време на сватбата</Marriage.rulePack.rulesStrings.4>
-    <Marriage.rulePack.rulesStrings.5>circumstance_phrase->По време на една великолепна церемония</Marriage.rulePack.rulesStrings.5>
-    <Marriage.rulePack.rulesStrings.6>circumstance_phrase->докато двамата се усмихват със задоволство</Marriage.rulePack.rulesStrings.6>
-    <Marriage.rulePack.rulesStrings.7>circumstance_phrase->докато другите гледат доволно</Marriage.rulePack.rulesStrings.7>
-    <Marriage.rulePack.rulesStrings.8>desc_sentence->[firstPawn_nameShortDef] се прегръща с [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.8>
-    <Marriage.rulePack.rulesStrings.9>desc_sentence->[firstPawn_nameShortDef] и [secondPawn_nameShortDef] се гледат с любов в очите.</Marriage.rulePack.rulesStrings.9>
-    <Marriage.rulePack.rulesStrings.10>desc_sentence->[firstPawn_nameShortDef] захапва леко [secondPawn_nameShortDef] по ухото.</Marriage.rulePack.rulesStrings.10>
-    <Marriage.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] изглежда стилистично привързан към [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.11>
-    <Marriage.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] се намира в близост до [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.12>
-    <Marriage.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] докосва [secondPawn_nameShortDef] с любов.</Marriage.rulePack.rulesStrings.13>
+	<Marriage.rulePack.rulesStrings>
+		<li>tale_noun->сватбата на [firstPawn_nameShortDef] и [secondPawn_nameShortDef]</li>
+		<li>image->[circumstance_group] [firstPawn_nameFull] се жени за [secondPawn_nameFull]</li>
+		<li>image->[circumstance_group] показва [firstPawn_nameFull] при [firstPawn_possessive] жанитба с[secondPawn_nameFull]</li>
+		<li>image->[circumstance_group] се водят [firstPawn_nameFull] и [secondPawn_nameFull] към олтара</li>
+		<li>image->[circumstance_group] [firstPawn_nameFull] държи за ръката [secondPawn_nameFull] по време на сватбата</li>
+		<li>circumstance_phrase->По време на една великолепна церемония</li>
+		<li>circumstance_phrase->докато двамата се усмихват със задоволство</li>
+		<li>circumstance_phrase->докато другите гледат доволно</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] се прегръща с [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] и [secondPawn_nameShortDef] се гледат с любов в очите.</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] захапва леко [secondPawn_nameShortDef] по ухото.</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] изглежда стилистично привързан към [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] се намира в близост до [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] докосва [secondPawn_nameShortDef] с любов.</li>
+	</Marriage.rulePack.rulesStrings>
  
  
 </LanguageData>

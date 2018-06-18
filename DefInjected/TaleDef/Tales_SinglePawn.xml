@@ -1,235 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <LandedInPod.rulePack.rulesStrings.0>tale_noun->приземяването на [pawn_nameShortDef] със спасителна капсула</LandedInPod.rulePack.rulesStrings.0>
-  <LandedInPod.rulePack.rulesStrings.1>image->приземената спасителна капсула, от която [pawn_nameFull] [circumstance_group] излиза</LandedInPod.rulePack.rulesStrings.1>
-  <LandedInPod.rulePack.rulesStrings.2>image->[pawn_nameFull], [pawn_pronoun] приземява своята спасителна капсула [circumstance_group]</LandedInPod.rulePack.rulesStrings.2>
-  <LandedInPod.rulePack.rulesStrings.3>image->крушението на [pawn_possessive] спасителна капсула, която [pawn_nameFull] [circumstance_group] преживя</LandedInPod.rulePack.rulesStrings.3>
-  <LandedInPod.rulePack.rulesStrings.4>image->[pawn_nameFull] [circumstance_group], при [pawn_possessive] лудо спускане в атмосферата</LandedInPod.rulePack.rulesStrings.4>
-  <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase->пред [terrainfeature]</LandedInPod.rulePack.rulesStrings.5>
-  <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase->много ядосано</LandedInPod.rulePack.rulesStrings.6>
-  <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase->в облак от прах</LandedInPod.rulePack.rulesStrings.7>
-  <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase->със драматично горящи ракети</LandedInPod.rulePack.rulesStrings.8>
-  <LandedInPod.rulePack.rulesStrings.9>circumstance_phrase->прецизно приземяване</LandedInPod.rulePack.rulesStrings.9>
-  <LandedInPod.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] се концентрива върху контролите на полета.</LandedInPod.rulePack.rulesStrings.10>
-  <LandedInPod.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] е затворил [pawn_possessive] очи и изглежда уплашен.</LandedInPod.rulePack.rulesStrings.11>
-  <LandedInPod.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] е припаднал с изваден език от [pawn_possessive] уста.</LandedInPod.rulePack.rulesStrings.12>
-  <LandedInPod.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] се усмихва мрачно.</LandedInPod.rulePack.rulesStrings.13>
-  <LandedInPod.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] изглежда, че няма никаква представа, какво прави [pawn_pronoun].</LandedInPod.rulePack.rulesStrings.14>
-  <LandedInPod.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] е безсилен, със затворени очи с седалката.</LandedInPod.rulePack.rulesStrings.15>
-  <LandedInPod.rulePack.rulesStrings.16>desc_sentence->Пламък изскача от задната част на капсулата.</LandedInPod.rulePack.rulesStrings.16>
-  <LandedInPod.rulePack.rulesStrings.17>desc_sentence->[animal] наблизо гледа ужасено.</LandedInPod.rulePack.rulesStrings.17>
-  <LandedInPod.rulePack.rulesStrings.18>desc_sentence->[animal] бяга от страх от мястото на случката.</LandedInPod.rulePack.rulesStrings.18>
-  <LandedInPod.rulePack.rulesStrings.19>desc_sentence->има [terrainfeature] във фона на изображението.</LandedInPod.rulePack.rulesStrings.19>
-  <LandedInPod.rulePack.rulesStrings.20>desc_sentence->[outlander] гледа безмълвно отдалеч.</LandedInPod.rulePack.rulesStrings.20>
+	<LandedInPod.rulePack.rulesStrings>
+		<li>tale_noun->приземяването на [pawn_nameShortDef] със спасителна капсула</li>
+		<li>image->приземената спасителна капсула, от която [pawn_nameFull] [circumstance_group] излиза</li>
+		<li>image->[pawn_nameFull], [pawn_pronoun] приземява своята спасителна капсула [circumstance_group]</li>
+		<li>image->крушението на [pawn_possessive] спасителна капсула, която [pawn_nameFull] [circumstance_group] преживя</li>
+		<li>image->[pawn_nameFull] [circumstance_group], при [pawn_possessive] лудо спускане в атмосферата</li>
+		<li>circumstance_phrase->пред [terrainfeature]</li>
+		<li>circumstance_phrase->много ядосано</li>
+		<li>circumstance_phrase->в облак от прах</li>
+		<li>circumstance_phrase->със драматично горящи ракети</li>
+		<li>circumstance_phrase->прецизно приземяване</li>
+		<li>desc_sentence->[pawn_pronoun] се концентрива върху контролите на полета.</li>
+		<li>desc_sentence->[pawn_pronoun] е затворил [pawn_possessive] очи и изглежда уплашен.</li>
+		<li>desc_sentence->[pawn_pronoun] е припаднал с изваден език от [pawn_possessive] уста.</li>
+		<li>desc_sentence->[pawn_pronoun] се усмихва мрачно.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда, че няма никаква представа, какво прави [pawn_pronoun].</li>
+		<li>desc_sentence->[pawn_pronoun] е безсилен, със затворени очи с седалката.</li>
+		<li>desc_sentence->Пламък изскача от задната част на капсулата.</li>
+		<li>desc_sentence->[animal] наблизо гледа ужасено.</li>
+		<li>desc_sentence->[animal] бяга от страх от мястото на случката.</li>
+		<li>desc_sentence->има [terrainfeature] във фона на изображението.</li>
+		<li>desc_sentence->[outlander] гледа безмълвно отдалеч.</li>
+	</LandedInPod.rulePack.rulesStrings>
 
   
-  <Vomited.rulePack.rulesStrings.0>tale_noun->повръщаното на [pawn_nameShortDef]</Vomited.rulePack.rulesStrings.0>
-  <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull], който е [pawn_pronoun] и повръща поради [circumstance_group]</Vomited.rulePack.rulesStrings.1>
-  <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull], който е [pawn_pronoun] с [pawn_posssessive] повръща</Vomited.rulePack.rulesStrings.2>
-  <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull], които е [pawn_pronoun] и [circumstance_group] повръща на земята</Vomited.rulePack.rulesStrings.3>
-  <Vomited.rulePack.rulesStrings.4>image->[pawn_nameFull] на своите [pawn_possessive] колене, докато [pawn_pronoun] поради [circumstance_group] оповръща пода</Vomited.rulePack.rulesStrings.4>
-  <Vomited.rulePack.rulesStrings.5>circumstance_phrase->от болка</Vomited.rulePack.rulesStrings.5>
-  <Vomited.rulePack.rulesStrings.6>circumstance_phrase->със срам</Vomited.rulePack.rulesStrings.6>
-  <Vomited.rulePack.rulesStrings.7>circumstance_phrase->пред гледащите</Vomited.rulePack.rulesStrings.7>
-  <Vomited.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] изглежда, че не разбира какво се случва с [pawn_objective].</Vomited.rulePack.rulesStrings.8>
-  <Vomited.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] подуто лице </Vomited.rulePack.rulesStrings.9>
-  <Vomited.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] е припаднал с изваден език от [pawn_possessive] уста.</Vomited.rulePack.rulesStrings.10>
-  <Vomited.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] трепери силно.</Vomited.rulePack.rulesStrings.11>
-  <Vomited.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] изглежда, че се срамува.</Vomited.rulePack.rulesStrings.12>
-  <Vomited.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] изглежда, че иска да се засмее въпреки проблемите си.</Vomited.rulePack.rulesStrings.13>
-  <Vomited.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] изглежда напълно изтощен от повръщането.</Vomited.rulePack.rulesStrings.14>
-  <Vomited.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] е изкуствено обкръжен от аура на противност.</Vomited.rulePack.rulesStrings.15>
-  <Vomited.rulePack.rulesStrings.16>desc_sentence->[animal] изяжда повръщаното във фона на изображението.</Vomited.rulePack.rulesStrings.16>
+	<Vomited.rulePack.rulesStrings>
+		<li>tale_noun->повръщаното на [pawn_nameShortDef]</li>
+		<li>image->[pawn_nameFull], който е [pawn_pronoun] и повръща поради [circumstance_group]</li>
+		<li>image->[pawn_nameFull], който е [pawn_pronoun] с [pawn_posssessive] повръща</li>
+		<li>image->[pawn_nameFull], които е [pawn_pronoun] и [circumstance_group] повръща на земята</li>
+		<li>image->[pawn_nameFull] на своите [pawn_possessive] колене, докато [pawn_pronoun] поради [circumstance_group] оповръща пода</li>
+		<li>circumstance_phrase->от болка</li>
+		<li>circumstance_phrase->със срам</li>
+		<li>circumstance_phrase->пред гледащите</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда, че не разбира какво се случва с [pawn_objective].</li>
+		<li>desc_sentence->[pawn_possessive] подуто лице </li>
+		<li>desc_sentence->[pawn_pronoun] е припаднал с изваден език от [pawn_possessive] уста.</li>
+		<li>desc_sentence->[pawn_pronoun] трепери силно.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда, че се срамува.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда, че иска да се засмее въпреки проблемите си.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда напълно изтощен от повръщането.</li>
+		<li>desc_sentence->[pawn_pronoun] е изкуствено обкръжен от аура на противност.</li>
+		<li>desc_sentence->[animal] изяжда повръщаното във фона на изображението.</li>
+	</Vomited.rulePack.rulesStrings>
 
   
-  <Drunk.rulePack.rulesStrings.0>tale_noun->напиването на [pawn_nameShortDef]</Drunk.rulePack.rulesStrings.0>
-  <Drunk.rulePack.rulesStrings.1>image->[pawn_nameFull], който [pawn_pronoun] [circumstance_group] е пиян и се клатушка</Drunk.rulePack.rulesStrings.1>
-  <Drunk.rulePack.rulesStrings.2>image->[pawn_nameFull], който [pawn_pronoun] [pawn_possessive] отпуска глава назад [circumstance_group] докато алкохолът изтича на пода</Drunk.rulePack.rulesStrings.2>
-  <Drunk.rulePack.rulesStrings.3>image->[pawn_nameFull], който [pawn_pronoun] [circumstance_group] събира бутилките от алкохол</Drunk.rulePack.rulesStrings.3>
-  <Drunk.rulePack.rulesStrings.4>image->[pawn_nameFull], който [pawn_pronoun] се напива [circumstance_group]</Drunk.rulePack.rulesStrings.4>
-  <Drunk.rulePack.rulesStrings.5>circumstance_phrase->незаинтригуван от [pawn_possessive] обстановка</Drunk.rulePack.rulesStrings.5>
-  <Drunk.rulePack.rulesStrings.6>circumstance_phrase->упорито</Drunk.rulePack.rulesStrings.6>
-  <Drunk.rulePack.rulesStrings.7>circumstance_phrase->оплаквайки [pawn_possessive] съществувание</Drunk.rulePack.rulesStrings.7>
-  <Drunk.rulePack.rulesStrings.8>circumstance_phrase->със сълзи в очите</Drunk.rulePack.rulesStrings.8>
-  <Drunk.rulePack.rulesStrings.9>circumstance_phrase->кикотейки се безумно</Drunk.rulePack.rulesStrings.9>
-  <Drunk.rulePack.rulesStrings.10>circumstance_phrase->плачейки</Drunk.rulePack.rulesStrings.10>
-  <Drunk.rulePack.rulesStrings.11>circumstance_phrase->жално</Drunk.rulePack.rulesStrings.11>
-  <Drunk.rulePack.rulesStrings.12>circumstance_phrase->докато другите [pawn_objective] го гледат ядосано</Drunk.rulePack.rulesStrings.12>
-  <Drunk.rulePack.rulesStrings.13>circumstance_phrase->докато някой му се хили</Drunk.rulePack.rulesStrings.13>
-  <Drunk.rulePack.rulesStrings.14>circumstance_phrase->се опитва да се съблече</Drunk.rulePack.rulesStrings.14>
-  <Drunk.rulePack.rulesStrings.15>circumstance_phrase->с пръст в уста</Drunk.rulePack.rulesStrings.15>
-  <Drunk.rulePack.rulesStrings.16>circumstance_phrase->обхванат от гадене</Drunk.rulePack.rulesStrings.16>
-  <Drunk.rulePack.rulesStrings.17>circumstance_phrase->брзгрижен</Drunk.rulePack.rulesStrings.17>
-  <Drunk.rulePack.rulesStrings.18>circumstance_phrase->с похотлив поглед</Drunk.rulePack.rulesStrings.18>
-  <Drunk.rulePack.rulesStrings.19>circumstance_phrase->обмислящ грешките си</Drunk.rulePack.rulesStrings.19>
-  <Drunk.rulePack.rulesStrings.20>desc_sentence->[pawn_pronoun] изглежда, че не разбира какво се случва с [pawn_objective].</Drunk.rulePack.rulesStrings.20>
-  <Drunk.rulePack.rulesStrings.21>desc_sentence->[pawn_possessive] с подуто лице</Drunk.rulePack.rulesStrings.21>
-  <Drunk.rulePack.rulesStrings.22>desc_sentence->[pawn_pronoun] е припаднал с изваден език от [pawn_possessive] уста.</Drunk.rulePack.rulesStrings.22>
-  <Drunk.rulePack.rulesStrings.23>desc_sentence->[pawn_pronoun] изглежда едновременно шастлив и тъжен.</Drunk.rulePack.rulesStrings.23>
-  <Drunk.rulePack.rulesStrings.24>desc_sentence->[pawn_possessive] с риза изцапана от алкохол.</Drunk.rulePack.rulesStrings.24>
-  <Drunk.rulePack.rulesStrings.25>desc_sentence->следа от изхвърлени бутилки показва [pawn_possessive] път.</Drunk.rulePack.rulesStrings.25>
-  <Drunk.rulePack.rulesStrings.26>desc_sentence->има тъмна субстанция по [pawn_possessive] панталони.</Drunk.rulePack.rulesStrings.26>
-  <Drunk.rulePack.rulesStrings.27>desc_sentence->[pawn_pronoun] изглежда, че е изгубил обувката си.</Drunk.rulePack.rulesStrings.27>
-  <Drunk.rulePack.rulesStrings.28>desc_sentence->[pawn_possessive] коса е разрошена.</Drunk.rulePack.rulesStrings.28>
+	<Drunk.rulePack.rulesStrings>
+		<li>tale_noun->напиването на [pawn_nameShortDef]</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] [circumstance_group] е пиян и се клатушка</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] [pawn_possessive] отпуска глава назад [circumstance_group] докато алкохолът изтича на пода</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] [circumstance_group] събира бутилките от алкохол</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] се напива [circumstance_group]</li>
+		<li>circumstance_phrase->незаинтригуван от [pawn_possessive] обстановка</li>
+		<li>circumstance_phrase->упорито</li>
+		<li>circumstance_phrase->оплаквайки [pawn_possessive] съществувание</li>
+		<li>circumstance_phrase->със сълзи в очите</li>
+		<li>circumstance_phrase->кикотейки се безумно</li>
+		<li>circumstance_phrase->плачейки</li>
+		<li>circumstance_phrase->жално</li>
+		<li>circumstance_phrase->докато другите [pawn_objective] го гледат ядосано</li>
+		<li>circumstance_phrase->докато някой му се хили</li>
+		<li>circumstance_phrase->се опитва да се съблече</li>
+		<li>circumstance_phrase->с пръст в уста</li>
+		<li>circumstance_phrase->обхванат от гадене</li>
+		<li>circumstance_phrase->брзгрижен</li>
+		<li>circumstance_phrase->с похотлив поглед</li>
+		<li>circumstance_phrase->обмислящ грешките си</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда, че не разбира какво се случва с [pawn_objective].</li>
+		<li>desc_sentence->[pawn_possessive] с подуто лице</li>
+		<li>desc_sentence->[pawn_pronoun] е припаднал с изваден език от [pawn_possessive] уста.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда едновременно шастлив и тъжен.</li>
+		<li>desc_sentence->[pawn_possessive] с риза изцапана от алкохол.</li>
+		<li>desc_sentence->следа от изхвърлени бутилки показва [pawn_possessive] път.</li>
+		<li>desc_sentence->има тъмна субстанция по [pawn_possessive] панталони.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда, че е изгубил обувката си.</li>
+		<li>desc_sentence->[pawn_possessive] коса е разрошена.</li>
+	</Drunk.rulePack.rulesStrings>
 
-  <WasOnFire.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef], който [pawn_pronoun] се запалва</WasOnFire.rulePack.rulesStrings.0>  
-  <WasOnFire.rulePack.rulesStrings.1>image->[pawn_nameFull], който [pawn_pronoun] в недоумение се опитва да потуши огъня, който е обхванал тялото на [pawn_possessive] при [circumstance_group]</WasOnFire.rulePack.rulesStrings.1>
-  <WasOnFire.rulePack.rulesStrings.2>image->[pawn_nameFull] е обхванат от пламъци. Това се случи при [circumstance_group]</WasOnFire.rulePack.rulesStrings.2>
-  <WasOnFire.rulePack.rulesStrings.3>image->[pawn_nameFull], който [pawn_pronoun] е коленичил на пода, предпазвайки с ръка очите си докато се опитва да угаси пламъците по [pawn_possessive] тяло при [circumstance_group]</WasOnFire.rulePack.rulesStrings.3>
-  <WasOnFire.rulePack.rulesStrings.4>image->[pawn_nameFull], който [pawn_pronoun] се търкаля на пода, горейки поради [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.4>
-  <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase->докато [pawn_pronoun] се опитваше да се съблече</WasOnFire.rulePack.rulesStrings.5>
-  <WasOnFire.rulePack.rulesStrings.6>circumstance_phrase->докато другите гледаха</WasOnFire.rulePack.rulesStrings.6>
-  <WasOnFire.rulePack.rulesStrings.7>circumstance_phrase->докато [pawn_pronoun] бе почти гол</WasOnFire.rulePack.rulesStrings.7>
-  <WasOnFire.rulePack.rulesStrings.8>desc_sentence->[pawn_possessive] плът е почти овъглена.</WasOnFire.rulePack.rulesStrings.8>
-  <WasOnFire.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] очи са панически отворени.</WasOnFire.rulePack.rulesStrings.9>
-  <WasOnFire.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] изгледжа безсилен; [pawn_possessive] очи са безжизнени.</WasOnFire.rulePack.rulesStrings.10>
-  <WasOnFire.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] чиято уста е все още отворена [pawn_pronoun] във вик за помощ.</WasOnFire.rulePack.rulesStrings.11>
-  <WasOnFire.rulePack.rulesStrings.12>desc_sentence->пламъците са обхванали [pawn_possessive] тяло.</WasOnFire.rulePack.rulesStrings.12>
-  <WasOnFire.rulePack.rulesStrings.13>desc_sentence->Аура от пламъци е обхванала [pawn_possessive] лице.</WasOnFire.rulePack.rulesStrings.13>
-  <WasOnFire.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] се смее лудо.</WasOnFire.rulePack.rulesStrings.14>
-  <WasOnFire.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] изглежда губи [pawn_possessive] съзнание.</WasOnFire.rulePack.rulesStrings.15>
-  <WasOnFire.rulePack.rulesStrings.16>desc_sentence->облак от дим излиза от [pawn_objective] тяло.</WasOnFire.rulePack.rulesStrings.16>
-  <WasOnFire.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] изглежда мъртъв.</WasOnFire.rulePack.rulesStrings.17>
-
-  
-  <MentalStateBerserk.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef], който [pawn_pronoun] е полудял</MentalStateBerserk.rulePack.rulesStrings.0>
-  <MentalStateBerserk.rulePack.rulesStrings.1>image->[pawn_nameFull], който [pawn_pronoun] поради [circumstance_group] е изпаднал в гняв</MentalStateBerserk.rulePack.rulesStrings.1>
-  <MentalStateBerserk.rulePack.rulesStrings.2>image->[pawn_nameFull], който [pawn_pronoun] поради [circumstance_group] е превъртял</MentalStateBerserk.rulePack.rulesStrings.2>
-  <MentalStateBerserk.rulePack.rulesStrings.3>image->[pawn_nameFull], който [pawn_pronoun] поради [circumstance_group] с луд поглед на [pawn_possessive] лице се нахвърля върху някого</MentalStateBerserk.rulePack.rulesStrings.3>
-  <MentalStateBerserk.rulePack.rulesStrings.4>circumstance_phrase->при опита да се съблече</MentalStateBerserk.rulePack.rulesStrings.4>
-  <MentalStateBerserk.rulePack.rulesStrings.5>circumstance_phrase->без причина</MentalStateBerserk.rulePack.rulesStrings.5>
-  <MentalStateBerserk.rulePack.rulesStrings.6>circumstance_phrase->докато другите се крият от страх</MentalStateBerserk.rulePack.rulesStrings.6>
-  <MentalStateBerserk.rulePack.rulesStrings.7>circumstance_phrase->докато [pawn_possessive] приятел бяга</MentalStateBerserk.rulePack.rulesStrings.7>
-  <MentalStateBerserk.rulePack.rulesStrings.8>circumstance_phrase->заради стрес</MentalStateBerserk.rulePack.rulesStrings.8>
-  <MentalStateBerserk.rulePack.rulesStrings.9>circumstance_phrase->поради безизходица</MentalStateBerserk.rulePack.rulesStrings.9>
-  <MentalStateBerserk.rulePack.rulesStrings.10>desc_sentence->тресе се [pawn_pronoun] от ярост.</MentalStateBerserk.rulePack.rulesStrings.10>
-  <MentalStateBerserk.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] оголва зъбите си в смъртоносна усмивка.</MentalStateBerserk.rulePack.rulesStrings.11>
-  <MentalStateBerserk.rulePack.rulesStrings.12>desc_sentence->очите на [pawn_possessive] изразяват безумие.</MentalStateBerserk.rulePack.rulesStrings.12>
-  <MentalStateBerserk.rulePack.rulesStrings.13>desc_sentence->Лиги текат от [pawn_possessive] уста, докато [pawn_possessive] е в луда ярост.</MentalStateBerserk.rulePack.rulesStrings.13>
-  <MentalStateBerserk.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] [pawn_possessive] е изгубил част от дрехите си.</MentalStateBerserk.rulePack.rulesStrings.14>
-  <MentalStateBerserk.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] плаче от скръб.</MentalStateBerserk.rulePack.rulesStrings.15>
-  <MentalStateBerserk.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] се смее лудо.</MentalStateBerserk.rulePack.rulesStrings.16>
-  <MentalStateBerserk.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] е изобразен с муцуна на ръмжащ [animal].</MentalStateBerserk.rulePack.rulesStrings.17>
-  <MentalStateBerserk.rulePack.rulesStrings.18>desc_sentence->[pawn_possessive] глава е символистично представена като [animal].</MentalStateBerserk.rulePack.rulesStrings.18>
-  <MentalStateBerserk.rulePack.rulesStrings.19>desc_sentence->[pawn_pronoun] смъртоносен поглед блести в [pawn_possessive] очи.</MentalStateBerserk.rulePack.rulesStrings.19>
-  <MentalStateBerserk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] с тяло, тресящо се от яд.</MentalStateBerserk.rulePack.rulesStrings.20>
-  <MentalStateBerserk.rulePack.rulesStrings.21>desc_sentence->[pawn_possessive] с лице, обхванато от диво блаженство.</MentalStateBerserk.rulePack.rulesStrings.21>
-  <MentalStateBerserk.rulePack.rulesStrings.22>desc_sentence->самотна сълза се спуска по [pawn_possessive] лице.</MentalStateBerserk.rulePack.rulesStrings.22>
+	<WasOnFire.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef], който [pawn_pronoun] се запалва</li>  
+		<li>image->[pawn_nameFull], който [pawn_pronoun] в недоумение се опитва да потуши огъня, който е обхванал тялото на [pawn_possessive] при [circumstance_group]</li>
+		<li>image->[pawn_nameFull] е обхванат от пламъци. Това се случи при [circumstance_group]</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] е коленичил на пода, предпазвайки с ръка очите си докато се опитва да угаси пламъците по [pawn_possessive] тяло при [circumstance_group]</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] се търкаля на пода, горейки поради [circumstance_group]. [desc_sentence_group]</li>
+		<li>circumstance_phrase->докато [pawn_pronoun] се опитваше да се съблече</li>
+		<li>circumstance_phrase->докато другите гледаха</li>
+		<li>circumstance_phrase->докато [pawn_pronoun] бе почти гол</li>
+		<li>desc_sentence->[pawn_possessive] плът е почти овъглена.</li>
+		<li>desc_sentence->[pawn_possessive] очи са панически отворени.</li>
+		<li>desc_sentence->[pawn_pronoun] изгледжа безсилен; [pawn_possessive] очи са безжизнени.</li>
+		<li>desc_sentence->[pawn_possessive] чиято уста е все още отворена [pawn_pronoun] във вик за помощ.</li>
+		<li>desc_sentence->пламъците са обхванали [pawn_possessive] тяло.</li>
+		<li>desc_sentence->Аура от пламъци е обхванала [pawn_possessive] лице.</li>
+		<li>desc_sentence->[pawn_pronoun] се смее лудо.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда губи [pawn_possessive] съзнание.</li>
+		<li>desc_sentence->облак от дим излиза от [pawn_objective] тяло.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда мъртъв.</li>
+	</WasOnFire.rulePack.rulesStrings>
 
   
-  <MentalStateGaveUp.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef], изглежда че [pawn_pronoun] се е предал</MentalStateGaveUp.rulePack.rulesStrings.0>
-  <MentalStateGaveUp.rulePack.rulesStrings.1>image->[pawn_nameFull], като [pawn_pronoun] се пречупва от стрес поради [circumstance_group] и се предава</MentalStateGaveUp.rulePack.rulesStrings.1>
-  <MentalStateGaveUp.rulePack.rulesStrings.2>image->[pawn_nameFull], когато [pawn_pronoun] се пречупва и плаче некотролируемо поради [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.2>
-  <MentalStateGaveUp.rulePack.rulesStrings.3>image->[pawn_nameFull], когато [pawn_pronoun] с празен поглед на лицето снове наоколо поради [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.3>
-  <MentalStateGaveUp.rulePack.rulesStrings.4>circumstance_phrase->при опит да се съблече</MentalStateGaveUp.rulePack.rulesStrings.4>
-  <MentalStateGaveUp.rulePack.rulesStrings.5>circumstance_phrase->без причина</MentalStateGaveUp.rulePack.rulesStrings.5>
-  <MentalStateGaveUp.rulePack.rulesStrings.6>circumstance_phrase->докато другите съчувстват</MentalStateGaveUp.rulePack.rulesStrings.6>
-  <MentalStateGaveUp.rulePack.rulesStrings.7>circumstance_phrase->докато [pawn_possessive] приятели плачат</MentalStateGaveUp.rulePack.rulesStrings.7>
-  <MentalStateGaveUp.rulePack.rulesStrings.8>circumstance_phrase->поради стреса</MentalStateGaveUp.rulePack.rulesStrings.8>
-  <MentalStateGaveUp.rulePack.rulesStrings.9>circumstance_phrase->aпоради безизходица</MentalStateGaveUp.rulePack.rulesStrings.9>
-  <MentalStateGaveUp.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] сълзи текат по [pawn_possessive] лице.</MentalStateGaveUp.rulePack.rulesStrings.10>
-  <MentalStateGaveUp.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] се смее лудо заради [pawn_possessive] депресия.</MentalStateGaveUp.rulePack.rulesStrings.11>
-  <MentalStateGaveUp.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDefinite] търси помощ свише.</MentalStateGaveUp.rulePack.rulesStrings.12>
-  <MentalStateGaveUp.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] разкъсва [pawn_possessive] дрехите.</MentalStateGaveUp.rulePack.rulesStrings.13>
-  <MentalStateGaveUp.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] изглежда не разбира какво се случва с [pawn_objective].</MentalStateGaveUp.rulePack.rulesStrings.14>
-  <MentalStateGaveUp.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] излъчва едновременно щастие и тъга.</MentalStateGaveUp.rulePack.rulesStrings.15>
-  <MentalStateGaveUp.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] има тъмни петна по [pawn_possessive] панталони.</MentalStateGaveUp.rulePack.rulesStrings.16>
-  <MentalStateGaveUp.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] изгледжа е изгубил обувката си.</MentalStateGaveUp.rulePack.rulesStrings.17>
-  <MentalStateGaveUp.rulePack.rulesStrings.18>desc_sentence->[pawn_possessive] коса е разрошена.</MentalStateGaveUp.rulePack.rulesStrings.18>
+	<MentalStateBerserk.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef], който [pawn_pronoun] е полудял</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] поради [circumstance_group] е изпаднал в гняв</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] поради [circumstance_group] е превъртял</li>
+		<li>image->[pawn_nameFull], който [pawn_pronoun] поради [circumstance_group] с луд поглед на [pawn_possessive] лице се нахвърля върху някого</li>
+		<li>circumstance_phrase->при опита да се съблече</li>
+		<li>circumstance_phrase->без причина</li>
+		<li>circumstance_phrase->докато другите се крият от страх</li>
+		<li>circumstance_phrase->докато [pawn_possessive] приятел бяга</li>
+		<li>circumstance_phrase->заради стрес</li>
+		<li>circumstance_phrase->поради безизходица</li>
+		<li>desc_sentence->тресе се [pawn_pronoun] от ярост.</li>
+		<li>desc_sentence->[pawn_possessive] оголва зъбите си в смъртоносна усмивка.</li>
+		<li>desc_sentence->очите на [pawn_possessive] изразяват безумие.</li>
+		<li>desc_sentence->Лиги текат от [pawn_possessive] уста, докато [pawn_possessive] е в луда ярост.</li>
+		<li>desc_sentence->[pawn_pronoun] [pawn_possessive] е изгубил част от дрехите си.</li>
+		<li>desc_sentence->[pawn_pronoun] плаче от скръб.</li>
+		<li>desc_sentence->[pawn_pronoun] се смее лудо.</li>
+		<li>desc_sentence->[pawn_pronoun] е изобразен с муцуна на ръмжащ [animal].</li>
+		<li>desc_sentence->[pawn_possessive] глава е символистично представена като [animal].</li>
+		<li>desc_sentence->[pawn_pronoun] смъртоносен поглед блести в [pawn_possessive] очи.</li>
+		<li>desc_sentence->[pawn_possessive] с тяло, тресящо се от яд.</li>
+		<li>desc_sentence->[pawn_possessive] с лице, обхванато от диво блаженство.</li>
+		<li>desc_sentence->самотна сълза се спуска по [pawn_possessive] лице.</li>
+	</MentalStateBerserk.rulePack.rulesStrings>
 
   
-  <WalkedNaked.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef], когато [pawn_pronoun] ходи гол</WalkedNaked.rulePack.rulesStrings.0>
-  <WalkedNaked.rulePack.rulesStrings.1>image->[pawn_nameFull] [nude_action] докато [pawn_pronoun] е едно с природата поради [circumstance_group]</WalkedNaked.rulePack.rulesStrings.1>
-  <WalkedNaked.rulePack.rulesStrings.2>image->[pawn_nameFull] [nude_action] необлечен поради [circumstance_group]</WalkedNaked.rulePack.rulesStrings.2>
-  <WalkedNaked.rulePack.rulesStrings.3>image->[pawn_nameFull] [nude_action], гол, [circumstance_group]</WalkedNaked.rulePack.rulesStrings.3>
-  <WalkedNaked.rulePack.rulesStrings.4>image->[pawn_nameFull] [nude_action] без всякакви дрехи заради [circumstance_group]</WalkedNaked.rulePack.rulesStrings.4>
-  <WalkedNaked.rulePack.rulesStrings.5>nude_action->танцува</WalkedNaked.rulePack.rulesStrings.5>
-  <WalkedNaked.rulePack.rulesStrings.6>nude_action->тържествува</WalkedNaked.rulePack.rulesStrings.6>
-  <WalkedNaked.rulePack.rulesStrings.7>nude_action->се вие</WalkedNaked.rulePack.rulesStrings.7>
-  <WalkedNaked.rulePack.rulesStrings.8>nude_action->ходи</WalkedNaked.rulePack.rulesStrings.8>
-  <WalkedNaked.rulePack.rulesStrings.9>nude_action->се перчи</WalkedNaked.rulePack.rulesStrings.9>
-  <WalkedNaked.rulePack.rulesStrings.10>nude_action->се пързаля</WalkedNaked.rulePack.rulesStrings.10>
-  <WalkedNaked.rulePack.rulesStrings.11>nude_action->се прикрадва</WalkedNaked.rulePack.rulesStrings.11>
-  <WalkedNaked.rulePack.rulesStrings.12>nude_action->отива на разходка</WalkedNaked.rulePack.rulesStrings.12>
-  <WalkedNaked.rulePack.rulesStrings.13>nude_action->обикаля зоната</WalkedNaked.rulePack.rulesStrings.13>
-  <WalkedNaked.rulePack.rulesStrings.14>circumstance_phrase->нарочно</WalkedNaked.rulePack.rulesStrings.14>
-  <WalkedNaked.rulePack.rulesStrings.15>circumstance_phrase->безсрамно</WalkedNaked.rulePack.rulesStrings.15>
-  <WalkedNaked.rulePack.rulesStrings.16>circumstance_phrase->докато другите гледат</WalkedNaked.rulePack.rulesStrings.16>
-  <WalkedNaked.rulePack.rulesStrings.17>circumstance_phrase->без причина</WalkedNaked.rulePack.rulesStrings.17>
-  <WalkedNaked.rulePack.rulesStrings.18>circumstance_phrase->докато животните гледат объркано</WalkedNaked.rulePack.rulesStrings.18>
-  <WalkedNaked.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] е очевидно възбуден.</WalkedNaked.rulePack.rulesStrings.19>
-  <WalkedNaked.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] е покрит с неяна субстанция.</WalkedNaked.rulePack.rulesStrings.20>
-  <WalkedNaked.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] диша тежко без причина.</WalkedNaked.rulePack.rulesStrings.21>
-  <WalkedNaked.rulePack.rulesStrings.22>desc_sentence->[pawn_nameShortDef] поглажда един храст.</WalkedNaked.rulePack.rulesStrings.22>
-  
-  
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef], докато [pawn_pronoun] яде човешко месо</AteRawHumanlikeMeat.rulePack.rulesStrings.0>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.1>image->[circumstance_group] [eat_gerund] [pawn_nameFull] месото на човешко същество</AteRawHumanlikeMeat.rulePack.rulesStrings.1>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.2>image->[circumstance_group] [eat_gerund] [pawn_nameFull] отхапва месо от човешка ръка</AteRawHumanlikeMeat.rulePack.rulesStrings.2>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.3>image->[circumstance_group] [eat_gerund] [pawn_nameFull] плътта на човек</AteRawHumanlikeMeat.rulePack.rulesStrings.3>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.4>eat_gerund->яде</AteRawHumanlikeMeat.rulePack.rulesStrings.4>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.5>eat_gerund->опитва</AteRawHumanlikeMeat.rulePack.rulesStrings.5>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.6>eat_gerund->дъвче</AteRawHumanlikeMeat.rulePack.rulesStrings.6>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.7>eat_gerund->изплюва</AteRawHumanlikeMeat.rulePack.rulesStrings.7>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.8>eat_gerund->гълта</AteRawHumanlikeMeat.rulePack.rulesStrings.8>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.9>eat_gerund->преглъща</AteRawHumanlikeMeat.rulePack.rulesStrings.9>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.10>eat_gerund->канибализира</AteRawHumanlikeMeat.rulePack.rulesStrings.10>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.11>circumstance_phrase->нарочно</AteRawHumanlikeMeat.rulePack.rulesStrings.11>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.12>circumstance_phrase->безсрамноl</AteRawHumanlikeMeat.rulePack.rulesStrings.12>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.13>circumstance_phrase->със срам</AteRawHumanlikeMeat.rulePack.rulesStrings.13>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.14>circumstance_phrase->докато другите гледат</AteRawHumanlikeMeat.rulePack.rulesStrings.14>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.15>circumstance_phrase->с удоволствие</AteRawHumanlikeMeat.rulePack.rulesStrings.15>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.16>circumstance_phrase->припряно, все едно [pawn_possessive] живот зависи от това</AteRawHumanlikeMeat.rulePack.rulesStrings.16>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.17>desc_sentence->Лицето на [pawn_nameShortDef] е покрито с кръв и течности.</AteRawHumanlikeMeat.rulePack.rulesStrings.17>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.18>desc_sentence->[pawn_nameShortDef] облизва [pawn_possessive] пръст.</AteRawHumanlikeMeat.rulePack.rulesStrings.18>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] има кръв и парчета плът по [pawn_possessive] дрехи.</AteRawHumanlikeMeat.rulePack.rulesStrings.19>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] седи в центъра на локва кръв.</AteRawHumanlikeMeat.rulePack.rulesStrings.20>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] наблюдава друг човек с прикрит интерес.</AteRawHumanlikeMeat.rulePack.rulesStrings.21>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.22>desc_sentence->месото блести и изглежда много сочно.</AteRawHumanlikeMeat.rulePack.rulesStrings.22>
-  <AteRawHumanlikeMeat.rulePack.rulesStrings.23>desc_sentence->по цялото тяло на [pawn_nameShortDef] има парчета месо.</AteRawHumanlikeMeat.rulePack.rulesStrings.23>
-  
-
-  <CraftedArt.rulePack.rulesStrings.0>tale_noun->от деня, на който [pawn_nameShortDef] сътвори [thing_labelIndefinite]</CraftedArt.rulePack.rulesStrings.0>
-  <CraftedArt.rulePack.rulesStrings.1>image->[pawn_nameFull] [circumstance_group] при сътворяването на [thing_labelIndefinite]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.1>
-  <CraftedArt.rulePack.rulesStrings.2>image->[pawn_nameFull] [circumstance_group] при приключването на [pawn_possessive] работа върху [thing_labelIndefinite]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.2>
-  <CraftedArt.rulePack.rulesStrings.3>image->[pawn_nameFull] [circumstance_group], когато [pawn_pronoun] работи по [thing_labelIndefinite]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.3>
-  <CraftedArt.rulePack.rulesStrings.4>image->[pawn_nameFull] [circumstance_group], когато [pawn_pronoun] изработи [thing_labelIndefinite]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.4>
-  <CraftedArt.rulePack.rulesStrings.5>circumstance_phrase->напълно концентрирано</CraftedArt.rulePack.rulesStrings.5>
-  <CraftedArt.rulePack.rulesStrings.6>circumstance_phrase->с поглед на задоволство на [pawn_possessive] лице</CraftedArt.rulePack.rulesStrings.6>
-  <CraftedArt.rulePack.rulesStrings.7>circumstance_phrase->на [pawn_possessive] работно място</CraftedArt.rulePack.rulesStrings.7>
-  <CraftedArt.rulePack.rulesStrings.8>circumstance_phrase->силно напрегнат</CraftedArt.rulePack.rulesStrings.8>
-  <CraftedArt.rulePack.rulesStrings.9>desc_sentence->навсякъде са пръснати сечива.</CraftedArt.rulePack.rulesStrings.9>
-  <CraftedArt.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] има драскотини и синини от злополуки по време на работа.</CraftedArt.rulePack.rulesStrings.10>
-  <CraftedArt.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] се поти силно.</CraftedArt.rulePack.rulesStrings.11>
-  <CraftedArt.rulePack.rulesStrings.12>desc_sentence->Работното място е добре огранизирано и всеки предмет лежи на своето място.</CraftedArt.rulePack.rulesStrings.12>
-  <CraftedArt.rulePack.rulesStrings.13>desc_sentence->С цел да изглежда изобретателен, [pawn_pronoun] е създал творбата в хиперболистичен вид.</CraftedArt.rulePack.rulesStrings.13>
-  <CraftedArt.rulePack.rulesStrings.14>desc_sentence->[item_labelDefinite] е прекомерно голяма с цел да се подсили значението.</CraftedArt.rulePack.rulesStrings.14>
-  <CraftedArt.rulePack.rulesStrings.15>desc_sentence->[item_labelDefinite] носи артистичен блясък и е прекрасен.</CraftedArt.rulePack.rulesStrings.15>
-  <CraftedArt.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDefinite] е сложен на фона, за да представи [pawn_possessive] творба.</CraftedArt.rulePack.rulesStrings.16>
-  <CraftedArt.rulePack.rulesStrings.17>desc_sentence->Група хора обкръжава [pawn_objective].</CraftedArt.rulePack.rulesStrings.17>
-  <CraftedArt.rulePack.rulesStrings.18>desc_sentence->Група хора се радва на фона на творбата.</CraftedArt.rulePack.rulesStrings.18>
-  <CraftedArt.rulePack.rulesStrings.19>quality_sentence->[thing_labelDefinite] изглежда да е с [thing_quality] качество</CraftedArt.rulePack.rulesStrings.19>
-  <CraftedArt.rulePack.rulesStrings.20>quality_sentence->[thing_labelDefinite] е с [thing_quality] качество</CraftedArt.rulePack.rulesStrings.20>
-  <CraftedArt.rulePack.rulesStrings.21>quality_sentence->творбата на [pawn_nameShortDefinite] е с [thing_quality] качество</CraftedArt.rulePack.rulesStrings.21>
-  <CraftedArt.rulePack.rulesStrings.22>title_sentence->Най-долу стои името на творбата на [pawn_nameShortDefinite] Заглавие: [thing_title]</CraftedArt.rulePack.rulesStrings.22>
-  <CraftedArt.rulePack.rulesStrings.23>title_sentence->[thing_labelDefinite] е украсено със заглавие: [thing_title]</CraftedArt.rulePack.rulesStrings.23>
-  <CraftedArt.rulePack.rulesStrings.24>title_sentence->Заглавието на [thing_labelDefinite], [thing_title], стои на заден план</CraftedArt.rulePack.rulesStrings.24>
+	<MentalStateGaveUp.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef], изглежда че [pawn_pronoun] се е предал</li>
+		<li>image->[pawn_nameFull], като [pawn_pronoun] се пречупва от стрес поради [circumstance_group] и се предава</li>
+		<li>image->[pawn_nameFull], когато [pawn_pronoun] се пречупва и плаче некотролируемо поради [circumstance_group]</li>
+		<li>image->[pawn_nameFull], когато [pawn_pronoun] с празен поглед на лицето снове наоколо поради [circumstance_group]</li>
+		<li>circumstance_phrase->при опит да се съблече</li>
+		<li>circumstance_phrase->без причина</li>
+		<li>circumstance_phrase->докато другите съчувстват</li>
+		<li>circumstance_phrase->докато [pawn_possessive] приятели плачат</li>
+		<li>circumstance_phrase->поради стреса</li>
+		<li>circumstance_phrase->aпоради безизходица</li>
+		<li>desc_sentence->[pawn_pronoun] сълзи текат по [pawn_possessive] лице.</li>
+		<li>desc_sentence->[pawn_pronoun] се смее лудо заради [pawn_possessive] депресия.</li>
+		<li>desc_sentence->[pawn_nameShortDefinite] търси помощ свише.</li>
+		<li>desc_sentence->[pawn_pronoun] разкъсва [pawn_possessive] дрехите.</li>
+		<li>desc_sentence->[pawn_pronoun] изглежда не разбира какво се случва с [pawn_objective].</li>
+		<li>desc_sentence->[pawn_pronoun] излъчва едновременно щастие и тъга.</li>
+		<li>desc_sentence->[pawn_pronoun] има тъмни петна по [pawn_possessive] панталони.</li>
+		<li>desc_sentence->[pawn_pronoun] изгледжа е изгубил обувката си.</li>
+		<li>desc_sentence->[pawn_possessive] коса е разрошена.</li>
+	</MentalStateGaveUp.rulePack.rulesStrings>
 
   
-  <StruckMineable.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] откри [thing_label]</StruckMineable.rulePack.rulesStrings.0>
-  <StruckMineable.rulePack.rulesStrings.1>image->[pawn_nameFull], докато [pawn_pronoun] [circumstance_group] попадна на [thing_label]</StruckMineable.rulePack.rulesStrings.1>
-  <StruckMineable.rulePack.rulesStrings.2>circumstance_phrase->докато разрушаваше</StruckMineable.rulePack.rulesStrings.2>
-  <StruckMineable.rulePack.rulesStrings.3>circumstance_phrase->докато копаеше</StruckMineable.rulePack.rulesStrings.3>
-  <StruckMineable.rulePack.rulesStrings.4>circumstance_phrase->докато пробиваше</StruckMineable.rulePack.rulesStrings.4>
-  <StruckMineable.rulePack.rulesStrings.5>circumstance_phrase->с изненада</StruckMineable.rulePack.rulesStrings.5>
-  <StruckMineable.rulePack.rulesStrings.6>circumstance_phrase->със задоволство</StruckMineable.rulePack.rulesStrings.6>
-  <StruckMineable.rulePack.rulesStrings.7>desc_sentence-> [pawn_nameShortDefinite] изтрива потта от челото си.</StruckMineable.rulePack.rulesStrings.7>
-  <StruckMineable.rulePack.rulesStrings.8>desc_sentence-> [pawn_nameShortDefinite] скача от радост.</StruckMineable.rulePack.rulesStrings.8>
-  <StruckMineable.rulePack.rulesStrings.9>desc_sentence-> [pawn_nameShortDefinite] потупва по рамото приятел.</StruckMineable.rulePack.rulesStrings.9>
-  <StruckMineable.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDefinite] вика щастливо.</StruckMineable.rulePack.rulesStrings.10>
-  <StruckMineable.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDefinite] се смее неконтролируемо.</StruckMineable.rulePack.rulesStrings.11>
-  <StruckMineable.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDefinite] е потен и мръсен от работа.</StruckMineable.rulePack.rulesStrings.12>
-  <StruckMineable.rulePack.rulesStrings.13>desc_sentence->[pawn_nameShortDefinite] е мръсен от работа.</StruckMineable.rulePack.rulesStrings.13>
+	<WalkedNaked.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef], когато [pawn_pronoun] ходи гол</li>
+		<li>image->[pawn_nameFull] [nude_action] докато [pawn_pronoun] е едно с природата поради [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [nude_action] необлечен поради [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [nude_action], гол, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [nude_action] без всякакви дрехи заради [circumstance_group]</li>
+		<li>nude_action->танцува</li>
+		<li>nude_action->тържествува</li>
+		<li>nude_action->се вие</li>
+		<li>nude_action->ходи</li>
+		<li>nude_action->се перчи</li>
+		<li>nude_action->се пързаля</li>
+		<li>nude_action->се прикрадва</li>
+		<li>nude_action->отива на разходка</li>
+		<li>nude_action->обикаля зоната</li>
+		<li>circumstance_phrase->нарочно</li>
+		<li>circumstance_phrase->безсрамно</li>
+		<li>circumstance_phrase->докато другите гледат</li>
+		<li>circumstance_phrase->без причина</li>
+		<li>circumstance_phrase->докато животните гледат объркано</li>
+		<li>desc_sentence->[pawn_nameShortDef] е очевидно възбуден.</li>
+		<li>desc_sentence->[pawn_nameShortDef] е покрит с неяна субстанция.</li>
+		<li>desc_sentence->[pawn_nameShortDef] диша тежко без причина.</li>
+		<li>desc_sentence->[pawn_nameShortDef] поглажда един храст.</li>
+	</WalkedNaked.rulePack.rulesStrings>
+  
+  
+	<AteRawHumanlikeMeat.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef], докато [pawn_pronoun] яде човешко месо</li>
+		<li>image->[circumstance_group] [eat_gerund] [pawn_nameFull] месото на човешко същество</li>
+		<li>image->[circumstance_group] [eat_gerund] [pawn_nameFull] отхапва месо от човешка ръка</li>
+		<li>image->[circumstance_group] [eat_gerund] [pawn_nameFull] плътта на човек</li>
+		<li>eat_gerund->яде</li>
+		<li>eat_gerund->опитва</li>
+		<li>eat_gerund->дъвче</li>
+		<li>eat_gerund->изплюва</li>
+		<li>eat_gerund->гълта</li>
+		<li>eat_gerund->преглъща</li>
+		<li>eat_gerund->канибализира</li>
+		<li>circumstance_phrase->нарочно</li>
+		<li>circumstance_phrase->безсрамноl</li>
+		<li>circumstance_phrase->със срам</li>
+		<li>circumstance_phrase->докато другите гледат</li>
+		<li>circumstance_phrase->с удоволствие</li>
+		<li>circumstance_phrase->припряно, все едно [pawn_possessive] живот зависи от това</li>
+		<li>desc_sentence->Лицето на [pawn_nameShortDef] е покрито с кръв и течности.</li>
+		<li>desc_sentence->[pawn_nameShortDef] облизва [pawn_possessive] пръст.</li>
+		<li>desc_sentence->[pawn_nameShortDef] има кръв и парчета плът по [pawn_possessive] дрехи.</li>
+		<li>desc_sentence->[pawn_nameShortDef] седи в центъра на локва кръв.</li>
+		<li>desc_sentence->[pawn_nameShortDef] наблюдава друг човек с прикрит интерес.</li>
+		<li>desc_sentence->месото блести и изглежда много сочно.</li>
+		<li>desc_sentence->по цялото тяло на [pawn_nameShortDef] има парчета месо.</li>
+	</AteRawHumanlikeMeat.rulePack.rulesStrings>
+  
+
+	<CraftedArt.rulePack.rulesStrings>
+		<li>tale_noun->от деня, на който [pawn_nameShortDef] сътвори [thing_labelIndefinite]</li>
+		<li>image->[pawn_nameFull] [circumstance_group] при сътворяването на [thing_labelIndefinite]. [quality_sentence]. [title_sentence]</li>
+		<li>image->[pawn_nameFull] [circumstance_group] при приключването на [pawn_possessive] работа върху [thing_labelIndefinite]. [quality_sentence]. [title_sentence]</li>
+		<li>image->[pawn_nameFull] [circumstance_group], когато [pawn_pronoun] работи по [thing_labelIndefinite]. [quality_sentence]. [title_sentence]</li>
+		<li>image->[pawn_nameFull] [circumstance_group], когато [pawn_pronoun] изработи [thing_labelIndefinite]. [quality_sentence]. [title_sentence]</li>
+		<li>circumstance_phrase->напълно концентрирано</li>
+		<li>circumstance_phrase->с поглед на задоволство на [pawn_possessive] лице</li>
+		<li>circumstance_phrase->на [pawn_possessive] работно място</li>
+		<li>circumstance_phrase->силно напрегнат</li>
+		<li>desc_sentence->навсякъде са пръснати сечива.</li>
+		<li>desc_sentence->[pawn_pronoun] има драскотини и синини от злополуки по време на работа.</li>
+		<li>desc_sentence->[pawn_pronoun] се поти силно.</li>
+		<li>desc_sentence->Работното място е добре огранизирано и всеки предмет лежи на своето място.</li>
+		<li>desc_sentence->С цел да изглежда изобретателен, [pawn_pronoun] е създал творбата в хиперболистичен вид.</li>
+		<li>desc_sentence->[item_labelDefinite] е прекомерно голяма с цел да се подсили значението.</li>
+		<li>desc_sentence->[item_labelDefinite] носи артистичен блясък и е прекрасен.</li>
+		<li>desc_sentence->[pawn_nameShortDefinite] е сложен на фона, за да представи [pawn_possessive] творба.</li>
+		<li>desc_sentence->Група хора обкръжава [pawn_objective].</li>
+		<li>desc_sentence->Група хора се радва на фона на творбата.</li>
+		<li>quality_sentence->[thing_labelDefinite] изглежда да е с [thing_quality] качество</li>
+		<li>quality_sentence->[thing_labelDefinite] е с [thing_quality] качество</li>
+		<li>quality_sentence->творбата на [pawn_nameShortDefinite] е с [thing_quality] качество</li>
+		<li>title_sentence->Най-долу стои името на творбата на [pawn_nameShortDefinite] Заглавие: [thing_title]</li>
+		<li>title_sentence->[thing_labelDefinite] е украсено със заглавие: [thing_title]</li>
+		<li>title_sentence->Заглавието на [thing_labelDefinite], [thing_title], стои на заден план</li>
+	</CraftedArt.rulePack.rulesStrings>
+
+  
+	<StruckMineable.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] откри [thing_label]</li>
+		<li>image->[pawn_nameFull], докато [pawn_pronoun] [circumstance_group] попадна на [thing_label]</li>
+		<li>circumstance_phrase->докато разрушаваше</li>
+		<li>circumstance_phrase->докато копаеше</li>
+		<li>circumstance_phrase->докато пробиваше</li>
+		<li>circumstance_phrase->с изненада</li>
+		<li>circumstance_phrase->със задоволство</li>
+		<li>desc_sentence-> [pawn_nameShortDefinite] изтрива потта от челото си.</li>
+		<li>desc_sentence-> [pawn_nameShortDefinite] скача от радост.</li>
+		<li>desc_sentence-> [pawn_nameShortDefinite] потупва по рамото приятел.</li>
+		<li>desc_sentence->[pawn_nameShortDefinite] вика щастливо.</li>
+		<li>desc_sentence->[pawn_nameShortDefinite] се смее неконтролируемо.</li>
+		<li>desc_sentence->[pawn_nameShortDefinite] е потен и мръсен от работа.</li>
+		<li>desc_sentence->[pawn_nameShortDefinite] е мръсен от работа.</li>
+	</StruckMineable.rulePack.rulesStrings>
   
 </LanguageData>
