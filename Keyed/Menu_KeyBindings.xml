@@ -4,9 +4,9 @@
   <SaveButton>Запиши</SaveButton>
   <!--<CancelButton>Cancel</CancelButton>-->
   <ClearBinding>Изчисти</ClearBinding>
-  <ResetBinding>Върни по подразбиране</ResetBinding>
-  <BindingButtonToolTip>Ляв бутон за определяне на клавиш или десен за опции</BindingButtonToolTip>
-  <PressAnyKeyOrEsc>Натисни случаен клавиш или Esc за отказване...</PressAnyKeyOrEsc>
-  <KeyBindingOverwritten>Презаписан клавиш: {0}</KeyBindingOverwritten>
+  <ResetBinding>По подразбиране</ResetBinding>
+  <BindingButtonToolTip>Натиснете левия бутон на мишката и след това натиснеше клавиша, който желаете за това действие. За опции натиснете десния бутон на мишката.</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Натиснете произволен бутон или ESC за отмяна...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Клавиша е записан: {0}</KeyBindingOverwritten>
   
 </LanguageData>

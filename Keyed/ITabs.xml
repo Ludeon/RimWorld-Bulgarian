@@ -1,111 +1,127 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
   <TabBills>Задачи</TabBills>
   <TabGrowing>Засяване</TabGrowing>
   <TabCharacter>Характер</TabCharacter>
-  <TabTraining>Дресировка</TabTraining>
+  <TabTraining>Обучение</TabTraining>
   <TabPrisoner>Затворник</TabPrisoner>
   <TabGuest>Гост</TabGuest>
-  <TabGear>Екипир.</TabGear>
+  <TabGear>Вещи</TabGear>
   <TabNeeds>Нужди</TabNeeds>
   <TabStorage>Склад</TabStorage>
+  <TabShells>Снаряди</TabShells>
   <TabHealth>Здраве</TabHealth>
   <TabRace>Раса</TabRace>
   <TabBasics>Основни</TabBasics>
-  <TabStats>Статистика</TabStats>
-  <TabRecords>История</TabRecords>
+  <TabStats>Характеристики</TabStats>
+  <TabRecords>Статистика</TabRecords>
   <TabArt>Изкуство</TabArt>
   <TabSocial>Социални</TabSocial>
+  <TabCombat>Бой</TabCombat>
 
-  
+
   <!-- Bills tab  -->
   <AddBill>Добави задача</AddBill>
-  <RecipeRequiresSkills>Рецептата {0} се нуждае от следните умения. Никой от заселниците ти не ги притежава, и съответно никой няма да я изпълни.</RecipeRequiresSkills>
-  <MinimumSkill>Минимално Умение</MinimumSkill>
-  <SuspendedCaps>ОТЛОЖЕНО</SuspendedCaps>
-  <BoundWorkerIs>Работник: {0}</BoundWorkerIs>
-  <PlantVerb>Растение</PlantVerb>
+  <RecipeRequiresSkills>Задачата изисква следните умения {0}. Никой от заселниците не разполага с тези умения, за да изпълни задачата.</RecipeRequiresSkills>
+  <MinimumSkill>Мин. умение</MinimumSkill>
+  <SuspendedCaps>ПАУЗА</SuspendedCaps>
+  <BoundWorkerIs>Назначен(а) {0}</BoundWorkerIs>
+  <PlantVerb>Засаждане</PlantVerb>
 
 
   <!-- Guest/prisoner tab -->
-  <RecruitmentDifficulty>Трудност на вербуване</RecruitmentDifficulty>
+  <RecruitmentDifficulty>Сложност на вербуване</RecruitmentDifficulty>
   <GetsFood>Получава храна</GetsFood>
-  <DoctorsCare>Докторска грижа</DoctorsCare>
-  <GetsMedicine>Получава лекарства</GetsMedicine>
-  <ShouldTryToRecruit>Опитай да вербуваш</ShouldTryToRecruit>
-  <PrisonerNoInteraction>Без взаимодействие</PrisonerNoInteraction>
-  <PrisonerFriendlyChat>Приятелски разговор</PrisonerFriendlyChat>
-  <PrisonerAttemptRecruit>Разговаряй и вербувай</PrisonerAttemptRecruit>
-  <PrisonerRelease>Освободи</PrisonerRelease>
-  <PrisonerExecution>Екзекутирай</PrisonerExecution>
+  <DoctorsCare>Медицински грижи</DoctorsCare>
+  <GetsMedicine>Получава медикаменти</GetsMedicine>
+  <ShouldTryToRecruit>Опит за вербуване</ShouldTryToRecruit>
+  <ConsideredGuilty>Смятан за виновен(на) (срока изтича след {0})</ConsideredGuilty>
 
 
   <!-- Medical - general -->
-  <MoveSpeed>Скорост на движение</MoveSpeed>
-  <Efficiency>Ефикасност</Efficiency>
-  <MissingBodyPart>Отсъства</MissingBodyPart>
-  <DestroyedBodyPart>Унищожен</DestroyedBodyPart>
+  <MoveSpeed>Скорост на предвиждване</MoveSpeed>
+  <Efficiency>Ефективност</Efficiency>
+  <PartEfficiency>Ефективност на части</PartEfficiency>
+  <BodyPartEfficiency>Ефективност на части от тяло</BodyPartEfficiency>
+  <MissingBodyPart>Липсва</MissingBodyPart>
+  <DestroyedBodyPart>Унищожено</DestroyedBodyPart>
   <ShatteredBodyPart>Разбит</ShatteredBodyPart>
   <RemovedBodyPart>Премахнат</RemovedBodyPart>
   <Healthy>Здрав</Healthy>
-  <InPain>В болка</InPain>
+  <InPain>Изпитва болка</InPain>
   <PainLevel>Болка</PainLevel>
-  <Dead>мъртъв</Dead>
-  <Unconscious>В безсъзнание</Unconscious>
-  <PainShock>В шок</PainShock>
-  <Injured>Наранен</Injured>
-  <NoInjuries>(без наранявания)</NoInjuries>
+  <Injured>Ранен</Injured>
+  <NoInjuries>(здрав)</NoInjuries>
   <WholeBody>Цяло тяло</WholeBody>
-  <DataProcessing>Процес на данни</DataProcessing>
-  <Communication>Комуникация</Communication>
-  <AffectsLower>засяга</AffectsLower>
-  <BleedingRate>Степен на кръвотечение</BleedingRate>
-  <HealthOverview>Преглед</HealthOverview>
+  <DataProcessing>Обработка на данни</DataProcessing>
+  <Communication>Свързване</Communication>
+  <Affects>Влияе на</Affects>
+  <BleedingRate>Кръвотечение</BleedingRate>
+  <TimeToDeath>смърт чрез {0}</TimeToDeath>
+  <WontBleedOutSoon>безобиден</WontBleedOutSoon>
+  <HealthOverview>Обзор</HealthOverview>
   <MedicalOperationsShort>Операции ({0})</MedicalOperationsShort>
   <MedicalOperationsMechanoidsShort>Модификации ({0})</MedicalOperationsMechanoidsShort>
   <MedicalOperations>Медицински операции</MedicalOperations>
   <Amputate>Ампутирай</Amputate>
-  <Harvest>Придобий</Harvest>
+  <Harvest>Извади</Harvest>
+  <RemoveOrgan>Премахни</RemoveOrgan>
   <MemoryLower>памет</MemoryLower>
-  <SocialInteractionsLower>социални връзки</SocialInteractionsLower>
-  <HungerRate>Степен на огладняване</HungerRate>
+  <SocialInteractionsLower>социални взаимодействия</SocialInteractionsLower>
+  <HungerRate>Глад</HungerRate>
   <Tiredness>Умора</Tiredness>
-  
+  <PainFactor>Болка</PainFactor>
+  <PreventsInfection>Предотвратява инфекция</PreventsInfection>
+  <SelfTend>Самолечение</SelfTend>
+  <SelfTendTip>{0} самостоятелно ще се излекува на място, до нормална ефективност {1}.</SelfTendTip>
+
 
   <!-- Medical - Body and activities condition -->
-  <None>Никакви</None>
-  <VeryPoor>Много слаби</VeryPoor>
-  <Poor>Слаби</Poor>
-  <Weakened>Отслабени</Weakened>
-  <GoodCondition>OK</GoodCondition>
-  <Enhanced>Подсилени</Enhanced>
-  <SeriouslyImpaired>Сериозно увредени</SeriouslyImpaired>
-  <Impaired>Увредени</Impaired>
-  <SlightlyImpaired>Леко увредени</SlightlyImpaired>
-  <NoPain>Никаква</NoPain>
-  <LittlePain>Лека</LittlePain>
-  <MediumPain>Средна</MediumPain>
-  <SeverePain>Сериозна</SeverePain>
-  <ExtremePain>Екстремна</ExtremePain>
+  <None>Не</None>
+  <VeryPoor>Ужасно</VeryPoor>
+  <Poor>Лошо</Poor>
+  <Weakened>Отслабено</Weakened>
+  <GoodCondition>Добро</GoodCondition>
+  <Enhanced>Подобрено</Enhanced>
+  <SeriouslyImpaired>Сериозно нараняване</SeriouslyImpaired>
+  <Impaired>Ранен</Impaired>
+  <SlightlyImpaired>Леко ранен</SlightlyImpaired>
+  <NoPain>Не</NoPain>
+  <LittlePain>Леко</LittlePain>
+  <MediumPain>Средно</MediumPain>
+  <SeverePain>Силно</SeverePain>
+  <ExtremePain>Ужасно</ExtremePain>
 
 
   <!-- Training tab-->
-  <TrainableIntelligence>Интелигентност за дресировка</TrainableIntelligence>
-  <CannotTrainNotSmartEnough>Изисква интелигентност за дресировка {0}.</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>{0} е много малък за да бъде обучен на това.</CannotTrainTooSmall>
+  <TrainableIntelligence>Способност за обучение</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Изисква интелектуална способност: "{0}".</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} твърде малко, за да се обучава.</CannotTrainTooSmall>
 
-  <TrainingNeedsPrerequisite>Необходимо условие: {0}</TrainingNeedsPrerequisite>
-  
+  <TrainingNeedsPrerequisite>Изисква: {0}</TrainingNeedsPrerequisite>
+
   <!-- Social tab -->
   <NoRelationships>(няма връзки)</NoRelationships>
-  <Kidnapped>Отвлечен</Kidnapped>
+  <Kidnapped>Отвлечен(а)</Kidnapped>
+  <Missing>Изчезнал(а)</Missing>
   <Slave>Роб</Slave>
   <FactionLeader>Лидер на фракция</FactionLeader>
   <OpinionOf>Мнение за {0}</OpinionOf>
-  <SomeonesOpinionOfMe>мнението на {0} за мен</SomeonesOpinionOfMe>
-  <IAmDead>Мъртъв съм</IAmDead>
+  <SomeonesOpinionOfMe>Мнение {0} за мен</SomeonesOpinionOfMe>
+  <IAmDead>Аз съм мъртъв</IAmDead>
   <IAmPsychopath>Аз съм психопат</IAmPsychopath>
+
+  <!-- Gear tab -->
+  <AverageArmor>Средна защитеност</AverageArmor>
+  <MassCarried>Тегло: {0}/{1} кг</MassCarried>
+  <ComfyTemperatureRange>Диапазон на комфортна температура</ComfyTemperatureRange>
+  <ArmorBlunt>Blunt</ArmorBlunt>
+  <ArmorSharp>Проникващ</ArmorSharp>
+  <ArmorHeat>Термичен</ArmorHeat>
+  <ArmorElectric>Електрически</ArmorElectric>
+
+  <!-- Bills tab -->
 
 </LanguageData>

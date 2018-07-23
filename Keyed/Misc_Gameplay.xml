@@ -1,31 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Various -->
+  <HitPointsBasic>Трайност</HitPointsBasic>
   <WorkLeft>Остава работа</WorkLeft>
   <Contents>Съдържание</Contents>
   <ContainedResources>Съдържа ресурси</ContainedResources>
-  <ForPrisonerUse>За ползване от Затворници</ForPrisonerUse>
-  <ForColonistUse>За ползване от Заселници</ForColonistUse>
-  <MedicalBed>Медицинско</MedicalBed>
+  <ForPrisonerUse>За затворници</ForPrisonerUse>
+  <ForColonistUse>За заселници</ForColonistUse>
+  <MedicalBed>Медицински</MedicalBed>
   <Owner>Собственик</Owner>
   <Owners>Собственици</Owners>
-  <AssignedColonist>Определен за Заселник</AssignedColonist>
+  <AssignedColonist>Определен за заселник</AssignedColonist>
   <Nobody>Никой</Nobody>
   <Unowned>Без собственик</Unowned>
   <DeadTime>Мъртъв от {0}</DeadTime>
   <WalkSpeed>скорост на движение {0}</WalkSpeed>
+  <FertShort>плодородност</FertShort>
   <DyingLower>умиращ</DyingLower>
   <FilthOnFeet>Мръсотия по лапите:</FilthOnFeet>
-  <NotEnoughStoredLower>няма достатъчно складиран</NotEnoughStoredLower>
+  <NotEnoughStoredLower>в склада няма достатъчно количество</NotEnoughStoredLower>
   <NothingLower>нищо</NothingLower>
-  <Adapted>Адаптиран</Adapted>
+  <Adapted>Устойчив</Adapted>
   <FreshMissingBodyPart>скорошен</FreshMissingBodyPart>
-  <UntreatedLower>нелекуван</UntreatedLower>
   <DevelopedImmunityLower>имунизиран</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>Трябва лечение за да оздравее</InjuryRequiresTreatment>
-  <NextTreatmentIn>Поредно лечение след {0}</NextTreatmentIn>
-  <MissingMedicalBillIngredient>липсва {0}</MissingMedicalBillIngredient>
+  <NeedsTendingNow>изисква лечение</NeedsTendingNow>
+  <NextTendIn>Поредно лечение след {0}</NextTendIn>
+  <MissingMedicalBillIngredient>не {0}</MissingMedicalBillIngredient>
   <Immunity>Имунизация</Immunity>
   <Race>Раса</Race>
   <Description>Описание</Description>
@@ -36,311 +37,483 @@
   <DropThing>Пусни</DropThing>
   <Rename>Преименувай</Rename>
   <RenameColonist>Преименувай заселник</RenameColonist>
-  <UnknownLower>непознат</UnknownLower>
-  <On>Вкл.</On>
-  <Off>Изкл.</Off>
+  <UnknownLower>неизвестно</UnknownLower>
+  <On>Вкл</On>
+  <Off>Изкл</Off>
   <PowerSwitch_Power>Енергия</PowerSwitch_Power>
-  <JoyTolerances>Толерантност на Радост</JoyTolerances>
-  <MentalStateLetterLabel>Умствено състояние</MentalStateLetterLabel>
+  <JoyTolerances>Удовлетвореност</JoyTolerances>
   <MilkFullness>Мляко</MilkFullness>
   <WoolGrowth>Вълна</WoolGrowth>
-  <EggProgress>Яйце</EggProgress>
+  <EggProgress>Яйца</EggProgress>
   <Fertilized>Оплодена</Fertilized>
-  <ProgressStoppedUntilFertilized>Прогесът е спрян до оплодяване</ProgressStoppedUntilFertilized>
-  <SkillTooLow>трябват {0} умение {2}, а имаш {1}</SkillTooLow>
-  <EggDamagedEmbryo>повреден ембрион</EggDamagedEmbryo>
-  <CorpsePercentMissing>Липсват части от тялото</CorpsePercentMissing>
-  <HiveReproducesIn>Създава нов след</HiveReproducesIn>
-  <BrokenDown>Негоден</BrokenDown>
+  <ProgressStoppedUntilFertilized>Прогресът е спрян до оплодяване</ProgressStoppedUntilFertilized>
+  <SkillTooLow>изисква {0} ниво {2}, сега е {1}</SkillTooLow>
+  <Freezing>Хипотермия</Freezing>
+  <Overheating>Прегряване</Overheating>
+  <RuinedByTemperature>Се развали, заради температурните условия.</RuinedByTemperature>
+  <CorpsePercentMissing>липсват части на тялото</CorpsePercentMissing>
+  <HiveReproducesIn>Разплод след</HiveReproducesIn>
+  <DormantHiveNotReproducing>Не се възпроизвежда: в хибернация.</DormantHiveNotReproducing>
+  <NextSpawnedItemIn>След. {0} след</NextSpawnedItemIn>
+  <BrokenDown>Счупено</BrokenDown>
   <BondBrackets>(собственик)</BondBrackets>
   <Fuel>Гориво</Fuel>
-  
+  <FuelLevelGizmoLabel>Гориво</FuelLevelGizmoLabel>
+  <SetTargetFuelLevel>Напълни гориво до ниво в {0} к-во.</SetTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Напълни гориво до ниво в {0} к-во.\nМакс. разстояние на полета: {1} клетки</SetPodLauncherTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Определено ниво за гориво: {0}</ConfiguredTargetFuelLevel>
+  <Enemies>враг</Enemies>
+  <TimePassed>изминало време?</TimePassed>
+  <CurrentRadius>текущ радиус</CurrentRadius>
+  <RadiusExpandsIn>радиуса ще се увеличи след</RadiusExpandsIn>
+  <Permanent>постоянен</Permanent>
+  <CaravanResting>Почивка.</CaravanResting>
+  <CaravanEstimatedTimeToDestination>Приблизително време за пътуване: {0}</CaravanEstimatedTimeToDestination>
+  <CaravanImmobilizedByMass>Не може да се изпълни: твърде тежко.</CaravanImmobilizedByMass>
+  <CaravanOutOfFood>Няма храна.</CaravanOutOfFood>
+  <CaravanDaysOfFood>Храната стига за {0} дни</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>Храната стига за {0} дни, ще се развали след {1} дни</CaravanDaysOfFoodRot>
+  <CaravanMemberMentalBreak>В застой: {0} получи нервен срив.</CaravanMemberMentalBreak>
+  <AllCaravanMembersDowned>В застой: всички членове са загинали.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>В застой: всички получиха нервен срив.</AllCaravanMembersMentalBreak>
+  <CaravanTraveling>В път.</CaravanTraveling>
+  <CaravanWaiting>Чака.</CaravanWaiting>
+  <CaravanHoursPerTile>ч на клетка</CaravanHoursPerTile>
+  <CaravanBaseMovementTime>Време за пътуване</CaravanBaseMovementTime>
+  <CurrentTileMovementTime>Текущо време на движение на клетка</CurrentTileMovementTime>
+  <StealthFactor>Потайност</StealthFactor>
+  <Temperature>Температура</Temperature>
+  <BadTemperature>неподходяща температура</BadTemperature>
+  <IdealFermentingTemperature>Идеална температура за ферментация</IdealFermentingTemperature>
+  <DrugEffectMultiplier>{0} мултипликационен ефект: {1}</DrugEffectMultiplier>
+  <CaravanVisiting>Посещава {0}.</CaravanVisiting>
+  <CaravanEntering>Влиза в {0}.</CaravanEntering>
+  <CaravanAttacking>Напада {0}.</CaravanAttacking>
+  <WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
+  <WornByCorpseChar>Т</WornByCorpseChar>
+  <DeterioratingDueToBeingUnroofed>Повредено, защото не беше под покрив.</DeterioratingDueToBeingUnroofed>
+  <Map>Карта</Map>
+  <ForceExitAndRemoveMapCountdown>{0} часа преди заминаването</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>Пътешествениците ще напуснат това място и ще продължат пътуването си след {0} часа.</ForceExitAndRemoveMapCountdownTip>
+  <Room>Стая</Room>
+  <BeautyHere>Красота</BeautyHere>
+  <NoPower>Няма захранване</NoPower>
+  <WorkSpeedPenalty>Наказание за скоростта на работа</WorkSpeedPenalty>
+  <DisabledCommand>ОТКЛЮЧЕНО</DisabledCommand>
+  <ReadyForLaunch>Готов за стартиране.</ReadyForLaunch>
+  <NotReadyForLaunch>Все още не е готов за стартиране</NotReadyForLaunch>
+  <NotAllInGroupConnectedToFuelingPort>не е свързван към горивната станция</NotAllInGroupConnectedToFuelingPort>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>няма гориво</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <TransportPodInGroupHasSomethingLeftToLoad>зареждането все още не е приключило</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodDestinationBeyondMaximumRange>Извън максималния обхват</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodNotEnoughFuel>Недостатъчно гориво</TransportPodNotEnoughFuel>
+  <SettlementTrader>{0} от фракция {1}</SettlementTrader>
+  <RoomSurgerySuccessChanceFactor>Шанс за успешна операция на закрито</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>Шанс за успешно лечение на инфекция на закрито</RoomInfectionChanceFactor>
+  <VentClosed>Затворено</VentClosed>
+  <WornBy>носен от {0}</WornBy>
+  <EquippedBy>оръжие {0}</EquippedBy>
+  <QuestTargetDestroyInspectString>{0} искат този лагер да бъде унищожен.\n    Награда: {1}.</QuestTargetDestroyInspectString>
+  <WorldObjectTimeout>Оставащо време: {0}</WorldObjectTimeout>
+  <LongRangeMineralScannerEfficiency>Ефективност: {0}</LongRangeMineralScannerEfficiency>
+  <ItemStashContents>Съдържание: {0}.</ItemStashContents>
+  <SomeItemStashContents>Съдържание: {0} и други.</SomeItemStashContents>
+  <ClickToSortByThisColumn>Натиснете за сортиране по тази колония.</ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>Shift + клик: Повиши приоритет\nShift + десен клик: Понижи приоритет</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + клик: Разреши всичко\nShift + десен клик: Забрани всичко</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>Shift + клик: Ограничи цялата домашна област\nShift + десен клик: Свали ограниченията за всички</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>Shift + клик: Маркиране на всичко\nShift + десен клик: Отмаркирай всичко</CheckboxShiftClickTip>
+  <KnownSiteThreat>Заплаха: {0}.</KnownSiteThreat>
+  <KnownSiteThreats>Заплахи: {0}.</KnownSiteThreats>
+  <KnownSiteThreatsNone>Няма заплахи.</KnownSiteThreatsNone>
+  <SkillRequirements>Изисквания</SkillRequirements>
+  <Products>Съставки</Products>
+  <DeepDrillExhausted>Дълбоките находища са изчерпани.</DeepDrillExhausted>
+  <Relationship>{0} от {1}</Relationship>
+  <Prisoner>Затворник</Prisoner>
+  <Refugee>Бежанец</Refugee>
+
+  <!-- Fermentation barrel -->
+  <ContainsWort>Съдържа {0} / {1} малц.</ContainsWort>
+  <ContainsBeer>Съдържа {0} / {1} пиво.</ContainsBeer>
+  <Fermented>Ферментира</Fermented>
+  <FermentationProgress>Прогрес: {0} (останаха {1})</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>Неподходяща температура. Скорост на ферментация: {0}</FermentationBarrelOutOfIdealTemperature>
+
   <!--TextMotes-->
-  <Headshot>Изстел в главата</Headshot>
-  <TreatQuality>качество на лечение {0}</TreatQuality>
-  <PoorResult>лош резултат</PoorResult>
-  <GoodResult>добър резултат</GoodResult>
+  <Headshot>Изстрел в главата</Headshot>
   <TextMote_TreatSuccess>Успешно лечение!\n{0} шанс</TextMote_TreatSuccess>
   <TextMote_TreatFailed>Неуспешно лечение\n{0} шанс</TextMote_TreatFailed>
-  <HarvestFailed>Реколтата\nпропадна</HarvestFailed>
+  <TextMote_HarvestFailed>Реколта\nзагубена</TextMote_HarvestFailed>
+  <TextMote_YieldWasted>Реколта\nзагубена</TextMote_YieldWasted>
+  <TextMote_ProductWasted>Продукт\nзагубен</TextMote_ProductWasted>
+  <TextMote_RecruitFail>Неуспешно набиране!\n{0} шанс</TextMote_RecruitFail>
   <TextMote_TameFail>Опитомяване неуспешно\n{0} шанс</TextMote_TameFail>
-  <TextMote_TameSuccess>Опитомен!\n{0} шанс</TextMote_TameSuccess>
-  <TextMote_TrainFail>Неуспешна дресировка: {0}\n{1} шанс</TextMote_TrainFail>
-  <TextMote_TrainSuccess>Дресировка успешна: {0}\n{1} шанс</TextMote_TrainSuccess>
-  <TextMote_FixBrokenDownBuildingFail>Поправката\nнеуспешна</TextMote_FixBrokenDownBuildingFail>
-
+  <TextMote_TameSuccess>Опитомено!\n{0} шанс</TextMote_TameSuccess>
+  <TextMote_TrainFail>Неуспешно обучение: {0}\n{1} шанс</TextMote_TrainFail>
+  <TextMote_TrainSuccess>Обучил: {0}\n{1} шанс</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>Неуспешно\nпоправяне</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>Неуспешно\nстроителство</TextMote_ConstructionFail>
+  <TextMote_Dodge>Избягване</TextMote_Dodge>
+  <TextMote_Tended>{0} излекуван</TextMote_Tended>
 
   <!-- Areas -->
-  <Home>Основна</Home>
+  <Home>Домашна област</Home>
+  <BuildRoof>Построи покрив</BuildRoof>
   <NoRoof>Без покрив</NoRoof>
-  <SnowClear>Чисти сняг</SnowClear>
-  <AreaDefaultLabel>Зона {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Животинска зона {0}</AreaAnimalDefaultLabel>
-  <NoAreaAllowed>Без ограничения</NoAreaAllowed>
-  <NewArea>Нова зона</NewArea>
-  <NewAreaAnimal>Нова животинска зона</NewAreaAnimal>
-  <InvertArea>Обърни</InvertArea>
-  
+  <SnowClear>Почистване на снега</SnowClear>
+  <AreaDefaultLabel>Област {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Област за животни {0}</AreaAnimalDefaultLabel>
+  <NoAreaAllowed>Не ограничено</NoAreaAllowed>
+  <NewArea>Нова област</NewArea>
+  <NewAreaAnimal>Нова област за животни</NewAreaAnimal>
+  <InvertArea>Инвертиране</InvertArea>
+
   <!-- Control -->
-  <CannotOrderNonControlled>Не може да заповядваш на единици извън контрол.</CannotOrderNonControlled>
-  <IsIncapableOfViolence>{0} не е способен на насилие.</IsIncapableOfViolence>
+  <CannotOrderNonControlled>Не може да командвате неконтролирани единици.</CannotOrderNonControlled>
+  <IsIncapableOfViolence>{0} не може да причини насилие.</IsIncapableOfViolence>
   <IsIncapableOfViolenceShort>неспособен на насилие</IsIncapableOfViolenceShort>
-  <IsNotDrafted>{0} не е Войник.</IsNotDrafted>
-  
+  <IsNotDrafted>{0} не е в режим на повикване.</IsNotDrafted>
+
   <!-- Snow -->
-  <SnowNone>Без сняг</SnowNone>
+  <SnowNone>Няма сняг</SnowNone>
   <SnowDusting>Сняг (лек)</SnowDusting>
-  <SnowThin>Сняг (тънък слой)</SnowThin>
-  <SnowMedium>Сняг (натрупал)</SnowMedium>
-  <SnowThick>Сняг (дебел слой)</SnowThick>
-  
+  <SnowThin>Сняг (малък)</SnowThin>
+  <SnowMedium>Сняг (среден)</SnowMedium>
+  <SnowThick>Сняг (дълбок)</SnowThick>
+
   <!-- Turrets -->
-  <GunInstalled>Инсталиран</GunInstalled>
+  <GunInstalled>Установен</GunInstalled>
   <MinimumRange>Минимален обхват</MinimumRange>
-  <CanFireIn>Ще стреля след</CanFireIn>
-  <ShellLoaded>Зареден боеприпас</ShellLoaded>
+  <CanFireIn>Презареждане през</CanFireIn>
+  <ShellLoaded>Зареден</ShellLoaded>
   <ShellNotLoaded>Не е зареден</ShellNotLoaded>
-  
+
   <!-- Job reports -->
-	<ReportHaulingTo>Носи {0} до {1}.</ReportHaulingTo>
-	<ReportHauling>Носи {0}.</ReportHauling>
-  <ReportSleeping>Спи.</ReportSleeping>
+  <ReportHaulingTo>премества {0} на {1}.</ReportHaulingTo>
+  <ReportHauling>премества {0}.</ReportHauling>
+  <ReportHaulingUnknown>носи товар.</ReportHaulingUnknown>
+  <ReportSleeping>спи.</ReportSleeping>
   <ReportResting>почива.</ReportResting>
-  <WatchingSunrise>Гледа изгрева</WatchingSunrise>
-  <CloudWatching>Гледа облаците</CloudWatching>
-  <WatchingSunset>Гледа залеза</WatchingSunset>
-  <Stargazing>Гледа звездите</Stargazing>
-  <WatchingEclipse>Гледа затъмнението</WatchingEclipse>
-  <DeliveringFood>Носи храна до {0}.</DeliveringFood>
-  <UsingVerb>Ползва {0} върху {1}.</UsingVerb>
-  <AreaLower>зона</AreaLower>
-  <ReportCowering>Крие се.</ReportCowering>
-  
-	<!-- Shooting report -->
+  <WatchingSunrise>наслаждава се на изгрева.</WatchingSunrise>
+  <CloudWatching>наблюдава облаците.</CloudWatching>
+  <WatchingSunset>наслаждава се на залеза.</WatchingSunset>
+  <Stargazing>зяпа звездите.</Stargazing>
+  <WatchingEclipse>наблюдава затъмнението.</WatchingEclipse>
+  <WatchingAurora>наслаждава се на полярното сияние.</WatchingAurora>
+  <UsingVerb>използва {0} на {1}.</UsingVerb>
+  <AreaLower>област</AreaLower>
+  <ReportCowering>търси подслон.</ReportCowering>
+  <ReportStanding>стои.</ReportStanding>
+  <ReportExtinguishingFire>потушава пожар.</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>потушава пожар с {0}.</ReportExtinguishingFireOn>
+  <ReportDiggingUpCorpse>разкопава труп.</ReportDiggingUpCorpse>
+
+  <!-- Lord job reports -->
+  <LordReportAttendingMarriageCeremony>Посещава сватбена церемония</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>Посещава парти</LordReportAttendingParty>
+  <LordReportFormingCaravan>Снабдява керван</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
   <WeaponMissRadius>Радиус на пропуск</WeaponMissRadius>
-	<ShootReportShooterAbility>Стрелец</ShootReportShooterAbility>
-	<ShootReportWeapon>Оръжие</ShootReportWeapon>
-	<Darkness>Тъмнина</Darkness>
-	<TargetProne>Очаквана мишена</TargetProne>
-	<TargetSize>Големина на мишена</TargetSize>
-	<Weather>Време</Weather>
-	<ShootingCover>Прикритие</ShootingCover>
-	<CoverThingBlocksPercentOfShots>{0} спира {1}</CoverThingBlocksPercentOfShots>
-	<NoCoverLower>без прикритие</NoCoverLower>
-	
+  <ShootReportShooterAbility>Стрелец</ShootReportShooterAbility>
+  <ShootReportWeapon>Оръжие</ShootReportWeapon>
+  <Darkness>Тъмнота</Darkness>
+  <TargetProne>Насочване в лежаща позиция</TargetProne>
+  <TargetSize>Размер на целта</TargetSize>
+  <Weather>Време</Weather>
+  <ShootingCover>Прикритие</ShootingCover>
+  <CoverThingBlocksPercentOfShots>{0} блокира {1}</CoverThingBlocksPercentOfShots>
+  <NoCoverLower>Няма прикритие</NoCoverLower>
+  <Execution>Екзекуция</Execution>
+
   <!-- Generated recipes -->
-  <RecipeMake>Създай {0}</RecipeMake>
+  <RecipeMake>създай {0}</RecipeMake>
   <RecipeMakeJobString>Създава {0}.</RecipeMakeJobString>
-  
+  <RecipeAdminister>приложи {0}</RecipeAdminister>
+  <RecipeAdministerJobString>Приема {0}.</RecipeAdministerJobString>
+  <TeetotalerUnhappy>трезвениците ще бъдат недоволни</TeetotalerUnhappy>
+  <ProsthophobeUnhappy>протезофобите ще бъдат недоволни</ProsthophobeUnhappy>
+
   <!-- Thoughts -->
-  <ThoughtExpiresIn>Изчезва след: {0}</ThoughtExpiresIn>
-  <ThoughtStartsExpiringIn>Започва да изчезва след: {0}</ThoughtStartsExpiringIn>
-  <ThoughtFinishesExpiringIn>Приключва след: {0}</ThoughtFinishesExpiringIn>
-  <MentalBreakThresholdHard>Ниво на сериозен нервен срив</MentalBreakThresholdHard>
-  <MentalBreakThresholdSoft>Ниво на лек нервен срив</MentalBreakThresholdSoft>
+  <ThoughtExpiresIn>Изтича след: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Започва да изтича след: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Приключване след: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThresholdExtreme>На прага на екстремален нервен срив</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>На прага на силен нервен срив</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>На прага на лек нервен срив</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-  <PawnMainDescFactionedWrap>{0} от {1}</PawnMainDescFactionedWrap>
-  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescGendered>{0}, {1}</PawnMainDescGendered>
+  <PawnMainDescFactionedWrap>{0} {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescLifestageWrap>{1}, {0}</PawnMainDescLifestageWrap>
   <Faction>Фракция</Faction>
-  <Equipped>Екипиран</Equipped>
-  <EquippedNothing>Нищо</EquippedNothing>
-  <Incapacitated>Безсилен</Incapacitated>
-  <InRestraints>В окови (бавен)</InRestraints>
-  <Carrying>Носи</Carrying>
+  <Equipped>Оръжие</Equipped>
+  <EquippedNothing>нищо</EquippedNothing>
+  <Dead>Мъртъв(а)</Dead>
+  <Unconscious>Без съзнание</Unconscious>
+  <PainShock>В състояние на болезнен шок</PainShock>
+  <PainShockShort>Изпадна в шок</PainShockShort>
+  <Incapacitated>Победен(а)</Incapacitated>
+  <InRestraints>В окови (движението е забавено)</InRestraints>
+  <Carrying>Преместване</Carrying>
+  <AffectedBy>Влияещи фактори:</AffectedBy>
+  <Queued>В опашка</Queued>
 
   <!-- Inspector general stuff -->
-  <SelectNextInSquareTip>Избира следващия предмет в същата клетка.\n\nКлавиш: {0}\n\nМожеш съще така да цъкнеш бавно върху клетката отново.</SelectNextInSquareTip>
-  <DefInfoTip>Виж информацията за този обект.</DefInfoTip>
-  
-  <!-- Hostility response -->
-  <HostilityReponseTip>Промени реакцията на заселник при близки врагове ако не е Войник.</HostilityReponseTip>
-  <HostilityResponseCurrentMode>Моментно състояние</HostilityResponseCurrentMode>
-  
-	<!-- like 'Blood of John' -->
-	<OfLower>на</OfLower>
+  <SelectNextInSquareTip>Изберете друг предмет на тази клетка.\n\nКлавиш: {0}\n\nСъщото може да се направи, като натиснете върху клетката още веднъж.</SelectNextInSquareTip>
+  <DefInfoTip>Виж информация за този обект.</DefInfoTip>
 
-	<!-- Power readout -->
-	<PowerNotConnected>Не е свързан с мрежа.</PowerNotConnected>
-  <PowerConnectedRateStored>Енергия количество/съхранено: {0} W / {1} Wd</PowerConnectedRateStored>
-  <PowerNeeded>Необходима енергия</PowerNeeded>
-  <PowerOutput>Отдава енергия</PowerOutput>
-  <PowerBatteryStored>Съхранено</PowerBatteryStored>
-  <PowerBatteryEfficiency>Ефикасност</PowerBatteryEfficiency>
+  <!-- Hostility response -->
+  <HostilityReponseTip>Изберете, как заселниците да реагират на враговете, когато не са в боен режим.</HostilityReponseTip>
+  <HostilityResponseCurrentMode>Текущ режим</HostilityResponseCurrentMode>
+
+  <!-- like 'Blood of John' -->
+  <OfLower></OfLower>
+
+  <!-- Power readout -->
+  <PowerNotConnected>Не е свързан към мрежата.</PowerNotConnected>
+  <PowerConnectedRateStored>Мрежово захранване/акумулирана енергия: {0} W / {1} W*дни</PowerConnectedRateStored>
+  <PowerNeeded>Консумирана мощност</PowerNeeded>
+  <PowerOutput>Производство на елекроенергия</PowerOutput>
+  <PowerBatteryStored>Заряд</PowerBatteryStored>
+  <PowerBatteryEfficiency>КПД</PowerBatteryEfficiency>
+  <SelfDischarging>Освобождаване</SelfDischarging>
 
   <!-- Temperature control -->
   <TargetTemperature>Зададена температура</TargetTemperature>
-  <PowerConsumptionMode>Изполване на енергия</PowerConsumptionMode>
-  <PowerConsumptionHigh>Високо</PowerConsumptionHigh>
-  <PowerConsumptionLow>Ниско</PowerConsumptionLow>
-  
-  <!-- Temperature readout -->
-  <Indoors>Под покрив</Indoors>
-  <IndoorsUnroofed>Без покрив</IndoorsUnroofed>
-  <Outdoors>Навън</Outdoors>
-  
-  <!--Rotting-->
-	<RotStateFresh>Скорошен</RotStateFresh>
-	<RotStateRotting>Гниещ</RotStateRotting>
-	<RotStateDessicated>Изгнил</RotStateDessicated>
-	
-  <!-- Shooting tooltip -->
-  <ShotBy>Застрелян от {0}</ShotBy>
-  <CannotHit>Не може да уцели мишената.</CannotHit>
+  <PowerConsumptionMode>Потребление енергия</PowerConsumptionMode>
+  <PowerConsumptionHigh>високо</PowerConsumptionHigh>
+  <PowerConsumptionLow>ниско</PowerConsumptionLow>
 
-  <!-- Storage priority labels -->
-  <StoragePriorityUnstored>Не складирай</StoragePriorityUnstored>
-  <StoragePriorityLow>Нисък</StoragePriorityLow>
-  <StoragePriorityNormal>Нормален</StoragePriorityNormal>
-  <StoragePriorityPreferred>Предпочитан</StoragePriorityPreferred>
-  <StoragePriorityImportant>Важен</StoragePriorityImportant>
-  <StoragePriorityCritical>Критичен</StoragePriorityCritical>
+  <!-- Temperature readout -->
+  <Indoors>Вътре</Indoors>
+  <IndoorsUnroofed>Без покрив</IndoorsUnroofed>
+  <Outdoors>Отвън</Outdoors>
+
+  <!--Rotting-->
+  <RotStateFresh>Свеж</RotStateFresh>
+  <RotStateRotting>Изгнива</RotStateRotting>
+  <RotStateDessicated>Скелет</RotStateDessicated>
+
+  <!-- Shooting tooltip -->
+  <ShotBy>Изстрел от {0}</ShotBy>
+  <CannotHit> Не може да уцели мишената.</CannotHit>
 
   <!-- Rotting -->
-  <CurrentlyFrozen>Замразен (няма да се развали)</CurrentlyFrozen>
-  <CurrentlyRefrigerated>Замравен (Разваля се след {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Не е замразен (Разваля се след {0})</NotRefrigerated>
+  <CurrentlyFrozen>Замръзнал (не се разваля)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Охладено (разваляне след {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Не охладено (разваляне след {0})</NotRefrigerated>
   <OverADecade>повече от 10 години</OverADecade>
-  <LessThanADay>по-малко от ден</LessThanADay>
-  
+  <LessThanADay>по малко от 24 часа</LessThanADay>
+
   <!-- Meal -->
   <Ingredients>Съставки</Ingredients>
 
   <!-- Plants -->
-  <PercentGrowth>{0} порастнал</PercentGrowth>
-  <GrowthRate>Ниво на растеж</GrowthRate>
-  <FullyGrownIn>Напълно израстнал след {0} растеж.</FullyGrownIn>
-  <PlantNeedsLightLevel>Нуждае се от светлина</PlantNeedsLightLevel>
-  <PlantResting>Почива</PlantResting>
-  <OutOfIdealTemperatureRange>Извън оптимална температура (расте с {0}% от нормалната скорост)</OutOfIdealTemperatureRange>
-  <OutOfIdealTemperatureRangeNotGrowing>Извън оптимална температура (не расте)</OutOfIdealTemperatureRangeNotGrowing>
-  <ReadyToHarvest>Готов за събиране.</ReadyToHarvest>
-  <Mature>Израстнал.</Mature>
-  <SeedLabel>{0} семе</SeedLabel>
-  <OutdoorGrowingPeriod>Период на събиране: {0}</OutdoorGrowingPeriod>
+  <PercentGrowth>израснал ? {0}</PercentGrowth>
+  <GrowthRate>Скорост на растеж</GrowthRate>
+  <FullyGrownIn>Израстване напълно след {0}.</FullyGrownIn>
+  <PlantNeedsLightLevel>Не расте (Трябва светлина)</PlantNeedsLightLevel>
+  <PlantResting>Спи</PlantResting>
+  <OutOfIdealTemperatureRange>Неподходяща температура (расте със скорост {0}% от нормата)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Неподходяща температура. Не расте.</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>Готово за събиране.</ReadyToHarvest>
+  <Mature>Съзряло.</Mature>
+  <OutdoorGrowingPeriod>Период на растеж</OutdoorGrowingPeriod>
   <NoGrowingPeriod>Никога</NoGrowingPeriod>
-  <GrowYearRound>Целогодишен</GrowYearRound>
-  <GrowSeasonHereNow>В сезон.</GrowSeasonHereNow>
-  <CannotGrowTooCold>Не расте - извън сезон.</CannotGrowTooCold>
+  <GrowYearRound>Цяла година</GrowYearRound>
+  <GrowSeasonHereNow>Текуш сезон на растеж.</GrowSeasonHereNow>
+  <CannotGrowBadSeasonTemperature>Не може да расте (Неподходящен температурен сезон).</CannotGrowBadSeasonTemperature>
+  <Blighted>Засегнат от болест</Blighted>
+  <DyingBecauseExposedToLight>Загина от светлина</DyingBecauseExposedToLight>
 
   <!-- Zones -->
   <Zone>Зона</Zone>
   <GrowingZone>Зона за растения</GrowingZone>
-  <Stockpile>Складова зона</Stockpile>
-  <DumpingStockpile>Зона за отпадъци</DumpingStockpile>
-  <Priority>Приоритет</Priority>
-  <ClearAll>Изчисти всичко</ClearAll>
-  <AllowAll>Позволи всичко</AllowAll>
+  <Stockpile>Склад</Stockpile>
+  <DumpingStockpile>Сметище</DumpingStockpile>
+  <Priority>Приоритети</Priority>
+  <ClearAll>Забрани всичко</ClearAll>
+  <AllowAll>Разреши всичко</AllowAll>
 
   <!-- ThingFilter -->
-	<HitPoints>{0} здравина</HitPoints>
-	<AnyQuality>всякакво качество</AnyQuality>
-	<OnlyQuality>само {0}</OnlyQuality>
+  <HitPoints>Цялост {0}</HitPoints>
+  <AnyQuality>Всякакво качество</AnyQuality>
+  <OnlyQuality>Само {0}</OnlyQuality>
 
-	<!-- Mouseover indicator -->
-  <Undiscovered>Непознат</Undiscovered>
-  
+  <!-- Mouseover indicator -->
+  <Undiscovered>Не е проучено</Undiscovered>
+
   <!-- Buttons -->
-  <ZoneVisibilityToggleButton>Включи видимостта на зоните.</ZoneVisibilityToggleButton>
-  <ShowBeautyToggleButton>Включи режим Красота.\n\nПоказва красотата на света от гледна точка на заселника на мястото, което сочи мишката.</ShowBeautyToggleButton>
-  <ShowRoomStatsToggleButton>Включи статистика на стаята.\n\nПоказва статистиката на стаята където сочи мишката.</ShowRoomStatsToggleButton>
-  <AutoHomeAreaToggleButton>Включи автоматичното разширяване на Основната Зона около нови постройки.</AutoHomeAreaToggleButton>
-  <CategorizedResourceReadoutToggleButton>Включи категоризиран изглед на ресурси.</CategorizedResourceReadoutToggleButton>
-  <ShowAnimalNamesToggleButton>Включи показване на имената на опитомени именувани животни.</ShowAnimalNamesToggleButton>
-  
+  <ShowLearningHelperWhenEmptyToggleButton>Показване/скриване на помощник-обучителя.\n\nПоказва помощника, дори когато няма активна тема за изучаване.</ShowLearningHelperWhenEmptyToggleButton>
+  <ZoneVisibilityToggleButton>Показване/скриване на зони.</ZoneVisibilityToggleButton>
+  <ShowEnvironmentToggleButton>Показване/скриване на околната среда.\n\nПоказва красотата на света от гледна точка на заселника на мястото, което сочи курсора.</ShowEnvironmentToggleButton>
+  <ShowColonistBarToggleButton>Показване/скриване на панела за заселници.\n\nПоказва на горната част на екрана иконки и състоянието на всички заселници.</ShowColonistBarToggleButton>
+  <AutoHomeAreaToggleButton>Превключване на автоматично разширяване на домашни области за нови сгради.</AutoHomeAreaToggleButton>
+  <CategorizedResourceReadoutToggleButton>Показване/скриване на количество ресурси в складовете изцяло или по категории.</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>Показване/скриване на имената на опитомените животни.</ShowAnimalNamesToggleButton>
+  <ShowRoofOverlayToggleButton>Показване/скриване на покриви.</ShowRoofOverlayToggleButton>
+  <LockNorthUpToggleButton>Завъртване на камерата, така че северът винаги да е от горе.</LockNorthUpToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Показване/скриване на дневни/нощни осветителни системи.</UsePlanetDayNightSystemToggleButton>
+  <ShowExpandingIconsToggleButton>Показване/скриване на падащи иконки, вместо обичайните за далечни обекти.</ShowExpandingIconsToggleButton>
+  <ShowWorldFeaturesToggleButton>Показване/скриване на имената за формите на релефа.</ShowWorldFeaturesToggleButton>
+
   <!-- Fire -->
-  <Fire>Пожар!</Fire>
-  <FireOn> {0} гори</FireOn>
+  <Fire>Пожар</Fire>
+  <FireOn>{0} гори</FireOn>
   <Burning>Гори</Burning>
-  <FireSizeLower>големина на огъня {0}</FireSizeLower>
- 
-  <!-- Map conditions (eclipse, solar flare, etc )-->
-  <MapConditionsTip>Специални условия засягат тази зона в момента.</MapConditionsTip>
+  <FireSizeLower>мащаб на пожар {0}</FireSizeLower>
+
+  <!-- Game conditions -->
+  <GameConditionsTip>Специални условия засягат тази зона в момента.</GameConditionsTip>
+  <TimeLeft>оставащо време</TimeLeft>
+  <ImpactDate>дата до удара</ImpactDate>
 
   <!-- Building placement -->
-  <NoStuffsToBuildWith>Нямаш достъпни материали, с които да построиш това.</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>Няма подходящи материали.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
-  <MustPlaceUnroofed>Не може да бъде поставен под покрив.</MustPlaceUnroofed>
-  <MustPlaceHeadOnShipBeam>Трябва да бъде поставен с горната част към структурната корабна греда.</MustPlaceHeadOnShipBeam>
-  <MustPlaceNextToHopperAccepter>Трябва да бъде поставен до обект. който се нуждае от Табло за Сервиране.</MustPlaceNextToHopperAccepter>
-  <MustPlaceOnSteamGeyser>Трябва да бъде поставен върху Парен Гейзер.</MustPlaceOnSteamGeyser>
-  <MustPlaceCoolerWithFreeSpaces>Топлата и студената част на охладителя трябва да са свободни.</MustPlaceCoolerWithFreeSpaces>
-	<MustPlaceVentWithFreeSpaces>Двете части на шахтата трябва да са свободни за да минава въздух през нея.</MustPlaceVentWithFreeSpaces>
-	<MustPlaceAdjacentStandable>Трябва да има достатъчно място от всички страни.</MustPlaceAdjacentStandable>
-	
-	<!-- Wind Turbine -->
-  <WindTurbine_WindPathIsBlockedBy>Блокирана от</WindTurbine_WindPathIsBlockedBy>
+  <WillGetWorkSpeedPenalty>{0} получи наказание за бързина на работа</WillGetWorkSpeedPenalty>
+  <MustPlaceUnroofed>Не може да бъде поставено под покрив.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>Трябва да бъде поставено плътно срещу централната греда на кораба.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Трябва да бъде поставено само да устройство, което се нуждае от фуния.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Трябва да бъде поставено директно върху гейзер.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>Топлата и студената част на климатика, трябва да са свободни.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>Двете  страни трябва да бъдат свободни, за циркулация на въздуха.</MustPlaceVentWithFreeSpaces>
+  <MustPlaceAdjacentStandable>Трябва да има достатъчно място от всички страни.</MustPlaceAdjacentStandable>
+  <MustPlaceNearFuelingPort>Трябва да бъде поставено близо до горивната система.</MustPlaceNearFuelingPort>
+
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>Блокиран от</WindTurbine_WindPathIsBlockedBy>
   <WindTurbine_WindPathIsBlockedByRoof>Блокирана от покрив</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Cryptosleep casket -->
   <CasketContains>Съдържа</CasketContains>
-  <CasketUnknownContents>Непознат</CasketUnknownContents>
-  <CasketWarning>Внимание!\n\nNAME е последният ти заселник! Ако го поставиш в криптосън, няма да может да продължиш играта. Със сигурност ли искаш да продължиш?</CasketWarning>
+  <CasketWarning>Внимание!\n\n[PAWN_nameDef] — последният ви заселник. Ако не поставите [PAWN_possessive] в този контейнер, възможно е после да не може да продължите играта. Сигурен ли сте, че искат да направите това?</CasketWarning>
 
   <!-- Ship launch report -->
-  <ShipReportCannotLaunch>Негоден за изстрелване в космоса.</ShipReportCannotLaunch>
-  <ShipReportCanLaunch>Готов за изстрелване в космоса.</ShipReportCanLaunch>
-  <ShipReportMissingPart>Критичен компонент липсва</ShipReportMissingPart>
-  <ShipReportNoFullPods>Няма пълни ковчези за криптосън</ShipReportNoFullPods>
+  <ShipReportCannotLaunch>Не може да се стартира.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Готов за стартиране.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Липсват важни модули</ShipReportMissingPart>
+  <ShipReportMissingPartRequires>изисква</ShipReportMissingPartRequires>
+  <ShipReportNoFullPods>Няма пълни контейнери с криптосън.</ShipReportNoFullPods>
+  <ShipReportHibernating>Модулът е неактивен</ShipReportHibernating>
+  <ShipReportNotReady>Модула не е готов</ShipReportNotReady>
+  <HibernateWarning>Шарлон Вайтстоун е готов да стартира реактора.\n\nТой предупреждава, че процесът ще отнеме 15 дни, а съпътстващите изблици на енергия ще се усетят от далече и ще разкрият местоположението на кораба. Това ще привлича вниманието на похитители и ловци на съкровища. Уверете се, че сте готов за отбрана.</HibernateWarning>
+  <HibernateCompleteLabel>Реактора е готов за работа</HibernateCompleteLabel>
+  <HibernateComplete>Шарлон Вайтстоун е приключил с процедурата за включване на реактора. Сега кораба е готов за излитане.</HibernateComplete>
 
   <!-- Neurotrainer -->
-  <UseNeurotrainer>Използвай невротренажор за да увеличиш {0}</UseNeurotrainer>
-  <NeurotrainerUsed>{0} използва {1} невротренажор за да увеличи умението от ниво {2} до ниво {3}.</NeurotrainerUsed>
-  
-  <!-- Artifact -->
-  <UseArtifact>Активирай</UseArtifact>
-  
-  <!-- Firefoam popper -->
-  <TriggerFirefoamPopper>Активирай противопожарна пяна</TriggerFirefoamPopper>
-  
+  <NeurotrainerUsed>{0} подобрява умение {1} с ниво {2} до ниво {3}, използвайки нейротренер.</NeurotrainerUsed>
+
   <!-- Minification -->
-  <Installed>Поставен</Installed>
-  <NotInstalled>Не е поставен</NotInstalled>
+  <Installed>Инсталирано</Installed>
+  <NotInstalled>Не е инсталирано</NotInstalled>
 
   <!-- Art -->
-  <Title>Заглавие</Title>
-  <Untitled>Неозаглавено</Untitled>
-  
+  <Title>Име</Title>
+  <Untitled>Без име</Untitled>
+
   <!-- Unfinished thing -->
-  <UnfinishedItem>Недовършен {0}</UnfinishedItem>
-  <UnfinishedItemWithStuff>Недовършен {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItem>Незав. {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Незав. {1} от {0}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <Quality>Качество</Quality>
-  <QualityDescription>Качеството на предмета показва колко добре е направен.</QualityDescription>
+  <QualityDescription>Качеството на предмета отразява колко добре е направен.</QualityDescription>
   <QualityIs>Качество: {0}</QualityIs>
-    
+
   <!-- Mood descriptions -->
-  <Mood_MentalState>умствено състояние</Mood_MentalState>
-  <Mood_AboutToBreak>пред нервен срив</Mood_AboutToBreak>
+  <Mood_MentalState>разбит</Mood_MentalState>
+  <Mood_AboutToBreak>почти разорен</Mood_AboutToBreak>
   <Mood_OnEdge>на ръба</Mood_OnEdge>
-  <Mood_Stressed>стресиран</Mood_Stressed>
-  <Mood_Neutral>неутрален</Mood_Neutral>
-	<Mood_Content>доволен</Mood_Content>
+  <Mood_Stressed>в стрес</Mood_Stressed>
+  <Mood_Neutral>спокоен</Mood_Neutral>
+  <Mood_Content>доволен</Mood_Content>
   <Mood_Happy>щастлив</Mood_Happy>
-  
+
   <!-- Game over -->
-  <GameOverEveryoneDead>Всички са мъртви или изчезнали. Историята приключи.\n\nМоже би някой друг ще открие някаква полза от руините на това място.</GameOverEveryoneDead>
-  <GameOverShipLaunched>Корабът бе изстрелян! Следните заселници се спасиха:\n\n{0}\nТези заселници бяха изоставени:\n\n{1}\nБордовият AI ще се опита да заведе кораба до безопасно място. Може би ще открие богата планета в тази система... а може и да поеме многовековно пътешествие до далечна звезда. Може да реши да се скрие под леда на астероид за няколко хиляди години, чакайки търпеливо някой да го превърне в Райски свят.\n\nЩе откриете какво се е случило след като се събудите.</GameOverShipLaunched>
-  <GameOverKeepPlaying>Продължи играта</GameOverKeepPlaying>
-  <GameOverMainMenu>В основно меню</GameOverMainMenu>
-  
+  <GameOverEveryoneDead>Всички заселници са или мъртви или са си отишли. С това историята приключи.\n\nМоже би някой друг ще намери полза от руините на това място.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Изстреляхте кораб! Следните заселници бяха спасени:\n\n{0}\nСледните заселници останаха:\n\n{1}\nВашият ИИ се постара да изпрати кораба на безопасно място. Той може да ви намери процъфтяваща планета в тази система. Или може да предприеме многовековно пътешествие до друга звезда. Или да реши да се скрие под лед в някой астероид за хиляди години, чакайки докато някой построй нов технологичен свят тук.\n\nЩе научите това когато се събудите.</GameOverShipLaunched>
+  <GameOverPlanetkillerImpact>С скорост близка до тази на светлината, разрушителя на планети се разби на повърхността със силата на трилион водородни бомби. Подобно на напълнена с вода балон, простреляна от оръжие, този свят се  разтопи от сблъсъка и разпръсна вътрешностите си в космоса.\n\nЧасти {0} сега образуват астероиден пояс. Всички останали образуват адски разтопен пейзаж, целият покрит с вълни от земетресения и километри вдигащи се скали\n\nВие не оцеляхте.</GameOverPlanetkillerImpact>
+  <GameOverArrivedAtJourneyDestination>Веднага след като се качихте на борда, бяхте посрещнат с отворени обятия. Изглежда, че хората се радват, че сега са с един човек повече.\n\nСледните заселници напуснаха планетата:\n\n{0}\nСледните заселници останаха:\n\n{1}\nИИ се постара да изпрати кораба на безопасно място. Той може да ви намери процъфтяваща планета в тази система. Или може да предприеме многовековно пътешествие до друга звезда. Или да реши да се скрие под лед в някой астероид за хиляди години, чакайки докато някой построй нов технологичен свят тук..\n\nПреди да влезете в капсулата за криптосън вие за около секунда се колебаете дали да имате доверие на тези хора?\n\nЩе узнаете, когато се събудите.</GameOverArrivedAtJourneyDestination>
+  <GameOverKeepPlaying>Продъжи играта</GameOverKeepPlaying>
+  <GameOverMainMenu>Главно меню</GameOverMainMenu>
+
   <!-- Generic lifespan -->
   <LifespanExpiry>Изтича след:</LifespanExpiry>
-  
+
   <!-- Traps -->
-  <TrapArmed>Зареден</TrapArmed>
-  <TrapNotArmed>Празен</TrapNotArmed>
-  <TrapRearmingCost>Презареждането струва: {0}</TrapRearmingCost>
-  
+  <TrapArmed>Въоръжено</TrapArmed>
+  <TrapNotArmed>Не е въоръжено</TrapNotArmed>
+  <TrapRearmingCost>Разходи за въоръжаване: {0}</TrapRearmingCost>
+
   <!-- Facilities -->
-  <InactiveFacility>неактивен</InactiveFacility>
-  
+  <InactiveFacility>изключено</InactiveFacility>
+
   <!-- Hediffs growth modes -->
-  <DiseaseGrowthModeChanged_Growing>{0} на {1} расте.</DiseaseGrowthModeChanged_Growing>
-  <DiseaseGrowthModeChanged_Stable>{0} на {1} е стабилен.</DiseaseGrowthModeChanged_Stable>
-  <DiseaseGrowthModeChanged_Remission>{0} на {1} е в ремисия.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Growing>{0}: {1} прогресира.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{0}: {1} се стабилизира.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{0}: {1} навлиза в период на ремисия.</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <MarriageSpotUsable>Може да бъде използвано.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>Не не може да бъде използвано: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>блокирано</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>твърде опасно за {0}</MarriageSpotDangerous>
+  <MarriageSpotForbidden>забранено за {0}</MarriageSpotForbidden>
+  <MarriageSpotReserved>резервирано</MarriageSpotReserved>
+  <MarriageSpotUnreachable>недостижимо за {0}</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>намира се в затворническа килия</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>неподходяща температура</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <ActivityIconMedicalRest>Почива на мед. легло</ActivityIconMedicalRest>
+  <ActivityIconSleeping>Спи</ActivityIconSleeping>
+  <ActivityIconFleeing>Тича</ActivityIconFleeing>
+  <ActivityIconAttacking>Воюва</ActivityIconAttacking>
+  <ActivityIconIdle>Мързелува</ActivityIconIdle>
+  <ActivityIconBurning>Гори</ActivityIconBurning>
+
+  <!-- Maintainable -->
+  <DueForMaintenance>Необходимо е обслужване.</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Вехтее заради липса на поддръжка.</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <ProgressToNextLump>Прогрес до следващи залежи</ProgressToNextLump>
+  <ResourceBelow>Ресурси под?</ResourceBelow>
+
+  <!-- Learning helper -->
+  <LearningHelper>Обучение</LearningHelper>
+  <MarkLearned>Маркирай като изучено</MarkLearned>
+  <AlreadyLearned>Изучено</AlreadyLearned>
+  <Filter>Филтри</Filter>
+
+  <!-- Compass -->
+  <CompassTip>Показва посоката на север. Натиснете тук, ако искате да ориентирате камерата така, че да показва северът отгоре.</CompassTip>
+
+  <!-- Distance measure -->
+  <RoutePlannerButtonTip>Натиснете тук, за да влезете в режим Редактиране на маршрут. Можете да планирате пътешествието си, като задавате точки на маршрути.</RoutePlannerButtonTip>
+  <RoutePlannerAddTwoOrMoreWaypoints>Добавете поне два точки на маршрута.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Добавете поне една точка на маршрута.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerEstTimeToFinalDest>Общо време за пътуване: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>В режим на редактиране се взема на предвид средната скорост на керванът. В действителност тя може да е различна.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Изчислено за: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Десен клик на мишката: Добави/изтрий точка на маршрута.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressEscapeToExit>ESC: Излез от режим на Редактиране на маршрут.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Върни се към формиране на керван.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <EstimatedTimeToThisWaypoint>Приблизително време до точката: {0}</EstimatedTimeToThisWaypoint>
+  <EstimatedTimeToThisWaypointFromPrevious>Приблизително време за пътуване от предишната точка до тази: {0}</EstimatedTimeToThisWaypointFromPrevious>
+
+  <!-- Outfits -->
+  <OutfitAnything>Каквото и да е</OutfitAnything>
+  <OutfitWorker>Работни дрехи</OutfitWorker>
+  <OutfitSoldier>Военна екипировка</OutfitSoldier>
+  <OutfitNudist>Нудистки костюм</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <HibernatableHibernating>Не е активен</HibernatableHibernating>
+  <HibernatableStartingUp>Стартиране</HibernatableStartingUp>
 
 </LanguageData>

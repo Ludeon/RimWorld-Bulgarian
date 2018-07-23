@@ -1,123 +1,170 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <CallOnRadio>Свързване с {0}</CallOnRadio>
+  <CannotUseReason>Не може да се използва: {0}</CannotUseReason>
+  <CannotUseSolarFlare>Не може да се използва: слънчево изригване</CannotUseSolarFlare>
+  <CannotUseNoPower>Не може да се използва: без енергия</CannotUseNoPower>
+  <CannotUseNoPath>Не може да се използва: недостъпно</CannotUseNoPath>
+  <CannotUseReserved>Не може да се използва: заето</CannotUseReserved>
+  <CannotUseFull>Не може да се използва: запълнено</CannotUseFull>
+  <LeaderUnavailable>лидер {0} недостъпен</LeaderUnavailable>
+  <LeaderUnavailableNoLeader>лидера е недостъпен</LeaderUnavailableNoLeader>
 
-  
-	<CallOnRadio>Повикай {0}</CallOnRadio>
-  <CannotUseReason>Не може да се използва ({0})</CannotUseReason>
-	<CannotUseSolarFlare>Не може да се използва (слънчево изригване)</CannotUseSolarFlare>
-	<CannotUseNoPower>Не може да се използва (няма енергия)</CannotUseNoPower>
-	<CannotUseNoPath>Не може да се използва (няма достъп)</CannotUseNoPath>
-  <CannotUseReserved>Не може да се използва (резервиран)</CannotUseReserved>
-  <CannotUseFull>Не може да се използва (пълен)</CannotUseFull>
-  
   <FireAt>Стреляй по {0}</FireAt>
 
-  <OutOfRange>извън обхват</OutOfRange>
-  <CannotHitTarget>не може да се уцели мишената</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} не е способен на Насилие</IsIncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} не е Войник</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>не може да командваш неконтролирани единици</CannotOrderNonControlledLower>
+  <OutOfRange>извън зоната</OutOfRange>
+  <CannotHitTarget>не може да уцели мишената</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} не е способен(на) на насилие</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>не способен(на) на насилие</IncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} не е призван</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>Не може да командвате неконтролирани единици</CannotOrderNonControlledLower>
+  <CannotAttackSelf>не може да атакувате себе си</CannotAttackSelf>
 
   <OrderManThing>Зареди {0}</OrderManThing>
-  
-  <MeleeAttack>Ръкопашна атака {0}</MeleeAttack>
-  <MeleeAttackToDeath>Убий {0} с ръкопашна атака</MeleeAttackToDeath>
-  <NoPath>няма достъп</NoPath>
 
-	<ForbiddenLower>забранено</ForbiddenLower>
-	<SociallyImproperLower>социално неуместно</SociallyImproperLower>
-  <PrisonerRoomLower>затворническа стая</PrisonerRoomLower>
-	<BurningLower>гори</BurningLower>
-	<NoEmptyPlaceLower>няма определено място за складиране</NoEmptyPlaceLower>
-	<AlreadyFilledLower>запълнено до обем</AlreadyFilledLower>
-	<MissingMaterials>трябват материали</MissingMaterials>
-  <MissingSkill>умението е твърде ниско</MissingSkill>
-	<NoEmptyGraveLower>няма празен гроб</NoEmptyGraveLower>
-  <AnimalInteractedTooRecently>животното е тренирано наскоро</AnimalInteractedTooRecently>
-  <NoUsableFood>няма използваема храна</NoUsableFood>
-  <AnimalsSkillTooLow>Умението Дресьор е твърде ниско</AnimalsSkillTooLow>
-	<NoComponentsToRepair>трябват компоненти</NoComponentsToRepair>
-	<NoFuelToRefuel>липсват {0}</NoFuelToRefuel>
+  <MeleeAttack>Близък бой с {0}</MeleeAttack>
+  <MeleeAttackToDeath>Убий {0} ръкопашно</MeleeAttackToDeath>
+  <NoPath>не може да се премине</NoPath>
 
-  <ConsumeThing>Консумирай {0}</ConsumeThing>
-  <Teetotaler>трезвеник</Teetotaler>
-  
-  
-  <CannotGoNoPath>Не може да достигне (няма път)</CannotGoNoPath>
-  <GoHere>Отиди тук</GoHere>
-  
+  <ForbiddenLower>забранено</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>извън разрешената зона</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>извън домашната зона</NotInHomeArea>
+  <BurningLower>пожар</BurningLower>
+  <NoEmptyPlaceLower>недостатъчно свободно място, за съхраняване на това</NoEmptyPlaceLower>
+  <AlreadyFilledLower>запълнено</AlreadyFilledLower>
+  <MissingMaterials>необходими са материали</MissingMaterials>
+  <MissingSkill>недостатъчно ниво на умение</MissingSkill>
+  <NoEmptyGraveLower>няма празен гроб, предназначен за това</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>животното е тренирано отскоро</AnimalInteractedTooRecently>
+  <NoUsableFood>неподходяща храна</NoUsableFood>
+  <NoFood>няма храна</NoFood>
+  <AnimalsSkillTooLow>ниско умение на Животновъдство</AnimalsSkillTooLow>
+  <ConstructionSkillTooLow>ниско умение на Строителство</ConstructionSkillTooLow>
+  <NoComponentsToRepair>необходими са компоненти</NoComponentsToRepair>
+  <NoFuelToRefuel>необходимо {0}</NoFuelToRefuel>
+  <NoWort>необходим е шира</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>налична храна — на склада с по-висок приоритет</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>неподходяща храна</NoFoodToFillHopper>
+  <SelfTendDisabled>самоизлекуването е недостъпно</SelfTendDisabled>
+  <ReservedForPrisoners>отделена храна за затворници</ReservedForPrisoners>
+  <CannotReach>не може да се достигне</CannotReach>
+  <NotSurgeryReady>пациент не е готов за операция</NotSurgeryReady>
+  <CantSowCavePlantBecauseOfLight>твърде ярко</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>без покрив</CantSowCavePlantBecauseUnroofed>
+
+  <ConsumeThing>Употреби {0}</ConsumeThing>
+
+  <CannotGoNoPath>Не може да се стигне до това място: няма път</CannotGoNoPath>
+  <GoHere>Иди тук</GoHere>
+
   <Arrest>Арестувай {0}</Arrest>
   <TryToArrest>Опитай да арестуваш {0}</TryToArrest>
-  <CannotArrest>не може да арестува</CannotArrest>
+  <CannotArrest>Не може да се арестува</CannotArrest>
 
   <Capture>Плени {0}</Capture>
-  <CannotCapture>Не може да плени</CannotCapture>
+  <CannotCapture>Не може да се плени</CannotCapture>
 
   <Rescue>Спаси {0}</Rescue>
-  <CannotRescue>Не може да спаси</CannotRescue>
+  <CannotRescue>Не може да се спаси</CannotRescue>
 
-  <CarryToCryptosleepCasket>Занеси {0} до ковчег за криптосън</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Не може да занесе до ковчег за криптосън</CannotCarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Пренеси {0} в контейнер за криптосън</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Не може да се пренася в контейнера за криптосън</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>няма свободен до ковчег за криптосън.</NoCryptosleepCasket>
-  <NoPrisonerBed>Няма достъпно, нерезервирано, оградено легло за затворници.</NoPrisonerBed>
-  <NoNonPrisonerBed>Няма достъпно, нерезервирано легло (изкл. затворнически).</NoNonPrisonerBed>
-  <NoAnimalBed>Няма достъпно, нерезервирано легло за животни.</NoAnimalBed>
-  <Reserved>Резервиран от друг.</Reserved>
-  <ReservedBy>Резервиран от {0}</ReservedBy>
-  <IsReservedBy>{0} е резервиран от {1}.</IsReservedBy>
+  <NoCryptosleepCasket>Няма налични контейнери за криптосън.</NoCryptosleepCasket>
+  <NoPrisonerBed>Недостатъчни свободни легла за затворници в закрито помещение.</NoPrisonerBed>
+  <NoNonPrisonerBed>Недостатъчни свободни легла за заселници.</NoNonPrisonerBed>
+  <NoAnimalBed>Недостатъчни свободни легла за животни.</NoAnimalBed>
+  <Reserved>Заето от някой друг.</Reserved>
+  <ReservedBy>Заето {0}</ReservedBy>
+  <IsReservedBy>{0} вече използва {1}.</IsReservedBy>
+  <TooHeavy>твърде тежко</TooHeavy>
 
   <Incapable>неспособен</Incapable>
-  <IncapableOfCapacity>неспособен на {0}</IncapableOfCapacity>
+  <IncapableOfCapacity>неспособен {0}</IncapableOfCapacity>
 
-  <Equip>Екипирай {0}</Equip>
-  <EquipWarningBrawler>(Ръкопашен Боец ще е недоволен)</EquipWarningBrawler>
-  <CannotEquip>Не може да екипира {0}</CannotEquip>
-  
-  <ForceWear>Форсирай екипиране {0}</ForceWear>
-  <CannotWear>Не може да носи {0}</CannotWear>
-  <CannotWearBecauseOfMissingBodyParts>липват части на тялото</CannotWearBecauseOfMissingBodyParts>
-  
+  <MinSkill>мин. ниво на умение</MinSkill>
+
+  <Equip>Вземи оръжие: {0}</Equip>
+  <EquipWarningBrawler>(заселникът ще бъде недоволен)</EquipWarningBrawler>
+  <CannotEquip>Не може да се вземе оръжие: {0}</CannotEquip>
+
+  <ForceWear>Екипирай {0}</ForceWear>
+  <CannotWear>Не може да се екипира {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>липсват части от тялото</CannotWearBecauseOfMissingBodyParts>
+
+  <CannotPickUp>Не може да се вземе {0}</CannotPickUp>
+  <CannotPickUpAll>Не може да се вземе {0} (всичко)</CannotPickUpAll>
+  <PickUp>Вземи {0}</PickUp>
+  <PickUpAll>Вземи {0} (всичко)</PickUpAll>
+  <PickUpSome>Вземи {0}...</PickUpSome>
+  <PickUpCount>Вземи {0} ({{0}} х)</PickUpCount>
+
+  <CannotGiveToPackAnimal>Не може да се качи {0} към животното</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Не може да се качи {0} (всичко) към животното</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Качи {0} към животното</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Качи {0} (всичко) към животното</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Качи {0} към животното...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Качи {0} ({{0}} х) към животното</GiveToPackAnimalCount>
+
+  <CannotCarryToExit>Не може да се носи {0} и напусне зоната</CannotCarryToExit>
+  <CarryToExit>Вземи {0} и напусни</CarryToExit>
+
   <Strip>Съблечи {0}</Strip>
-  <CannotStrip>Не може да съблече {0}</CannotStrip>
+  <CannotStrip>Не може да се съблечи {0}</CannotStrip>
 
-  <Deposit>Сложи {0} в {1}</Deposit>
-  <CannotDeposit>Не може да сложи {0} в {1}</CannotDeposit>
+  <SelfDestructHere>Самоунищожи се тук</SelfDestructHere>
 
-  <SelfDestructHere>Самоунищожи тук</SelfDestructHere>
-  
-  <Drop>Пусни {0}</Drop>
+  <Drop>Изхвърли {0}</Drop>
 
-  <UseMedicalBed>Почивай до излекуване</UseMedicalBed>
-  <NotInjured>Здрав</NotInjured>
-  <SomeoneElseSleeping>Зает</SomeoneElseSleeping>
-  
+  <UseMedicalBed>Почивай да възстановяване</UseMedicalBed>
+  <NotInjured>Не е ранен</NotInjured>
+  <SomeoneElseSleeping>{0} спи тук</SomeoneElseSleeping>
+
   <TradeWith>Търгувай с {0}</TradeWith>
-  <CannotTrade>Не може да търгува</CannotTrade>
+  <CannotTrade>Не може да се търгува</CannotTrade>
+
+  <EnterMap>Влез в {0}</EnterMap>
+  <VisitSettlement>Посети {0}</VisitSettlement>
+  <VisitPeaceTalks>Посети {0}</VisitPeaceTalks>
+  <VisitSite>Посети {0}</VisitSite>
+  <VisitEscapeShip>Посети {0}</VisitEscapeShip>
+  <AttackSite>Нападни {0}</AttackSite>
+  <AttackSettlement>Нападни {0}</AttackSettlement>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>Влез в ковчег за криптосън</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Отвори ковчег за криптосън</OpenCryptosleepCasket>
-
-
+  <EnterCryptosleepCasket>Влез в контейнера за криптосън</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Отвори контейнера за криптосън</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Не може {0} {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>Не може да се приоритизира (неспособен на {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Сега не може: заселника не може {0} заради проблеми със здравето</CannotMissingHealthActivities>
 
-  <CannotGenericAlreadyAm>Вече прави {0} {1}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Заселникът вече започна {0}: {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>Не може да се приоритизира ({0} не е {1})</CannotPrioritizeIsNotA>
+  <CannotPrioritizeWorkTypeDisabled>Не може да се изпълни: заселникът никога няма да {0}</CannotPrioritizeWorkTypeDisabled>
 
-  <CannotPrioritizeResearch>Не може да се приоритизира (проучването е дългосрочна задача)</CannotPrioritizeResearch>
+  <CannotPrioritizeWorkGiverDisabled>Не може да се изпълни: заселникът никога няма да {0}</CannotPrioritizeWorkGiverDisabled>
 
-  <CannotPrioritizeForbidden>Не може да се приоритизира ({0} е забранен)</CannotPrioritizeForbidden>
-  
-  
+  <CannotPrioritizeNotAssignedToWorkType>Не може да се изпълни: не е назначен заселник {0}</CannotPrioritizeNotAssignedToWorkType>
+
+  <CannotPrioritizeResearch>Сега не може: изследване — дългосрочна задача</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Не може да се изпълни: {0} забранено</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Не може: {0} извън разрешената зона</CannotPrioritizeForbiddenOutsideAllowedArea>
+
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Приоритизирай {0} {1}</PrioritizeGeneric>
-  
+  <PrioritizeGeneric>{0} {1}</PrioritizeGeneric>
+
+  <DropAtEdge>Хвърли към края</DropAtEdge>
+  <DropInCenter>Хвърли в центъра</DropInCenter>
+
+  <VomitingLower>повръщане</VomitingLower>
+  <NotInterruptibleLower>не може да се прекъсне</NotInterruptibleLower>
+
+  <AddWaypoint>Добави точка на маршрут</AddWaypoint>
+  <RemoveWaypoint>Изтрий точка на маршрут</RemoveWaypoint>
+
 </LanguageData>

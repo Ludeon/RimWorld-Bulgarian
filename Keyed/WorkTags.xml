@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<WorkTagNone>Отсъства</WorkTagNone>
-	<WorkTagIntellectual>Интелектуална работа</WorkTagIntellectual>
-	<WorkTagManualDumb>Обикновена работа</WorkTagManualDumb>
-	<WorkTagManualSkilled>Квалифицирана работа</WorkTagManualSkilled>
-	<WorkTagViolent>Насилие</WorkTagViolent>
-	<WorkTagCaring>Грижа</WorkTagCaring>
-	<WorkTagSocial>Социални</WorkTagSocial>
-	<WorkTagAnimals>Животновъдство</WorkTagAnimals>
-	<WorkTagArtistic>Творчество</WorkTagArtistic>
-	<WorkTagCrafting>Занаят</WorkTagCrafting>
-	<WorkTagCooking>Кулинария</WorkTagCooking>
-	<WorkTagFirefighting>Пожаро-гасител</WorkTagFirefighting>
-	<WorkTagCleaning>Чистене</WorkTagCleaning>
-	<WorkTagHauling>Пренасяне</WorkTagHauling>
-	<WorkTagPlantWork>Земеделие</WorkTagPlantWork>
-	<WorkTagMining>Миньорство</WorkTagMining>
+  <WorkTagNone>Отсъства</WorkTagNone>
+  <WorkTagIntellectual>Интелектуална работа</WorkTagIntellectual>
+  <WorkTagManualDumb>Обикновена работа</WorkTagManualDumb>
+  <WorkTagManualSkilled>Квалифицирана работа</WorkTagManualSkilled>
+  <WorkTagViolent>Насилие</WorkTagViolent>
+  <WorkTagCaring>Грижа</WorkTagCaring>
+  <WorkTagSocial>Социални</WorkTagSocial>
+  <WorkTagAnimals>Животновъдство</WorkTagAnimals>
+  <WorkTagArtistic>Творчество</WorkTagArtistic>
+  <WorkTagCrafting>Занаят</WorkTagCrafting>
+  <WorkTagCooking>Кулинария</WorkTagCooking>
+  <WorkTagFirefighting>Пожарникар</WorkTagFirefighting>
+  <WorkTagCleaning>Чистене</WorkTagCleaning>
+  <WorkTagHauling>Пренасяне</WorkTagHauling>
+  <WorkTagPlantWork>Земеделие</WorkTagPlantWork>
+  <WorkTagMining>Миньорство</WorkTagMining>
 
 </LanguageData>

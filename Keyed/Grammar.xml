@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <IndefiniteArticle>едно</IndefiniteArticle>
-  <DefiniteArticle>това</DefiniteArticle>
-  <IndefiniteForm>едно {0}</IndefiniteForm>
-  <DefiniteForm>това {0}</DefiniteForm>
+  <IndefiniteArticle></IndefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
 
   <Proits>неговото</Proits>
   <Prohis>неговия</Prohis>

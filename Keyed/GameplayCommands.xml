@@ -1,138 +1,256 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<CommandForbiddenDesc>Забранен - заселниците няма да боравят с това.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Позволен - заселниците може да боравят с това.</CommandNotForbiddenDesc>
+  <!-- Forbid -->
+  <CommandForbid>Забрани</CommandForbid>
+  <CommandForbiddenDesc>Забранено: заселниците няма да използват това.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Позволено: заселниците могат да използват това.</CommandNotForbiddenDesc>
 
   <!-- Power -->
-  <CommandTogglePowerLabel>Включи енергия</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Включва енергия.</CommandTogglePowerDesc>
-  
-  <CommandDesignateTogglePowerLabel>Задай включване на енергия</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>Задава заповед за включване. Скоро ще дойде заселник, който да дръпне шалтера.</CommandDesignateTogglePowerDesc>
-  
-  <CommandTryReconnectLabel>Включи към друг</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Опитва да включи предмета към друга енергийна мрежа в обхвата си. Полезно ако предметзт е включен към неактивна мрежа, а има друга активна наблизо.</CommandTryReconnectDesc>
+  <CommandTogglePowerLabel>Вкл./изкл.</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Включване или изключване на енергия.</CommandTogglePowerDesc>
 
-  <CommandGatherSpotToggleLabel>Място за събиране</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Активно - заселниците ще се съберат около този обект.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Неактивно - заселниците няма да се събират около този обект.</CommandGatherSpotToggleDescInactive>
-  
-  
+  <CommandDesignateTogglePowerLabel>Вкл./изкл.</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Дава команда за включване или изключване на енергия. Заселника скоро ще дойде, за да пусне превключвателя.</CommandDesignateTogglePowerDesc>
+
+  <CommandTryReconnectLabel>Свързване отново</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Свържи друго устройство към друг източник на захранване в радиуса на връзката. Полезна е в случай, че имате мрежа без енергия и наблизо разполагате мрежа с енергия.</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>Сборен пункт</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Активно: заселниците ще се съберат наблизо.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Неактивно: заселниците няма да се съберат наблизо.</CommandGatherSpotToggleDescInactive>
+
+
   <!-- Drafting -->
-  <CommandDraftLabel>Войник</CommandDraftLabel>
-  <CommandUndraftLabel>Освободи</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Включва режим Войник.\n\nВойниците могат да бъдат командвани и ще се бият. Те няма да работят, ядат, или спят.</CommandToggleDraftDesc>
-  <IsIncapped>{0} е безсилен.</IsIncapped>
+  <CommandDraftLabel>На бой!</CommandDraftLabel>
+  <CommandUndraftLabel>Разпускане</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Превключи към боен режим.\n\nВ този режим заселниците получават заповеди и се сражават. Те няма да работят, ядат или да си отдъхнат.</CommandToggleDraftDesc>
+  <IsIncapped>{0} не може да ходи.</IsIncapped>
 
-  
-  <CommandCancelConstructionLabel>Откажи</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Отказва построяването на обект.</CommandCancelConstructionDesc>
+  <CommandFireAtWillLabel>Стреляй по усмотрение</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Разреши или забрани стрелба по усмотрение на персонажа.\n\nАко стрелбата е забранена, персонажа няма да стреля по отдалечените цели без команда. Не влияе при ръкопашния бой.</CommandFireAtWillDesc>
 
-  <CommandGetOutOfBedLabel>Стани от леглото</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Става от понастоящем използваното легло.</CommandGetOutOfBedDesc>
+  <CommandClearPrioritizedWork>Изчисти назначените действия</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Изчиства всички действия, направени от вас. Заселниците ще продължат да работят съгласно приоритети си.</CommandClearPrioritizedWorkDesc>
 
-  <CommandBedSetOwnerLabel>Определи собственик</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Определя заселник като собственик на това легло.</CommandBedSetOwnerDesc>
+  <CommandCancelConstructionLabel>Отмени</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Отмени строителство.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Освободи легло</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Освободете заето легло.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Определи легло</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Определете легло на конкретен заселник.</CommandBedSetOwnerDesc>
   <CommandGraveAssignColonistLabel>Определи заселник</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Определя този гроб като собственост на даден заселник.</CommandGraveAssignColonistDesc>
-  <BuildingAssign>Възложи</BuildingAssign>
-  <BuildingUnassign>Откажи възлагане</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>Определи за затворници</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Определя леглата в тази стая като затворнически.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Не може да зададеш външни легла като затворнически.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetForColonistsLabel>Определи за заселници</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc>Задава леглата в стаята за ползване от зеселници.</CommandBedSetForColonistsDesc>
-  <CommandBedSetAsMedicalLabel>Определи като медицинско легло</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc>Определя това легло за медицинско ползване.</CommandBedSetAsMedicalDesc>
-  <CommandBedSetAsNonMedicalLabel>Премахни медицинско ползване</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc>Задава леглото за нормално ползване.</CommandBedSetAsNonMedicalDesc>
-  <TurningOnPrisonerBedWarning>Определянето на Затворническа стая променя статута на помещението, тъй като затворници и заселници не могат да спят в една стая.\n\nСледните хора ще изгубят статуса на собственик на легло:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Премахването на Затворническа стая променя статута на помещението, тъй като затворници и заселници не могат да спят в една стая.\n\nСледните хора ще изгубят статуса на собственик на легло:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Със сигурност ли искаш да направиш това?</AreYouSure>
+  <CommandGraveAssignColonistDesc>Определи този гроб в собствеността на конкретен заселник.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Назначи</BuildingAssign>
+  <BuildingUnassign>Премахни назначенията</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>За затворници</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Трябва ли леглата в тази стая да бъдат използвани от затворници или не.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Не може да се поставят легла за затворници на открито небе.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Мед. легло</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Трябва ли това легло да се използва за медицински цели или не.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>Включването на режима за затворници ще засегне цялата стая (заселниците и затворниците не могат да спят в една стая).\n\nСледните заселници ще загубят правата над леглата си:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Изключването на режима за затворници ще засегне цялата стая (заселниците и затворниците не могат да спят в една стая).\n\nСледните затворници ще загубят правата над леглата си:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Сигурен ли сте?</AreYouSure>
 
-  <CommandDetonateLabel>Взриви</CommandDetonateLabel>
-  <CommandDetonateDesc>Започва обратно отброяване до детонация.</CommandDetonateDesc>
+  <CommandDetonateLabel>Взривяване</CommandDetonateLabel>
+  <CommandDetonateDesc>Начало на отброяването.</CommandDetonateDesc>
 
-  <CommandRenameZoneLabel>Промени име</CommandRenameZoneLabel>
-  <CommandRenameZoneDesc>Променя името на тази зона.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Смяна на име</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Преименувай зона.</CommandRenameZoneDesc>
 
   <CommandHideZoneLabel>Скрий</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Покажи</CommandUnhideZoneLabel>
-  <CommandHideZoneDesc>Скрий или Покажи съответната зона.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>Скрий/покажи зона.</CommandHideZoneDesc>
 
   <CommandDeleteZoneLabel>Изтрий</CommandDeleteZoneLabel>
-  <CommandDeleteZoneDesc>Изтрий тази зона.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>Изтрий зона.</CommandDeleteZoneDesc>
 
-  <CommandCopyZoneSettingsLabel>Копирай настройки</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Копирай настройките на тази зона, за да можеш да ги използваш върху друга.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsLabel>Настройки за копиране</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Копирайте тези настройки, за да ги използване върху други зони.</CommandCopyZoneSettingsDesc>
 
-  <CommandPasteZoneSettingsLabel>Постави настройки</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Поставя копираните настройки върху избраната зона.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsLabel>Установи настройки</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Установете настройки, който сте копирали към дадена зона.</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>Позволи засяване</CommandAllowSow>
-  <CommandAllowSowDesc>Ако е забранено, заселниците няма да засяват зоната, но ще събират реколтата независимо от това.</CommandAllowSowDesc>
+  <CommandAllowSow>Позволи сеитбата</CommandAllowSow>
+  <CommandAllowSowDesc>Изключването на тази опция, няма да позволи на заселниците да сеят, но ще продължат да събират реколтата.</CommandAllowSowDesc>
 
   <!-- Artillery -->
   <CommandSetForceAttackTarget>Форсирай атака</CommandSetForceAttackTarget>
-  <CommandSetForceAttackTargetDesc>Определя мишена, която Огневата Кула да атакува постоянно докато е в състояние.</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>Задайте цел, която турелната установка да атакува непрекъснато, доколкото е възможно.</CommandSetForceAttackTargetDesc>
   <CommandStopForceAttack>Спри форсирана атака</CommandStopForceAttack>
-  <CommandStopForceAttackDesc>Спира форсираната атака върху определената мишена и позволява на Огневата Кула да стреля на воля.</CommandStopForceAttackDesc>
-  <CommandStopAttackFailNotForceAttacking>Не атакува форсирано.</CommandStopAttackFailNotForceAttacking>
-  <MessageTargetBeyondMaximumRange>Мишената е извън маскимален обхват.</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>Мишената е извън минимален обхват.</MessageTargetBelowMinimumRange>
-  
-  
-  <!-- Ship computer core -->
-  <CommandShipLaunch>Изстреляй кораба в космоса</CommandShipLaunch>
-  <CommandShipLaunchDesc>Започни изстрелването на космическия кораб в космоса с настоящата конфигурация.</CommandShipLaunchDesc>
-  <CommandShipLaunchReport>Покажи рапорт по изстрелването на кораба</CommandShipLaunchReport>
-  <CommandShipLaunchReportDesc>Показва рапорт свързан с готовността на кораба за изстрелване в космоса.</CommandShipLaunchReportDesc>
+  <CommandStopForceAttackDesc>Прекратява атаката върху дадената цел и позволява на турела да стреля по усмотрение.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Сега не може да се спре обстрела.</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>Extract shell</CommandExtractShell>
+  <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
+  <CommandExtractShellFailNoShell>No shell is loaded.</CommandExtractShellFailNoShell>
+  <MessageTargetBeyondMaximumRange>Твърде далече.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Твърде близко.</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>Внимание: стрелбата е забранена. За да продължите, изключете опцията «Спри огъня».</MessageTurretWontFireBecauseHoldFire>
 
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Стартирай кораб</CommandShipLaunch>
+  <CommandShipLaunchDesc>Стартирайте кораба с текущите конфигурации.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Покажи началното отброяване</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Показва началното отброяване до пускане на кораба.</CommandShipLaunchReportDesc>
+  <CommandShipStartup>Активирай кораб</CommandShipStartup>
+  <CommandShipStartupDesc>Активира компонентите на кораба.</CommandShipStartupDesc>
 
   <!-- Pod -->
-  <CommandPodEject>Извади спящ</CommandPodEject>
-  <CommandPodEjectDesc>Извади субекта от ковчега за криптосън.</CommandPodEjectDesc>
-  <CommandPodEjectFailEmpty>Ковчегът е празен.</CommandPodEjectFailEmpty>
+  <CommandPodEject>Извади спящият</CommandPodEject>
+  <CommandPodEjectDesc>Събудете го и го извадете.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Вътре няма никой.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
-  <CommandToggleDoorForbid>Забрани ползване</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>Когато дадена врата е забранена за ползване, заселниците и съюзниците няма да минават през нея. Това не променя ползването на вратата от врагове и животни.</CommandToggleDoorForbidDesc>
-  <CommandToggleDoorHoldOpen>Дръж отворена</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>Ако командата е зададена, заселниците няма да затварят вратата при преминаването си.</CommandToggleDoorHoldOpenDesc>
-
+  <CommandToggleDoorForbid>Блокирай врата</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Заключете или отключете вратата. Заселниците и съюзници не могат да преминат през тази врата. Тази команда не оказва влияние при враговете и животни.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Дръж отворено</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>Ако тази команда е активна, заселниците няма да затворят вратата зад себе си. В противен случай - ще бъде.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
-  <CommandResetTemp>Занули</CommandResetTemp>
-  <CommandResetTempDesc>Възстановява тепмературата до стайна.</CommandResetTempDesc>
-  <CommandRaiseTempDesc>Повиши температурата.</CommandRaiseTempDesc>
-  <CommandLowerTempDesc>Понижи температурата.</CommandLowerTempDesc>
+  <CommandResetTemp>Анулирай</CommandResetTemp>
+  <CommandResetTempDesc>Анулира целевата температура до стайна температура.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Повиши целева температура.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Понижи целева температура.</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
   <CommandInstall>Постави</CommandInstall>
-  <CommandInstallDesc>Този предмет е пакетиран за съхранение и транспорт. С тази команда може да го поставиш на определено от теб място.</CommandInstallDesc>
-  <CommandReinstall>Постави на място</CommandReinstall>
-  <CommandReinstallDesc>Определи този предмет за премахване и поставяне на избрано от теб друго място.</CommandReinstallDesc>
-  
+  <CommandInstallDesc>Този предмет е опакован за съхраняване и транспортиране. С тази команда може да го поставиш на определено от теб място.</CommandInstallDesc>
+  <CommandReinstall>Пренареди</CommandReinstall>
+  <CommandReinstallDesc>Задай този предмет за демонтаж и да се постави на друго място.</CommandReinstallDesc>
+
   <!-- Trade beacon -->
-  <CommandMakeBeaconStockpileDesc>Създава Складова Зона съобразно размера на склада на този Търговски Пост.</CommandMakeBeaconStockpileDesc>
-  <CommandMakeBeaconStockpileLabel>Създай Складова Зона</CommandMakeBeaconStockpileLabel>
+  <CommandMakeBeaconStockpileDesc>Създайте складова база около склада, съобразно радиуса на изпращане на маяка.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Създай склад</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneDesc>Създава Зона за Засяване съобразно обхвата на Слънчевата Лампа.</CommandSunLampMakeGrowingZoneDesc>
-  <CommandSunLampMakeGrowingZoneLabel>Създай Зона за Засяване</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneDesc>Създайте зона за отглеждане, съобразно радиуса на действието на слънчевите лампи.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Създай зона за отглеждане.</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
-  <CommandAutoRearm>Автоматично зареждане</CommandAutoRearm>
-  <CommandAutoRearmDesc>Ако е включено, този капан автоматично ще се презареди след като е използван.</CommandAutoRearmDesc>
-  
-  <!-- Animal control -->
-  <CommandReleaseAnimalsLabel>Освободи животните</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>Когато се активира, питомните животни ще нападнат вражески мишени. Ако не е активно, ще стоят около стопанина си и ще го пазят.</CommandReleaseAnimalsDesc>
-  
-  <!-- Squad attack -->
-  <CommandSquadAttack>Атака</CommandSquadAttack>
-  <CommandSquadAttackDesc>Заповядва на избраните заселници да атакуват зададена мишена.</CommandSquadAttackDesc>
+  <CommandAutoRearm>Авто-превъоръжаване</CommandAutoRearm>
+  <CommandAutoRearmDesc>Ако е активен, капанът ще се поднови автоматично за използване, след като се задейства.</CommandAutoRearmDesc>
 
-  
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>пусни каишка</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Изпрати опитомените животни в атака. Ако не е включено, животните остават близо и охраняват стопанина.</CommandReleaseAnimalsDesc>
+
+  <!-- Squad attack -->
+  <CommandSquadAttack>Атакувай</CommandSquadAttack>
+  <CommandSquadAttackDesc>Заповядайте на избрани заселници заедно, да атакуват определена цел.</CommandSquadAttackDesc>
+
+  <!-- Melee attack -->
+  <CommandMeleeAttack>Атакувай ръкопашно</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>Заповядайте на избрани заселници да атакуват определена цела, използвайте само юмруци и оръжия за близък бой.</CommandMeleeAttackDesc>
+
+  <!-- Hold fire -->
+  <CommandHoldFire>Задръж огъня</CommandHoldFire>
+  <CommandHoldFireDesc>Прекратява всички текущи атаки.</CommandHoldFireDesc>
+
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>Избери растение за засаждане</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Растение: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Посочете, кое растение да се оглежда тук.</CommandSelectPlantToGrowDesc>
+
+  <!-- Build copy -->
+  <CommandBuildCopy>Направи копие</CommandBuildCopy>
+  <CommandBuildCopyDesc>Създава копие на тези настройки.</CommandBuildCopyDesc>
+
+  <!-- Form caravan -->
+  <CommandFormCaravan>Формирай керван</CommandFormCaravan>
+  <CommandFormCaravanDesc>Изпрати група заселници на пътешествие. Заселниците ще съберат всичко за пътуването си както и животни, а след това ще напуснат това място и ще чакат за инструкции.</CommandFormCaravanDesc>
+
+  <!-- Reform caravan -->
+  <CommandReformCaravan>Продължи по пътя</CommandReformCaravan>
+  <CommandReformCaravanDesc>Продължи по пътя. Пътешествениците ще напуснат мястото, в което се намират и ще чакат за допълнителни инструкции.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>Неподалёку ещё есть противники.</CommandReformCaravanFailHostilePawns>
+
+  <!-- Split caravan -->
+  <CommandSplitCaravan>Раздели</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>Разделя кервана на две групи. В бъдеще, новосъздадените кервани, могат да бъдат обединени, ако се намират наблизо един до друг.</CommandSplitCaravanDesc>
+
+  <!-- Merge caravan -->
+  <CommandMergeCaravans>Обедини</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>Обединява избраните кервани в един.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>Изберете кервани, който искате да обедините. Те трябва да се намират недалече един до друг.</CommandMergeCaravansFailCaravansNotSelected>
+
+  <!-- Settle -->
+  <CommandSettle>Основи колония</CommandSettle>
+  <CommandSettleDesc>Основи колония на това място. Пътешествениците ще дойдат на мястото и ще построят нов дом.</CommandSettleDesc>
+  <CommandSettleFailAlreadyHaveBase>Вашата фракция може да има само една база.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>Достигнахте пределно броя на населението.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>Тук няма никой, който да основи колония.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>Близо до врагове.</CommandSettleFailEnemies>
+
+  <!-- Abandon home -->
+  <CommandAbandonHome>Напусни колония</CommandAbandonHome>
+  <CommandAbandonHomeDesc>Напусни това място. Колонията ще стане недостъпна и никога няма да може да се върнете тук. След като напуснете колонията, ще може да основите нова колония на друго място.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>Не може да напуснете това място, докато заселниците са тук.</CommandAbandonHomeFailAllColonistsThere>
+
+  <!-- Cancel forming caravan -->
+  <CommandCancelFormingCaravan>Отмени изпращането на керван</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>Прекратява подготовката на кервана за пътя.</CommandCancelFormingCaravanDesc>
+
+  <!-- Show map -->
+  <CommandShowMap>Увеличи мащаб</CommandShowMap>
+  <CommandShowMapDesc>Увелича мащаба в тази точка на картата.</CommandShowMapDesc>
+
+  <!-- Trade -->
+  <CommandTrade>Търгувай</CommandTrade>
+  <CommandTradeDesc>Търгувай с тази фракция.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>Няма нито един човек способен на преговори.</CommandTradeFailNoNegotiator>
+
+  <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>Сключи сделка</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Изпрати заявените стоки до колонията и поискайте възнаграждението си.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Керванът трябва да разполага с {0}, за да сключи сделка.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>Предложи {0} за {1}?</CommandFulfillTradeOfferConfirm>
+
+  <!-- Take off -->
+  <CommandTakeOff>Стартирай</CommandTakeOff>
+  <CommandTakeOffDesc>Качете се на борда и напуснете планетата.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>Сигурен ли сте, че искате да стартирате кораба?\n\nВсеки, който е на това място желае да напусне планетата. Всички останали ще бъдат изоставени.</CommandTakeOffConfirmation>
+
+  <!-- Set target fuel level -->
+  <CommandSetTargetFuelLevel>Задай желаното количество гориво</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>Заселниците ще зареждат гориво с не повече от зададеното.</CommandSetTargetFuelLevelDesc>
+
+  <!-- Cancel load -->
+  <CommandCancelLoad>Отмени зареждане</CommandCancelLoad>
+  <CommandCancelLoadDesc>Отменя товаренето и качването на пътници и разтоварва това, което вече е качено.</CommandCancelLoadDesc>
+
+  <!-- Launch group -->
+  <CommandLaunchGroup>Пусни група</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>Пуска група капсули. Капсулите ще се пуснат едновременно и ще се приземят близо една до друга.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Някоя от капсулите не са свързани към системата за пълнене на гориво.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>Някоя от капсулите са без гориво.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>Някоя от капсулите е под покрив.</CommandLaunchGroupFailUnderRoof>
+
+  <!-- Load transporter -->
+  <CommandLoadTransporter>Начало на зареждането в група от {0}</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>Обединете избраните транспортни капсули в стартова група, посочете пътници и изберете какво да се качи на борда.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Транспортна капсула не е свързана към системата за пълнене на гориво.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>Транспортна капсула не е заредена с гориво.</CommandLoadTransporterFailNoFuel>
+
+  <!-- Select previous transporter -->
+  <CommandSelectPreviousTransporter>Следваща капсула</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>Изберете следващата капсула в тази стартова група.</CommandSelectPreviousTransporterDesc>
+
+  <!-- Select all transporters -->
+  <CommandSelectAllTransporters>Цяла група</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>Изберете всички капсули в тази стартова група.</CommandSelectAllTransportersDesc>
+
+  <!-- Select next transporter -->
+  <CommandSelectNextTransporter>Предишна капсула</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Изберете предишната капсула в тази стартова група.</CommandSelectNextTransporterDesc>
+
+  <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>Отв./затв.</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Дава команда за отваряне или затваряне на вентилацията. Скоро заселник ще дойде да превключи на режима циркулация на въздуха.</CommandDesignateOpenCloseVentDesc>
+
+  <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>Изтрий</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Изтрий точка на маршрут.</CommandRemoveWaypointDesc>
+
 </LanguageData>

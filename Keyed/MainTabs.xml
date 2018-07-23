@@ -1,59 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>Приоритетни задания</ManualPriorities>
-  <HigherPriority>Висок приоритет</HigherPriority>
-  <LowerPriority>Нисък приоритет</LowerPriority>
-  <RelevantSkills>Съответни умения: {0}\nСредно съответни умения: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Цъкни да прескочиш до:</ClickToJumpTo>
+  <ManualPriorities>Точна настройка</ManualPriorities>
+  <HigherPriority>високи приоритети</HigherPriority>
+  <LowerPriority>ниски приоритети</LowerPriority>
+  <RelevantSkills>Необходими умения: {0}\nСредно ниво на умения: {1} от {2}</RelevantSkills>
+  <ClickToJumpTo>Натиснете, за да прескочите до:</ClickToJumpTo>
   <CannotDoThisWork>{0} не може да свърши тази работа.</CannotDoThisWork>
-  <NoneBrackets>(никакъв)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>Този заселник не може да върши работа поради лошо здравословно състояние.</IncapableOfWorkTypeBecauseOfCapacities>
+  <NoneBrackets>(липсва)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Този заселник не може да свърши тази работа, заради проблеми със здравето.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
-  
-  <!-- Outfits tab -->
-  <CurrentOutfit>Настояща екипировка</CurrentOutfit>
-  <ManageOutfits>Определи екипировки</ManageOutfits>
-  <ClearForcedApparel>Изчисти форсирани</ClearForcedApparel>
-  <ApparelForcedLower>форсирани</ApparelForcedLower>
-  <ForcedApparel>форсирана екипировка</ForcedApparel>
-  <OutfitEdit>Промени...</OutfitEdit>
-  
+  <SelectedWorkTypeWithVeryBadSkill>Внимание: средното ниво на необходимите умения са твърде ниски.</SelectedWorkTypeWithVeryBadSkill>
+
+  <!-- Assign tab -->
+  <ManageOutfits>Гардероб</ManageOutfits>
+  <ClearForcedApparel>Изчисти</ClearForcedApparel>
+  <ApparelForcedLower>(принудително)</ApparelForcedLower>
+  <ForcedApparel>Принудително облекло</ForcedApparel>
+  <AssignTabEdit>Промени...</AssignTabEdit>
+  <ManageDrugPolicies>Управление на прием на наркотици</ManageDrugPolicies>
+
   <!-- Restrictions tab -->
   <Copy>Копирай</Copy>
   <Paste>Постави</Paste>
-  <AllowedArea>Позволена зона</AllowedArea>
-  
-  <!-- Animals tab -->
-  <Master>Собственик</Master>
-  <PregnantIconDesc>Бременна ({0} / {1})</PregnantIconDesc>
-  
-  <!-- Factions tab -->
-  <Hostile>Вражески</Hostile>
-  <HostileTo>Враг на {0}</HostileTo>
-  <CurrentGoodwill>Моментно доброжелание с тази фракция.</CurrentGoodwill>
-  
-  <!-- Statistics tab -->
-  <Playtime>Време на игра</Playtime>
-  <Storyteller>Разказвач</Storyteller>
-  <ColonyWealthTotal>Стойност на колонията</ColonyWealthTotal>
-  <ColonyWealthItems>Стойност на колонията (предмети)</ColonyWealthItems>
-  <ColonyWealthBuildings>Стойност на колонията (сгради)</ColonyWealthBuildings>
-  <NumThreatBigs>Сериозни заплахи</NumThreatBigs>
-  <NumEnemyRaids>Вражески набези</NumEnemyRaids>
-  <DamageTaken>Понесени щети</DamageTaken>
-  <ColonistsKilled>Убити заселници</ColonistsKilled>
-  <ColonistsLaunched>Заселници изстреляни в космоса</ColonistsLaunched>
+  <AllowedArea>Достъпна област</AllowedArea>
 
-  <!-- History tab -->
-  <SelectGraph>Избери графика</SelectGraph>
-  <Last30Days>Последните 30 дни</Last30Days>
-  <Last100Days>Последните 100 дни</Last100Days>
-  <Last300Days>Последните 300 дни</Last300Days>
-  <AllDays>Всичко</AllDays>
+  <!-- Animals tab -->
+  <Master>Домакин</Master>
+  <PregnantIconDesc>Бременна ({0} / {1})</PregnantIconDesc>
+
+  <!-- Factions tab -->
+  <Hostile>Враждебни</Hostile>
+  <DefeatedLower>победени</DefeatedLower>
+  <HostileTo>Враг на фракция {0}</HostileTo>
+  <CurrentGoodwill>Текущи отношения с тази фракция.</CurrentGoodwill>
+
+  <!-- Social tab -->
+  <Friend>Приятел</Friend>
+  <Rival>Съперник</Rival>
+  <Acquaintance>Познати</Acquaintance>
+
+  <!-- History tab - subtabs -->
+  <Graph>График</Graph>
+  <Statistics>Статистика</Statistics>
+
+  <!-- History tab - Graphs -->
+  <SelectGraph>Избери график</SelectGraph>
+  <Last30Days>За последните 30 дни</Last30Days>
+  <Last100Days>За последните 100 дни</Last100Days>
+  <Last300Days>За последните 300 дни</Last300Days>
+  <AllDays>За цялото време</AllDays>
   <Day>Ден</Day>
   <Value>Стойност</Value>
   <External>Външен</External>
-  
+
+  <!-- History tab - Statistics -->
+  <Playtime>Време за игра</Playtime>
+  <Storyteller>Разказвач</Storyteller>
+  <ThisMapColonyWealthTotal>Общо богатство на колонията (на тази карта)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Богатство по предмети (на тази карта)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Богатство по постройки (на тази карта)</ThisMapColonyWealthBuildings>
+  <NumThreatBigs>Основни заплахи</NumThreatBigs>
+  <NumEnemyRaids>Враждебни нападения</NumEnemyRaids>
+  <ThisMapDamageTaken>Нанесени щети (на тази карта)</ThisMapDamageTaken>
+  <ColonistsKilled>Убити заселници</ColonistsKilled>
+  <ColonistsLaunched>Заселници изпратени в космоса</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <ProjectTechLevel>техническо ниво на проекта</ProjectTechLevel>
+  <YourTechLevel>твое техническо ниво</YourTechLevel>
+  <ResearchCostMultiplier>мултипликатор на стойността</ResearchCostMultiplier>
+  <ResearchCostComparison>Базова стойност на проекта — {0}, и с вашето техническо ниво е равно на {1}.</ResearchCostComparison>
+
 </LanguageData>

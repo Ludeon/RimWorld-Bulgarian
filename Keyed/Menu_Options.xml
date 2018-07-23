@@ -1,41 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Аудио-визуални</Audiovisuals>
+  <Audiovisuals>Аудио и видео</Audiovisuals>
   <GameVolume>Сила на звука</GameVolume>
   <MusicVolume>Сила на музиката</MusicVolume>
+  <AmbientVolume>Ambient volume</AmbientVolume>
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Местене чрез движене на мишката по края на екрана</EdgeScreenScroll>
-  <PauseOnLoad>Пауза след зареждане на игра</PauseOnLoad>
+  <EdgeScreenScroll>Преместване с курсора краищата на екрана</EdgeScreenScroll>
+  <PauseOnLoad>Пауза след зареждане</PauseOnLoad>
+  <PauseOnUrgentLetter>Пауза при спешно съобщение</PauseOnUrgentLetter>
   <CustomCursor>Потребителски курсор</CustomCursor>
-  <KeyboardConfig>Конфигурация на клавиатурата</KeyboardConfig>
+  <HatsShownOnlyOnMap>Показ. гол. само на картата</HatsShownOnlyOnMap>
+  <UIScale>Мащаб на интерфейса</UIScale>
+  <KeyboardConfig>Настройки на клавиатурата</KeyboardConfig>
   <ChooseLanguage>Избери език</ChooseLanguage>
-  <AdaptiveTutor>Помощник</AdaptiveTutor>
-  <ResetAdaptiveTutor>Занулирай помощника</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Помощникът е занулиран. Той ще те обучава отначало.</AdaptiveTutorIsReset>
-  <RunInBackground>Работи в бекграунда (без пауза)</RunInBackground>
-  <DevelopmentMode>Development режим</DevelopmentMode>
-  <ResetModsConfigOnCrash>Автоматично занулирай модификации при краш</ResetModsConfigOnCrash>
-  <LogVerbose>Подробни рапорти</LogVerbose>
-  <OpenSaveGameDataFolder>Отвори папката на записите</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Фамилно име от Име в Играта които искаш да видиш:</NamesYouWantToSee>
-  <ChangeStoryteller>Избери Разказвач</ChangeStoryteller>
-  <AutosaveInterval>Интервал на автоматично записване</AutosaveInterval>
-  <TemperatureMode>Температурен режим</TemperatureMode>
-  <ShowRealtimeClock>Покажи реалновремеви часовник</ShowRealtimeClock>
-  <MaxPermadeathAutosaveIntervalInfo>Максимален интервал на автоматично записване при игра без връшане назад е {0} ден.</MaxPermadeathAutosaveIntervalInfo>
+  <ResetAdaptiveTutor>Анулирай обучението</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Обучението е анулирано. Всички уроци ще бъдат показани наново.</AdaptiveTutorIsReset>
+  <RunInBackground>Игра в фонов режим</RunInBackground>
+  <DevelopmentMode>Режим на разработчик</DevelopmentMode>
+  <ResetModsConfigOnCrash>Анулиране на настройките за модиф. при грешка</ResetModsConfigOnCrash>
+  <LogVerbose>Подробен журнал</LogVerbose>
+  <OpenSaveGameDataFolder>Отвори папката с записвания</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Име на персонаж, който желаете да видите в играта:</NamesYouWantToSee>
+  <AddName>Добави име</AddName>
+  <TypeFirstNickOrLastName>Въведи име, прякор или фамилия.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Това име вече е в списъка.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Избери разказвач</ChangeStoryteller>
+  <AutosaveInterval>Период за автозапис</AutosaveInterval>
+  <TemperatureMode>Ед. температури</TemperatureMode>
+  <ShowRealtimeClock>Показване на реално време</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Максимално количество заселници: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Plant wind sway</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Максимален интервал за автозапис в режим на «хардкор» (в дни) — {0}.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Настройки на модификация</ModSettings>
 
   <!-- Resolution -->
-  <Resolution>Резолюция на екрана</Resolution>
-  <Fullscreen>Пълен екран</Fullscreen>
+  <Resolution>Резолюция</Resolution>
+  <Fullscreen>На пълен екран</Fullscreen>
 
-  <!-- Privacy-->
+  <!-- Privacy -->
   <Privacy>Лично</Privacy>
   <UserName>Потребителско име</UserName>
-  <ChooseHistoryUploadPref>Преференции за качване на данни от играта.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Данните от игра на потребителите помагат на създателите да я балансират. Ако се съгласиш, информация от играта ще се праща всеки {0} игрови дни (и редки случаи като край на играта) към сървърите на RimWorld и ще се анализира. Качените данни са статистика от играта и история на колонията - лични данни няма да се качват, освен потребителското име, което е анонимно.</AboutHistoryUpload>
-  
+  <ChooseHistoryUploadPref>Преференции за качване на данни от играта</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Вашите данни помагат на разработчиците да балансират играта. Ако сте съгласни, информацията ще бъде изпратена на всеки {0} игрови дни (и в някой редки случай в края на играта) на сървъра на RimWorld за анализ. Изпратените данни съдържат само статистики и история на записите, свързани с играта и са напълно анонимни. Никаква лична информация, освен потребителското име не се изпраща.</AboutHistoryUpload>
+
+  <!-- Mods -->
+  <SelectMod>Избор на модификация...</SelectMod>
+  <NoConfigurableMods>Не конфигурирани модификации.</NoConfigurableMods>
+
 </LanguageData>

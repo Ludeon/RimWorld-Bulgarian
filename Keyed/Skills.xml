@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Level>Ниво</Level>
-	<ProgressToNextLevel>Прогрес до следващото ниво</ProgressToNextLevel>
-	<Experience>Опит</Experience>
-	<Passion>Интереси</Passion>
-	<PassionNone>отсъства (скорост на обучение — {0})</PassionNone>
-	<PassionMinor>среден (скорост на обучение — {0}, дава радост)</PassionMinor>
-	<PassionMajor>силно (скорост на обучение — {0}, дава двойна радост)</PassionMajor>
-	<LearnedMaxToday>Достигнат предел за днес ({0}/{1}, допълнителна скорост на обучение — {2})</LearnedMaxToday>
-	<EffectsAtLevel>Ефект при ниво {0}</EffectsAtLevel>
-	<SkillMax>Максимум</SkillMax>
-
-	<Skill0>отсъства знание</Skill0>
-	<Skill1>некомпетентен </Skill1>
-	<Skill2>новобранец</Skill2>
-	<Skill3>посредствен новобранец</Skill3>
-	<Skill4>умел новобранец</Skill4>
-	<Skill5>аматьор</Skill5>
-	<Skill6>умел аматьор</Skill6>
-	<Skill7>полупрофесионалист</Skill7>
-	<Skill8>професионалист</Skill8>
-	<Skill9>самоуверен професионалист</Skill9>
-	<Skill10>опитен професионалист</Skill10>
-	<Skill11>добър професионалист</Skill11>
-	<Skill12>експерт</Skill12>
-	<Skill13>добър експерт</Skill13>
-	<Skill14>майстор</Skill14>
-	<Skill15>заслужен майстор</Skill15>
-	<Skill16>майстор в континентален мащаб</Skill16>
-	<Skill17>добър континентален майстор</Skill17>
-	<Skill18>майстор в световен мащаб</Skill18>
-	<Skill19>добър световен майстор</Skill19>
-	<Skill20>легендарен майстор</Skill20>
+  <Level>Ниво</Level>
+  <ProgressToNextLevel>Прогрес до следващото ниво</ProgressToNextLevel>
+  <Experience>Опит</Experience>
+  <Passion>Интереси</Passion>
+  <PassionNone>отсъства (скорост на обучение — {0})</PassionNone>
+  <PassionMinor>среден (скорост на обучение — {0}, дава радост)</PassionMinor>
+  <PassionMajor>силно (скорост на обучение — {0}, дава двойна радост)</PassionMajor>
+  <LearnedMaxToday>Достигнат предел за днес ({0}/{1}, допълнителна скорост на обучение — {2})</LearnedMaxToday>
+  <EffectsAtLevel>Ефект при ниво {0}</EffectsAtLevel>
+  <SkillMax>Максимум</SkillMax>
+  
+  <Skill0>липсва знание</Skill0>
+  <Skill1>некомпетентен </Skill1>
+  <Skill2>новобранец</Skill2>
+  <Skill3>посредствен новобранец</Skill3>
+  <Skill4>умел новобранец</Skill4>
+  <Skill5>аматьор</Skill5>
+  <Skill6>умел аматьор</Skill6>
+  <Skill7>полупрофесионалист</Skill7>
+  <Skill8>професионалист</Skill8>
+  <Skill9>самоуверен професионалист</Skill9>
+  <Skill10>опитен професионалист</Skill10>
+  <Skill11>добър професионалист</Skill11>
+  <Skill12>експерт</Skill12>
+  <Skill13>добър експерт</Skill13>
+  <Skill14>майстор</Skill14>
+  <Skill15>заслужен майстор</Skill15>
+  <Skill16>майстор в континентален мащаб</Skill16>
+  <Skill17>добър континентален майстор</Skill17>
+  <Skill18>майстор в световен мащаб</Skill18>
+  <Skill19>добър световен майстор</Skill19>
+  <Skill20>легендарен майстор</Skill20>
 
 </LanguageData>

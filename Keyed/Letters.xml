@@ -1,104 +1,190 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <JumpToLocation>Прескочи до място</JumpToLocation>
-  
+  <PostponeLetter>Отложи</PostponeLetter>
+  <RejectLetter>Отклони</RejectLetter>
+
   <LetterLabelFirstSummerWarning>Лято</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Лятото започна! Но идва и зима.\n\nСемената няма да растат по време на студената зима, затова складирай храна докато можеш.\n\nМожеш да построиш достъпен фризер за да предотвратиш разваляне на храната.\n\nОпитай се да купиш, откраднеш, или изработиш няколко анорака, или заселниците ще измръзнат от студ когато са навън.</FirstSummerWarning>
+  <FirstSummerWarning>Лятото иде! Но зимата не дрямка.\n\nПосевите няма да растат през зимата. Възползвайте се от това време, за да попълните хранителните запази, докато все още не е дошла зимата.\n\nНе забравяйте да постройте помещение с охлаждане, за да не се развалят нещата.\n\nИ се постарайте да купувате или правите няколко якета, иначе с настъпване на зимата ще замръзнете.</FirstSummerWarning>
 
-  <RelationsBrokenDown>Връзките с {0} се влошиха. Те ти стават врагове.</RelationsBrokenDown>
-  <RelationsWarmed>Връзките с {0} се стоплиха. Те вече не са ти врагове.</RelationsWarmed>
+  <RelationsBrokenDown>Отношения с фракция {0} са прекратени. Сега те са враждебни към вас.</RelationsBrokenDown>
+  <RelationsWarmed>Отношения с фракция {0} са се подобрили. Те вече не са враждебни към вас.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Поради това, че плени {0}, {1} ти става враг.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Взехте в плен {0}, сега фракция {1} — е ваш враг.</RelationsBrokenCapture>
 
-  <ColonyGoodwill>Благожелание от колония</ColonyGoodwill>
-  <Neutral>Неутрален</Neutral>
+  <ColonyGoodwill>Репутация на колония</ColonyGoodwill>
+  <Neutral>Неутрално</Neutral>
 
-  <ShortCircuitRain>{0} направи късо съединение поради дъжда и се подпали.</ShortCircuitRain>
+  <ShortCircuitRain>Дъждът предизвиква късо съединение ({0}), и причини пожар.</ShortCircuitRain>
 
   <LetterLabelAreaRevealed>Разкрита зона</LetterLabelAreaRevealed>
   <AreaRevealed>Нова зона бе разкрита.</AreaRevealed>
-  <AreaRevealedWithMechanoids>Нова зона бе разкрита. Тя съдържа древни, вражески роботи.</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>Нова зона бе разкрита. Тя съдържа древни враждебни механоиди.</AreaRevealedWithMechanoids>
 
-  <RoofCollapsed>Покрив се срути тъй като беше далеч от всякакви подпори.</RoofCollapsed>
-  <TheseThingsCrushed>Следните обекти бяха смазани:</TheseThingsCrushed>
-  <NothingCrushed>Нищо не бе смазано.</NothingCrushed>
-  <LetterLabelRoofCollapsed>Срутване на покрив</LetterLabelRoofCollapsed>
-  
-  <RecruitSuccess>{0} успешно вербува {1} ({2} шанс).</RecruitSuccess>
-  <RecruitFail>{0} не успя да вербува {1} ({2} шанс).</RecruitFail>
+  <RoofCollapsed>Поради липса на опора, покривът рухна.</RoofCollapsed>
+  <TheseThingsCrushed>Под отломките:</TheseThingsCrushed>
+  <NothingCrushed>За щастие нищо не е потрошено.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Покривът се срути</LetterLabelRoofCollapsed>
+
+  <RecruitSuccess>{0} успешно вербува {1} с шанс {2}.</RecruitSuccess>
+  <RecruitFail>{0} неуспешно вербуване {1}. Вероятност за успех — {2}.</RecruitFail>
+
+  <RelatedPawnInvolvedInQuest>NAME — {1} {0}. Ако NAME умре, {0} ще страдат от скръб. Ако NAME получи спасение, това ще ги направи щастливи HIS.</RelatedPawnInvolvedInQuest>
 
   <LetterLabelBirthday>Рожден ден</LetterLabelBirthday>
-  <BirthdayChronological>Днес е хронологическият рожден ден на {0}! Биологически, {1} е на {3} години.\n\nХронологически, {1} стана на {2}.\n\nЗабележи, че в състояние на криптосън хората не стареят, и затова хронологическият рожден ден е различен от биологическия.</BirthdayChronological>
-  <BirthdayBiologicalAgeInjuries>{0} достигна биологическа възраст от {1}.\n\nЗа съжаление, {0} получи следните болести поради старост:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayChronological>Днес е хронологическият рожден ден на {0}! Биологическа възраст {0} — {3}.\n\nХронологическа възраст — {2}.\n\nХората не стареят в състояние на криптосън, хронологичната възраст е различна от биологична.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} достигна биологична възраст {1}.\n\nЗа съжаление заради възрастта си, НЕ получава следните болести:\n{2}</BirthdayBiologicalAgeInjuries>
 
-  <LetterLabelNewDisease>Болест</LetterLabelNewDisease>
-  <NewDisease>{0} се разболя от {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewDisease>
-  <NewPartDisease>{0} се разболя от {3}. Инфекцията се е зародила в HIS {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewPartDisease>
+  <LetterLabelNewDisease>Инфекция</LetterLabelNewDisease>
+  <NewDisease>У {0} {1}.\n\nУверете се, че имате медицинско легло и доктор. {2} се нуждае от подходящо лечение и режим на спане.</NewDisease>
+  <NewPartDisease>У {0} {3}. Инфекцията се е зародила в — [PAWN_possessive] {1}.\n\nУверете се, че имате медицинско легло и доктор. {2} се нуждае от подходящо лечение и режим на спане.</NewPartDisease>
 
-  <LetterLabelAncientShrineWarning>Древна опасностr</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>когато {0} се приближава до древната стена, HIM е обзет от изключително лошо предчувствие. HECAP не знае защо, но HE чувства, че тази прашна структура таи огромна опасност.</AncientShrineWarning>
+  <PawnWasFormerlyColonist>{0} — ваш бивш заселник.</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>У {0} има следните отношение с вашите заселници:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>След {0} дни лагера ще изчезне. Ако пропуснете тази възможност, рискувате да не ги виждате отново {1}.</PrisonerRescueTimeout>
+
+  <LetterLabelAncientShrineWarning>Древна опасност</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>Когато {0} мина през древните стени, [PAWN_objective] почувствал странно предчувствие. Не е ясно как, но [PAWN_pronoun] усетил вътре в тази прашна постройка някаква опасност.</AncientShrineWarning>
 
   <StruckMineable>Намерихме {0}!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>{0} търси възмездие</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>{0} атакува след като е наранен!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>{0} напада след опит за опитомяване!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Съседни {0} също нападат!</AnimalManhunterOthers>
+  <AnimalManhunterFromDamage>Ранено животно, {0}, изпадна в ярост!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{0} Напада след неуспешен опит за опитомяване.</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Друг {0} също изпадна в ярост!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} попадна на капан</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>{0} в капан</LetterFriendlyTrapSprungLabel>
   <LetterFriendlyTrapSprung>{0} попадна случайно на капан и бе наранен.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} разви следното здравно състояние: {1}\n\nТова се случи поради влошаване на: {2}.</LetterHealthComplications>
+  <LetterHealthComplications>{0} развил здравно състояние {1}.\n\nПричина за това — {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
-  
-  <LetterHediffFromRandomHediffGiver>{0} разви следното здравно състояние: {1}.</LetterHediffFromRandomHediffGiver>
+
+  <LetterHediffFromRandomHediffGiver>{0} развил здравно състояние {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
-  
-  <LetterLeadersDeathLabel>Смърт на Лидер</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>Лидерът {0} от фракция {1} почина и бе заменен от {2}.</LetterLeadersDeath>
-  
-  <!-- Family -->
-  <LetterLabelNoticedFamilyMembers>Семейство</LetterLabelNoticedFamilyMembers>
-  <LetterFamilyMembersRaidEnemy>Има членове от семейството на твоите заселници или затворници в пристигащата група от {0}.\n\nВъпреки че са семейство, те ще атакуват едни други поради лошите отношения между фракциите им.\n\nЧленове на семейство са:</LetterFamilyMembersRaidEnemy>
-  <LetterFamilyMembersRaidFriendly>Има членове от семейството на твоите заселници или затворници в пристигащата група от приятелски настроени {0}:</LetterFamilyMembersRaidFriendly>
-  <LetterFamilyMembersNeutralGroup>Има членове от семейството на твоите заселници или затворници в пристигащата група:</LetterFamilyMembersNeutralGroup>
-  <LetterFamilyMembersTraderShipSlaves>Търговски кораб продава членове на семейството на твои заселници или затворници:</LetterFamilyMembersTraderShipSlaves>
-  
-  <FamilyLetterAppendedSuffix>(семейство)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME е член от семейството на заселник. HECAP е {0} на {1}.</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME е член от семейството на затворник. HECAP е {0} на {1}.</FamilyLetterAppendedTextPrisoner>
-  
+
+  <LetterLeadersDeathLabel>{1} от фракция {0} е починал</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>Починал {3} от фракция {1}, {0}.\n\nНовият {3} е {2}.</LetterLeadersDeath>
+
+  <LetterLeaderChangedLabel>Нов {1} на фракция {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{0} вече не е {3} на фракция {1}.\n\nНовият {3} е {2}.</LetterLeaderChanged>
+
+  <MentalBreakLetterLabel>Нервен срив</MentalBreakLetterLabel>
+  <FinalStraw>Последната капка беше: {0}.</FinalStraw>
+
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>Познати</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>В приближаващата враждебна група има {0}, който познава вашите заселници и затворници.\n\nВъпреки че са ваши бивши заселници, те ще атакуват едни други поради лошите отношения между фракциите им.\n\nТези хора са:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>В приближаващата приятелска група има {0}, който познава вашите заселници и затворници.:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>В приближаващата група има хора, който познават вашите заселници и затворници</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Орбиталните търговци продават хора, който познават вашите заселници и затворници:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithSettlement>Тази колония продава хора, сред който има познати ваши заселници или затворници:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Този керван продава хора, сред който има познати ваши заселници или затворници:</LetterRelatedPawnsTradingWithOtherCaravan>
+
+  <RelationshipAppendedLetterSuffix>(познати)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME е запознат с вашите заселници. HECAP {1} {0}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME е запознат с един от вашите затворници. HECAP {1} {0}.</RelationshipAppendedLetterTextPrisoner>
+
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Афера</LetterLabelAffair>
-  <LetterAffair>{0}, женен за {1}, започна афера с {2}.</LetterAffair>
-  <LetterLabelNewLovers>Нови влюбени</LetterLabelNewLovers>
+  <LetterAffair>{0}, е в брак с {1}, започна афера с {2}.</LetterAffair>
+  <LetterLabelNewLovers>Нова двойка</LetterLabelNewLovers>
   <LetterNewLovers>{0} и {1} се събраха и са влюбени.</LetterNewLovers>
   <LetterNoLongerLovers>{0} и {1} вече не са заедно.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Раздяла</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Ще има сватба!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>Отказано предложение</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>{1} прие предложението на {0} за сватба.\n\nВ обозримо бъдеще те ще направят церемония и ще поканят всички заселници. Постави място за сватба ако искаш да определиш къде да се състои церемоията.</LetterAcceptedProposal>
-  <LetterRejectedProposal>{1} отката предложението на {0} за сватба. {0} ще е нещастен от това.</LetterRejectedProposal>
-  
+  <LetterAcceptedProposal>{1} прие предложението на {0}!\n\nСкоро, в течението на няколко дни ще започне церемонията по сватбата. Ако желаете може да посочите специално място за сватбени церемонии.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} отказа предложението на {0} за сватба. {0} определено няма да бъде щастлив.</LetterRejectedProposal>
+
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>Доброжелание</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>Омраза</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Бжжжт...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>Нервен срив</LetterLabelMentalBreakdown>
-  
+
   <!-- Bonded animals -->
-  <LetterLabelBondedAnimalDied>Почина собствено животно</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, собственост на {1}, почина. Това ще се отрази на настроението на {1}.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} наречен {1}, собственост на {2}, почина. Това ще се отрази на настроението на {2}.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} почина. Това ще се отрази на настроението на следните хора:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} наречен {1} почина. Това ще се отрази на настроението на следните хора:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+  <LetterLabelBondedAnimalDied>Почина домашен любимец</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, домашен любимец {1}, почина. Това ще се отрази на настроението на {1}.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} на име {1}, домашен любимец {2}, почина. Това ще се отрази на настроението на {2}.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>Домашен любимец, {0}, почина. Това ще се отрази на настроението на следните хора:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>Домашен любимец, {0} на име {1}, почина. Това ще се отрази на настроението на следните хора:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
   <!-- Prison break -->
-  <LetterLabelPrisonBreak>Бягство от Затвора</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Затворниците в колонията организираха бягство! Те се справиха с ключалката и се опитват да избягат. Те може да потърсят оръжия, да се бият, или просто да бягат. Това са следните затворници:\n\n{0}\n\nЗатворниците са по/склонни да организират бягство ако са недоволни, многобройни, или здрави.</LetterPrisonBreak>
-  
+  <LetterLabelPrisonBreak>Бягство</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Затворници организирали бягство! Някак си успели да счупят ключалката и да избягат. Те ще търсят оръжия, за да ви нападат или ще се опитат да избягат. Бегълци:\n\n{0}\n\nЗатворници са по склонни на бягство, когато се чувстват нещастни и има много затворници.</LetterPrisonBreak>
+
   <!-- Party -->
   <LetterLabelNewParty>Парти</LetterLabelNewParty>
-  <LetterNewParty>{0} организира парти! Всеки, който участва ще получи радост и социална енергия, както и дълготраен бонус към настроението.</LetterNewParty>
+  <LetterNewParty>{0} устройва парти! Всеки който дойде ще получи радост, социална енергия и добро настроение.</LetterNewParty>
+
+  <!-- Newly addicted -->
+  <LetterLabelNewlyAddicted>Зависимост ({0})</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} е пристрастен от вещества: {1}.\n\nHISCAP се нуждае от тези вещества, вижте в секция Нужди. {0} самостоятелно ще употреби наркотика, за да удовлетворява нуждите си. Ако HE не може да вземе {1}, у нHIS ще започне синдрома на отнемане.</LetterNewlyAddicted>
+
+  <!-- Drug binge -->
+  <LetterLabelDrugBinge>Злоупотребление ({0})</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0} злоупотребява с наркотици: {1}.</LetterDrugBinge>
+
+  <!-- Formed caravan -->
+  <LetterLabelFormedCaravan>Керванът е готов</LetterLabelFormedCaravan>
+  <LetterFormedCaravan>Керванът е сформиран и чака вашите указания на световната карта.</LetterFormedCaravan>
+
+  <!-- Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>Керван е унищожен</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Всички членове на кервана са мъртви.</LetterAllCaravanColonistsDied>
+
+  <!-- Caravan entered ambush map -->
+  <LetterLabelCaravanEnteredAmbushMap>Керван попадна в засада</LetterLabelCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredAmbushMap>{0} се оказали на място, където ги чакали за засада.</LetterCaravanEnteredAmbushMap>
+
+  <!-- Caravan entered enemy base -->
+  <LetterLabelCaravanEnteredEnemyBase>Атаката започна</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} пристигна в {1} и е готов за атакуване.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} пристигна в {1} и е готов за атакуване.\n\nЗаради враждебния ви подход, сега цялата фракция {2} е враждебна към вас.</LetterCaravanEnteredEnemyBaseBecameHostile>
+
+  <!-- Faction base defeated -->
+  <LetterLabelFactionBaseDefeated>Разбита колония</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>{0}, колонията на противника, е разгромена.\n\nИмате {1} ч, за да съберете ресурсите, след което керванът ще продължи по пътя.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>Тази колония бе последната база на фракцията {0}. Фракцията престана да съществува.</LetterFactionBaseDefeated_FactionDestroyed>
+
+  <!-- Pawns lost due to map countdown -->
+  <LetterLabelPawnsLostDueToMapCountdown>Изостанал</LetterLabelPawnsLostDueToMapCountdown>
+  <LetterPawnsLostDueToMapCountdown>Някой от вашите животни или затворници изостанал в тази пустош:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
+  <!-- Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Задачата е изпълнена</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Колонията на противника е сразена!\n\nПолучихте награда от фракция {0}. Отношенията с тях се увеличили на {1}.</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Found lump of precious resources -->
+  <LetterLabelFoundPreciousLump>Открити скъпоценни минерали</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Ваш скенер е открил висока концентрация на скъпоценни минерали в района наблизо.\n\nЗа съжаление не може да се определи кой охранява и какви защити имат.</LetterFoundPreciousLump>
+
+  <!-- Sleeping mechanoids -->
+  <LetterLabelSleepingMechanoids>«Спящи» механоиди</LetterLabelSleepingMechanoids>
+  <LetterSleepingMechanoids>Няколко враждебни механоиди «спят» наблизо.\n\nАко се приближите до тях, те ще се събудят. Бъдете внимателен.</LetterSleepingMechanoids>
+
+  <!-- Ambush -->
+  <LetterLabelAmbushInExistingMap>Засада</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>{0} попаднали в засада!</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <LetterLabelPeaceTalks_Disaster>Преговорите се провалиха</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>Мирните преговори приключиха с катастрофален провал! Изглежда дискусията прерасна в взаимни оскърбления и обвинения.\n\nСлед като керванът излезе по рано от предвиденото, {0} от фракция {1} ги нападна!\n\nОтношенията с фракция {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>Преговорите бяха неуспешни</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Мирните преговори са били неуспешни. Делегатите не постигнаха напредък за по съществени преговори и повечето изразявания бяха възприети като обида.\n\nОтношенията с фракция {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>Преговорите стигнали до задънена улица</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Мирните преговори не са постигнали нищо. Делегатите, макар с досатъчно уважение, не успяха да постигнат напредък за по съществени преговори.\n\nОтношенията с фракция {0} не се променили.</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>Преговорите бяха успешни</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>Мирните преговори завършиха успешно. Делегатите достигнаха взаимно разбирателство по няколко важни въпроси.\n\nОтношенията с фракция {0} се подобрили на {1}.</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>Преговорите завършиха триумфално</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>Истинска победа! Делегатите бързо намериха общ език. Те успяха да разглеждат проблемите, който се случват от различни гледни точки. Дори по трудните въпроси беше намерено решение, устройващи двете страни.\n\nОтношенията с фракция {0} се подобрили на {1}.\n\nКогато ваш керван се подготвяше за пътуване, представителя на фракция {0} ви даде подарък: {2}.</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>{0}, ваш преговарящ повиши социалния опит на {1}.</PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <LetterRunWildMentalBreak>{0} реши да напусне фракцията и да живее сред природата.</LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <LetterCatatonicMentalBreak>{0} получи ступор. Това може да продължи няколко дни.</LetterCatatonicMentalBreak>
 
 </LanguageData>

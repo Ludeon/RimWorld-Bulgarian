@@ -1,110 +1,159 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LetterLabelAnimalInsanitySingle>Полудяло животно</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>Следното животно {0} е полудяло. Ще нападне всеки, който види.</AnimalInsanitySingle>
-  <LetterLabelAnimalInsanityMultiple>Полудели животни!</LetterLabelAnimalInsanityMultiple>
-  <AnimalInsanityMultiple>Някаква форма на психическа вълна е преминала през района. Заселниците ти са добре, но...\n\nМного от {0} в района са полудели и ше нападнат който видят.</AnimalInsanityMultiple>
+  <LetterLabelAnimalInsanitySingle>Бясно животно</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Животно, {0}, е полудяло и ще нападне всеки, който види.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Бесни животни!</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Някаква вид психо вълна премина през земята. Заселниците са добре, но...\n\nИзглежда, повечето представители на вида {0} са полудели.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Листни въшки</LetterLabelCropBlight>
-  <CropBlight>Мистериозни листни въшки са унищожили реколтата ти.</CropBlight>
+  <LetterCropBlight>Мистериозни листни въшки са унищожили реколтата ти! Трябва да ги изрежете или изгаряте преди да засегне цялата реколта.</LetterCropBlight>
 
-  <LetterLabelMiracleHeal>ЧУДО</LetterLabelMiracleHeal>
-  <MiracleHeal>{0} преживя чудодейно въстановяване!</MiracleHeal>
+  <LetterLabelMiracleHeal>Чудо</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} преживя чудотворно изцеление!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>Група от {0} от {1} пристигнаха наблизо.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Група от {0} от {1} се приземиха от орбита наблизо.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Група от {0} от {1} се приземиха в базата!</EnemyRaidCenterDrop>
+  <EnemyRaidWalkIn>Враждебни {0} от фракция {1} се намират наблизо.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Враждебни {0} от фракция {1} десантирали недалеч.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Враждебни {0} от фракция {1} десантирали директно във вашата колония!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>Един от {1}, е лидер на фракция.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>Група от {0} приятески настроени заселници от {1} пристигнаха наблизо.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Група от {0} приятески настроени заселници от {1} се приземиха от орбита наблизо.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Група от {0} приятески настроени заселници от {1} се приземиха в базата!</FriendlyRaidCenterDrop>
+  <FriendlyRaidWalkIn>Приятелски {0} от фракция {1} се намират наблизо</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Приятелски {0} от фракция {1} десантирали недалеч.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Приятелски {0} от фракция {1} десантирали директно във вашата колония!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>Един от {1}, е лидер на фракция.</FriendlyRaidLeaderPresent>
 
-  <LetterLabelRefugeePodCrash>Евакуационен ковчег</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>Засечен е евакуационен ковчег, който се приземи наблизо.\n\nАко някой е оцелял падането, той или тя ще е лошо ранен и безсилен.</RefugeePodCrash>
+  <LetterLabelRefugeePodCrash>Спасителна капсула</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>Засякохте спасителна капсула, паднала наблизо.\n\nАко някой е оцелял след падането, вероятно то ще е сериозно ранен.\n\nМожете да го спасите и после да го освободите или да ги хванете, за да може по-късно да ги вербувате или да поробите.</RefugeePodCrash>
 
-  <LetterLabelCargoPodCrash>Товарни сандъци</LetterLabelCargoPodCrash>
-  <CargoPodCrash>Засечена е група от товарни сандъци, която падна наблизо.\n\nМоже да има нещо полезно в останките.</CargoPodCrash>
+  <LetterLabelCargoPodCrash>Товарни контейнери</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Засякохте няколко товарни контейнери, паднали наблизо.\n\nВъзможно е да намери нещо полезно в отломките.</CargoPodCrash>
 
-  <AnElectricalConduit>електропроводник</AnElectricalConduit>
-  <ShortCircuit>Проблем с {0} предизвика късо съединение.\n\nВсички събрани {1} Wd енергия в свързаните с тях батерии бяха освободени в електрическа експлозия.</ShortCircuit>
-  <ShortCircuitWasLarge>Това голямо количество енергия предизвика солидна експлозия.</ShortCircuitWasLarge>
-  <ShortCircuitWasHuge>Това си беше егати екплозията! Оле, мале!</ShortCircuitWasHuge>
+  <AnElectricalConduit>ел. инсталация</AnElectricalConduit>
+  <ShortCircuit>Неизправност в {0} предизвика късо съединение.</ShortCircuit>
+  <ShortCircuitStartedFire>Неизправност в {0} предизвика късо съединение, което причини пожар.</ShortCircuitStartedFire>
+  <ShortCircuitDischargedEnergy>Всичките {0} Вт. дни енергия в свързваните акумулаторни батерии са изгубени.</ShortCircuitDischargedEnergy>
+  <ShortCircuitWasLarge>Голямото количество енергия доведе до изригване, силен трясък и пожар.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Това беше наистина огромна експлозия! Exa!</ShortCircuitWasHuge>
 
-  <TraderArrival>Търговски космически кораб минава наблизо.\n\nТе се наричат {0}. Те са {1}.</TraderArrival>
+  <TraderArrival>Търговски кораб «{0}» минава наблизо.\n\nТе са {1}.</TraderArrival>
 
-  <SingleTravelerPassing>{0} от {1} минава наблизо. HECAP се казва {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>Група пътешественици от {0} минават наблизо.</GroupTravelersPassing>
+  <SingleTravelerPassing>{0} от фракция {1} минава наблизо.\n\n[PAWN_pronoun] се казва {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Група пътешественици от фракция {0} минават наблизо.</GroupTravelersPassing>
 
-  <LetterLabelSingleVisitorArrives>Посетител</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>{0} от {1} посещава колонията.\n\nHECAP се казва {2}.{3}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP изглежда, че има няколко предмета за търгуване.</SingleVisitorArrivesTraderInfo>
-  <LetterLabelGroupVisitorsArrive>Посетители</LetterLabelGroupVisitorsArrive>
-  <GroupVisitorsArrive>Група от {0} посещават колонията.{1}</GroupVisitorsArrive>
-  <GroupVisitorsArriveTraderInfo>\n\nИзглежда, че имат предмети за търгуване.</GroupVisitorsArriveTraderInfo>
-  <VisitorsLeaving>Посетителите от {0} си заминават.</VisitorsLeaving>
+  <LetterLabelSingleVisitorArrives>Гост</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>{0} от фракция {1} посещава колония.\n\n[PAWN_pronoun] се казва {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\nИзглежа, у [PAWN_possessive] има някой предмети за обмен.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] е лидер на фракция.</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>Гости</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>Група от фракция {0} посещават колонията ви.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nИзглежда, имат няколко предмети за обмен.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nЕдин от гостите, {0}, — е лидер на фракцията.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>Гости от фракция {0} си тръгват.</VisitorsLeaving>
 
-  <LetterLabelWandererJoin>Бездомник се присъединява</LetterLabelWandererJoin>
-  <WandererJoin>{0} наречен NAME пристигна наблизо и се присъединява към колонията. HECAP е {1}.</WandererJoin>
+  <LetterLabelWandererJoin>Попълнение</LetterLabelWandererJoin>
+  <WandererJoin>{0} наречен [PAWN_nameDef] пристигна наблизо и се присъединява към колонията. [PAWN_pronoun] е {1}.</WandererJoin>
 
-  <LetterLabelManhunterPackArrived>Човекоядни животни</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>Стадо от човекоядни животни {0} влезе в района. Те ще ловуват активно за човешка плът.\n\nЖивотните не могат да минават през врати, тоест всяко оградено място е безопасно. Те няма да нападнат неактивни Огневи Кули, затова може да ги изключиш ако искаш да ги запазиш.\n\nЖивотните ще напуснат района след няколко дни.</ManhunterPackArrived>
-  
+  <LetterLabelManhunterPackArrived>Животни-човекоядни</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>Глутница от агресивни животни ({0}) навлязоха в територията ти. Те жадуват за човешко месо.\n\nТези животни няма да преминат през вратите, така че сте в безопасност вътре. Също така няма да нападат турелите, ако сте ги изключили предварително.\n\nИзчакайте няколко дни и животните ще напуснат колонията ви.</ManhunterPackArrived>
+
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>Древната структура изпрати психически пулс, от който близките животни полудяха.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Падналият Кораб изпрати фокусиран психически пулс, от който заселникът {0} полудя.</LetterShipPartDroveColonistInsane>
+  <MessageAnimalInsanityPulse>Древно съоръжение излъчва психоактивен импулс, която предизвиква ярост у всяко животно.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Част от разбития кораб излъчваше целенасочен психоактивен импулс, и ваш заселник {0} е полудял.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Събуден преди {0} дни</AwokeDaysAgo>
-  <PsychicDroneLevel>Ниво на боботене: {0}</PsychicDroneLevel>
-  <PsychicDroneLevelLow>Ниско</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>Средно</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>Високо</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Екстремно</PsychicDroneLevelExtreme>
-  <LetterLabelPsychicDroneLevelIncreased>Боботенето се засилва</LetterLabelPsychicDroneLevelIncreased>
-  <LetterPsychicDroneLevelIncreased>Падналият Кораб започва да излъчва още по-силен вид психическо боботене. Всеки човек в района се чувства още по-нервен, уплашен, и параноичен.</LetterPsychicDroneLevelIncreased>
-  
+  <PsychicDroneLevel>Ниво на жужене {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>нисък</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>среден</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>висок</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>екстремно</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>жуженето се засилва</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Наближава по-мощен вид психическо жужене от частите на разбития кораба. Всеки човек в тази местност ще се чувства обезпокоен, уплашен и мнителен.</LetterPsychicDroneLevelIncreased>
+
   <!-- Agent revealed -->
-  <LetterLabelAgentRevealed>Агент</LetterLabelAgentRevealed>
-  <LetterAgentRevealed>{0} се оказа агент на следния враг {1}.\n\nОпитва се да избяга сега.</LetterAgentRevealed>
+  <LetterLabelAgentRevealed>Шпионин</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>Вражески шпионин {0} от фракция {1} е разкрит.\n\nСега се опитва да избяга.</LetterAgentRevealed>
 
   <!-- Distant psychic drone -->
-  <LetterLabelPsychicDrone>Психическо боботене</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Всеки заселник от {0} пол се сгърчва от болка!\n\nДалечен източник на омраза се е вкючил. Той проектира силно психическо боботене над региона на честота, която афектира {0} пол. В следващите няколко дни, тяхното настроение ще е доста по-лошо.</LetterIncidentPsychicDrone>
+  <LetterLabelPsychicDrone>Жужене</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Главоболието пронизва черепите на колонистите като пирон!\n\nПсихоактивно жужене идваща от някое далечен излъчвател, прониква у тази местност с ненавист. Изглежда, че честота на излъчването засяга само {0}. В следващите няколко дни, тяхното настроение ще бъде малко по-лошо</LetterIncidentPsychicDrone>
 
-  <LetterLabelPsychicSoothe>Психическо успокоение</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Всеки заселник от {0} пол се усмихва от задоволство!\n\nДалечен източник на щастие се е вкючил. Той проектира силно психическо боботене над региона на честота, която афектира {0} пол. В следващите няколко дни, тяхното настроение ще е доста добро.</LetterIncidentPsychicSoothe>
+  <LetterLabelPsychicSoothe>Умиротворителят</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Вълна от блаженство се впусна в колонията!\n\nМощен излъчвател от някое далечен генератор на щастието прониква в тази местност. Изглежда, че честота на излъчването засяга само {0}. В следващите няколко дни, тяхното настроение ще бъде малко по-добро.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>Бобри!</LetterLabelBeaversArrived>
-  <BeaversArrived>Група от гладни Алфа-Бобри пристигна току-що.\n\nОпитай се да ги елиминираш преди да унищожат всяко едно дърво в региона.</BeaversArrived>
-  
+  <BeaversArrived>Група от алфа бобри е била видяна.\n\nОтървете се от тях, преди да унищожат последното дърво в тази местност.</BeaversArrived>
+
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>{1} наречен {0} се обажда отблизо. HECAP е гонен от {2} от {3}!\n\nHECAP те умолява за помощ и предлага да се присъедини към колонията. Биологически, HE е на {4} години.\n\nВнимание - ако приемеш, ще трябва да се биеш с {2} които преследват HIS.</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>Предложи безопасност</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Игнорирай съобщението</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{0} изкрешява от паника през малкия говорител момент преди да прекъснеш връзката.</RefugeeChasedRejected>
+  <RefugeeChasedTitle>Колония {0} преследва бежанец</RefugeeChasedTitle>
+  <RefugeeChasedInitial>{0}, {1}, бяга и търси помощ! [PAWN_pronoun] говорят, че n[PAWN_pronoun] преследват {2} от фракция {3}.\n\n{0} умолява за помощ и в замяна предлага да се присъедини към колонията. [PAWN_possessive] биологическа възраст — {4} год.\n\nАко сте съгласен да приемате {0}, ще бъдете атакувани от {2}, който преследват нHIS.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Предложи укритие</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Игнорирай това съобщение</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} отчаяно крещи от хъхрещия говорител, докато не прекъснахте връзката.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0} се самоопитоми</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>{0} стана питомен.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} стана питомен. Нарича се {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0} стана питомен. Заселниците решиха да го нарекат {1}.</LetterAnimalSelfTameAndName>
+  <LetterLabelAnimalSelfTame>Опитомено животно</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>Животно, {0}, е опитомено.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>Това животно, {0}, — сега е питомец на колонистите. Той получи име {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>Животно, {0}, е опитомено. Заселниците решили да го нарекат {1}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0} се присъединява(т)</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>Група от {0}, изоставени или изгубени, влязоха в района.\n\nИзглежда са свикнали с хора и се присъединяват към колонията.</LetterFarmAnimalsWanderIn>
-  
+  <LetterLabelFarmAnimalsWanderIn>Присъединени животни</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Група {0}, изоставени или загубени, влязоха в тази местност. \n\nОчевидно са свикнали с хората и се присъединиха към колонията.</LetterFarmAnimalsWanderIn>
+
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Тръмбо</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>Малко стадо от редки животни Тръмбо влязоха в района.\n\nМакар и мирни по природа, тези животни са опасни врагове. Някои търговци са готови да платят много за тяхните рога и козина.n\nТе ще напуснат района след няколко дни.</LetterThrumboPasses>
-  
+  <LetterLabelThrumboPasses>Редки тръмбовци</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Малко стадо тръмбовци се скита в района.\n\nПо своя природа тези същества са редки и миролюбиви, обаче са изключително опасни при стълкновение. Някой търговци са готови да заплатят огромна сума за тяхната кожа и рога.\n\nТръмбовците ще напуснат тази зона в следващите дни.</LetterThrumboPasses>
+
   <!-- Trader caravan -->
-  <LetterLabelTraderCaravanArrival>Търговец от {0}</LetterLabelTraderCaravanArrival>
-  <LetterTraderCaravanArrival>Търговска каравана от {0} приближава.\n\nТе ще останат наоколо няколко дни преди да си заминат. Можеш да ги нападнеш - но това ще ядоса лидерите на фракцията им!</LetterTraderCaravanArrival>
-  
+  <LetterLabelTraderCaravanArrival>{1} от фракция {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Приближава керван от фракция {0}. Сред тях е {1}.\n\nЩе останат в колонията няколко дни, преди да продължат. Можете да ги атакувате, но това ще доведе до война с цялата фракция!</LetterTraderCaravanArrival>
+
   <!-- Building breaks down -->
   <LetterLabelBuildingBrokenDown>Повреда: {0}</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>Една от машините ти ({0}) се повреди. Тя няма да работи докато заселник не отиде да я поправи.</LetterBuildingBrokenDown>
-  
+  <LetterBuildingBrokenDown>Един от механизмите, {0}, е повреден. То няма да работи, докато заселниците не го поправят.</LetterBuildingBrokenDown>
+
+  <!-- Ransom demand -->
+  <RansomDemandTitle>Искане за откуп от колония {0}</RansomDemandTitle>
+  <RansomDemand>{1} се свързва с вас. У тях има заложник — {0}, бившия ви заселник.\n\nТе са съгласни да го пуснат HIM обратно към вас за {2} сребро.</RansomDemand>
+  <RansomDemand_Accept>Съгласяване</RansomDemand_Accept>
+  <RansomDemand_Reject>Отказване</RansomDemand_Reject>
+
+  <!-- Journey-related -->
+  <JourneyOffer>Дружелюбно настроен ИИ, назовава себе си като Шарлон Вайтстоун, ви изпрати съобщение!\n\nТой съобщава, че на тази планета има скрит кораб и ви дава координатите на местоположението.\n\nАко успеете да се доберете до кораба, Шарлон ще ви отведе от този свят до далечните звезди.</JourneyOffer>
+  <EscapeShipFoundLabel>Намерен е кораб</EscapeShipFoundLabel>
+  <EscapeShipFound>Достигнахте координатите, който ви изпрати Шарлон Вайтстоун и открихте скрития кораб.\n\nБегъл преглед върху реактора разкри, че е невъзможно излитането, тъй като реактора на кораба е неактивен. Трябва да стартирате реактора от компютърното ядро.\n\nШарлон Вайтстоун предупреждава, че процесът на стартиране ще отнеме 15 дни, а мощната електрическа енергия ще се усети отдалеч и ще разкрие местоположението на кораба. Това ще привлече вниманието на различни видове нападатели и ловци на съкровища. Хубаво е да се подготвяте предварително за отбрана преди да стартирате кораба.</EscapeShipFound>
+  <EscapeShipLostLabel>Корабът е унищожен</EscapeShipLostLabel>
+  <EscapeShipLost>Шарлон Вайтстоун изпраща съобщение.\n\nЗабелязал е, че сте изгубили контрол над кораба. За да не попадне кораба в неподходящи ръце, той е стартирал механизма за самоунищожение. От кораба е останал само един голям кратер.\n\nИзглежда ще трябва да намерите друг начин да напускате планетата.</EscapeShipLost>
+
+  <!-- Caravan meeting -->
+  <CaravanMeetingTitle>Среща на кервани в {0}</CaravanMeetingTitle>
+  <CaravanMeeting>Ваш керван се срещна с керван от фракция {0}. В този керван:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>Търгувай</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Нападни</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Продължи по пътя</CaravanMeeting_MoveOn>
+  <CaravanMeeting_TradeIncapable>нито един член не е способен на търговия</CaravanMeeting_TradeIncapable>
+
+  <!-- Caravan request -->
+  <LetterLabelCaravanRequest>Заяви търговски керван</LetterLabelCaravanRequest>
+  <LetterCaravanRequest>Един от съседните колонии, {0}, се свързва с вас относно предложение за обмяна. Желаят да получават:\n\n  {1}\n\nВ замяна те предлагат:\n\n  {2}\n\nТова предложение изтича след: {3}\n\nАко искате да сключите сделка, изпратете керван с посочените стоки. Можете да прегледате офертата, като изберете {0} на световната карта.</LetterCaravanRequest>
+  <CaravanRequestInfo>Искат: {0}, Предлагат: {1} (останали {2})</CaravanRequestInfo>
+
+  <!-- Caravan demand -->
+  <CaravanDemandTitle>Керван е попаднал в засада</CaravanDemandTitle>
+  <CaravanDemand>Ваш керван е попадна в засада {3} от фракция {0}! Има {1} човека. Ще ви атакуват, ако не предприемате нещо:\n\n{2}</CaravanDemand>
+  <CaravanDemand_Give>Give and pass</CaravanDemand_Give>
+  <CaravanDemand_Fight>Откажи и се приготви за бой</CaravanDemand_Fight>
+
+  <!-- Temporary item stash -->
+  <ItemStashQuestTitle>Координати на хранилище</ItemStashQuestTitle>
+  <ItemStashQuest_Accept>Приеми</ItemStashQuest_Accept>
+  <ItemStashQuest_Reject>Откажи</ItemStashQuest_Reject>
+  <ItemStashQuestFeeDemand>{0} ви предлага информация за местонахождение на скривалище с консумативи в замяна на {1} сребро.</ItemStashQuestFeeDemand>
+  <ItemStashSitePart_Unknown>За съжаление, {0} няма представа какво се съхранява в това скривалище.</ItemStashSitePart_Unknown>
+  <ItemStashSitePart_Nothing>{0} говори, че никой не пази скривалището.</ItemStashSitePart_Nothing>
+  <ItemStashSitePart_Part>{0} казва това {1}.</ItemStashSitePart_Part>
+
+
 </LanguageData>

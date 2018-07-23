@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ======================== Non-grouped ========================-->
+
+  <ScenPart_PlayerFaction>Ваша фракция: {0}.</ScenPart_PlayerFaction>
+
+  <ScenPart_StartWithPawns>Започна с {0} хора, избрани от {1}</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>избери от</ScenPart_StartWithPawns_OutOf>
+  <RandomPet>случаен питомец</RandomPet>
+
+  <ScenPart_StartingResearchFinished>Проучването е завършено: {0}</ScenPart_StartingResearchFinished>
+
+  <ScenPart_ArriveInDropPods>Пристигна в спасителна капсула.</ScenPart_ArriveInDropPods>
+
+  <ScenPart_StatFactor>Всички стойности "{0}" в света ще бъде умножено на {1}.</ScenPart_StatFactor>
+
+
+  <!-- Pawn modifiers -->
+  <ScenPart_PawnsHaveHediff>{0} има {1} шанс да започне с {2}.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>трудности: {0}</ConfigurableSeverity>
+
+  <ScenPart_SetNeed>{0} have a {1} chance to have their {2} set between {3} and {4}.</ScenPart_SetNeed>
+  <ConfigurableLevel>ниво: {0}</ConfigurableLevel>
+
+  <ScenPart_PawnsHaveTrait>У {0} има {1} шанс да започне с черти?: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>Персонажи и същества се взривяват при смърт ({0}, радиус на взрива {1}).</ScenPart_OnPawnDeathExplode>
+
+  <!-- Pawn filters -->
+  <ScenPart_StartingPawnAgeMin>Вашите хора ще бъдат най малко на {0} год.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Вашите хора ще бъдат на не повече от {0} год.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Вашите хора ще бъдат от {0} до {1} год.</ScenPart_StartingPawnAgeRange>
+
+
+  <!-- ======================== Grouped ========================-->
+
+  <ScenPart_StartWith>Начальни ресурси</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>По картата ще бъдат разпръснати</ScenPart_MapScatteredWith>
+  <ScenPart_PermaGameCondition>Постоянни условия</ScenPart_PermaGameCondition>
+  <ScenPart_DisableIncident>Следните произшествия за изключени</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>Създаден е инцидент</ScenPart_CreateIncident>
+  <ScenPart_DisallowBuilding>Не може да се построй</ScenPart_DisallowBuilding>
+
+</LanguageData>

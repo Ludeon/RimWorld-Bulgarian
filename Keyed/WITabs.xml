@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <TabTerrain>Пейзаж</TabTerrain>
+  <TabPlanet>Планета</TabPlanet>
+  <TabCaravanSocial>Общество</TabCaravanSocial>
+  <TabCaravanHealth>Здраве</TabCaravanHealth>
+  <TabCaravanNeeds>Нужди</TabCaravanNeeds>
+  <TabCaravanGear>Вещи</TabCaravanGear>
+  <TabCaravanItems>Товар</TabCaravanItems>
+
+  <!-- Misc -->
+  <AbandonSliderText>Изостави {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Сигурен ли сте, че искате да изоставите {0}?\n\nОставените предмети изчезват и не могат да бъдат върнати.</ConfirmAbandonItemDialog>
+  <AbandonTip>Изостави</AbandonTip>
+  <BanishTip>Прокуди</BanishTip>
+  <AbandonSpecificCountTip>Изостави определена сума</AbandonSpecificCountTip>
+  <AbandonAllTip>Изостави всичко</AbandonAllTip>
+  <AbandonItemTipExtraText>Изоставените вещи изчезват и не могат да бъдат върнати.</AbandonItemTipExtraText>
+  <BanishTipWillDie>{0} най-вероятно ще умре.</BanishTipWillDie>
+
+  <!-- Caravan inspect -->
+  <CaravanColonists>Пътешественици</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Затворници и животни</CaravanPrisonersAndAnimals>
+  <CaravanItems>Товар</CaravanItems>
+  <OpenSpecificTabButtonTip>Натиснете, за да видите подробности.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Затворници</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>Вещи</CaravanWeaponsAndApparel>
+  <NoneCapable>Не е намерен</NoneCapable>
+
+  <!-- Caravan gear -->
+  <DragToRearrange>Плъзнете, за да сортирате предметите.</DragToRearrange>
+
+  <!-- Planet -->
+  <PlanetSeed>Зърно</PlanetSeed>
+  <PlanetCoverageShort>Размер на карта</PlanetCoverageShort>
+
+</LanguageData>
