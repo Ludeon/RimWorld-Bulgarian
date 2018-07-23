@@ -39,6 +39,7 @@
 
   <TraderArrival>Търговски кораб «{0}» минава наблизо.\n\nТе са {1}.</TraderArrival>
 
+<<<<<<< HEAD
   <SingleTravelerPassing>{0} от фракция {1} минава наблизо.\n\n[PAWN_pronoun] се казва {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Група пътешественици от фракция {0} минават наблизо.</GroupTravelersPassing>
 
@@ -57,6 +58,21 @@
 
   <LetterLabelManhunterPackArrived>Животни-човекоядни</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Глутница от агресивни животни ({0}) навлязоха в територията ти. Те жадуват за човешко месо.\n\nТези животни няма да преминат през вратите, така че сте в безопасност вътре. Също така няма да нападат турелите, ако сте ги изключили предварително.\n\nИзчакайте няколко дни и животните ще напуснат колонията ви.</ManhunterPackArrived>
+=======
+  <SingleTravelerPassing>{0} от {1} минава наблизо. [PAWN_pronoun] се казва {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Група пътешественици от {0} минават наблизо.</GroupTravelersPassing>
+
+  <LetterLabelSingleVisitorArrives>Посетител</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>{0} от {1} посещава колонията.\n\n[PAWN_pronoun] се казва {2}.{3}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] изглежда, че има няколко предмета за търгуване.</SingleVisitorArrivesTraderInfo>
+  <LetterLabelGroupVisitorsArrive>Посетители</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>Група от {0} посещават колонията.{1}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nИзглежда, че имат предмети за търгуване.</GroupVisitorsArriveTraderInfo>
+  <VisitorsLeaving>Посетителите от {0} си заминават.</VisitorsLeaving>
+
+  <LetterLabelWandererJoin>Бездомник се присъединява</LetterLabelWandererJoin>
+  <WandererJoin>{0} наречен [PAWN_nameDef] пристигна наблизо и се присъединява към колонията. [PAWN_pronoun] е {1}.</WandererJoin>
+>>>>>>> e65dfb78e06e69c24287a72abf2ce509f17ec07f
 
   <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>Древно съоръжение излъчва психоактивен импулс, която предизвиква ярост у всяко животно.</MessageAnimalInsanityPulse>
@@ -86,11 +102,18 @@
   <BeaversArrived>Група от алфа бобри е била видяна.\n\nОтървете се от тях, преди да унищожат последното дърво в тази местност.</BeaversArrived>
 
   <!-- Refugee chased -->
+<<<<<<< HEAD
   <RefugeeChasedTitle>Колония {0} преследва бежанец</RefugeeChasedTitle>
   <RefugeeChasedInitial>{0}, {1}, бяга и търси помощ! [PAWN_pronoun] говорят, че n[PAWN_pronoun] преследват {2} от фракция {3}.\n\n{0} умолява за помощ и в замяна предлага да се присъедини към колонията. [PAWN_possessive] биологическа възраст — {4} год.\n\nАко сте съгласен да приемате {0}, ще бъдете атакувани от {2}, който преследват нHIS.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Предложи укритие</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Игнорирай това съобщение</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} отчаяно крещи от хъхрещия говорител, докато не прекъснахте връзката.</RefugeeChasedRejected>
+=======
+  <RefugeeChasedInitial>{1} наречен {0} се обажда отблизо. [PAWN_pronoun] е гонен от {2} от {3}!\n\n[PAWN_pronoun] те умолява за помощ и предлага да се присъедини към колонията. Биологически, [PAWN_pronoun] е на {4} години.\n\nВнимание - ако приемеш, ще трябва да се биеш с {2} които преследват [PAWN_possessive].</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Предложи безопасност</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Игнорирай съобщението</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} изкрешява от паника през малкия говорител момент преди да прекъснеш връзката.</RefugeeChasedRejected>
+>>>>>>> e65dfb78e06e69c24287a72abf2ce509f17ec07f
 
   <!-- Self-tame -->
   <LetterLabelAnimalSelfTame>Опитомено животно</LetterLabelAnimalSelfTame>

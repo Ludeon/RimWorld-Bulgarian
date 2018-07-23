@@ -2,15 +2,27 @@
 <LanguageData>
 
   <AnimalChat.label>Взаимодействие</AnimalChat.label>
-  <AnimalChat.logRulesInitiator.rulesStrings.0>logentry->Взаимодейства с [other_nameShortIndef], опитвайки да създаде връзка.</AnimalChat.logRulesInitiator.rulesStrings.0>
-  <AnimalChat.logRulesRecipient.rulesStrings.0>logentry->Реагиран на въаимодействието с [other_nameShortIndef].</AnimalChat.logRulesRecipient.rulesStrings.0>
+	<AnimalChat.logRulesInitiator.rulesStrings>
+		<li>logentry->Взаимодейства с [other_nameShortIndef], опитвайки да създаде връзка.</li>
+	</AnimalChat.logRulesInitiator.rulesStrings>
+	<AnimalChat.logRulesRecipient.rulesStrings>
+		<li>logentry->Реагиран на въаимодействието с [other_nameShortIndef].</li>
+	</AnimalChat.logRulesRecipient.rulesStrings>
 
   <TrainAttempt.label>Опит за дресировка</TrainAttempt.label>
-  <TrainAttempt.logRulesInitiator.rulesStrings.0>logentry->Дресира [other_nameShortIndef].</TrainAttempt.logRulesInitiator.rulesStrings.0>
-  <TrainAttempt.logRulesRecipient.rulesStrings.0>logentry->Беше дресиран от [other_nameShortIndef].</TrainAttempt.logRulesRecipient.rulesStrings.0>
+	<TrainAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Дресира [other_nameShortIndef].</li>
+	</TrainAttempt.logRulesInitiator.rulesStrings>
+	<TrainAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Беше дресиран от [other_nameShortIndef].</li>
+	</TrainAttempt.logRulesRecipient.rulesStrings>
 
   <TameAttempt.label>Опит за опитомяване</TameAttempt.label>
-  <TameAttempt.logRulesInitiator.rulesStrings.0>logentry->Опита да опитоми [other_nameShortIndef].</TameAttempt.logRulesInitiator.rulesStrings.0>
-  <TameAttempt.logRulesRecipient.rulesStrings.0>logentry->видя опита на [other_nameShortIndef] да ме опитоми.</TameAttempt.logRulesRecipient.rulesStrings.0>
+	<TameAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Опита да опитоми [other_nameShortIndef].</li>
+	</TameAttempt.logRulesInitiator.rulesStrings>
+	<TameAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->видя опита на [other_nameShortIndef] да ме опитоми.</li>
+	</TameAttempt.logRulesRecipient.rulesStrings>
 
 </LanguageData>

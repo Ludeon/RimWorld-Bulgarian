@@ -390,7 +390,12 @@
 
   <!-- Cryptosleep casket -->
   <CasketContains>Съдържа</CasketContains>
+<<<<<<< HEAD
   <CasketWarning>Внимание!\n\n[PAWN_nameDef] — последният ви заселник. Ако не поставите [PAWN_possessive] в този контейнер, възможно е после да не може да продължите играта. Сигурен ли сте, че искат да направите това?</CasketWarning>
+=======
+  <CasketUnknownContents>Непознат</CasketUnknownContents>
+  <CasketWarning>Внимание!\n\n[PAWN_nameDef] е последният ти заселник! Ако го поставиш в криптосън, няма да может да продължиш играта. Със сигурност ли искаш да продължиш?</CasketWarning>
+>>>>>>> e65dfb78e06e69c24287a72abf2ce509f17ec07f
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Не може да се стартира.</ShipReportCannotLaunch>

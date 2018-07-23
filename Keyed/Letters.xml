@@ -40,12 +40,21 @@
   <NewDisease>У {0} {1}.\n\nУверете се, че имате медицинско легло и доктор. {2} се нуждае от подходящо лечение и режим на спане.</NewDisease>
   <NewPartDisease>У {0} {3}. Инфекцията се е зародила в — [PAWN_possessive] {1}.\n\nУверете се, че имате медицинско легло и доктор. {2} се нуждае от подходящо лечение и режим на спане.</NewPartDisease>
 
+<<<<<<< HEAD
   <PawnWasFormerlyColonist>{0} — ваш бивш заселник.</PawnWasFormerlyColonist>
   <PawnHasTheseRelationshipsWithColonists>У {0} има следните отношение с вашите заселници:</PawnHasTheseRelationshipsWithColonists>
   <PrisonerRescueTimeout>След {0} дни лагера ще изчезне. Ако пропуснете тази възможност, рискувате да не ги виждате отново {1}.</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>Древна опасност</LetterLabelAncientShrineWarning>
   <AncientShrineWarning>Когато {0} мина през древните стени, [PAWN_objective] почувствал странно предчувствие. Не е ясно как, но [PAWN_pronoun] усетил вътре в тази прашна постройка някаква опасност.</AncientShrineWarning>
+=======
+  <LetterLabelNewDisease>Болест</LetterLabelNewDisease>
+  <NewDisease>{0} се разболя от {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewDisease>
+  <NewPartDisease>{0} се разболя от {3}. Инфекцията се е зародила в [PAWN_possessive] {1}.\n\nОсигури им медицинско легло и доктор. Следи {2} да получава редовно лечение и да стои в леглото възможно най-много.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>Древна опасностr</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>когато {0} се приближава до древната стена, [PAWN_objective] е обзет от изключително лошо предчувствие. [PAWN_pronoun] не знае защо, но [PAWN_pronoun] чувства, че тази прашна структура таи огромна опасност.</AncientShrineWarning>
+>>>>>>> e65dfb78e06e69c24287a72abf2ce509f17ec07f
 
   <StruckMineable>Намерихме {0}!</StruckMineable>
 
@@ -62,6 +71,7 @@
 
   <LetterHediffFromRandomHediffGiver>{0} развил здравно състояние {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+<<<<<<< HEAD
 
   <LetterLeadersDeathLabel>{1} от фракция {0} е починал</LetterLeadersDeathLabel>
   <LetterLeadersDeath>Починал {3} от фракция {1}, {0}.\n\nНовият {3} е {2}.</LetterLeadersDeath>
@@ -85,6 +95,23 @@
   <RelationshipAppendedLetterTextColonist>NAME е запознат с вашите заселници. HECAP {1} {0}.</RelationshipAppendedLetterTextColonist>
   <RelationshipAppendedLetterTextPrisoner>NAME е запознат с един от вашите затворници. HECAP {1} {0}.</RelationshipAppendedLetterTextPrisoner>
 
+=======
+  
+  <LetterLeadersDeathLabel>Смърт на Лидер</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>Лидерът {0} от фракция {1} почина и бе заменен от {2}.</LetterLeadersDeath>
+  
+  <!-- Family -->
+  <LetterLabelNoticedFamilyMembers>Семейство</LetterLabelNoticedFamilyMembers>
+  <LetterFamilyMembersRaidEnemy>Има членове от семейството на твоите заселници или затворници в пристигащата група от {0}.\n\nВъпреки че са семейство, те ще атакуват едни други поради лошите отношения между фракциите им.\n\nЧленове на семейство са:</LetterFamilyMembersRaidEnemy>
+  <LetterFamilyMembersRaidFriendly>Има членове от семейството на твоите заселници или затворници в пристигащата група от приятелски настроени {0}:</LetterFamilyMembersRaidFriendly>
+  <LetterFamilyMembersNeutralGroup>Има членове от семейството на твоите заселници или затворници в пристигащата група:</LetterFamilyMembersNeutralGroup>
+  <LetterFamilyMembersTraderShipSlaves>Търговски кораб продава членове на семейството на твои заселници или затворници:</LetterFamilyMembersTraderShipSlaves>
+  
+  <FamilyLetterAppendedSuffix>(семейство)</FamilyLetterAppendedSuffix>
+  <FamilyLetterAppendedTextColonist>[PAWN_nameDef] е член от семейството на заселник. [PAWN_pronoun] е {0} на {1}.</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>[PAWN_nameDef] е член от семейството на затворник. [PAWN_pronoun] е {0} на {1}.</FamilyLetterAppendedTextPrisoner>
+  
+>>>>>>> e65dfb78e06e69c24287a72abf2ce509f17ec07f
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Афера</LetterLabelAffair>
   <LetterAffair>{0}, е в брак с {1}, започна афера с {2}.</LetterAffair>
