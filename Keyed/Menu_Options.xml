@@ -1,54 +1,106 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
   <Audiovisuals>Аудио и видео</Audiovisuals>
+  <!-- EN: Game volume -->
   <GameVolume>Сила на звука</GameVolume>
+  <!-- EN: Music volume -->
   <MusicVolume>Сила на музиката</MusicVolume>
+  <!-- EN: Ambient volume -->
   <AmbientVolume>Ambient volume</AmbientVolume>
+  <!-- EN: Anti-aliasing -->
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
+  <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Преместване с курсора краищата на екрана</EdgeScreenScroll>
+  <!-- EN: Pause on load -->
   <PauseOnLoad>Пауза след зареждане</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Пауза при спешно съобщение</PauseOnUrgentLetter>
+  <!-- EN: Custom cursor -->
   <CustomCursor>Потребителски курсор</CustomCursor>
+  <!-- EN: Hats shown only on game map -->
   <HatsShownOnlyOnMap>Показ. гол. само на картата</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
   <UIScale>Мащаб на интерфейса</UIScale>
+  <!-- EN: Keyboard configuration -->
   <KeyboardConfig>Настройки на клавиатурата</KeyboardConfig>
+  <!-- EN: Choose language -->
   <ChooseLanguage>Избери език</ChooseLanguage>
+  <!-- EN: Reset learning helper -->
   <ResetAdaptiveTutor>Анулирай обучението</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
   <AdaptiveTutorIsReset>Обучението е анулирано. Всички уроци ще бъдат показани наново.</AdaptiveTutorIsReset>
+  <!-- EN: Run in background -->
   <RunInBackground>Игра в фонов режим</RunInBackground>
+  <!-- EN: Development mode -->
   <DevelopmentMode>Режим на разработчик</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Анулиране на настройките за модиф. при грешка</ResetModsConfigOnCrash>
+  <!-- EN: Verbose logging -->
   <LogVerbose>Подробен журнал</LogVerbose>
+  <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>Отвори папката с записвания</OpenSaveGameDataFolder>
+  <!-- EN: Show save data location -->
+  <ShowSaveGameDataLocation>Покажи пътя към папката със записите</ShowSaveGameDataLocation>
+  <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Име на персонаж, който желаете да видите в играта:</NamesYouWantToSee>
+  <!-- EN: Add name -->
   <AddName>Добави име</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
   <TypeFirstNickOrLastName>Въведи име, прякор или фамилия.</TypeFirstNickOrLastName>
+  <!-- EN: This name is already on the preferred list. -->
   <MessageAlreadyPreferredName>Това име вече е в списъка.</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
   <ChangeStoryteller>Избери разказвач</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
   <AutosaveInterval>Период за автозапис</AutosaveInterval>
+  <!-- EN: Temperature mode -->
   <TemperatureMode>Ед. температури</TemperatureMode>
+  <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Показване на реално време</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Максимално количество заселници: {0}</MaxNumberOfPlayerHomes>
-  <PlantWindSway>Plant wind sway</PlantWindSway>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>Максимален брой заселници: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Plant wind sway -->
+  <PlantWindSway>Поклащане на растенията при вятър</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>Задействай тестовите размери на картата</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
   <MaxPermadeathAutosaveIntervalInfo>Максимален интервал за автозапис в режим на «хардкор» (в дни) — {0}.</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
   <ModSettings>Настройки на модификация</ModSettings>
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>Изключване на режима за разработчици завинаги</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
+  <!-- EN: Resolution -->
   <Resolution>Резолюция</Resolution>
+  <!-- EN: Fullscreen -->
   <Fullscreen>На пълен екран</Fullscreen>
 
   <!-- Privacy -->
+  <!-- EN: Privacy -->
   <Privacy>Лично</Privacy>
+  <!-- EN: User name -->
   <UserName>Потребителско име</UserName>
+  <!-- EN: Gameplay data upload pref. -->
   <ChooseHistoryUploadPref>Преференции за качване на данни от играта</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Вашите данни помагат на разработчиците да балансират играта. Ако сте съгласни, информацията ще бъде изпратена на всеки {0} игрови дни (и в някой редки случай в края на играта) на сървъра на RimWorld за анализ. Изпратените данни съдържат само статистики и история на записите, свързани с играта и са напълно анонимни. Никаква лична информация, освен потребителското име не се изпраща.</AboutHistoryUpload>
+  <!-- EN: Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous. -->
+  <AboutHistoryUpload>Вашите данни помагат на разработчиците да балансират играта. Ако сте съгласен, информацията ще бъде изпратена на всеки {0} игрови дни (и в някой редки случай в края на играта) на сървъра на RimWorld за анализ. Изпратените данни съдържат само статистики и история на записите, свързани с играта и са напълно анонимни. Никаква лична информация, освен потребителското име не се изпраща.</AboutHistoryUpload>
 
   <!-- Mods -->
+  <!-- EN: Select mod... -->
   <SelectMod>Избор на модификация...</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
   <NoConfigurableMods>Не конфигурирани модификации.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore to default settings -->
+  <RestoreToDefaultSettings>Възстановяване по подразбиране</RestoreToDefaultSettings>
+  <!-- EN: Your options have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>Бяха възстовени настройките по подразбиране. Играта ще се рестартира автоматично.</ResetAndRestart>
 
 </LanguageData>

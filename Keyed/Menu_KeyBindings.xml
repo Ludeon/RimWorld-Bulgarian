@@ -1,12 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Save -->
   <SaveButton>Запиши</SaveButton>
-  <!--<CancelButton>Cancel</CancelButton>-->
+  <!-- EN: Clear -->
   <ClearBinding>Изчисти</ClearBinding>
+  <!-- EN: Reset to default -->
   <ResetBinding>По подразбиране</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>Натиснете левия бутон на мишката и след това натиснеше клавиша, който желаете за това действие. За опции натиснете десния бутон на мишката.</BindingButtonToolTip>
+  <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>Натиснете произволен бутон или ESC за отмяна...</PressAnyKeyOrEsc>
+  <!-- EN: Key binding overwritten: {0} -->
   <KeyBindingOverwritten>Клавиша е записан: {0}</KeyBindingOverwritten>
   
 </LanguageData>

@@ -1,112 +1,200 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Натиснете тук, за да видите проблема</ClickToJumpToProblem>
+  <!-- EN: Click to jump to problem -->
+  <ClickToJumpToProblem>Натиснете тук, за да видите проблема</ClickToJumpToProblem>
 
-	<BreakRiskMinor>Риск от лек нервен срив</BreakRiskMinor>
-	<BreakRiskMajor>Риск от сериозен нервен срив</BreakRiskMajor>
-	<BreakRiskExtreme>Риск от тежък нервен срив</BreakRiskExtreme>
-	<BreakRiskMinorDesc>Тези заселници са в лошо настроение и могат да получат лек нервен срив по всяко време:\n\n{0}</BreakRiskMinorDesc>
-	<BreakRiskMajorDesc>Тези заселници са в лошо настроение и могат да получат сериозен нервен срив по всяко време:\n\n{0}</BreakRiskMajorDesc>
-	<BreakRiskExtremeDesc>Тези заселници изпитват силен стрес и могат да получат тежък нервен срив, което по всяко време може да доведе до насилие.\n\n{0}</BreakRiskExtremeDesc>
-	<BreakRiskDescEnding>Виж секция «Нужди», за да разбереш какво ги тормози.\n\nЗа да се чувстват по-добре заселниците, дай им по-добра храна, повече свободно време, забавления, осигурете им по-добра среда или позволете на заселниците да пият или пушат.</BreakRiskDescEnding>
+  <!-- EN: Minor break risk -->
+  <BreakRiskMinor>Риск от лек нервен срив</BreakRiskMinor>
+  <!-- EN: Major break risk -->
+  <BreakRiskMajor>Риск от сериозен нервен срив</BreakRiskMajor>
+  <!-- EN: Extreme break risk -->
+  <BreakRiskExtreme>Риск от тежък нервен срив</BreakRiskExtreme>
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
+  <BreakRiskMinorDesc>Тези заселници са в лошо настроение и могат да получат лек нервен срив по всяко време:\n\n{0}</BreakRiskMinorDesc>
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
+  <BreakRiskMajorDesc>Тези заселници са в лошо настроение и могат да получат сериозен нервен срив по всяко време:\n\n{0}</BreakRiskMajorDesc>
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
+  <BreakRiskExtremeDesc>Тези заселници изпитват силен стрес и могат да получат тежък нервен срив, което по всяко време може да доведе до насилие.\n\n{0}</BreakRiskExtremeDesc>
+  <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
+  <BreakRiskDescEnding>Виж секция «Нужди», за да разбереш какво ги тормози.\n\nЗа да се чувстват по-добре заселниците, дай им по-добра храна, повече свободно време, забавления, осигурете им по-добра среда или позволете на заселниците да пият или пушат.</BreakRiskDescEnding>
+  
+  <!-- EN: Colonist needs rescue -->
+  <ColonistNeedsRescue>Заселник се нуждае от помощ</ColonistNeedsRescue>
+  <!-- EN: Colonists need rescue -->
+  <ColonistsNeedRescue>Заселници се нуждаят от помощ</ColonistsNeedRescue>
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
+  <ColonistsNeedRescueDesc>Тези заселници са травмирани и лежат на земята:\n\n{0}\nИзпрати заселник да ги спаси и отнесе до легло\n\n(За да ги спасиш, избери заселник и цъкни с десния бутон върху пострадалия и избери «Спаси»).</ColonistsNeedRescueDesc>
 
-	<ColonistNeedsRescue>Заселник се нуждае от помощ</ColonistNeedsRescue>
-	<ColonistsNeedRescue>Заселници се нуждаят от помощ</ColonistsNeedRescue>
-	<ColonistsNeedRescueDesc>Тези заселници са травмирани и лежат на земята:\n\n{0}\nИзпрати заселник да ги спаси и отнесе до легло\n\n(За да ги спасиш, избери заселник и цъкни с десния бутон върху пострадалия и избери «Спаси»).</ColonistsNeedRescueDesc>
+  <!-- EN: Need defenses -->
+  <NeedDefenses>Трябва ти отбранително съоръжение</NeedDefenses>
+  <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
+  <NeedDefensesDesc>Тук сте от известно време и вероятно са ви забелязали вече. Скоро атаките ще започнат.\n\nТрябват ти отбранителни съоръжения: капани, турели, укрепления от чували с пясък.</NeedDefensesDesc>
 
-	<NeedDefenses>Необходим е отбранително съоръжение</NeedDefenses>
-	<NeedDefensesDesc>Тук сте от известно време и вероятно са ви забелязали вече. Скоро атаките ще започнат.\n\nТрябват ти отбранителни съоръжения: капани, турели, укрепления от чували с пясък.</NeedDefensesDesc>
+  <!-- EN: Need doctor -->
+  <NeedDoctor>Трябва ти доктор</NeedDoctor>
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <NeedDoctorDesc>Тези заселници имат нужда от медицинска помощ.\n\nНямаш здрави заселници, които са назначени като доктори.\n\n{0}\nВ секция «Работа» избери здрав заселник и сложи отметка върху колонка «Доктор» пред името му. В противен случай изоставените пациенти могат да умрат или да останат болни за цял живот.</NeedDoctorDesc>
 
-	<NeedDoctor>Необходим е доктор</NeedDoctor>
-	<NeedDoctorDesc>Тези заселници имат нужда от медицинска помощ.\n\nНямаш здрави заселници, които са назначени като доктори.\n\n{0}\nВ секция «Работа» избери здрав заселник и сложи отметка върху колонка «Доктор» пред името му. В противен случай изоставените пациенти могат да умрат или да останат болни за цял живот.</NeedDoctorDesc>
+  <!-- EN: Need miner -->
+  <NeedMiner>Трябва ти миньор</NeedMiner>
+  <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
+  <NeedMinerDesc>Задал си определени скали да се изкопаят, но нямаш нито един назначен като Миньор..\n\nВ секция «Работа» назначи един от заселниците, като поставяш отметка в колонка «Миньор» пред името му.</NeedMinerDesc>
 
-	<NeedMiner>Необходим е миньор</NeedMiner>
-	<NeedMinerDesc>Задал си определени скали да се изкопаят, но нямаш нито един назначен като Миньор..\n\nВ секция «Работа» назначи един от заселниците, като поставяш отметка в колонка «Миньор» пред името му.</NeedMinerDesc>
+  <!-- EN: Need warden -->
+  <NeedWarden>Трябва ти Надзирател</NeedWarden>
+  <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
+  <NeedWardenDesc>Имаш затворник, но нямаш надзирател.\n\nВ секция «Работа» назначи един от заселниците, като поставяш отметка в колонка «Надзирател» пред името му.</NeedWardenDesc>
 
-	<NeedWarden>Необходим е Надзирател</NeedWarden>
-	<NeedWardenDesc>Имаш затворник, но нямаш надзирател.\n\nВ секция «Работа» назначи един от заселниците, като поставяш отметка в колонка «Надзирател» пред името му.</NeedWardenDesc>
+  <!-- EN: Low food -->
+  <LowFood>Малко храна</LowFood>
+  <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
+  <LowFoodDesc>Колонията разполага с малко храна.\n\n  Имаш само {0} порции храна в склада.\n  Заселниците и затворниците получават {1} порции.\n   Достатъчен за {2} дни.\n\nЗасей, купи, намери, или убий дивеч за храна.</LowFoodDesc>
 
-	<LowFood>Недостатъчна храна</LowFood>
-	<LowFoodDesc>Колонията разполага с малко храна.\n\n  Имаш само {0} порции храна в склада.\n  Заселниците и затворниците получават {1} порции.\n   Достатъчен за {2} дни.\n\nЗасей, купи, намери, или убий дивеч за храна.</LowFoodDesc>
+  <!-- EN: Low medicine -->
+  <LowMedicine>Недостатъчни лекарства</LowMedicine>
+  <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
+  <LowMedicineDesc>Разполагате с {0} лекарства в склада.\n\nКупи повече лекарства от търговци.</LowMedicineDesc>
+  <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
+  <NoMedicineDesc>Нямаш никакви лекарства на склада.\n\nКупи лекарства от търговци.</NoMedicineDesc>
+  
+  <!-- EN: Need colonist beds -->
+  <NeedColonistBeds>Трябва ти легла</NeedColonistBeds>
+  <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
+  <NeedColonistBedsDesc>Имаш повече заселници отколкото легла. Някои от тях няма къде да спят.\n\nПострой допълнителни легла или промени затворническите легла в заселническа.\n\nАко ти липсват ресурси, можеш да използваш спални чували, те са безплатни и се поставят незабавно.</NeedColonistBedsDesc>
 
-	<LowMedicine>Недостатъчни лекарства</LowMedicine>
-	<LowMedicineDesc>Разполагаш с {0} лекарства в склада.\n\nКупи повече лекарства от търговци.</LowMedicineDesc>
-	<NoMedicineDesc>Нямаш никакви лекарства на склада.\n\nКупи лекарства от търговци.</NoMedicineDesc>
+  <!-- EN: Hunter lacks ranged weapon -->
+  <HunterLacksWeapon>Ловец без оръжие</HunterLacksWeapon>
+  <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
+  <HunterLacksWeaponDesc>Заселник е назначен като Ловец, но няма оръжие.\n\nТой няма да ходи на лов, докато не му бъде дадено оръжие.</HunterLacksWeaponDesc>
 
-	<NeedColonistBeds>Трябва ти легла</NeedColonistBeds>
-	<NeedColonistBedsDesc>Имаш повече заселници отколкото легла. Някои от тях няма къде да спят.\n\nПострой допълнителни легла или промени затворническите легла в заселническа.\n\nАко ти липсват ресурси, можеш да използваш спални чували, те са безплатни и се поставят незабавно.</NeedColonistBedsDesc>
+  <!-- EN: Tattered apparel -->
+  <AlertTatteredApparel>Разкъсани дрехи</AlertTatteredApparel>
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
+  <AlertTatteredApparelDesc>Тези заселници носят разкъсани дрехи, което ги прави тъжни.\n\n{0}\nДайте им някой дрехи\n\nМоже да ги шиете на шевната маса, шевна машина или да купувате от търговци.</AlertTatteredApparelDesc>
 
-	<HunterLacksWeapon>Ловец без оръжие</HunterLacksWeapon>
-	<HunterLacksWeaponDesc>Заселник е назначен като Ловец, но няма оръжие.\n\nТой няма да ходи на лов, докато не му бъде дадено оръжие.</HunterLacksWeaponDesc>
+  <!-- EN: Unhappy nudity -->
+  <AlertUnhappyNudity>Без дрехи</AlertUnhappyNudity>
+  <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
+  <AlertUnhappyNudityDesc>Тези заселници са без дрехи, което ги прави тъжни.:\n\n{0}\nДайте им някой дрехи\n\nМоже да ги шиете на шевна машина или да купувате от търговци.</AlertUnhappyNudityDesc>
 
-	<AlertTatteredApparel>Разкъсани дрехи</AlertTatteredApparel>
-	<AlertTatteredApparelDesc>Тези заселници носят разкъсани дрехи, което ги прави тъжни.\n\n{0}\nДайте им някой дрехи\n\nМоже да шиете дрехи на шевната маса, шевна машина или да купувате от търговци.</AlertTatteredApparelDesc>
+  <!-- EN: Starvation -->
+  <Starvation>Глад</Starvation>
+  <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
+  <StarvationDesc>Тези заселници гладуват:\n\n{0}\nДайте им храна.</StarvationDesc>
 
-	<AlertUnhappyNudity>Без дрехи</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>Тези заселници са без дрехи, което ги прави тъжни.:\n\n{0}\nДайте им някой дрехи\n\nМоже да ги шиете на шевна машина или да купувате от търговци.</AlertUnhappyNudityDesc>
+  <!-- EN: Animal starvation -->
+  <StarvationAnimals>Гладни животни</StarvationAnimals>
+  <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
+  <StarvationAnimalsDesc>Тези животни гладуват:\n\n{0}\nДайте им храна.</StarvationAnimalsDesc>
 
-	<Starvation>Глад</Starvation>
-	<StarvationDesc>Тези заселници гладуват:\n\n{0}\nДайте им храна.</StarvationDesc>
+  <!-- EN: Exhaustion -->
+  <Exhaustion>Изтощени</Exhaustion>
+  <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <ExhaustionDesc>Тези заселниците са изтощени и имат нужда от почивка:\n\n{0}\nДайте им почивка. Те се нуждаят от легло, за да почиват. Уверете се, че не са в боен режим.</ExhaustionDesc>
 
-	<StarvationAnimals>Гладни животни</StarvationAnimals>
-	<StarvationAnimalsDesc>Тези животни гладуват:\n\n{0}\nДайте им храна.</StarvationAnimalsDesc>
+  <!-- EN: Need food hopper -->
+  <NeedFoodHopper>Необходими са табла за храна</NeedFoodHopper>
+  <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
+  <NeedFoodHopperDesc>Имаш Дозатор за паста, но няма табла за храна до него.\n\nЗа да работи дозатора трябва да се поставят табла за храна до него, напълнена с сурова храна.\n\nПоставете табла около дозатора.</NeedFoodHopperDesc>
 
-	<Exhaustion>Изтощени</Exhaustion>
-	<ExhaustionDesc>Тези заселниците са изтощени и имат нужда от почивка:\n\n{0}\nДайте им почивка. Те се нуждаят от легло, за да отпочинат. Уверете се, че не са в боен режим.</ExhaustionDesc>
+  <!-- EN: Need meal source -->
+  <NeedMealSource>Необходима е готова храна</NeedMealSource>
+  <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
+  <NeedMealSourceDesc>Няма къде да се готви.\n\nПостройте дозатор за паста или готварска печка.\n\n(Те не биват да се намират в помещения за затворници, в противен случай заселниците няма да могат да ги използват).</NeedMealSourceDesc>
 
-	<NeedFoodHopper>Необходими са табла за храна</NeedFoodHopper>
-	<NeedFoodHopperDesc>Имаш Дозатор за паста, но нямаш табла за храна до него.\n\nЗа да работи дозатора трябва да се поставят табла за храна до него, напълнена с сурова храна.\n\nПоставете таблата около дозатора.</NeedFoodHopperDesc>
+  <!-- EN: Need recreation variety -->
+  <NeedJoySource>Трябва място за развлечения</NeedJoySource>
+  <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
+  <NeedJoySourceDesc>В колонията {1} има {0} разни видове развлечения, а за да удовлетвори текущите {2} очаквания на заселниците, трябва {3}. Разнообразете през свободното си време, добавяйки нови видове развлечения.\n\n{4}\n\n{5}\n\nМоже да разберете видовете развлечения за всеки обект в информационния прозорец, обозначен като "i".</NeedJoySourceDesc>
+  <!-- EN: Available recreation types -->
+  <AvailableRecreationTypes>Достъпни видове развлечения</AvailableRecreationTypes>
+  <!-- EN: Missing recreation types -->
+  <MissingRecreationTypes>Отсъстващи видове развлечения</MissingRecreationTypes>
+  <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
+  <CurrentExpectationsAndRecreation>С текущо ниво на очаквания ({0}) «толерантност» към всяка от видове развлечения пада към {1} единици всеки ден. Препоръчва се да им дадете най-малко {2} разни видове развлечения.</CurrentExpectationsAndRecreation>
+  <!-- EN: bored -->
+  <bored>скука</bored>
 
-	<NeedMealSource>Необходима е готова храна</NeedMealSource>
-	<NeedMealSourceDesc>Няма къде да се готви.\n\nПостройте дозатор за паста или готварска печка.\n\n(Не биват да се намират в помещения за затворници, в противен случай заселниците няма да могат да ги използват).</NeedMealSourceDesc>
+  <!-- EN: Boredom -->
+  <Boredom>Скука</Boredom>
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {1}:\n\n{2} -->
+  <BoredomDesc>Тези хора се нуждаят от развлечения, но се отегчават от всеки възможен начин за забавление:\n\n{0}\n\nРазнобразете повече.\n\nВ момента имате развлечения за {1}:\n\n{2}</BoredomDesc>
 
-	<NeedJoySource>Необходимо е място за развлечения</NeedJoySource>
-	<NeedJoySourceDesc>Заселниците от време на време трябва да се забавляват, но не сте направили нищо за това.\n\nПостройте площадка за хвърляне на подкова, шахматна маса или нещо друго, което да ги забавлява.</NeedJoySourceDesc>
+  <!-- EN: Need batteries -->
+  <NeedBatteries>Необходими са акумулатори</NeedBatteries>
+  <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
+  <NeedBatteriesDesc>Имате слънчеви панели или вятърни турбини, но нямате акумулатори. Това означава, че заселниците ще останат без ток винаги, когато слънцето залязва или вятъра утихне.\n\nПостройте един или няколко акумулатори, за да има запас от енергия.</NeedBatteriesDesc>
 
-	<NeedBatteries>Необходими са акумулатори</NeedBatteries>
-	<NeedBatteriesDesc>Имате слънчеви панели или вятърни турбини, но нямате акумулатори. Това означава, че заселниците ще останат без ток винаги, когато слънцето залязва или вятъра утихне.\n\nПостройте един или няколко акумулатори, за да има запас от енергия.</NeedBatteriesDesc>
+  <!-- EN: Brawler has ranged weapon -->
+  <BrawlerHasRangedWeapon>Боец с далекобойно оръжие</BrawlerHasRangedWeapon>
+  <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
+  <BrawlerHasRangedWeaponDesc>Един от заселниците предпочита да се сражава ръкопашно, но той е въоръжен с далекобойно оръжие. Това го дразни.</BrawlerHasRangedWeaponDesc>
 
-	<BrawlerHasRangedWeapon>Заселник с далекобойно оръжие</BrawlerHasRangedWeapon>
-	<BrawlerHasRangedWeaponDesc>Един от заселниците предпочита да се сражава ръкопашно, но той е въоръжен с далекобойно оръжие. Това го дразни.</BrawlerHasRangedWeaponDesc>
+  <!-- EN: Shield user has ranged weapon -->
+  <ShieldUserHasRangedWeapon>Човек с енергиен щит и с далекобойно оръжие</ShieldUserHasRangedWeapon>
+  <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
+  <ShieldUserHasRangedWeaponDesc>Един от вашите заселници има енергиен щит и разполага с далекобойно оръжие. Той не може да стреля през щита (освен мишените стоящи плътно до него).</ShieldUserHasRangedWeaponDesc>
 
-	<ShieldUserHasRangedWeapon>Човек е с енергиен щит и с далекобойно оръжие</ShieldUserHasRangedWeapon>
-	<ShieldUserHasRangedWeaponDesc>Един от вашите заселници има енергиен щит и разполага с далекобойно оръжие. Той не може да стреля през щита (освен мишените стоящи плътно до него).</ShieldUserHasRangedWeaponDesc>
+  <!-- EN: Need research project -->
+  <NeedResearchProject>Не е назначено изследване</NeedResearchProject>
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
+  <NeedResearchProjectDesc>Имате оборудване за изследване, но не е избран проект.\n\nОтворете секция «Технологии» и изберете проект за изследване.</NeedResearchProjectDesc>
+  
+  <!-- EN: {0} colonists idle -->
+  <ColonistsIdle>Заселници бездействат: {0}</ColonistsIdle>
+  <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
+  <ColonistsIdleDesc>Тези заселници се скитат без работа:\n\n{0}\nТрябва да им намерите занимавка.</ColonistsIdleDesc>
 
-	<NeedResearchProject>Не е назначено изследване</NeedResearchProject>
-	<NeedResearchProjectDesc>Имате оборудване за изследване, но не е избран проект.\n\nОтворете секция «Технологии» и изберете проект.</NeedResearchProjectDesc>
+  <!-- EN: Colonist needs treatment -->
+  <ColonistNeedsTreatment>Необходимо е лечение</ColonistNeedsTreatment>
+  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDesc>Тези заселници се нуждаят от медицински нужди. Те могат да умрат от раните си или да се възстановяват твърде бавно.\n\n{0}\nИзлекувайте заселниците, като ги пращате в болнични легла.\n\n(Първо поставете медицинско легло или обозначете такъв, след което изберете ранен заселник и натиснете десния бутон на мишката върху медицинското легло, за да стане пациент.)</ColonistNeedsTreatmentDesc>
 
-	<ColonistsIdle>Заселници бездействат: {0}</ColonistsIdle>
-	<ColonistsIdleDesc>Тези заселници се скитат без работа:\n\n{0}\nТрябва да им намерите занимавка.</ColonistsIdleDesc>
+  <!-- EN: Hypothermia -->
+  <AlertHypothermia>Хипотермия</AlertHypothermia>
+  <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <AlertHypothermiaDesc>Тези заселници страдат от хипотермия:\n\n{0}\nУверете се, че са облечени както трябва и помещенията са топли.</AlertHypothermiaDesc>
+  
+  <!-- EN: {0} patients await medical operation -->
+  <PatientsAwaitingMedicalOperation>{0} пациенти очакват операция.</PatientsAwaitingMedicalOperation>
+  <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <PatientsAwaitingMedicalOperationDesc>Тези заселници чакат за операция:\n\n{0}\nУверете се, че разполагате с необходимите медицински инструменти и свободен лекар.</PatientsAwaitingMedicalOperationDesc>
 
-	<ColonistNeedsTreatment>Необходимо е лечение</ColonistNeedsTreatment>
-	<ColonistNeedsTreatmentDesc>Тези заселници се нуждаят от медицински грижи. Те могат да умрат от раните си или да се възстановяват твърде бавно.\n\n{0}\nИзлекувайте заселниците, като ги пращате в болнични легла.\n\n(Първо поставете медицинско легло или обозначете такъв, след което изберете ранен заселник и натиснете десния бутон на мишката върху медицинското легло, за да стане пациент.)</ColonistNeedsTreatmentDesc>
+  <!-- EN: Fire! -->
+  <FireInHomeArea>Пожар!</FireInHomeArea>
+  <!-- EN: There is a fire in the home area. -->
+  <FireInHomeAreaDesc>Пожар в домашната зона.</FireInHomeAreaDesc>
 
-	<AlertHypothermia>Хипотермия</AlertHypothermia>
-	<AlertHypothermiaDesc>Тези заселници страдат от хипотермия:\n\n{0}\nУверете се, че са облечени както трябва и помещенията са топли.</AlertHypothermiaDesc>
+  <!-- EN: Medical emergency -->
+  <PawnsWithLifeThreateningDisease>Смъртоносна болест</PawnsWithLifeThreateningDisease>
+  <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
+  <PawnsWithLifeThreateningDiseaseDesc>Тези хора са в опасност за живота поради сериозна болест:\n\n{0}\nУверете се, че получават най - добрите медицински грижи.</PawnsWithLifeThreateningDiseaseDesc>
+  <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Тези хора са в опасност за живота поради сериозна болест:\n\n{0}\nАко имат инфекция в накрайниците, помислете за ампутация или замяна, за да оцелеят.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-	<PatientsAwaitingMedicalOperation>{0} пациенти очакват операция.</PatientsAwaitingMedicalOperation>
-	<PatientsAwaitingMedicalOperationDesc>Тези заселници чакат за операция:\n\n{0}\nУверете се, че разполагате с необходимите медицински инструменти и свободен лекар.</PatientsAwaitingMedicalOperationDesc>
+  <!-- EN: Billiards needs space -->
+  <BilliardsNeedsSpace>За билярдната маса е необходимо пространство</BilliardsNeedsSpace>
+  <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
+  <BilliardsNeedsSpaceDesc>Една от билярдната маса не може да се използва.\n\nПространството около масата трябва да бъде свободно.</BilliardsNeedsSpaceDesc>
 
-	<FireInHomeArea>Пожар!</FireInHomeArea>
-	<FireInHomeAreaDesc>Пожар в домашна зона.</FireInHomeAreaDesc>
+  <!-- EN: Hunter has shield and ranged weapon -->
+  <HunterHasShieldAndRangedWeapon>Ловец с енергиен щит и с далекобойно оръжие</HunterHasShieldAndRangedWeapon>
+  <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
+  <HunterHasShieldAndRangedWeaponDesc>Един от вашите заселници има енергиен щит и разполага с далекобойно оръжие.\n\nТой не може да ловува, тъй като е с енергиен щит и далекобойно оръжие.</HunterHasShieldAndRangedWeaponDesc>
 
-	<PawnsWithLifeThreateningDisease>Смъртоносна болест</PawnsWithLifeThreateningDisease>
-	<PawnsWithLifeThreateningDiseaseDesc>Тези хора са в опасност за живота поради сериозна болест:\n\n{0}\nУверете се, че получават най - добрите медицински грижи.</PawnsWithLifeThreateningDiseaseDesc>
-	<PawnsWithLifeThreateningDiseaseAmputationDesc>Тези хора са в опасност за живота поради сериозна болест:\n\n{0}\nАко имат инфекция в накрайниците, помислете за ампутация или замяна, за да оцелеят.</PawnsWithLifeThreateningDiseaseAmputationDesc>
-
-	<BilliardsNeedsSpace>За билярдната маса е необходимо пространство</BilliardsNeedsSpace>
-	<BilliardsNeedsSpaceDesc>Една от билярдната маса не може да се използва.\n\nПространството около масата трябва да бъде свободно.</BilliardsNeedsSpaceDesc>
-
-	<HunterHasShieldAndRangedWeapon>Ловец е с енергиен щит и с далекобойно оръжие</HunterHasShieldAndRangedWeapon>
-	<HunterHasShieldAndRangedWeaponDesc>Един от вашите заселници има енергиен щит и разполага с далекобойно оръжие.\n\nТой не може да ловува, тъй като е с енергиен щит и далекобойно оръжие.</HunterHasShieldAndRangedWeaponDesc>
-
-	<NeedWarmClothes>Необходими са топли дрехи</NeedWarmClothes>
-	<NeedWarmClothesDesc1>{0} Няма да имат топли дрехи, когато настъпи студът.</NeedWarmClothesDesc1>
-	<NeedWarmClothesDesc1All>Няма да имат топли дрехи, когато настъпи студът.</NeedWarmClothesDesc1All>
-	<NeedWarmClothesDesc2>Температурата пада към {0}.\n\nМожете да шиете топли дрехи при шивачната маса, шивачната машина или да купувате такива дрехи от търговци.</NeedWarmClothesDesc2>
-
-	<ImmobileCaravan>Неподвижен керван</ImmobileCaravan>
-	<ImmobileCaravanDesc>Един от вашите кервани не може да се предвижда, защото носи твърде много товар .\n\nЗа да може керванът да се предвижда, ги избавете от някой вещи (секция «Товар»).</ImmobileCaravanDesc>
-
+  <!-- EN: Need warm clothes -->
+  <NeedWarmClothes>Трябва ти топли дрехи</NeedWarmClothes>
+  <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1>{0} Няма да имат топли дрехи, когато настъпи студът.</NeedWarmClothesDesc1>
+  <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1All>Няма да имат топли дрехи, когато настъпи студът.</NeedWarmClothesDesc1All>
+  <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
+  <NeedWarmClothesDesc2>Температурата пада към {0}.\n\nМожете да шиете топли дрехи в шивачната маса, шивачната машина или да купувате такива от търговци.</NeedWarmClothesDesc2>
+  
+  <!-- EN: Immobile caravan -->
+  <ImmobileCaravan>Неподвижен керван</ImmobileCaravan>
+  <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
+  <ImmobileCaravanDesc>Един от вашите кервани не могат да се предвиждат, защото носят твърде много товар .\n\nЗа да може керванът да се предвижда, ги избавете от някой вещи (секция «Товар»).</ImmobileCaravanDesc>
+  
 </LanguageData>

@@ -1,14 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-    <ClockTime>Време</ClockTime>
-    <ClockDate>Дата</ClockDate>
-    <ClockYear>Година</ClockYear>
-	<DateReadoutTip>Изминали {0} дни от кацането\nТекущо тримесечие — {4}\nТекущ сезон — {2}\n\nГодината се състой от 4 тримесечия, по {3} дни за всяка. Тримесечията са еднакви навсякъде, а сезоните се различават.\n\nРазпределление на сезони по тримесечията за това място:\n{5}</DateReadoutTip>
+  <!-- EN: Time -->
+  <ClockTime>Време</ClockTime>
+  <!-- EN: Date -->
+  <ClockDate>Дата</ClockDate>
+  <!-- EN: Year -->
+  <ClockYear>Година</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>Изминали {0} дни от кацането\nТекущо тримесечие — {4}\nТекущ сезон — {2}\n\nГодината се състой от 4 тримесечия, по {3} дни за всяка. Тримесечията са еднакви навсякъде, а сезоните се различават.\n\nРазпределление на сезони по тримесечията за това място:\n{5}</DateReadoutTip>
 
-    <FullDate>{0} , {1}, {2} г</FullDate>
-	<DateReadout>{0} , {1}-е, {2} г</DateReadout>
-    <SeasonFullDate>{0} , {1}-е</SeasonFullDate>
-    <WholeYear>Цяла година</WholeYear>
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>{0} , {1}, {2} г</FullDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>{0} , {1}-е, {2} г</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>{0} , {1}-е</SeasonFullDate>
+  <!-- EN: Whole year -->
+  <WholeYear>Цяла година</WholeYear>
   
 </LanguageData>

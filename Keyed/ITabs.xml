@@ -1,127 +1,281 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
+  <!-- EN: Bills -->
   <TabBills>Задачи</TabBills>
+  <!-- EN: Growing -->
   <TabGrowing>Засяване</TabGrowing>
+  <!-- EN: Story -->
   <TabCharacter>Характер</TabCharacter>
+  <!-- EN: Training -->
   <TabTraining>Обучение</TabTraining>
+  <!-- EN: Prisoner -->
   <TabPrisoner>Затворник</TabPrisoner>
+  <!-- EN: Guest -->
   <TabGuest>Гост</TabGuest>
+  <!-- EN: Gear -->
   <TabGear>Вещи</TabGear>
+  <!-- EN: Needs -->
   <TabNeeds>Нужди</TabNeeds>
+  <!-- EN: Storage -->
   <TabStorage>Склад</TabStorage>
+  <!-- EN: Shells -->
   <TabShells>Снаряди</TabShells>
+  <!-- EN: Health -->
   <TabHealth>Здраве</TabHealth>
+  <!-- EN: Race -->
   <TabRace>Раса</TabRace>
+  <!-- EN: Basics -->
   <TabBasics>Основни</TabBasics>
+  <!-- EN: Stats -->
   <TabStats>Характеристики</TabStats>
+  <!-- EN: Records -->
   <TabRecords>Статистика</TabRecords>
+  <!-- EN: Art -->
   <TabArt>Изкуство</TabArt>
+  <!-- EN: Social -->
   <TabSocial>Социални</TabSocial>
-  <TabCombat>Бой</TabCombat>
-
+  <!-- EN: Log -->
+  <TabLog>Журнал</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>Керван</TabFormingCaravan>
 
   <!-- Bills tab  -->
+  <!-- EN: Add bill -->
   <AddBill>Добави задача</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>Задачата изисква следните умения {0}. Никой от заселниците не разполага с тези умения, за да изпълни задачата.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
   <MinimumSkill>Мин. умение</MinimumSkill>
+  <!-- EN: SUSPENDED -->
   <SuspendedCaps>ПАУЗА</SuspendedCaps>
+  <!-- EN: Worker: {0} -->
   <BoundWorkerIs>Назначен(а) {0}</BoundWorkerIs>
+  <!-- EN: Plant -->
   <PlantVerb>Засаждане</PlantVerb>
-
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>Не може да се постави тук.</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>Нагоре</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>Надолу</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>Изтрий</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>Копиране в буферната памет</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>Suspend</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>Постави</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>Не може да се добавя повече</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>Resistance remaining</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Сложност на вербуване</RecruitmentDifficulty>
+  <!-- EN: Gets food -->
   <GetsFood>Получава храна</GetsFood>
+  <!-- EN: Doctors care -->
   <DoctorsCare>Медицински грижи</DoctorsCare>
+  <!-- EN: Gets medicine -->
   <GetsMedicine>Получава медикаменти</GetsMedicine>
+  <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Опит за вербуване</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Смятан за виновен(на) (срока изтича след {0})</ConsideredGuilty>
 
-
   <!-- Medical - general -->
+  <!-- EN: Move speed -->
   <MoveSpeed>Скорост на предвиждване</MoveSpeed>
+  <!-- EN: Efficiency -->
   <Efficiency>Ефективност</Efficiency>
+  <!-- EN: Part efficiency -->
   <PartEfficiency>Ефективност на части</PartEfficiency>
+  <!-- EN: Body part efficiency -->
   <BodyPartEfficiency>Ефективност на части от тяло</BodyPartEfficiency>
+  <!-- EN: Gone -->
   <MissingBodyPart>Липсва</MissingBodyPart>
+  <!-- EN: Destroyed -->
   <DestroyedBodyPart>Унищожено</DestroyedBodyPart>
+  <!-- EN: Shattered -->
   <ShatteredBodyPart>Разбит</ShatteredBodyPart>
+  <!-- EN: Removed -->
   <RemovedBodyPart>Премахнат</RemovedBodyPart>
+  <!-- EN: Healthy -->
   <Healthy>Здрав</Healthy>
+  <!-- EN: In pain -->
   <InPain>Изпитва болка</InPain>
+  <!-- EN: Pain -->
   <PainLevel>Болка</PainLevel>
+  <!-- EN: Injured -->
   <Injured>Ранен</Injured>
-  <NoInjuries>(здрав)</NoInjuries>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>Няма отклонения от нормата</NoHealthConditions>
+  <!-- EN: Whole body -->
   <WholeBody>Цяло тяло</WholeBody>
+  <!-- EN: Data processing -->
   <DataProcessing>Обработка на данни</DataProcessing>
+  <!-- EN: Communication -->
   <Communication>Свързване</Communication>
+  <!-- EN: Affects -->
   <Affects>Влияе на</Affects>
+  <!-- EN: Bleeding -->
   <BleedingRate>Кръвотечение</BleedingRate>
+  <!-- EN: death in {0} -->
   <TimeToDeath>смърт чрез {0}</TimeToDeath>
+  <!-- EN: no immediate danger -->
   <WontBleedOutSoon>безобиден</WontBleedOutSoon>
+  <!-- EN: Overview -->
   <HealthOverview>Обзор</HealthOverview>
+  <!-- EN: Operations ({0}) -->
   <MedicalOperationsShort>Операции ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
   <MedicalOperationsMechanoidsShort>Модификации ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
   <MedicalOperations>Медицински операции</MedicalOperations>
+  <!-- EN: amputate -->
   <Amputate>Ампутирай</Amputate>
-  <Harvest>Извади</Harvest>
+  <!-- EN: harvest -->
+  <HarvestOrgan>Извлечи орган</HarvestOrgan>
+  <!-- EN: remove -->
   <RemoveOrgan>Премахни</RemoveOrgan>
+  <!-- EN: memory -->
   <MemoryLower>памет</MemoryLower>
+  <!-- EN: social interactions -->
   <SocialInteractionsLower>социални взаимодействия</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
   <HungerRate>Глад</HungerRate>
+  <!-- EN: Tiredness -->
   <Tiredness>Умора</Tiredness>
+  <!-- EN: Pain -->
   <PainFactor>Болка</PainFactor>
+  <!-- EN: Prevents infection -->
   <PreventsInfection>Предотвратява инфекция</PreventsInfection>
+  <!-- EN: Self-tend -->
   <SelfTend>Самолечение</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>{0} самостоятелно ще се излекува на място, до нормална ефективност {1}.</SelfTendTip>
-
-
+  
   <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
   <None>Не</None>
+  <!-- EN: Very poor -->
   <VeryPoor>Ужасно</VeryPoor>
+  <!-- EN: Poor -->
   <Poor>Лошо</Poor>
+  <!-- EN: Weakened -->
   <Weakened>Отслабено</Weakened>
+  <!-- EN: OK -->
   <GoodCondition>Добро</GoodCondition>
+  <!-- EN: Enhanced -->
   <Enhanced>Подобрено</Enhanced>
+  <!-- EN: Seriously impaired -->
   <SeriouslyImpaired>Сериозно нараняване</SeriouslyImpaired>
+  <!-- EN: Impaired -->
   <Impaired>Ранен</Impaired>
+  <!-- EN: Slightly impaired -->
   <SlightlyImpaired>Леко ранен</SlightlyImpaired>
+  <!-- EN: None -->
   <NoPain>Не</NoPain>
+  <!-- EN: Little -->
   <LittlePain>Леко</LittlePain>
+  <!-- EN: Medium -->
   <MediumPain>Средно</MediumPain>
+  <!-- EN: Severe -->
   <SeverePain>Силно</SeverePain>
+  <!-- EN: Extreme -->
   <ExtremePain>Ужасно</ExtremePain>
 
-
-  <!-- Training tab-->
-  <TrainableIntelligence>Способност за обучение</TrainableIntelligence>
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>Способност за обучение</Trainability>
+  <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>Изисква интелектуална способност: "{0}".</CannotTrainNotSmartEnough>
+  <!-- EN: {0} is too small to train this. -->
   <CannotTrainTooSmall>{0} твърде малко, за да се обучава.</CannotTrainTooSmall>
 
+  <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Изисква: {0}</TrainingNeedsPrerequisite>
-
+  
   <!-- Social tab -->
+  <!-- EN: (no relationships) -->
   <NoRelationships>(няма връзки)</NoRelationships>
+  <!-- EN: Kidnapped -->
   <Kidnapped>Отвлечен(а)</Kidnapped>
+  <!-- EN: Missing -->
   <Missing>Изчезнал(а)</Missing>
+  <!-- EN: Slave -->
   <Slave>Роб</Slave>
+  <!-- EN: Faction leader -->
   <FactionLeader>Лидер на фракция</FactionLeader>
+  <!-- EN: Opinion of {0} -->
   <OpinionOf>Мнение за {0}</OpinionOf>
+  <!-- EN: {0}'s opinion of me -->
   <SomeonesOpinionOfMe>Мнение {0} за мен</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
   <IAmDead>Аз съм мъртъв</IAmDead>
+  <!-- EN: I'm a psychopath -->
   <IAmPsychopath>Аз съм психопат</IAmPsychopath>
-
+  
   <!-- Gear tab -->
-  <AverageArmor>Средна защитеност</AverageArmor>
+  <!-- EN: Overall armor -->
+  <OverallArmor>Обща защита</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
   <MassCarried>Тегло: {0}/{1} кг</MassCarried>
+  <!-- EN: Comfortable temperature range -->
   <ComfyTemperatureRange>Диапазон на комфортна температура</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
   <ArmorBlunt>Blunt</ArmorBlunt>
+  <!-- EN: Sharp -->
   <ArmorSharp>Проникващ</ArmorSharp>
+  <!-- EN: Heat -->
   <ArmorHeat>Термичен</ArmorHeat>
-  <ArmorElectric>Електрически</ArmorElectric>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>Покажи всичко</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>Бой</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>Общуване</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>Няма нови събития</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>Копиране на журнал в буферната памет</CopyLogTip>
 
-  <!-- Bills tab -->
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>Събиране на животни</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>Събиране на животни(изчакване)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>Товарене</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>Товарене (изчакване)</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>Събиране на роби</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>Събиране на роби(изчакване)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>Отбиване</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>Отбиване (изчакване)</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>Изчакване</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>Участници</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>Животни</CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>За товарене</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>Товарено</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>Впрегатно животно</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>В нервен срив</InMentalStateCountLower>
 
 </LanguageData>

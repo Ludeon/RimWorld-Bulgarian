@@ -1,39 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- WITab titles -->
+  <!-- EN: Terrain -->
   <TabTerrain>Пейзаж</TabTerrain>
+  <!-- EN: Planet -->
   <TabPlanet>Планета</TabPlanet>
+  <!-- EN: Social -->
   <TabCaravanSocial>Общество</TabCaravanSocial>
+  <!-- EN: Health -->
   <TabCaravanHealth>Здраве</TabCaravanHealth>
+  <!-- EN: Needs -->
   <TabCaravanNeeds>Нужди</TabCaravanNeeds>
+  <!-- EN: Gear -->
   <TabCaravanGear>Вещи</TabCaravanGear>
+  <!-- EN: Items -->
   <TabCaravanItems>Товар</TabCaravanItems>
-
+  
   <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>Изостави {{0}}x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Сигурен ли сте, че искате да изоставите {0}?\n\nОставените предмети изчезват и не могат да бъдат върнати.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
   <AbandonTip>Изостави</AbandonTip>
+  <!-- EN: Banish -->
   <BanishTip>Прокуди</BanishTip>
+  <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>Изостави определена сума</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
   <AbandonAllTip>Изостави всичко</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Изоставените вещи изчезват и не могат да бъдат върнати.</AbandonItemTipExtraText>
+  <!-- EN: {0} will most likely die. -->
   <BanishTipWillDie>{0} най-вероятно ще умре.</BanishTipWillDie>
-
+  
   <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
   <CaravanColonists>Пътешественици</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>Затворници и животни</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
   <CaravanItems>Товар</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>Натиснете, за да видите подробности.</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
   <CaravanPrisoners>Затворници</CaravanPrisoners>
+  <!-- EN: Inventory -->
   <CaravanWeaponsAndApparel>Вещи</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
   <NoneCapable>Не е намерен</NoneCapable>
-
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>Керван не се движи</GainingJoyBecauseCaravanNotMoving>
+  
   <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
   <DragToRearrange>Плъзнете, за да сортирате предметите.</DragToRearrange>
 
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>Задайте политика за прием на наркотици</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>Длъжни ли са участниците на  кервана да пренасят този човек или животно в случай на болест.\n\nЛежащите на носилката могат да си почиват, когато керванът се движи, но пренасянето забавя кервана.</BeCarriedIfSickTip>
+  
   <!-- Planet -->
+  <!-- EN: Seed -->
   <PlanetSeed>Зърно</PlanetSeed>
+  <!-- EN: Coverage -->
   <PlanetCoverageShort>Размер на карта</PlanetCoverageShort>
 
 </LanguageData>

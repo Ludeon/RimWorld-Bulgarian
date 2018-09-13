@@ -1,30 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: a -->
   <IndefiniteArticle></IndefiniteArticle>
+  <!-- EN: the -->
   <DefiniteArticle></DefiniteArticle>
+  <!-- EN: a {0} -->
   <IndefiniteForm>{0}</IndefiniteForm>
+  <!-- EN: the {0} -->
   <DefiniteForm>{0}</DefiniteForm>
 
+  <!-- EN: its -->
   <Proits>неговото</Proits>
+  <!-- EN: his -->
   <Prohis>неговия</Prohis>
+  <!-- EN: her -->
   <Proher>нейния</Proher>
+  <!-- EN: Its -->
   <ProitsCap>Неговото</ProitsCap>
+  <!-- EN: His -->
   <ProhisCap>Неговият</ProhisCap>
+  <!-- EN: Her -->
   <ProherCap>Нейният</ProherCap>
 
+  <!-- EN: it -->
   <ProitObj>то</ProitObj>
+  <!-- EN: him -->
   <ProhimObj>той</ProhimObj>
+  <!-- EN: her -->
   <ProherObj>тя</ProherObj>
+  <!-- EN: It -->
   <ProitObjCap>То</ProitObjCap>
+  <!-- EN: Him -->
   <ProhimObjCap>Той</ProhimObjCap>
+  <!-- EN: Her -->
   <ProherObjCap>Тя</ProherObjCap>
 
+  <!-- EN: he -->
   <Prohe>той</Prohe>
+  <!-- EN: she -->
   <Proshe>тя</Proshe>
+  <!-- EN: it -->
   <Proit>то</Proit>
+  <!-- EN: He -->
   <ProheCap>Той</ProheCap>
+  <!-- EN: She -->
   <ProsheCap>Тя</ProsheCap>
+  <!-- EN: It -->
   <ProitCap>То</ProitCap>
 
 </LanguageData>

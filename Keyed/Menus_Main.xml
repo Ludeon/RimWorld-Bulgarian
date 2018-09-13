@@ -1,189 +1,384 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
   <Tutorial>Обучение</Tutorial>
+  <!-- EN: New colony -->
   <NewColony>Нова колония</NewColony>
+  <!-- EN: Back to game -->
   <BackToGame>Обратно в играта</BackToGame>
+  <!-- EN: Review scenario -->
   <ReviewScenario>Сценарий</ReviewScenario>
+  <!-- EN: Save -->
   <Save>Запази</Save>
+  <!-- EN: Load game -->
   <LoadGame>Зареди игра</LoadGame>
+  <!-- EN: Options -->
   <Options>Настройки</Options>
+  <!-- EN: Mods -->
   <Mods>Модификации</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>Запазване на отчет</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Създаване на отчет за превода</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Разчистване на превода</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Разчистване на файловете за превод</CleaningTranslationFiles>
+  <!-- EN: Credits -->
   <Credits>Автори</Credits>
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Обратно в главното меню</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Запази и се върни в главното меню</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
   <QuitToOS>Изход</QuitToOS>
+  <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>Запази и излез от играта</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
   <FictionPrimer>За вселената Rimworld</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog>Блог Ludeon</LudeonBlog>
+  <!-- EN: Forums -->
   <Forums>Форум</Forums>
+  <!-- EN: Official wiki -->
   <OfficialWiki>Официално уики</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>Туйтър на Тайнън</TynansTwitter>
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>Книга на Тайнън</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Помощ в превода на RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>Купи саундтрака</BuySoundtrack>
+  <!-- EN: Create world -->
   <CreateWorld>Създай свят</CreateWorld>
 
-  <!--=========== Create/review world ================-->
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>RimWorld е преведена от фенове-ентусиасти. Над текущата локализация работиха:</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>Вие също може да помогнете в превода на играта. За да разберете как, натиснете на бутона по-долу (ще се отвори браузър).</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>Помощ</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>Внимание: Това е нестабилна версия, това означава, че се намира в процес на разработка.\n\В версията ще срещнете бъгове, който са поставени умишлено със цел да се балансира играта по-добре. Ако сте съгласен да играете в тази версия, ви благодарим за участието в тестове! В противен случай ви препоръчваме да играете с последната стабилна версия.</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>Прегледай свят</ReviewWorld>
+  <!-- EN: Generate -->
   <WorldGenerate>Създай</WorldGenerate>
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Запази и затвори</WorldSaveAndFinish>
+  <!-- EN: Reset -->
   <Reset>Анулиране</Reset>
+  <!-- EN: Globe coverage -->
   <PlanetCoverage>Размер на картата</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
   <PlanetRainfall>Общо количество валежи</PlanetRainfall>
+  <!-- EN: Overall temperature -->
   <PlanetTemperature>Обща температура</PlanetTemperature>
+  <!-- EN: Low -->
   <PlanetRainfall_Low>Ниски</PlanetRainfall_Low>
+  <!-- EN: Normal -->
   <PlanetRainfall_Normal>Умерени</PlanetRainfall_Normal>
+  <!-- EN: High -->
   <PlanetRainfall_High>Високи</PlanetRainfall_High>
+  <!-- EN: Low -->
   <PlanetTemperature_Low>Ниска</PlanetTemperature_Low>
+  <!-- EN: Normal -->
   <PlanetTemperature_Normal>Умерена</PlanetTemperature_Normal>
+  <!-- EN: High -->
   <PlanetTemperature_High>Висока</PlanetTemperature_High>
+  <!-- EN: Seed -->
   <WorldSeed>Семе</WorldSeed>
+  <!-- EN: Randomize seed -->
   <RandomizeSeed>Случайно семе</RandomizeSeed>
-  <PlanetCoverageTip>Диаметъра на планетата е един и същ, но тъй като е по голяма от необходимото за игра, повърхността на планетата няма да се генерира изцяло. В противен случай това ще отнеме много време. Това поле указва повърхността (в проценти от общата площ на планетата), която бихте искали да генерирате.</PlanetCoverageTip>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>Диаметъра на планетата е един и същ, но тъй като е по голяма от необходимото за игра, повърхността на планетата няма да не се генерира изцяло. В противен случай това ще отнеме много време. Това поле указва повърхността (в проценти от общата площ на планетата), която бихте искали да генерирате.</PlanetCoverageTip>
+  <!-- EN: Factions -->
   <WorldFactionsTab>Фракции</WorldFactionsTab>
 
-  <!--=========== Select world ===================-->
+  <!-- Select world -->
+  <!-- EN: Select world -->
   <SelectWorld>Избери свят</SelectWorld>
+  <!-- EN: Select -->
   <WorldChooseButton>Избери</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Не е намерен нито един запазен свят. Създайте свят.</NoWorldsFilesFound>
-
-  <!--=========== Version info ==========-->
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Достъпна е нова версия — {0}. Отидете на ludeon.com за повече информация.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
   <BuildUpToDate>Разполагате с най новата версия.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>Грешка при получаване на данни за версия: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
   <LoadingVersionInfo>Зареди данни за версия...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  <!-- World generator -->
+  <!-- EN: Generate world -->
   <GenerateWorld>Създай свят</GenerateWorld>
 
-  <!--=========== Mods config ==========-->
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Работилница Steam</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
   <GetModsFromForum>Изтегли модификации от форума</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Отвори папката с модификации</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>Покажи пътя към папката с модификации</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Сигурен ли сте, че искате да изключите ядрото на играта? Играта ще спре да работи напълно, освен ако нямате друга модификации, която да замени всички негови функции.\n\nЗапомнете, другите модификации могат да предопределят стойността на ядрото, като използват същите стойности на defName.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Сигурен ли сте, че искате да изтриете {0}?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
   <Unsubscribe>Деактивирай</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>Сигурен ли сте, че искате да деактивирате и отпишете от {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
   <Author>Автор</Author>
+  <!-- EN: Workshop page -->
   <WorkshopPage>Работилница Steam</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
   <UploadToSteamWorkshop>Качи в Работилница Steam</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Обнови в Работилница Steam</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>в момента се качва.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Връзката е прекратена.\n\nПричина: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>Успешно качено {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
   <Downloading>Сваляне</Downloading>
+  <!-- EN: Source -->
   <Source>Източник</Source>
+  <!-- EN: For version: {0} -->
   <ModTargetVersion>Необходима версия: {0}</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Тази модификация не съответства на версията на RimWorld и най вероятно няма да работи правилно.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Модификацията се нуждае от правилна форматирана версия в About.xml. Например: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
+  <MessageModNeedsWellFormattedTargetVersion>Модификацията се нуждае от правилна форматирана версия в About.xml. Например: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
   <DragToReorder>Плъзнете, за сортиране.</DragToReorder>
-
-  <!--=========== Select scenario =============-->
+  
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
   <ChooseScenario>Избор на сценария</ChooseScenario>
+  <!-- EN: Custom -->
   <ScenariosCustom>Потребителски сценарии</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Работилница Steam</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
   <ScenarioEditor>Редактор на сценарии</ScenarioEditor>
+  <!-- EN: Delete -->
   <Delete>Изтрий</Delete>
-
-  <!--============ Scenario editor ===============-->
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
   <Seed>зърно</Seed>
+  <!-- EN: Load -->
   <Load>Зареди</Load>
+  <!-- EN: edit mode -->
   <EditMode>режим на редактиране</EditMode>
+  <!-- EN: Summary -->
   <Summary>Кратки сведения</Summary>
+  <!-- EN: Add part -->
   <AddPart>Добави условие</AddPart>
+  <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Всички текстови полета трябва да бъдат попълнени.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Сигурен ли сте, че искате да качите избраното в Работилница Steam?\n\nЩе трябва да приемате условията за използване на Работилница Steam. Виж тук условията за използване:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Имайте предвид, че трябва да качите това което сте си направили сами.\n\nВие ли сте автора на това съдържание?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
   <Incompatible>Несъвместимо</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
   <TooMany>Твърде много (максимум {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Може да се обнови в Работилницата, защото сте автор на това съдържание.</CanBeUpdatedOnWorkshop>
-
-  <!--=========== Select storyteller ==========-->
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Избор на ИИ-разказвач</ChooseAIStoryteller>
-  <HowStorytellersWork>ИИ-разказвач създава събития, като пиратски нападения, падащи ресурси или нападения от животни. Това което избирате, ще се отрази на колонията ви.</HowStorytellersWork>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>ИИ-разказвач създава събития, например, пиратски нападения, падащи ресурси или нападания от животни. Това което избирате, ще се отрази на колонията ви.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Моля, изберете сложност.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
   <Difficulty>Сложност</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>«Отговорност?» режим</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>Презареждане по всяко време</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>TODO</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his parents got killed - loss and recovery is dramatic! -->
+  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>ИИ разказвачът и трудността може да се променят по всяко време</CanChangeStorytellerSettingsDuringPlay>
 
-  <!--=========== Landing site select =========-->
+  <!-- Landing site select -->
+  <!-- EN: Select landing site -->
   <SelectLandingSite>Избиране на място за кацане</SelectLandingSite>
+  <!-- EN: Select random site -->
   <SelectRandomSite>Случайно кацане</SelectRandomSite>
+  <!-- EN: Select site -->
   <SelectSite>Избиране на място</SelectSite>
+  <!-- EN: Please select a landing site. -->
   <MustSelectLandingSite>Моля, изберете място за кацане.</MustSelectLandingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Не може да се приземите в този биом: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>Такъв биом не е намерен.</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>Не може да се приземите в непроходими гори.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
   <BaseAlreadyThere>Фракция {0} е поставила там база.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>Вече сте поставили база.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
   <TileOccupied>Това място е заето.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>Колонията не може да се разполага плътно един в друг.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
   <Biome>Биом</Biome>
+  <!-- EN: Terrain -->
   <Terrain>Повърхност</Terrain>
+  <!-- EN: Road -->
   <Road>Пътища</Road>
+  <!-- EN: River -->
   <River>Река</River>
+  <!-- EN: Elevation -->
   <Elevation>Височина</Elevation>
+  <!-- EN: Fertility -->
   <Fertility>Плодородност</Fertility>
+  <!-- EN: Average temperature -->
   <AvgTemp>Средна температура</AvgTemp>
-  <AvgSummerTemp>Температурата лято</AvgSummerTemp>
-  <AvgWinterTemp>Температурата зима</AvgWinterTemp>
+  <!-- EN: Rainfall -->
   <Rainfall>Дъждове</Rainfall>
+  <!-- EN: Special features -->
   <SpecialFeatures>Особености</SpecialFeatures>
+  <!-- EN: northern coast -->
   <HasCoast0>Крайбрежия от север</HasCoast0>
+  <!-- EN: eastern coast -->
   <HasCoast1>Крайбрежия от изток</HasCoast1>
+  <!-- EN: southern coast -->
   <HasCoast2>Крайбрежия от юг</HasCoast2>
+  <!-- EN: western coast -->
   <HasCoast3>Крайбрежия от запад</HasCoast3>
+  <!-- EN: caves -->
   <HasCaves>Пещери</HasCaves>
+  <!-- EN: Faction base -->
   <FactionBase>База на фракция</FactionBase>
+  <!-- EN: Stone types -->
   <StoneTypesHere>Видове скали</StoneTypesHere>
+  <!-- EN: Time zone -->
   <TimeZone>Часови пояс</TimeZone>
-  <MovementTimeNow>Текущо време на преминаване</MovementTimeNow>
-  <MovementTimeSummer>Време на преминаване през лято</MovementTimeSummer>
-  <MovementTimeWinter>Време на преминаване през зима</MovementTimeWinter>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>Сложност на придвижване</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
   <AnimalsCanGrazeNow>Животните могат да пасат</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
   <AverageDiseaseFrequency>Ср. честота на заболявания</AverageDiseaseFrequency>
+  <!-- EN: per year -->
   <PerYear>на год.</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>Скорост на произвеждане на храна</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Никой от заселниците не може да изпълнява следните задачи:\n\n{0}\n\nТова ще направи играта по трудна. Сигурен ли сте, че искате да продължите ?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-
-  <!--=========== Character chooser ==========-->
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
   <CreateCharacters>Създаване на персонаж</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
   <FirstNameDesc>Име на персонажа.\n\nПоказва се само в някой менюта.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
   <ShortIdentifierDesc>Прякор на персонажа.\n\nПоказва се навсякъде. Може да бъде име, фамилия или прякор.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
   <LastNameDesc>Фамилия на персонажа.\n\nПоказва се само в някой менюта.</LastNameDesc>
+  <!-- EN: Randomize -->
   <Randomize>Случайно</Randomize>
+  <!-- EN: age {0} -->
   <AgeIndicator>възраст {0}</AgeIndicator>
+  <!-- EN: Backstory -->
   <Backstory>Биография</Backstory>
+  <!-- EN: Incapable of -->
   <IncapableOf>Неспособен(на) на</IncapableOf>
+  <!-- EN: Traits -->
   <Traits>Черти на характера</Traits>
-  <PermanentMoodEffect>Постоянни ефекти на настроението</PermanentMoodEffect>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>Постоянни ефекти на настроение</PermanentMoodEffect>
+  <!-- EN: Skills -->
   <Skills>Умения</Skills>
+  <!-- EN: none -->
   <NoneLower>липсва</NoneLower>
+  <!-- EN: Adulthood -->
   <Adulthood>Зрелост</Adulthood>
+  <!-- EN: Childhood -->
   <Childhood>Детство</Childhood>
+  <!-- EN: Current -->
+  <Current>Текущ</Current>
+  <!-- EN: male -->
   <Male>мъжки пол</Male>
-  <Female>женски пола</Female>
+  <!-- EN: female -->
+  <Female>женски пол</Female>
+  <!-- EN: male -->
+  <MaleAnimal>мъжки пол</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>женски пол</FemaleAnimal>
+  <!-- EN: Pain -->
   <Pain>Болка</Pain>
+  <!-- EN: Health -->
   <Health>Здраве</Health>
+  <!-- EN: Relations -->
   <Relations>Отношения</Relations>
+  <!-- EN: Team skills -->
   <TeamSkills>Командни умения</TeamSkills>
+  <!-- EN: Selected -->
   <StartingPawnsSelected>Избери</StartingPawnsSelected>
+  <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Остави</StartingPawnsLeftBehind>
-
-  <!--=========== Misc ==========-->
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
   <Start>Начало</Start>
+  <!-- EN: Advanced -->
   <Advanced>Допълнителни настройки</Advanced>
+  <!-- EN: Next -->
   <Next>Напред</Next>
+  <!-- EN: Back -->
   <Back>Назад</Back>
+  <!-- EN: Gameplay -->
   <Gameplay>Игра</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
   <ConfirmQuit>Изход? Целият напредък ще бъде изгубен.</ConfirmQuit>
-  <EveryoneNeedsValidName>Моля въведете коректни имена, прякори и фамилии за заселниците.</EveryoneNeedsValidName>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>Моля въведете коректно име, прякор и фамилия за заселниците.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>Никой от заселниците не може да изпълнява следните задачи</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
   <Quit>Излез</Quit>
+  <!-- EN: Ignore -->
   <Ignore>Игнорирай</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>Генериране на свят</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>Генериране на планета</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>Генериране на карта</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>Генериране на карта</GeneratingMapForNewEncounter>
 
-  <!--============ Progress bar==============-->
-  <GeneratingWorld>Създавам свят</GeneratingWorld>
-  <GeneratingPlanet>Създавам планети</GeneratingPlanet>
-  <GeneratingMap>Създавам карти</GeneratingMap>
-  <GeneratingMapForNewEncounter>Създавам карти</GeneratingMapForNewEncounter>
-
-</LanguageData>/LanguageData>
+</LanguageData>

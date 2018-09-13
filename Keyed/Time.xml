@@ -1,44 +1,77 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: d -->
   <LetterDay>д</LetterDay>
+  <!-- EN: h -->
   <LetterHour>ч</LetterHour>
+  <!-- EN: m -->
   <LetterMinute>м</LetterMinute>
+  <!-- EN: s -->
   <LetterSecond>с</LetterSecond>
   
+  <!-- EN: days -->
   <DaysLower>дни</DaysLower>
+  <!-- EN: seconds -->
   <SecondsLower>секунди</SecondsLower>
-  
+
+  <!-- EN: spring -->
   <SeasonSpring>пролет</SeasonSpring>
+  <!-- EN: summer -->
   <SeasonSummer>лято</SeasonSummer>
+  <!-- EN: fall -->
   <SeasonFall>есен</SeasonFall>
+  <!-- EN: winter -->
   <SeasonWinter>зима</SeasonWinter>
+  <!-- EN: permanent summer -->
   <SeasonPermanentSummer>само лято</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
   <SeasonPermanentWinter>само зима</SeasonPermanentWinter>
-  
-  <!-- В именительном падеже, адаптировано для контекстов использования -->
+
+  <!-- EN: Aprimay -->
   <QuadrumAprimay>Мартмай</QuadrumAprimay>
+  <!-- EN: Jugust -->
   <QuadrumJugust>Юнгуст</QuadrumJugust>
+  <!-- EN: Septober -->
   <QuadrumSeptober>Септеноември</QuadrumSeptober>
+  <!-- EN: Decembary -->
   <QuadrumDecembary>Декемврал</QuadrumDecembary>
   
+  <!-- EN: Born: {0} -->
   <Born>Дата на раждане: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
   <AgeChronological>Хронологична възраст: {0} години, {1} сезони, {2} дни</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
   <AgeBiological>Биологична възраст: {0} години, {1} сезони, {2} дни</AgeBiological>
-  
-  <!-- Date periods -->
-  <Period1Year>1 година</Period1Year>
-  <PeriodYears>{0} години</PeriodYears>
-  <Period1Quadrum>1 сезон</Period1Quadrum>
-  <PeriodQuadrums>{0} сезона</PeriodQuadrums>
-  <Period1Day>1 ден</Period1Day>
-  <PeriodDays>{0} дни</PeriodDays>
-  <Period1Hour>1 час</Period1Hour>
-  <PeriodHours>{0} часове</PeriodHours>
-  
-  <!-- Misc -->
-  <Started>Започна</Started>
-  <Lasted>Продължил</Lasted>
-  <OccurredTimeAgo>Настъпил преди {0} </OccurredTimeAgo>
 
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 година</Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>{0} години</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 сезон</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} сезона</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 ден</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>{0} дни</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 час</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} часове</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 секунда</Period1Second>
+  <!-- EN: {0}  seconds -->
+  <PeriodSeconds>{0} секунди</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>Започна</Started>
+  <!-- EN: Lasted -->
+  <Lasted>Продължил</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>Настъпил преди {0} </OccurredTimeAgo>
+  
 </LanguageData>

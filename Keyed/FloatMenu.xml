@@ -1,170 +1,371 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Call {0} -->
   <CallOnRadio>Свързване с {0}</CallOnRadio>
+  <!-- EN: Cannot use ({0}) -->
   <CannotUseReason>Не може да се използва: {0}</CannotUseReason>
+  <!-- EN: Cannot use (solar flare) -->
   <CannotUseSolarFlare>Не може да се използва: слънчево изригване</CannotUseSolarFlare>
+  <!-- EN: Cannot use (no power) -->
   <CannotUseNoPower>Не може да се използва: без енергия</CannotUseNoPower>
+  <!-- EN: Cannot use (no path) -->
   <CannotUseNoPath>Не може да се използва: недостъпно</CannotUseNoPath>
+  <!-- EN: Cannot use (reserved) -->
   <CannotUseReserved>Не може да се използва: заето</CannotUseReserved>
+  <!-- EN: Cannot use (full) -->
   <CannotUseFull>Не може да се използва: запълнено</CannotUseFull>
+  <!-- EN: leader {0} is unavailable -->
   <LeaderUnavailable>лидер {0} недостъпен</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>лидера е недостъпен</LeaderUnavailableNoLeader>
-
+  
+  <!-- EN: Fire at {0} -->
   <FireAt>Стреляй по {0}</FireAt>
 
+  <!-- EN: out of range -->
   <OutOfRange>извън зоната</OutOfRange>
+  <!-- EN: cannot hit target -->
   <CannotHitTarget>не може да уцели мишената</CannotHitTarget>
+  <!-- EN: {0} is incapable of violence -->
   <IsIncapableOfViolenceLower>{0} не е способен(на) на насилие</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>не способен(на) на насилие</IncapableOfViolenceLower>
+  <!-- EN: {0} is not drafted -->
   <IsNotDraftedLower>{0} не е призван</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>Не може да командвате неконтролирани единици</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
   <CannotAttackSelf>не може да атакувате себе си</CannotAttackSelf>
 
+  <!-- EN: Man {0} -->
   <OrderManThing>Зареди {0}</OrderManThing>
-
+  
+  <!-- EN: Melee attack {0} -->
   <MeleeAttack>Близък бой с {0}</MeleeAttack>
+  <!-- EN: Melee attack {0} to death -->
   <MeleeAttackToDeath>Убий {0} ръкопашно</MeleeAttackToDeath>
+  <!-- EN: no path -->
   <NoPath>не може да се премине</NoPath>
 
+  <!-- EN: forbidden -->
   <ForbiddenLower>забранено</ForbiddenLower>
+  <!-- EN: outside allowed area -->
   <ForbiddenOutsideAllowedAreaLower>извън разрешената зона</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
   <NotInHomeArea>извън домашната зона</NotInHomeArea>
+  <!-- EN: burning -->
   <BurningLower>пожар</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
   <NoEmptyPlaceLower>недостатъчно свободно място, за съхраняване на това</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>Няма какво да се обедини</NoMergeTarget>
+  <!-- EN: already filled enough -->
   <AlreadyFilledLower>запълнено</AlreadyFilledLower>
+  <!-- EN: need material -->
   <MissingMaterials>необходими са материали</MissingMaterials>
-  <MissingSkill>недостатъчно ниво на умение</MissingSkill>
-  <NoEmptyGraveLower>няма празен гроб, предназначен за това</NoEmptyGraveLower>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>Изисква следни умение {0}</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>Допустими следни умения {0}</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>Допустими следни умения {0}</AboveAllowedSkill>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>Липсващи изисквани нива на умения</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>животното е тренирано отскоро</AnimalInteractedTooRecently>
+  <!-- EN: no usable food -->
   <NoUsableFood>неподходяща храна</NoUsableFood>
+  <!-- EN: no food -->
   <NoFood>няма храна</NoFood>
+  <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>ниско умение на Животновъдство</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>Животното е разбит</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>Животното спи</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>Животното е заето</CantInteractAnimalBusy>
+  <!-- EN: construction skill too low -->
   <ConstructionSkillTooLow>ниско умение на Строителство</ConstructionSkillTooLow>
+  <!-- EN: need components -->
   <NoComponentsToRepair>необходими са компоненти</NoComponentsToRepair>
+  <!-- EN: need {0} -->
   <NoFuelToRefuel>необходимо {0}</NoFuelToRefuel>
+  <!-- EN: need wort -->
   <NoWort>необходим е шира</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>налична храна — на склада с по-висок приоритет</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
   <NoFoodToFillHopper>неподходяща храна</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
   <SelfTendDisabled>самоизлекуването е недостъпно</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
   <ReservedForPrisoners>отделена храна за затворници</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
   <CannotReach>не може да се достигне</CannotReach>
+  <!-- EN: not ready for surgery -->
   <NotSurgeryReady>пациент не е готов за операция</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>недостъпно умение</SkillDisabled>
+  <!-- EN: too bright -->
   <CantSowCavePlantBecauseOfLight>твърде ярко</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
   <CantSowCavePlantBecauseUnroofed>без покрив</CantSowCavePlantBecauseUnroofed>
-
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>Не може да се разглоби</IncapableOfDeconstruction>
+  
+  <!-- EN: Consume {0} -->
   <ConsumeThing>Употреби {0}</ConsumeThing>
-
+  
+  <!-- EN: Cannot go here (no path) -->
   <CannotGoNoPath>Не може да се стигне до това място: няма път</CannotGoNoPath>
+  <!-- EN: Go here -->
   <GoHere>Иди тук</GoHere>
-
+  
+  <!-- EN: Arrest {0} -->
   <Arrest>Арестувай {0}</Arrest>
+  <!-- EN: Try to arrest {0} -->
   <TryToArrest>Опитай да арестуваш {0}</TryToArrest>
+  <!-- EN: Cannot arrest -->
   <CannotArrest>Не може да се арестува</CannotArrest>
 
+  <!-- EN: Capture {0} -->
   <Capture>Плени {0}</Capture>
+  <!-- EN: Cannot capture -->
   <CannotCapture>Не може да се плени</CannotCapture>
 
+  <!-- EN: Rescue {0} -->
   <Rescue>Спаси {0}</Rescue>
+  <!-- EN: Cannot rescue -->
   <CannotRescue>Не може да се спаси</CannotRescue>
 
+  <!-- EN: Carry {0} to cryptosleep casket -->
   <CarryToCryptosleepCasket>Пренеси {0} в контейнер за криптосън</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Не може да се пренася в контейнера за криптосън</CannotCarryToCryptosleepCasket>
 
+  <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Няма налични контейнери за криптосън.</NoCryptosleepCasket>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Недостатъчни свободни легла за затворници в закрито помещение.</NoPrisonerBed>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
   <NoNonPrisonerBed>Недостатъчни свободни легла за заселници.</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
   <NoAnimalBed>Недостатъчни свободни легла за животни.</NoAnimalBed>
+  <!-- EN: Reserved by someone else. -->
   <Reserved>Заето от някой друг.</Reserved>
+  <!-- EN: Reserved by {0} -->
   <ReservedBy>Заето {0}</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
   <IsReservedBy>{0} вече използва {1}.</IsReservedBy>
+  <!-- EN: Too heavy -->
   <TooHeavy>твърде тежко</TooHeavy>
 
+  <!-- EN: incapable -->
   <Incapable>неспособен</Incapable>
+  <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>неспособен {0}</IncapableOfCapacity>
 
+  <!-- EN: min skill -->
   <MinSkill>мин. ниво на умение</MinSkill>
-
+  
+  <!-- EN: Equip {0} -->
   <Equip>Вземи оръжие: {0}</Equip>
+  <!-- EN: (brawler will be unhappy) -->
   <EquipWarningBrawler>(заселникът ще бъде недоволен)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
   <CannotEquip>Не може да се вземе оръжие: {0}</CannotEquip>
-
+  <!-- EN: Cannot man  {0} -->
+  <CannotManThing>Не може да се вземе {0}</CannotManThing>
+  
+  <!-- EN: Force wear {0} -->
   <ForceWear>Екипирай {0}</ForceWear>
+  <!-- EN: Cannot wear {0} -->
   <CannotWear>Не може да се екипира {0}</CannotWear>
+  <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>липсват части от тялото</CannotWearBecauseOfMissingBodyParts>
-
+  
+  <!-- EN: Cannot pick up {0} -->
   <CannotPickUp>Не може да се вземе {0}</CannotPickUp>
+  <!-- EN: Cannot pick up {0} (all) -->
   <CannotPickUpAll>Не може да се вземе {0} (всичко)</CannotPickUpAll>
+  <!-- EN: Pick up {0} -->
   <PickUp>Вземи {0}</PickUp>
+  <!-- EN: Pick up {0} (all) -->
   <PickUpAll>Вземи {0} (всичко)</PickUpAll>
+  <!-- EN: Pick up {0}... -->
   <PickUpSome>Вземи {0}...</PickUpSome>
+  <!-- EN: Pick up {0} x{{0}} -->
   <PickUpCount>Вземи {0} ({{0}} х)</PickUpCount>
-
+  
+  <!-- EN: Cannot give {0} to pack animal -->
   <CannotGiveToPackAnimal>Не може да се качи {0} към животното</CannotGiveToPackAnimal>
+  <!-- EN: Cannot give {0} (all) to pack animal -->
   <CannotGiveToPackAnimalAll>Не може да се качи {0} (всичко) към животното</CannotGiveToPackAnimalAll>
+  <!-- EN: Give {0} to pack animal -->
   <GiveToPackAnimal>Качи {0} към животното</GiveToPackAnimal>
+  <!-- EN: Give {0} (all) to pack animal -->
   <GiveToPackAnimalAll>Качи {0} (всичко) към животното</GiveToPackAnimalAll>
+  <!-- EN: Give {0} to pack animal... -->
   <GiveToPackAnimalSome>Качи {0} към животното...</GiveToPackAnimalSome>
+  <!-- EN: Take {0} x{{0}} -->
   <GiveToPackAnimalCount>Качи {0} ({{0}} х) към животното</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {0} into caravan -->
+  <CannotLoadIntoCaravan>Не може да се качва {0} в кервана</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {0} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>Не може да се качва {0} (всичко) в кервана</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {0} into caravan -->
+  <LoadIntoCaravan>Качи {0} в керван</LoadIntoCaravan>
+  <!-- EN: Load {0} (all) into caravan -->
+  <LoadIntoCaravanAll>Качи {0} (всичко) в керван</LoadIntoCaravanAll>
+  <!-- EN: Load {0} into caravan... -->
+  <LoadIntoCaravanSome>Качване {0} в керван...</LoadIntoCaravanSome>
+  <!-- EN: Load {0} x{{0}} -->
+  <LoadIntoCaravanCount>качи {0} x{{0}}</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>претоварен</OverweightLower>
 
+  <!-- EN: Cannot carry {0} and leave the area -->
   <CannotCarryToExit>Не може да се носи {0} и напусне зоната</CannotCarryToExit>
+  <!-- EN: Carry {0} and leave the area -->
   <CarryToExit>Вземи {0} и напусни</CarryToExit>
-
+  <!-- EN: Capture {0} and leave the area -->
+  <CarryToExitAndCapture>Превземи {0} и напусни зона</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {0} -->
   <Strip>Съблечи {0}</Strip>
-  <CannotStrip>Не може да се съблечи {0}</CannotStrip>
+  <!-- EN: Cannot strip {0} -->
+  <CannotStrip>Не може да се съблече {0}</CannotStrip>
 
+  <!-- EN: Self-destruct here -->
   <SelfDestructHere>Самоунищожи се тук</SelfDestructHere>
-
+  
+  <!-- EN: Drop {0} -->
   <Drop>Изхвърли {0}</Drop>
 
+  <!-- EN: Rest until healed -->
   <UseMedicalBed>Почивай да възстановяване</UseMedicalBed>
+  <!-- EN: not injured -->
   <NotInjured>Не е ранен</NotInjured>
+  <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>{0} спи тук</SomeoneElseSleeping>
-
+  
+  <!-- EN: Trade with {0} -->
   <TradeWith>Търгувай с {0}</TradeWith>
+  <!-- EN: Cannot trade -->
   <CannotTrade>Не може да се търгува</CannotTrade>
-
+  
+  <!-- EN: Enter {0} -->
   <EnterMap>Влез в {0}</EnterMap>
+  <!-- EN: Visit {0} -->
   <VisitSettlement>Посети {0}</VisitSettlement>
+  <!-- EN: Visit {0} -->
   <VisitPeaceTalks>Посети {0}</VisitPeaceTalks>
-  <VisitSite>Посети {0}</VisitSite>
+  <!-- EN: Visit {0} -->
   <VisitEscapeShip>Посети {0}</VisitEscapeShip>
-  <AttackSite>Нападни {0}</AttackSite>
+  <!-- EN: Attack {0} -->
   <AttackSettlement>Нападни {0}</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>Отиди на {0}</ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>Отива на {0}</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>Предложи подарък</OfferGifts>
 
   <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
   <EnterCryptosleepCasket>Влез в контейнера за криптосън</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Отвори контейнера за криптосън</OpenCryptosleepCasket>
 
-  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Не може {0} {1}</CannotGenericWork>
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Невъзможно {0} {1}</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>Невъзможно</CannotGenericWorkCustom>
 
-  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <!-- EN: Cannot prioritize (incapable of {0}) -->
   <CannotMissingHealthActivities>Сега не може: заселника не може {0} заради проблеми със здравето</CannotMissingHealthActivities>
 
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {1} -->
   <CannotGenericAlreadyAm>Заселникът вече започна {0}: {1}</CannotGenericAlreadyAm>
 
+  <!-- EN: Cannot prioritize (will never do {0}) -->
   <CannotPrioritizeWorkTypeDisabled>Не може да се изпълни: заселникът никога няма да {0}</CannotPrioritizeWorkTypeDisabled>
 
+  <!-- EN: Cannot prioritize (will never {0}) -->
   <CannotPrioritizeWorkGiverDisabled>Не може да се изпълни: заселникът никога няма да {0}</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>TODO</WillNever>
 
+  <!-- EN: Cannot prioritize (not assigned to {0}) -->
   <CannotPrioritizeNotAssignedToWorkType>Не може да се изпълни: не е назначен заселник {0}</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>TODO</NotAssigned>
 
+  <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>Сега не може: изследване — дългосрочна задача</CannotPrioritizeResearch>
 
+  <!-- EN: Cannot prioritize ({0} is forbidden) -->
   <CannotPrioritizeForbidden>Не може да се изпълни: {0} забранено</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize (forbidden) -->
+  <CannotPrioritizeCellForbidden>Не може да се изпълни: Забранено</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Не може: {0} извън разрешената зона</CannotPrioritizeForbiddenOutsideAllowedArea>
 
-  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>{0} {1}</PrioritizeGeneric>
-
+  
+  <!-- EN: Drop at edge -->
   <DropAtEdge>Хвърли към края</DropAtEdge>
+  <!-- EN: Drop in center -->
   <DropInCenter>Хвърли в центъра</DropInCenter>
-
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>Атакувай {0}: Остани в крайщата</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>Атакувай {0}: Остани в центъра</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
   <VomitingLower>повръщане</VomitingLower>
+  <!-- EN: not interruptible -->
   <NotInterruptibleLower>не може да се прекъсне</NotInterruptibleLower>
-
+  
+  <!-- EN: Add a new waypoint here -->
   <AddWaypoint>Добави точка на маршрут</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
   <RemoveWaypoint>Изтрий точка на маршрут</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>Отмени всички назначения</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>Назначи всички</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>{0} отбелязано</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>Забрани всичко</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>Разреши всичко</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>Увеличи {0} и определи място за приземяване</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>Съдържанието ще бъде безвъзвратно изгубено</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>Формирай керван тук</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>Предай на {0}</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>Връчи като подарък на фракция {0} ({1})</GiveGiftViaTransportPods>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>Освободи затворник</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>Предложи помощ</OfferHelp>
 
 </LanguageData>

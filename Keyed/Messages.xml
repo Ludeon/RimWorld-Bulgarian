@@ -1,264 +1,526 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
   <MessageSiegersAssaulting>Обсаждащите {0} от {1} атакуват колонията.</MessageSiegersAssaulting>
 
+  <!-- EN: {0} from {1} are beginning their assault. -->
   <MessageRaidersBeginningAssault>{0} от фракция {1} тръгна на щурм.</MessageRaidersBeginningAssault>
+  <!-- EN: {0} from {1} have detected you and begun their assault early. -->
   <MessageRaidersDetectedEarlyAssault>{0} от фракция {1} ви откриха и решили да започнат атаката по рано.</MessageRaidersDetectedEarlyAssault>
+  <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
   <MessageRaidersKidnapping>{0} от фракция {1} решиха да отвличат когото могат и да напуснат.</MessageRaidersKidnapping>
+  <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{0} от фракция {1} решиха да ограбят каквото могат и да напуснат.</MessageRaidersStealing>
 
+  <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} от фракция {1} отстъпват.</MessageRaidersLeaving>
+  <!-- EN: {0} from {1} have given up and are leaving. -->
   <MessageRaidersGivenUpLeaving>{0} от фракция {1} се отказаха и напускат.</MessageRaidersGivenUpLeaving>
+  <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
   <MessageRaidersSatisfiedLeaving>{0} от фракция {1} са доволни от разгрома и напускат.</MessageRaidersSatisfiedLeaving>
 
+  <!-- EN: {0} from {1} are fleeing. -->
   <MessageFightersFleeing>{0} от фракция {1} бягат.</MessageFightersFleeing>
+  <!-- EN: Friendly {0} from {1} are leaving. -->
   <MessageFriendlyFightersLeaving>Приятели {0} от фракция {1} напускат.</MessageFriendlyFightersLeaving>
 
+  <!-- EN: {0} from {1} are taking a wounded guest. -->
   <MessageVisitorsTakingWounded>{0} от фракция {1} вземат със себе си ранен гост.</MessageVisitorsTakingWounded>
+  <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
   <MessageVisitorsTrappedLeaving>{0} от фракция {1} попаднали в капан и се опитват да избягат.</MessageVisitorsTrappedLeaving>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
   <MessageVisitorsDangerousTemperature>{0} от фракция {1} напускат заради неблагоприятни температурни условия.</MessageVisitorsDangerousTemperature>
-
+  
+  <!-- EN: {0} worn by {1} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>{0}, носен от {1}, се износи напълно и се разпадна на прах.</MessageWornApparelDeterioratedAway>
-
+  
+  <!-- EN: {0} has begun. -->
   <MessageSeasonBegun>Начало на сезона: {0}.</MessageSeasonBegun>
 
+  <!-- EN: {0} has left comms range. -->
   <MessageShipHasLeftCommsRange>Кораб «{0}» напусна обхвата на комуникациите.</MessageShipHasLeftCommsRange>
-
+  
+  <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>За търговия с кораби ви е нужен търговски маяк. Маякът трябва да бъде свързван към електрическата мрежа.</MessageNeedBeaconToTradeWithShip>
-
+  
+  <!-- EN: Bill complete: {0}. -->
   <MessageBillComplete>Приключена задача: {0}.</MessageBillComplete>
-
+  
+  <!-- EN: {0} is fully healed. -->
   <MessageFullyHealed>{0} напълно здрав(а).</MessageFullyHealed>
 
+  <!-- EN: Prisoner {0} is escaping. -->
   <MessagePrisonerIsEscaping>Затворници {0} устроили бягство!</MessagePrisonerIsEscaping>
 
+  <!-- EN: {0} found no nearby unreserved shells for {1}. -->
   <MessageOutOfNearbyShellsFor>{0} не може да намери снаряди за {1}.</MessageOutOfNearbyShellsFor>
 
+  <!-- EN: Warning: {0} may attack when harmed ({1} chance at rifle range, more if closer). -->
   <MessageAnimalsGoPsychoHunted>Внимание: това животно, {0}, ще напада, ако му причините нещо.</MessageAnimalsGoPsychoHunted>
+  <!-- EN: Warning: {0} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>Внимание: {0} може да напада, след неуспешен опит за опитомяване ({1} шанс).</MessageAnimalManhuntsOnTameFailed>
-
+  
+  <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Нови попълнения</LetterLabelMessageRecruitSuccess>
+  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
   <MessageRecruitSuccess>{0} успешно вербува {1} с шанс {2}.</MessageRecruitSuccess>
+  <!-- EN: {0} successfully tamed {1} ({2} chance). -->
   <MessageTameSuccess>{0} успешно опитоми {1} с шанс {2}.</MessageTameSuccess>
+  <!-- EN: {0} successfully tamed {1} ({2} chance) and named [PAWN_objective] {3}. -->
   <MessageTameAndNameSuccess>{0} успешно опитоми {1} с шанс {2} и се нарича HIS {3}.</MessageTameAndNameSuccess>
 
+  <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>Колонията не може да си позволи тази сделка.</MessageColonyCannotAfford>
+  <!-- EN: You do not have enough silver ready to trade. -->
   <MessageColonyNotEnoughSilver>Недостатъчно сребро.</MessageColonyNotEnoughSilver>
 
+  <!-- EN: Critical alert: {0} -->
   <MessageCriticalAlert>ВНИМАНИЕ: {0}</MessageCriticalAlert>
 
+  <!-- EN: Must designate harvestable sufficiently-grown plants. -->
   <MessageMustDesignateHarvestable>Трябва да посочите узрели растения.</MessageMustDesignateHarvestable>
+  <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
   <MessageMustDesignateHarvestableWood>Трябва да посочите напълно израснали растения.</MessageMustDesignateHarvestableWood>
+  <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>Трябва да посочите растения.</MessageMustDesignatePlants>
+  <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
   <MessageMustDesignateHaulable>Трябва да посочите предмети, който могат да се пренасят.</MessageMustDesignateHaulable>
+  <!-- EN: Must designate impassable mineable rocks. -->
   <MessageMustDesignateMineable>Трябва да посочите непроходими скали за копаене.</MessageMustDesignateMineable>
+  <!-- EN: Must designate huntable animals. -->
   <MessageMustDesignateHuntable>Трябва да посочите животни за ловуване.</MessageMustDesignateHuntable>
+  <!-- EN: Must designate tameable animals. -->
   <MessageMustDesignateTameable>Трябва да посочите опитомени животни.</MessageMustDesignateTameable>
+  <!-- EN: Must designate abandoned artificial structures. -->
   <MessageMustDesignateClaimable>Трябва да посочите древни изоставени сгради.</MessageMustDesignateClaimable>
-  <MessageMustDesignateSmoothableFloor>Трябва да посочите неравна каменна повърхност.</MessageMustDesignateSmoothableFloor>
+  <!-- EN: Must designate rough stone surfaces. -->
+  <MessageMustDesignateSmoothableSurface>Трябва да посочите неравна каменна повърхност</MessageMustDesignateSmoothableSurface>
+  <!-- EN: Nothing can remove thick roofs. -->
   <MessageNothingCanRemoveThickRoofs>Таван под форма на дебела скала не може да бъде премахната.</MessageNothingCanRemoveThickRoofs>
+  <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
   <MessageAlreadyInStorage>Предметът вече е в склад и ще бъде преместен в склад с по-висок приоритет при нужда.</MessageAlreadyInStorage>
+  <!-- EN: Must designate corpse or downed character with strippable apparel. -->
   <MessageMustDesignateStrippable>Трябва да посочите мъртви и тежко ранени с дрехи.</MessageMustDesignateStrippable>
+  <!-- EN: Must designate tame animal that belongs to the colony. -->
   <MessageMustDesignateSlaughterable>Трябва да посочите опитомено животно, принадлежащо на колонията.</MessageMustDesignateSlaughterable>
+  <!-- EN: Must designate full graves or containers. -->
   <MessageMustDesignateOpenable>Трябва да посочите гробници или саркофази.</MessageMustDesignateOpenable>
+  <!-- EN: Must designate unforbidden items. -->
+  <MessageMustDesignateForbiddable>Посочете предмети, позволени за използване</MessageMustDesignateForbiddable>
+  <!-- EN: Must designate forbidden items. -->
+  <MessageMustDesignateUnforbiddable>Посочете предмети, забранени за използване</MessageMustDesignateUnforbiddable>
 
+  <!-- EN: {0} has refused to be arrested! -->
   <MessageRefusedArrest>{0} се съпротивлява при арест!</MessageRefusedArrest>
-
+  
+  <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>Няма налични мед. легла.</MessageNoMedicalBeds>
+  <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Няма налични спални места за животни.</MessageNoAnimalBeds>
+  <!-- EN: Operation requires {0} or better, but {1}'s current medical care mode is "{2}". -->
   <MessageTooLowMedCare>За операцията се изисква {0} или повече, а текущото ниво на оборудването е {1} медикаменти — "{2}".</MessageTooLowMedCare>
-
+  
+  <!-- EN: {0} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{0} умря заради {1}.</PawnDiedBecauseOf>
+  <!-- EN: {0} has died. -->
+  <PawnDied>{0} умря.</PawnDied>
 
+  <!-- EN: {0} is no longer incapable of walking. -->
   <MessageNoLongerDowned>{0} може да ходи отново.</MessageNoLongerDowned>
 
-  <MessageInvoluntarySleep>{0} падает в обморок от переутомления.</MessageInvoluntarySleep>
+  <!-- EN: {0} has collapsed due to extreme exhaustion. -->
+  <MessageInvoluntarySleep>{0} припадна от преумора.</MessageInvoluntarySleep>
 
+  <!-- EN: {0} has failed in a minor way while operating on {1}. -->
   <MessageMedicalOperationFailureMinor>{0} направил грешка по време на операцията на {1}.</MessageMedicalOperationFailureMinor>
+  <!-- EN: {0} has failed catastrophically while operating on {1}. -->
   <MessageMedicalOperationFailureCatastrophic>{0} направил сериозна грешка по време на операцията на {1}.</MessageMedicalOperationFailureCatastrophic>
+  <!-- EN: {0} has failed in a ridiculous way while operating on {1}. -->
   <MessageMedicalOperationFailureRidiculous>{0} направил нелепа грешка по време на операцията на {1}.</MessageMedicalOperationFailureRidiculous>
+  <!-- EN: {0} has committed a fatal error while operating on {1} because of the special challenges of: {2} -->
   <MessageMedicalOperationFailureFatal>{0} направил фатална грешка по време на операцията на {1} из-за особой сложности операции: {2}</MessageMedicalOperationFailureFatal>
 
+  <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Тази операция възмути {0}.</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>{0} напуска колонията с добро здраве, отношенията с фракцията {1} се увеличили на {2}.</MessagePawnExitMapRelationsGain>
-
+  <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0} заради глада получи спонтанен аборт.</MessageMiscarriedStarvation>
+  <!-- EN: {0} has miscarried due to poor health. -->
   <MessageMiscarriedPoorHealth>{0} заради лошото здраве получи спонтанен аборт.</MessageMiscarriedPoorHealth>
+  <!-- EN: {0} has given birth. -->
   <MessageGaveBirth>{0} родила.</MessageGaveBirth>
 
+  <!-- EN: {0} has named {1} {2} after being nuzzled. -->
   <MessageNuzzledPawnGaveNameTo>{0} нарече {1} {2} след като му сложи намордник.</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>Няма дресьор който да опитоми {0} (изисква {2} ниво {1}. {3}, най добрият животновъд, има ниво {4}).</MessageNoHandlerSkilledEnough>
-
+  <!-- EN: No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}). -->
+  <MessageNoHandlerSkilledEnough>Няма дресьор който да опитомява {0} (изисква {2} ниво {1}. {3}, най добрият животновъд, има ниво {4}).</MessageNoHandlerSkilledEnough>
+  
+  <!-- EN: {0} has been eaten by {1}. -->
   <MessageEatenByPredator>{0} бе изяден от: {1}.</MessageEatenByPredator>
+  <!-- EN: {0} is being attacked by {1}! -->
   <MessageAttackedByPredator>{0} е атакуван от: {1}!</MessageAttackedByPredator>
-
+  
+  <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Кошер от насекоми се размножи.</MessageHiveReproduced>
-
+  
+  <!-- EN: The trade caravan from {0} is leaving. -->
   <MessageTraderCaravanLeaving>Търговски керван от фракция {0} напуска.</MessageTraderCaravanLeaving>
-
+  
+  <!-- EN: {0} is dead. -->
   <MessageCantSelectDeadPawn>{0} мъртъв(ва).</MessageCantSelectDeadPawn>
+  <!-- EN: {0} is off the map. -->
   <MessageCantSelectOffMapPawn>{0} е извън картата.</MessageCantSelectOffMapPawn>
-
+  
+  <!-- EN: {0} started a social fight with {1}. -->
   <MessageSocialFight>{0} и {1} се скарали. Причина: {2}.</MessageSocialFight>
-
+  
+  <!-- EN: Colonists are gathering to celebrate {0} and {1}’s marriage. -->
   <MessageNewMarriageCeremony>Заселниците се събират, за да отпразнуват сватбата на {0} и {1}.</MessageNewMarriageCeremony>
+  <!-- EN: {0} and {1} are beginning their marriage ceremony! -->
   <MessageMarriageCeremonyStarts>{0} и {1} започнаха сватбената си церемония!</MessageMarriageCeremonyStarts>
+  <!-- EN: The marriage ceremony for {0} and {1} has been called off. -->
   <MessageMarriageCeremonyCalledOff>Сватбената церемония на {0} и {1} беше отменена.</MessageMarriageCeremonyCalledOff>
+  <!-- EN: {0} and {1} have married. Colonists are now celebrating the occasion. -->
   <MessageNewlyMarried>{0} и {1} се ожениха. Заселниците празнуват в чест на това събитие.</MessageNewlyMarried>
+  <!-- EN: The marriage ceremony for {0} and {1} has finished. -->
   <MessageMarriageCeremonyAfterPartyFinished>Сватбената церемония на {0} и {1} приключи.</MessageMarriageCeremonyAfterPartyFinished>
-
+  
+  <!-- EN: {0} and {1} have formed a bond. -->
   <MessageNewBondRelation>{0} и {1} са привързани един към друг.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} и {1} са привързани един към друг. {0} Нарича HIM {2}.</MessageNewBondRelationNewName>
-
+  <!-- EN: {0} and {1} have formed a bond. {0} has named [PAWN_objective] {2}. -->
+  <MessageNewBondRelationNewName>{0} и {1} са привързани един към друг. {0} Нарича [PAWN_objective] {2}.</MessageNewBondRelationNewName>
+  
+  <!-- EN: {0} has a mental break because of {1}'s death. -->
   <MessageBondedAnimalMentalBreak>{0} получи нервен срив заради смъртта на {1}.</MessageBondedAnimalMentalBreak>
+  <!-- EN: {0} named {1} has a mental break because of {2}'s death. -->
   <MessageNamedBondedAnimalMentalBreak>{0} с име {1} получи нервен срив заради смъртта на {2}.</MessageNamedBondedAnimalMentalBreak>
+  <!-- EN: {0} animals have a mental break because of {1}'s death. -->
   <MessageBondedAnimalsMentalBreak>Всички животни ({0}) получиха нервен срив заради смъртта на {1}.</MessageBondedAnimalsMentalBreak>
-
+  
+  <!-- EN: {0} has successfully removed {1}'s {2}. -->
   <MessageSuccessfullyRemovedHediff>{0} успешно премахна {2} на {1}.</MessageSuccessfullyRemovedHediff>
-
+  
+  <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
   <MessageShipChunkDrop>Отломки от космически кораб паднаха от небето и се приземиха наблизо.</MessageShipChunkDrop>
-
+  
+  <!-- EN: The party has been called off. -->
   <MessagePartyCalledOff>Партито беше отменено.</MessagePartyCalledOff>
+  <!-- EN: The party has finished. -->
   <MessagePartyFinished>Партито свърши.</MessagePartyFinished>
 
+  <!-- EN: Some items cannot be traded because of:  -->
   <MessageCannotSellItemsReason>Някой предмети не може да се продават, заради: </MessageCannotSellItemsReason>
 
+  <!-- EN: {1} failed while constructing {0}. Some resources have been wasted. -->
   <MessageConstructionFailed>{1} не може да бъда създаден {0}. Някой части от ресурсите бяха пропиляни.</MessageConstructionFailed>
 
+  <!-- EN: Screenshot saved as: {0} -->
   <MessageScreenshotSavedAs>Снимката е запазена като: {0}</MessageScreenshotSavedAs>
-
+  
+  <!-- EN: {0} and {1} are no longer social fighting. -->
   <MessageNoLongerSocialFighting>{0} и {1} повече не се борят.</MessageNoLongerSocialFighting>
-
+  
+  <!-- EN: {0} is no longer binging on {1}. -->
   <MessageNoLongerBingingOnDrug>{0} е пристрастен към {1}.</MessageNoLongerBingingOnDrug>
 
+  <!-- EN: {0} is no longer on an insulting spree against {1}. -->
   <MessageNoLongerOnTargetedInsultingSpree>{0} вече не обижда {1}.</MessageNoLongerOnTargetedInsultingSpree>
 
+  <!-- EN: {0} has rotted away in storage. -->
   <MessageRottedAwayInStorage>{0} изгнило в склада.</MessageRottedAwayInStorage>
-
-  <MessageFoodPoisoning>Като ял {1}, {0} получи хранително отравяне.</MessageFoodPoisoning>
-
-  <MessageFailedToSendCaravanBecausePawnLost>Не може да се изпрати кервана, защото един от заселниците, затворници или животни липсва.</MessageFailedToSendCaravanBecausePawnLost>
+  
+  <!-- EN: {0} has gotten food poisoning from: {1}. Cause: {2}. -->
+  <MessageFoodPoisoning>Като изял {1}, {0} получи хранително отравяне.</MessageFoodPoisoning>
+  
+  <!-- EN: {0} has been removed from the caravan. -->
+  <MessagePawnLostWhileFormingCaravan>{0} е премахнат от кервана</MessagePawnLostWhileFormingCaravan>
+  <!-- EN: The caravan formation process has been terminated. -->
+  <MessagePawnLostWhileFormingCaravan_AllLost>Формирането на кервана е отменено</MessagePawnLostWhileFormingCaravan_AllLost>
+  <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
   <MessageCaravanFormationPaused>Формирането на керванът ще започне, след като всички се възстановяват от нервен срив.</MessageCaravanFormationPaused>
+  <!-- EN: Your colonists will now continue forming a caravan. -->
   <MessageCaravanFormationUnpaused>Заселниците продължават формиране на кервана.</MessageCaravanFormationUnpaused>
-
+  
+  <!-- EN: One of the caravan members has a mental break. -->
   <MessageCaravanMemberHasExtremeMentalBreak>Някой от керван е получил нервен срив.</MessageCaravanMemberHasExtremeMentalBreak>
-
+  
+  <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
   <MessageMaxPlanetCoveragePerformanceWarning>Внимание: генериране на цялата планета може да отнеме много време.</MessageMaxPlanetCoveragePerformanceWarning>
 
+  <!-- EN: {0} has died because of cold. -->
   <MessagePlantDiedOfCold>Растение {0} загина от студ.</MessagePlantDiedOfCold>
-  <MessagePlantDiedOfRot_LeftUnharvested>Растение {0} изгни, защото не събрали реколтата на време.</MessagePlantDiedOfRot_LeftUnharvested>
-  <MessagePlantDiedOfRot_ExposedToLight>Растение {0} изгни, защото прекара много време под светлина.</MessagePlantDiedOfRot_ExposedToLight>
-  <MessagePlantDiedOfRot>Растение {0} изгни.</MessagePlantDiedOfRot>
+  <!-- EN: {0} has died from rotting due to being left unharvested. -->
+  <MessagePlantDiedOfRot_LeftUnharvested>Растение {0} загина, защото не събрали реколтата на време.</MessagePlantDiedOfRot_LeftUnharvested>
+  <!-- EN: {0} has died due to being exposed to light. -->
+  <MessagePlantDiedOfRot_ExposedToLight>Растение {0} загина, защото прекара много време под светлина.</MessagePlantDiedOfRot_ExposedToLight>
+  <!-- EN: {0} has died from rotting. -->
+  <MessagePlantDiedOfRot>Растение {0} загина.</MessagePlantDiedOfRot>
+  <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>Растение {0} загина от отравяне.</MessagePlantDiedOfPoison>
+  <!-- EN: {0} has died because of blight. -->
   <MessagePlantDiedOfBlight>Растение {0} загина от болест.</MessagePlantDiedOfBlight>
 
+  <!-- EN: {0} is being burned by superheated air! -->
   <MessagePawnBeingBurned>{0} изгоря жив от топлия въздух!</MessagePawnBeingBurned>
 
+  <!-- EN: {0} has accidentally overdosed while consuming {1}! -->
   <MessageAccidentalOverdose>{0} получи свръхдоза от наркотик: {1}!</MessageAccidentalOverdose>
-
+  
+  <!-- EN: {0} has arrived at its destination. -->
   <MessageCaravanArrivedAtDestination>Керван {0} пристигна на местоназначението.</MessageCaravanArrivedAtDestination>
-
+  
+  <!-- EN: {0} has arrived in {1}. -->
   <MessageCaravanIsVisitingSettlement>Керван {0} пристигна в {1}.</MessageCaravanIsVisitingSettlement>
-
+  
+  <!-- EN: {0} has arrived in {1}. -->
   <MessageCaravanEnteredWorldObject>Керван {0} пристигна в {1}.</MessageCaravanEnteredWorldObject>
-
+  
+  <!-- EN: {0} has left the area and formed a caravan. -->
   <MessagePawnLeftMapAndCreatedCaravan>{0} напусна това място и сформира керван.</MessagePawnLeftMapAndCreatedCaravan>
-
+  <!-- EN: Your animals are moving to join it. -->
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Ваши животни се присъединиха към тях</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
+  <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>Успешно заселихте това място.</MessageSettledInExistingMap>
+  
+  <!-- EN: {1}'s {2} has healed. Cause: {0} -->
+  <MessagePermanentWoundHealed>{1} {2} е излекуван. Причина: {0}</MessagePermanentWoundHealed>
 
-  <MessageAmbushVictory>Победа! След {0} кервана самостоятелно ще продължи пътуването си. Можете да изпратите керван, като отидете на картата на света.</MessageAmbushVictory>
-
-  <MessageAutomaticallyReformedCaravan>Пътешествениците продължиха пътуването си.</MessageAutomaticallyReformedCaravan>
-
-  <MessageOldWoundHealed>Поради {0} рана {1}, {2}, беше излекувана.</MessageOldWoundHealed>
-
-  <MessageRescueeJoined>Спасихте {0}, и HE сега е с вас!</MessageRescueeJoined>
-
-  <MessageAttackedCaravanIsNowHostile>Фракцията е враждебна към вас, защото нападнахте техен керван {0}.</MessageAttackedCaravanIsNowHostile>
-  <MessageFactionPawnCrushed>{0} загубиха хора, заради разрушен покрив. Отношенията към фракцията се влошиха на {1}</MessageFactionPawnCrushed>
-  <MessageFactionPawnLost>{0} изгуби {1}. Отношенията към фракцията се влошиха на {2}</MessageFactionPawnLost>
-
+  <!-- EN: Since you rescued [PAWN_objective], {0} has joined your group! -->
+  <MessageRescueeJoined>Спасихте {0}, и [PAWN_objective] сега е с вас!</MessageRescueeJoined>
+  
+  <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>Трябва най-малко поне една транспортна капсула.</MessageTransporterUnreachable>
+  <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
   <MessageTransportersNotAdjacent>Всички стартови площадки, свързани с избраните капсули, трябва да се намират плътно един към друг.</MessageTransportersNotAdjacent>
-
+  
+  <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
   <MessageTransportersLoadCanceled_TransporterDestroyed>Зареждането бе отменено, защото една от капсулите беше унищожена.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
   <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Зареждането бе отменено, защото една стартовите площадки беше унищожена.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
-
+  
+  <!-- EN: Your colonists will now load the assigned items into the transport pods. -->
   <MessageTransportersLoadingProcessStarted>Заселниците започнаха да зареждат посочените от вас предмети в капсулите.</MessageTransportersLoadingProcessStarted>
-
+  
+  <!-- EN: Your transport pods have arrived. -->
   <MessageTransportPodsArrived>Транспортните капсули пристигнаха на местоназначението.</MessageTransportPodsArrived>
+  <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
   <MessageTransportPodsArrivedAndLost>Транспортните капсули пристигнаха на местоназначението, но тъй като нямаше ваш заселник наблизо, съдържанието беше изгубено безвъвратно.</MessageTransportPodsArrivedAndLost>
+  <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
   <MessageTransportPodsArrivedAndAddedToCaravan>Транспортните капсули пристигнаха на местоназначението. Съдържанието беше добавено към ваш керван.</MessageTransportPodsArrivedAndAddedToCaravan>
-  <MessageTransportPodsArrived_BecameHostile>{0} е враждебен към вас.</MessageTransportPodsArrived_BecameHostile>
-
+  
+  <!-- EN: The loading process has been canceled because one of the colonists has been lost. -->
   <MessageFailedToLoadTransportersBecauseColonistLost>Зареждането е отменено, някой от заселниците липсва.</MessageFailedToLoadTransportersBecauseColonistLost>
-
+  
+  <!-- EN: Your colonists have finished loading the transport pods. -->
   <MessageFinishedLoadingTransporters>Зареждането на транспортните капсули е завършено.</MessageFinishedLoadingTransporters>
-
+  
+  <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>Избраното местоназначение е невалидно.</MessageTransportPodsDestinationIsInvalid>
+  <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
   <MessageTransportPodsDestinationIsTooFar>Всяка капсула трябва да разполага с {0} количество гориво, за да долети тук.</MessageTransportPodsDestinationIsTooFar>
-
+  
+  <!-- EN: The caravan has been reformed. -->
   <MessageReformedCaravan>Керван готов за път.</MessageReformedCaravan>
-
+  
+  <!-- EN: You can't banish the last colonist. -->
   <MessageCantBanishLastColonist>Не може да изгоните последния заселник.</MessageCantBanishLastColonist>
-
+  
+  <!-- EN: Cannot equip: {0} is incapable of violence. -->
   <MessageCantEquipIncapableOfViolence>Не може да се вземе {0}: заселникът е неспособен на насилие.</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: incapable. -->
   <MessageCantEquipIncapableOfManipulation>Заселникът не е в състояние да вземе това оръжие.</MessageCantEquipIncapableOfManipulation>
-
+  
+  <!-- EN: Because they are bonded, slaughtering {0} will make {1} unhappy. -->
   <MessageSlaughteringBondedAnimal>Ако убиете {0}, {1} ще се разстрой, защото е привързан към това животно.</MessageSlaughteringBondedAnimal>
+  
+  <!-- EN: {0} has run out of food ({1}). -->
+  <MessageCaravanRanOutOfFood>{0} остана без храна ({1}).</MessageCaravanRanOutOfFood>
 
-  <MessageCaravanRunOutOfFood>В {0} свърши храната ({1}).</MessageCaravanRunOutOfFood>
-
+  <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
   <MessageSelectOwnBaseToFormCaravan>За да снабдите керван, изберете ваша колония или друга колония, където има ваши заселници.</MessageSelectOwnBaseToFormCaravan>
 
+  <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
   <MessageScreenResTooSmallForUIScale>С тази резолюция и такъв мащаб, интерфейсът няма да се побере на екрана. Моля, намалете мащаба на интерфейса или изберете друга резолюция.</MessageScreenResTooSmallForUIScale>
-
+  
+  <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
   <MessageYouHaveToReformCaravanNow>Трябва да изпратите кервана сега! Всеки, който остане, ще бъде оставен на произвола на съдбата.</MessageYouHaveToReformCaravanNow>
-
+  
+  <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} от {1} атакува ваш {2}.</MessageDefendersAttacking>
 
+  <!-- EN: To self-tend, {0} must also be assigned to Doctor work. -->
   <MessageSelfTendUnsatisfied>За да е възможно самолечението, {0} трябва да назначите лекар.</MessageSelfTendUnsatisfied>
+  <!-- EN: {0} is incapable of doing Doctor work, and so cannot ever self-tend. -->
   <MessageCannotSelfTendEver>{0} не е в състояние да изпълнява работата като Лекар, включително самолечение.</MessageCannotSelfTendEver>
-
-  <MessageCantAddWaypointBecauseImpassable>Тази област е непроходима.</MessageCantAddWaypointBecauseImpassable>
+  
+  <!-- EN: This tile is impassable. -->
+  <MessageCantAddWaypointBecauseImpassable>Тази зона е непроходима.</MessageCantAddWaypointBecauseImpassable>
+  <!-- EN: It's not possible to reach this tile from the last waypoint. -->
   <MessageCantAddWaypointBecauseUnreachable>Не може да се стигне до това място от последната точка на маршрута.</MessageCantAddWaypointBecauseUnreachable>
+  <!-- EN: You can't add more than {0} waypoints. -->
   <MessageCantAddWaypointBecauseLimit>Не може да се направят повече {0} точки на маршрута.</MessageCantAddWaypointBecauseLimit>
+  <!-- EN: You can't remove this waypoint. -->
   <MessageCantRemoveWaypointBecauseFirst>Тази точка на маршрута не може да се изтрие.</MessageCantRemoveWaypointBecauseFirst>
-
+  
+  <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Екзекуцията не може да се изпълни: нито един от надзирателите не е способен на насилие.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
-
+  
+  <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
   <MessageSiteCountdownBecauseNoMoreEnemies>Победи всички противници. След {0} керванът ще продължи пътуването си.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
   <MessageSiteCountdownBecauseNoEnemiesInitially>След {0} ще продължи пътуването си. Можете да изпратите керван, като отидете на картата на света.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
+  <!-- EN: Cannot banish {0} since [PAWN_pronoun] cannot walk. -->
   <MessageCantBanishDownedPawn>Не може да се изгони {0}, като HE може да ходи.</MessageCantBanishDownedPawn>
 
+  <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>Събудихте {0}.</MessageSleepingPawnsWokenUp>
 
+  <!-- EN: Item produced: {0}. -->
   <MessageCompSpawnerSpawnedItem>Възпроизведи: {0}.</MessageCompSpawnerSpawnedItem>
 
+  <!-- EN: Health condition healed: {0}. -->
   <MessageHediffCuredByItem>Излекувана болест: {0}.</MessageHediffCuredByItem>
+  <!-- EN: Body part restored: {0}. -->
   <MessageBodyPartCuredByItem>Възстановена част на тялото: {0}.</MessageBodyPartCuredByItem>
+  <!-- EN: Technology given: {0}. -->
   <MessageResearchProjectFinishedByItem>Получена технология: «{0}».</MessageResearchProjectFinishedByItem>
 
+  <!-- EN: {0} has been brought back to life! -->
   <MessagePawnResurrected>Възкресихте {0}!</MessagePawnResurrected>
 
+  <!-- EN: You have failed to rescue {0}. This will make {1} sad. -->
   <MessageFailedToRescueRelative>Не успяхте да спасите {0}. {1} ще скърби.</MessageFailedToRescueRelative>
+  <!-- EN: You have rescued {0}. This will make {1} happy. -->
   <MessageRescuedRelative>Спасихте {0}. {1} е щастлив от това.</MessageRescuedRelative>
 
-  <MessagePrisonerRescued>Спасихте NAME, и HE се присъедини към колонията.</MessagePrisonerRescued>
-
+  <!-- EN: The tornado has left the map. -->
   <MessageTornadoLeftMap>Торнадото напусна местността.</MessageTornadoLeftMap>
+  <!-- EN: The tornado has dissipated. -->
   <MessageTornadoDissipated>Торнадото се разпръсна.</MessageTornadoDissipated>
 
+  <!-- EN: No conscious, capable diplomat. -->
   <MessagePeaceTalksNoDiplomat>Няма подходящ дипломат или е несъзнателен.</MessagePeaceTalksNoDiplomat>
 
+  <!-- EN: Warning: {0} cannot live when exposed to light. -->
   <MessageWarningCavePlantsExposedToLight>Внимание: {0} няма да оцелее на светлината.</MessageWarningCavePlantsExposedToLight>
 
+  <!-- EN: {0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}. -->
   <MessageTargetedTantrumChangedTarget>{0} не можа да стигне до {1} и насочи яростта си към {2}.</MessageTargetedTantrumChangedTarget>
 
-  <MessageTargetedInsultingSpreeChangedTarget>{0} не можа да стигне до {1} и насочи яростта си към {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  <!-- EN: {0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}. -->
+  <MessageTargetedInsultingSpreeChangedTarget>{0} не можа да стигне до [PAWN_pronoun] и насочи яростта си към {2}.</MessageTargetedInsultingSpreeChangedTarget>
+
+  <!-- EN: {0} has decided to redirect [PAWN_possessive] anger at {1}. -->
+  <MessageMurderousRageChangedTarget>{0} насочва яростта си към {1}.</MessageMurderousRageChangedTarget>
+
+  <!-- EN: {0} cannot grow underneath a roof. -->
+  <MessagePlantIncompatibleWithRoof>{0} не расте под покрив.</MessagePlantIncompatibleWithRoof>
+  <!-- EN: Cannot build a roof over {0}. -->
+  <MessageRoofIncompatibleWithPlant>Не може да се построй покрив над това растение: {0}.</MessageRoofIncompatibleWithPlant>
+
+  <!-- EN: Caravan will automatically travel to the first waypoint. -->
+  <MessageChoseRoute>Керванът ще започне пътешествието към първата назначена точка на маршрут.</MessageChoseRoute>
+
+  <!-- EN: {0} has created a {1}. -->
+  <MessageCraftedMasterwork>{0} завърши своя шедьовър, {1}.</MessageCraftedMasterwork>
+
+  <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid>За да напуснете това място, натиснете «Продължи пътя» в раздел «Свят».</MessagePlayerTriedToLeaveMapViaExitGrid>
+
+  <!-- EN: Relations with {0} have changed from {1} to {2}. -->
+  <MessageGoodwillChanged>Отношенията с фракция {0} се промениха с {1} до {2}.</MessageGoodwillChanged>
+  <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
+  <MessageGoodwillChangedWithReason>Отношенията с фракция {0} се промениха с {1} до {2} ({3}).</MessageGoodwillChangedWithReason>
+  <!-- EN: attacked {0} -->
+  <GoodwillChangedReason_AttackedPawn>{0} е нападнат</GoodwillChangedReason_AttackedPawn>
+  <!-- EN: used {0} on {1} -->
+  <GoodwillChangedReason_UsedItem>използва {1} на {0}</GoodwillChangedReason_UsedItem>
+  <!-- EN: harvested {0} -->
+  <GoodwillChangedReason_RemovedBodyPart>у {0} е взет орган</GoodwillChangedReason_RemovedBodyPart>
+  <!-- EN: needlessly installed {0} -->
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>needlessly installed {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <!-- EN: captured {0} -->
+  <GoodwillChangedReason_CapturedPawn>{0} е бил заловен</GoodwillChangedReason_CapturedPawn>
+  <!-- EN: {0} crushed -->
+  <GoodwillChangedReason_PawnCrushed>{0} попадна под отломките на тавана</GoodwillChangedReason_PawnCrushed>
+  <!-- EN: {0} died -->
+  <GoodwillChangedReason_PawnDied>{0} загина</GoodwillChangedReason_PawnDied>
+  <!-- EN: traded -->
+  <GoodwillChangedReason_Traded>сключена сделка</GoodwillChangedReason_Traded>
+  <!-- EN: attacked a caravan -->
+  <GoodwillChangedReason_AttackedCaravan>Нападат керван</GoodwillChangedReason_AttackedCaravan>
+  <!-- EN: natural tendency to reach {0} over time -->
+  <GoodwillChangedReason_NaturallyOverTime>репутацията се стреми? {0} по естествен начин</GoodwillChangedReason_NaturallyOverTime>
+  <!-- EN: {0} exited the map healthy -->
+  <GoodwillChangedReason_ExitedMapHealthy>{0} е напълно здрав?</GoodwillChangedReason_ExitedMapHealthy>
+  <!-- EN: tended to {0} -->
+  <GoodwillChangedReason_Tended>{0} получава грижи</GoodwillChangedReason_Tended>
+  <!-- EN: received a gift -->
+  <GoodwillChangedReason_ReceivedGift>получи подарък</GoodwillChangedReason_ReceivedGift>
+  <!-- EN: fulfilled a trade offer -->
+  <GoodwillChangedReason_FulfilledTradeRequest>изпълнена търговска заявка</GoodwillChangedReason_FulfilledTradeRequest>
+
+  <!-- EN: {0} accept your gift but they don't appreciate it. -->
+  <MessageGiftGivenButNotAppreciated>Фракция {0} прие вашия подарък, но не му обърна внимание.</MessageGiftGivenButNotAppreciated>
+
+  <!-- EN: The caravan is already encumbered and can't carry anything else. -->
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>Керванът е натоварен и не може да вземе нищо повече.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
+  <MessageCantGiveGiftBecauseCantCarry>Керванът не може да понесе толкова много. Подаръкът тежи {0}, а керванът може да понесе само {1}.</MessageCantGiveGiftBecauseCantCarry>
+
+  <!-- EN: {0} has formed and is now traveling on the world map. -->
+  <MessageFormedCaravan>{0} е сформиран и започна своето пътешествие.</MessageFormedCaravan>
+  <!-- EN: Orders -->
+  <MessageFormedCaravan_Orders>Указания</MessageFormedCaravan_Orders>
+
+  <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
+  <MessageBillValidationStoreZoneDeleted>Не може да се изпълнява тази задача «{0}» към зона {2}, защото е премахната.</MessageBillValidationStoreZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
+  <MessageBillValidationStoreZoneUnavailable>Не може да се изпълнява тази задача «{0}» към зона {2}, защото е извън обсега.</MessageBillValidationStoreZoneUnavailable>
+  <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
+  <MessageBillValidationPawnUnavailable>{0} вече не може да се работи по задачата «{1}». Ограничението е премахнато.</MessageBillValidationPawnUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
+  <MessageBillValidationIncludeZoneDeleted>Не може да се изчисли броя елементите, зададени за задачата «{0}», защото областта {2} е премахната.</MessageBillValidationIncludeZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
+  <MessageBillValidationIncludeZoneUnavailable>Не може да се изчисли броя елементите, зададени за задачата «{0}», защото {2} е извън обсега.</MessageBillValidationIncludeZoneUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
+  <MessageBillValidationStoreZoneInsufficient>Не може да се изпълняват задачите «{0}» към зоната {2}.</MessageBillValidationStoreZoneInsufficient>
+
+  <!-- EN: Because of a lack of taming maintenance, {0} has returned to the wild. -->
+  <MessageAnimalReturnedWild>Заради бипсата на опитомяване {0} е отново див.</MessageAnimalReturnedWild>
+  <!-- EN: Due to a lack of maintenance training, {0} has lost a skill: {1} -->
+  <MessageAnimalLostSkill>Заради липса на тренировки {0} губи умението: {1}</MessageAnimalLostSkill>
+
+  <!-- EN: Translation report written to {0} -->
+  <MessageTranslationReportSaved>Отчет за превода е записан в файл {0}</MessageTranslationReportSaved>
+
+  <!-- EN: {0} couldn't reach its destination. -->
+  <MessageCaravanArrivalActionNoLongerValid>{0} не може да достигне до мястото на местоназначение.</MessageCaravanArrivalActionNoLongerValid>
+
+  <!-- EN: You can't re-enter for another {0} days. -->
+  <MessageEnterCooldownBlocksEntering>Не може да посетите това място {0} дни.</MessageEnterCooldownBlocksEntering>
+
+  <!-- EN: {0} is hunting {1} for food! -->
+  <MessagePredatorHuntingPlayerAnimal>{0} лови {1} за храна.</MessagePredatorHuntingPlayerAnimal>
+
+  <!-- EN: Prisoner {0}'s resistance has been broken by {1}. -->
+  <MessagePrisonerResistanceBroken>{1} успешно преодоля психологическата съпротива на затворник под име {0}.</MessagePrisonerResistanceBroken>
+  <!-- EN: Recruitment attempts will begin. -->
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>В този момент може да започнете вербуването.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
+  <!-- EN: Disable all mods before using this tool. -->
+  <MessageDisableModsBeforeCleaningTranslationFiles>Преди да използвате този инструмент, трябва да изключите всички модификации.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <!-- EN: Done. Affected folder: {0} -->
+  <MessageTranslationFilesCleanupDone>Готово. Променена папка: {0}</MessageTranslationFilesCleanupDone>
+
+  <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Не може да се зарежда един от преведените файлове: {0}. Отстранете грешките свързвани с грешния формат XML.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  <!-- EN: Warning: Capturing [PAWN_nameDef] will anger [PAWN_possessive] faction [PAWN_factionName]. -->
+  <MessageCapturingWillAngerFaction>Внимание: пленяване на [PAWN_nameDef] ще провали отношенията с фракция [PAWN_factionName].</MessageCapturingWillAngerFaction>
 
 </LanguageData>
