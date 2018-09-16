@@ -1,80 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- torso for animals -->
-
-  <Body.label>тяло</Body.label>
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>уста</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>антена</Antenna.label>
+  
+  <!-- EN: beak -->
   <Beak.label>клюн</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>тяло</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>елитра</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>преден нокът</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>нокът</FrontClaw.labelShort>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>клещи</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>копито</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>рога</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>гърб</Hump.label>
+  
+  <!-- EN: head -->
   <InsectHead.label>глава</InsectHead.label>
-  <SnakeBody.label>тяло</SnakeBody.label>
-  <SnakeHead.label>глава</SnakeHead.label>
-  <SnakeMouth.label>уста</SnakeMouth.label>
+  
+  <!-- EN: heart -->
   <InsectHeart.label>сърце</InsectHeart.label>
-  <InsectNostril.label>ноздра</InsectNostril.label>
-  <InsectMouth.label>Уста</InsectMouth.label>
-  <Jowl.label>буза</Jowl.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>крак</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>език</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>ноздри</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>челюст</Jowl.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>лапа</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>пластрон</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>преднегръд</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>заден нокът</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>нокът</RearClaw.labelShort>
+  
+  <!-- EN: shell -->
+  <Shell.label>черупка</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>тяло</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>глава</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>език</SnakeMouth.label>
+  
+  <!-- EN: tail -->
   <Tail.label>опашка</Tail.label>
-  <LeftAntenna.label>лява антена</LeftAntenna.label>
-  <RightAntenna.label>дясна антена</RightAntenna.label>
-  <Pronotum.label>щит</Pronotum.label>
-  <Shell.label>броня</Shell.label>
-  <LeftElytra.label>лява елитра</LeftElytra.label>
-  <RightElytra.label>дясна елитра</RightElytra.label>
-  <LeftTusk.label>ляв бивник</LeftTusk.label>
-  <RightTusk.label>десен бивник</RightTusk.label>
+  
+  <!-- EN: trunk -->
   <Trunk.label>хобот</Trunk.label>
-  <Horn.label>рог</Horn.label>
-  <HeadClaw.label>нокти</HeadClaw.label>
-  <Hump.label>гърбица</Hump.label>
-  <TurtleShell.label>коруба</TurtleShell.label>
-  <Plastron.label>коремен щит</Plastron.label>
+  
+  <!-- EN: beak -->
   <TurtleBeak.label>клюн</TurtleBeak.label>
-
-  <!-- animals legs -->
-
-  <FrontLeftLeg.label>преден ляв крак</FrontLeftLeg.label>
-  <FrontRightLeg.label>преден десен крак</FrontRightLeg.label>
-  <MiddleLeftLeg.label>среден ляв крак</MiddleLeftLeg.label>
-  <MiddleRightLeg.label>среден десен крак</MiddleRightLeg.label>
-  <RearLeftLeg.label>заден ляв крак</RearLeftLeg.label>
-  <RearRightLeg.label>заден десен крак</RearRightLeg.label>
-
-  <FrontLeftInsectLeg.label>преден ляв крак</FrontLeftInsectLeg.label>
-  <FrontRightInsectLeg.label>преден десен крак</FrontRightInsectLeg.label>
-  <MiddleLeftInsectLeg.label>среден ляв крак</MiddleLeftInsectLeg.label>
-  <MiddleRightInsectLeg.label>среден десен крак</MiddleRightInsectLeg.label>
-  <RearLeftInsectLeg.label>заден ляв крак</RearLeftInsectLeg.label>
-  <RearRightInsectLeg.label>заден десен крак</RearRightInsectLeg.label>
-
-  <FrontLeftPaw.label>предна лява лапа</FrontLeftPaw.label>
-  <FrontRightPaw.label>предна дясна лапа</FrontRightPaw.label>
-  <RearLeftPaw.label>задна лява лапа</RearLeftPaw.label>
-  <RearRightPaw.label>задна дясна лапа</RearRightPaw.label>
-  <FrontLeftHoof.label>предно ляво копито</FrontLeftHoof.label>
-  <FrontRightHoof.label>предно дясно копито</FrontRightHoof.label>
-  <RearLeftHoof.label>задно ляво копито</RearLeftHoof.label>
-  <RearRightHoof.label>задно дясно копито</RearRightHoof.label>
-
-  <FrontLeftLegFirstClaw.label>преден ляв крак, първи нокът</FrontLeftLegFirstClaw.label>
-  <FrontLeftLegSecondClaw.label>преден ляв крак, втори нокът</FrontLeftLegSecondClaw.label>
-  <FrontLeftLegThirdClaw.label>преден ляв крак, трети нокът</FrontLeftLegThirdClaw.label>
-  <FrontLeftLegFourthClaw.label>преден ляв крак, четвърти нокът</FrontLeftLegFourthClaw.label>
-  <FrontLeftLegFifthClaw.label>преден ляв крак, пети нокът</FrontLeftLegFifthClaw.label>
-  <FrontRightLegFirstClaw.label>преден десен крак, първи нокът</FrontRightLegFirstClaw.label>
-  <FrontRightLegSecondClaw.label>преден десен крак, втори нокът</FrontRightLegSecondClaw.label>
-  <FrontRightLegThirdClaw.label>преден десен крак, трети нокът</FrontRightLegThirdClaw.label>
-  <FrontRightLegFourthClaw.label>преден десен крак, четвърти нокът</FrontRightLegFourthClaw.label>
-  <FrontRightLegFifthClaw.label>преден десен крак, пети нокът</FrontRightLegFifthClaw.label>
-
-  <RearLeftLegFirstClaw.label>заден ляв крак, първи нокът</RearLeftLegFirstClaw.label>
-  <RearLeftLegSecondClaw.label>заден ляв крак, втори нокът</RearLeftLegSecondClaw.label>
-  <RearLeftLegThirdClaw.label>заден ляв крак, трети нокът</RearLeftLegThirdClaw.label>
-  <RearLeftLegFourthClaw.label>заден ляв крак, четвърти нокът</RearLeftLegFourthClaw.label>
-  <RearLeftLegFifthClaw.label>заден ляв крак, пети нокът</RearLeftLegFifthClaw.label>
-  <RearRightLegFirstClaw.label>заден десен крак, първи нокът</RearRightLegFirstClaw.label>
-  <RearRightLegSecondClaw.label>заден десен крак, втори нокът</RearRightLegSecondClaw.label>
-  <RearRightLegThirdClaw.label>заден десен крак, трети нокът</RearRightLegThirdClaw.label>
-  <RearRightLegFourthClaw.label>заден десен крак, четвърти нокът</RearRightLegFourthClaw.label>
-  <RearRightLegFifthClaw.label>заден десен крак, пети нокът</RearRightLegFifthClaw.label>
-
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>черупка</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>бивна</Tusk.label>
+  
 </LanguageData>

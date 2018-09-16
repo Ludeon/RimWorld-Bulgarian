@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Heart.label>сърце</Heart.label>
-    <LeftLung.label>ляв бял дроб</LeftLung.label>
-    <RightLung.label>десен бял дроб</RightLung.label>
-    <LeftKidney.label>ляв бъбрек</LeftKidney.label>
-    <RightKidney.label>десен бъбрек</RightKidney.label>
-    <Liver.label>черен дроб</Liver.label>
-    <Stomach.label>стомах</Stomach.label>
-
+  
+  <!-- EN: heart -->
+  <Heart.label>сърце</Heart.label>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>бъбрек</Kidney.label>
+  
+  <!-- EN: liver -->
+  <Liver.label>черен дроб</Liver.label>
+  
+  <!-- EN: lung -->
+  <Lung.label>бял дроб</Lung.label>
+  
+  <!-- EN: stomach -->
+  <Stomach.label>стомах</Stomach.label>
+  
 </LanguageData>

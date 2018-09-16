@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tropical rainforest -->
+  <TropicalRainforest.label>тропична гора</TropicalRainforest.label>
+  <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
+  <TropicalRainforest.description>Област, покрита от джунгла. Влажна и топла, тази зона е дом на много растения и агресивни видове животни, което затруднява строежите и оцеляването. Има голям риск от болести.</TropicalRainforest.description>
+  
+  <!-- EN: tropical swamp -->
+  <TropicalSwamp.label>блато</TropicalSwamp.label>
+  <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
+  <TropicalSwamp.description>Блатиста джунгла с тресавище и кал. Труднопроходим терен, липса на места за строежи, агресивни животни и болести, ще превърнат живота ви в кошмар.</TropicalSwamp.description>
+  
+</LanguageData>

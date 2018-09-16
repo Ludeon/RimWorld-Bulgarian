@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<RepeatCount.label>направи в X пъти</RepeatCount.label>
-	<TargetCount.label>повтори до X пъти</TargetCount.label>
-	<Forever.label>направи безкраен</Forever.label>
-
+  
+  <!-- EN: do forever -->
+  <Forever.label>направи безкраен</Forever.label>
+  
+  <!-- EN: do X times -->
+  <RepeatCount.label>направи в X пъти</RepeatCount.label>
+  
+  <!-- EN: do until you have X -->
+  <TargetCount.label>повтори до X пъти</TargetCount.label>
+  
 </LanguageData>

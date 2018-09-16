@@ -1,50 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <!-- base -->
-
-    <Torso.label>торс</torso.label>
-    <LeftShoulder.label>ляво рамо</LeftShoulder.label>
-    <LeftArm.label>лява ръка</LeftArm.label>
-    <LeftHand.label>лява длан</LeftHand.label>
-    <LeftHandPinky.label>кутре (ляво)</LeftHandPinky.label>
-    <LeftHandRingfinger.label>Безименен пръст (ляв)</LeftHandRingFinger.label>
-    <LeftHandMiddlefinger.label>Среден пръст (ляв)</LeftHandMiddleFinger.label>
-    <LeftHandIndexfinger.label>Показалец (ляв)</LeftHandIndexFinger.label>
-    <LeftHandThumb.label>палец (ляв)</LeftHandThumb.label>
-    <RightShoulder.label>дясно рамо</RightShoulder.label>
-    <RightArm.label>дясна ръка</RightArm.label>
-    <RightHand.label>дясна длан</RightHand.label>
-    <RightHandPinky.label>кутре (rechts)</RightHandPinky.label>
-    <RightHandRingfinger.label>безименен пръст (десен)</RightHandRingFinger.label>
-    <RightHandMiddlefinger.label>Среден пръст (десен)</RightHandMiddleFinger.label>
-    <RightHandIndexfinger.label>показалец (десен)</RightHandIndexFinger.label>
-    <RightHandThumb.label>палец (десен)</RightHandThumb.label>
-	<Waist.label>лумбал</Waist.label>
-    <LeftFootLittletoe.label>кутре на крак (ляв)</LeftFootLittleToe.label>
-    <LeftFootFourthtoe.label>четвърти пръст на крак (ляв)</LeftFootFourthToe.label>
-    <LeftFootMiddletoe.label>среден пръст на крак (ляв)</LeftFootMiddleToe.label>
-    <LeftFootSecondtoe.label>втори пръст на крак (ляв)</LeftFootSecondToe.label>
-    <LeftFootBigToe.label>голям пръст на крак (ляв)</LeftFootBigToe.label>
-    <RightFootLittletoe.label>кутре на крак (десен)</RightFootLittleToe.label>
-    <RightFootFourthtoe.label>четвърти пръст на крак (десен)</RightFootFourthToe.label>
-    <RightFootMiddletoe.label>среден пръст на крак (десен)</RightFootMiddleToe.label>
-    <RightFootSecondtoe.label>втори пръст на крак (десен)</RightFootSecondToe.label>
-    <RightFootBigtoe.label>голям пръст на крак (десен)</RightFootBigToe.label>
-
-    <!-- Bones -->
-
-    <LeftClavicle.label>лява плешка</LeftClavicle.label>
-    <RightClavicle.label>Дясна плешка</RightClavicle.label>
-    <Sternum.label>гръдна кост</Sternum.label>
-    <LeftHumerus.label>лява раменна кост</LeftHumerus.label>
-    <RightHumerus.label>дясна раменна кост</RightHumerus.label>
-    <LeftRadius.label>лява лъчева кост</LeftRadius.label>
-    <RightRadius.label>дясна лъчева кост</RightRadius.label>
-    <Pelvis.label>Слабини</Pelvis.label>
-    <LeftFemur.label>лява бедрена кост</LeftFemur.label>
-    <RightFemur.label>дясна бедрена кост</RightFemur.label>
-    <LeftTibia.label>ляв пищял</LeftTibia.label>
-    <RightTibia.label>десен пищял</RightTibia.label>
-
+  
+  <!-- EN: arm -->
+  <Arm.label>ръка</Arm.label>
+  
+  <!-- EN: clavicle -->
+  <Clavicle.label>ключица</Clavicle.label>
+  
+  <!-- EN: femur -->
+  <Femur.label>бедро</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>палец</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>китка</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>раменна кост</Humerus.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>таз</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>лакът</Radius.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>рамо</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>гръдна кост</Sternum.label>
+  
+  <!-- EN: tibia -->
+  <Tibia.label>подбедрена кост</Tibia.label>
+  
+  <!-- EN: toe -->
+  <Toe.label>палец</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>торс</Torso.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>талия</Waist.label>
+  
 </LanguageData>

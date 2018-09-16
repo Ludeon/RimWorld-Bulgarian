@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Head.label>глава</Head.label>
-    <Skull.label>череп</Skull.label>
-    <Brain.label>мозък</Brain.label>
-    <LeftEye.label>ляво око</LeftEye.label>
-    <RightEye.label>дясно око</RightEye.label>
-    <LeftEar.label>ляво ухо</LeftEar.label>
-    <RightEar.label>дясно ухо</RightEar.label>
-    <Nose.label>нос</nose.label>
-    <Jaw.label>челюст</Jaw.label>
-    <Neck.label>врат</Neck.label>
-    <Rib.label>ребро</Rib.label>
-    <Spine.label>гръбначен стълб</Spine.label>
-    <LeftLeg.label>ляв крак</LeftLeg.label>
-    <LeftFoot.label>ляво стъпало</LeftFoot.label>
-    <RightLeg.label>десен крак</RightLeg.label>
-    <RightFoot.label>дясно стъпало</RightFoot.label>
-
+  
+  <!-- EN: brain -->
+  <Brain.label>мозък</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>ухо</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>око</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>ходило</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>глава</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>челюст</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>крак</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>врат</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>нос</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>гръден кош</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>череп</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>гръбнак</Spine.label>
+  
 </LanguageData>

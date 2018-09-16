@@ -1,7 +1,58 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <BeetleLike.label>насекомо</BeetleLike.label>
-    <BeetleLikeWithClaw.label>насекомо с нокти</BeetleLikeWithClaw.label>
-
+  
+  <!-- EN: beetle-like -->
+  <BeetleLike.label>твърдокрили</BeetleLike.label>
+  <!-- EN: left elytra -->
+  <BeetleLike.corePart.parts.left_elytra.customLabel>лява елитра</BeetleLike.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <BeetleLike.corePart.parts.right_elytra.customLabel>дясна елитра</BeetleLike.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left eye -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ляво око</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>дясно око</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>лява антена</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>дясна антена</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <BeetleLike.corePart.parts.front_left_leg.customLabel>преден ляв крак</BeetleLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <BeetleLike.corePart.parts.front_right_leg.customLabel>преден десен крак</BeetleLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <BeetleLike.corePart.parts.middle_left_leg.customLabel>среден ляв крак</BeetleLike.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <BeetleLike.corePart.parts.middle_right_leg.customLabel>среден десен крак</BeetleLike.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <BeetleLike.corePart.parts.rear_left_leg.customLabel>заден ляв крак</BeetleLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <BeetleLike.corePart.parts.rear_right_leg.customLabel>заден десен крак</BeetleLike.corePart.parts.rear_right_leg.customLabel>
+  
+  <!-- EN: beetle-like with claw -->
+  <BeetleLikeWithClaw.label>твърдокрили с нокти</BeetleLikeWithClaw.label>
+  <!-- EN: left elytra -->
+  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>лява елитра</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>дясна елитра</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left eye -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ляво око</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>дясно око</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>лява антена</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>дясна антена</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>преден ляв крак</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>преден десен крак</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>среден ляв крак</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>среден десен крак</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>заден ляв крак</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>заден десен крак</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
+  
 </LanguageData>

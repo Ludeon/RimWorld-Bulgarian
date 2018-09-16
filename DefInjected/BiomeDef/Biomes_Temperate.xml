@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: temperate forest -->
+  <TemperateForest.label>умерен пояс</TemperateForest.label>
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>Удобна за живеене на област с много дървета, плодородни почви и животни. През зимата движението е затруднено</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
+  <TemperateSwamp.label>тресавище</TemperateSwamp.label>
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>Блатиста местност заедно с гъстата растителност силно затрудняват движението и строежите.</TemperateSwamp.description>
+  
+</LanguageData>

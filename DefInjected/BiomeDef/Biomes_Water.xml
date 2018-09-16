@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lake -->
+  <Lake.label>езеро</Lake.label>
+  <!-- EN: A large lake. Beautiful to live next to. Not so beautiful to live in. -->
+  <Lake.description>Голямо езеро. Добро място, за живеене около езерото. Но не толкова добре, за да живееш в езерото.</Lake.description>
+  
+  <!-- EN: ocean -->
+  <Ocean.label>океан</Ocean.label>
+  <!-- EN: Open ocean. Great for fish. Not so great for you. -->
+  <Ocean.description>Обширен океан. Много подходящ за риби, но не и за хора.</Ocean.description>
+  
+</LanguageData>

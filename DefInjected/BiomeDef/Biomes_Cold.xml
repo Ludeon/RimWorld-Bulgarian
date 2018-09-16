@@ -1,19 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<BorealForest.label>тайга</BorealForest.label>
-	<BorealForest.description>Иглолистни гори. Въпреки суровата зима, гората поддържа разнообразна популация от малки и големи животни. През зимата дебелият слой сняг затруднява движението.</BorealForest.description>
-
-	<Tundra.label>тундра</Tundra.label>
-	<Tundra.description>В тази замръзнала област има съвсем малко дървета и растения. Тук живеят някои видове дребни животни, стада от тревопасни, както и някои видове хищници. Движението през зимата е изключително трудно заради снега.</Tundra.description>
-
-	<ColdBog.label>студено тресавище</ColdBog.label>
-	<ColdBog.description>Блатиста местност почти без животни, но с буйна растителност. За разлика от умерения климат, тук има повече храсти, но по-малко дървета. По-голямата част от сушата не издържа на тежки конструкции, което прави този регион труден за оцеляване.</ColdBog.description>
-
-	<IceSheet.label>ледник</IceSheet.label>
-	<IceSheet.description>Теренът е покрит с дебел лед. Тук няма твърда земя на която да се развиват растения. Малкото животни, които ще намерите, мигрират към по-топли места или са се изгубили напълно.</IceSheet.description>
-
-	<SeaIce.label>морски лед</SeaIce.label>
-	<SeaIce.description>Теренът е покрит с дебел лед. Тук няма твърда земя, растения, полезни изкопаеми и почти няма животни. Дълбокият сняг и пукнатините в леда затрудняват много движението.</SeaIce.description>
-
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>тайга</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>Иглолистни гори. Въпреки суровата зима, гората поддържа разнообразна популация от малки и големи животни. През зимата дебелият слой сняг затруднява движението.</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>студено тресавище</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>Блатиста местност почти без животни, но с буйна растителност. За разлика от умерения климат, тук има повече храсти, но по-малко дървета. По-голямата част от сушата не издържа на тежки конструкции, което прави този регион труден за оцеляване.</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>ледник</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>Теренът е покрит с дебел лед. Тук няма твърда земя на която да се развиват растения. Малкото животни, които ще намерите, мигрират към по-топли места или са се изгубили напълно.</IceSheet.description>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>морски лед</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>Теренът е покрит с дебел лед. Тук няма твърда земя, растения, полезни изкопаеми и почти няма животни. Дълбокият сняг и пукнатините в леда затрудняват много движението.</SeaIce.description>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>тундра</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>В тази замръзнала област има съвсем малко дървета и растения. Тук живеят някои видове дребни животни, стада от тревопасни, както и някои видове хищници. Движението през зимата е изключително трудно заради снега.</Tundra.description>
+  
 </LanguageData>
