@@ -1,47 +1,80 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <BadBack.label>лош гръб</BadBack.label>
-  <BadBack.labelNoun>лош гръб</BadBack.labelNoun>
-
-  <Frail.label>слабост</Frail.label>
-  <Frail.labelNoun>слабост</Frail.labelNoun>
-
-  <Cataract.label>катаракта</Cataract.label>
-  <Cataract.labelNoun>катаракта</Cataract.labelNoun>
-
-  <Blindness.label>слепота</Blindness.label>
-  <HearingLoss.label>загуба на слуха</HearingLoss.label>
-  <Dementia.label>деменция</Dementia.label>
-
+  
+  <!-- EN: alzheimer's -->
   <Alzheimers.label>болест на Алцхаймер</Alzheimers.label>
-  <Alzheimers.stages.0.label>начална</Alzheimers.stages.0.label>
-  <Alzheimers.stages.1.label>лека</Alzheimers.stages.1.label>
-  <Alzheimers.stages.2.label>умерена</Alzheimers.stages.2.label>
-  <Alzheimers.stages.3.label>тежка</Alzheimers.stages.3.label>
-
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>начална</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>лека</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>умерена</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>тежка</Alzheimers.stages.major-1.label>
+  
+  <!-- EN: asthma -->
   <Asthma.label>астма</Asthma.label>
-  <Asthma.stages.0.label>лека</Asthma.stages.0.label>
-  <Asthma.stages.1.label>умерена</Asthma.stages.1.label>
-  <Asthma.stages.2.label>тежка</Asthma.stages.2.label>
-
-  <HeartArteryBlockage.label>атеросклероза</HeartArteryBlockage.label>
-  <HeartArteryBlockage.stages.0.label>начална</HeartArteryBlockage.stages.0.label>
-  <HeartArteryBlockage.stages.1.label>лека</HeartArteryBlockage.stages.1.label>
-  <HeartArteryBlockage.stages.2.label>умерена</HeartArteryBlockage.stages.2.label>
-  <HeartArteryBlockage.stages.3.label>тежка</HeartArteryBlockage.stages.3.label>
-  <HeartArteryBlockage.stages.4.label>екстремна</HeartArteryBlockage.stages.4.label>
-  <HeartArteryBlockage.labelNoun>атеросклероза</HeartArteryBlockage.labelNoun>
-
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>лека</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>умерена</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>тежка</Asthma.stages.major-1.label>
+  
+  <!-- EN: bad back -->
+  <BadBack.label>лош гръб</BadBack.label>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>лош гръб</BadBack.labelNoun>
+  
+  <!-- EN: blindness -->
+  <Blindness.label>слепота</Blindness.label>
+  
+  <!-- EN: carcinoma -->
   <Carcinoma.label>карцинома</Carcinoma.label>
-  <Carcinoma.stages.0.label>начална</Carcinoma.stages.0.label>
-  <Carcinoma.stages.1.label>лека</Carcinoma.stages.1.label>
-  <Carcinoma.stages.2.label>умерена</Carcinoma.stages.2.label>
-  <Carcinoma.stages.3.label>тежка</Carcinoma.stages.3.label>
-  <Carcinoma.stages.4.label>екстремна</Carcinoma.stages.4.label>
-  <Carcinoma.stages.5.label>последен стадий</Carcinoma.stages.5.label>
+  <!-- EN: a carcinoma -->
   <Carcinoma.labelNoun>карцинома</Carcinoma.labelNoun>
-
-
-
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>начална</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>лека</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>умерена</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>тежка</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>екстремна</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>последен стадий</Carcinoma.stages.extreme-1.label>
+  
+  <!-- EN: cataract -->
+  <Cataract.label>катаракта</Cataract.label>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>катаракта</Cataract.labelNoun>
+  
+  <!-- EN: dementia -->
+  <Dementia.label>деменция</Dementia.label>
+  
+  <!-- EN: frail -->
+  <Frail.label>слабост</Frail.label>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>слабост</Frail.labelNoun>
+  
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>загуба на слуха</HearingLoss.label>
+  
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>атеросклероза</HeartArteryBlockage.label>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>атеросклероза</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>начална</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>лека</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>умерена</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>тежка</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>екстремна</HeartArteryBlockage.stages.extreme.label>
+  
 </LanguageData>

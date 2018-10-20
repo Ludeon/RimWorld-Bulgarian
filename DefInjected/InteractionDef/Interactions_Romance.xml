@@ -1,28 +1,156 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <RomanceAttempt.label>Флирт</RomanceAttempt.label>
-	<RomanceAttempt.logRulesInitiator.rulesStrings>
-		<li>logentry->Опита да флиртува с [other_nameShortIndef].</li>
-	</RomanceAttempt.logRulesInitiator.rulesStrings>
-	<RomanceAttempt.logRulesRecipient.rulesStrings>
-		<li>logentry->Беше обект на флирт от [other_nameShortIndef].</li>
-	</RomanceAttempt.logRulesRecipient.rulesStrings>
-
+  
+  <!-- EN: breakup -->
   <Breakup.label>Раздяла</Breakup.label>
-	<Breakup.logRulesInitiator.rulesStrings>
-		<li>logentry->приключи връзката си с [other_nameShortIndef].</li>
-	</Breakup.logRulesInitiator.rulesStrings>
-	<Breakup.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef] приключи връзката ни.</li>
-	</Breakup.logRulesRecipient.rulesStrings>
-
+  <!-- EN: r_logentry->[INITIATOR_nameDef] asked [OTHER_nameDef] for a break. -->
+  <Breakup.logRulesInitiator.rulesStrings.0>logentry->приключи връзката си с [other_nameShortIndef].</Breakup.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] asked [OTHER_nameDef] for some space. -->
+  <Breakup.logRulesInitiator.rulesStrings.1>TODO</Breakup.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] told [OTHER_nameDef] that it's not working out. -->
+  <Breakup.logRulesInitiator.rulesStrings.2>TODO</Breakup.logRulesInitiator.rulesStrings.2>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] told [OTHER_nameDef] that it would be best to see other people. -->
+  <Breakup.logRulesInitiator.rulesStrings.3>TODO</Breakup.logRulesInitiator.rulesStrings.3>
+  
+  <!-- UNUSED -->
+  <Breakup.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef] приключи връзката ни.</Breakup.logRulesRecipient.rulesStrings.0>
+  
+  <!-- EN: marriage proposal -->
   <MarriageProposal.label>Сватба</MarriageProposal.label>
-	<MarriageProposal.logRulesInitiator.rulesStrings>
-		<li>logentry->Отправи на [other_nameShortIndef] предложение за сватба.</li>
-	</MarriageProposal.logRulesInitiator.rulesStrings>
-	<MarriageProposal.logRulesRecipient.rulesStrings>
-		<li>logentry->От [other_nameShortIndef] ми бе отправено предложение за сватба.</li>
-	</MarriageProposal.logRulesRecipient.rulesStrings>
-
+  <!-- EN: r_logentry->[INITIATOR_nameDef] proposed marriage to [OTHER_nameDef]. -->
+  <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry->Отправи на [other_nameShortIndef] предложение за сватба.</MarriageProposal.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [OTHER_nameDef]. -->
+  <MarriageProposal.logRulesInitiator.rulesStrings.1>TODO</MarriageProposal.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] told [OTHER_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [OTHER_objective]. -->
+  <MarriageProposal.logRulesInitiator.rulesStrings.2>TODO</MarriageProposal.logRulesInitiator.rulesStrings.2>
+  
+  <!-- UNUSED -->
+  <MarriageProposal.logRulesRecipient.rulesStrings.0>logentry->От [other_nameShortIndef] ми бе отправено предложение за сватба.</MarriageProposal.logRulesRecipient.rulesStrings.0>
+  
+  <!-- EN: romance attempt -->
+  <RomanceAttempt.label>Флирт</RomanceAttempt.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [wooed] [OTHER_nameDef] by [wootactic]. -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry->Опита да флиртува с [other_nameShortIndef].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+  <!-- EN: wooed->tried to flirt with -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.1>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.1>
+  <!-- EN: wooed->flirted with -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.2>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.2>
+  <!-- EN: wooed->tried to attract -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.3>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.3>
+  <!-- EN: wooed->tried to romance -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.4>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.4>
+  <!-- EN: wooed->tried to woo -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.5>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.5>
+  <!-- EN: wooed->wooed -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.6>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.6>
+  <!-- EN: wooed->pursued -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.7>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.7>
+  <!-- EN: wooed->charmed -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.8>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.8>
+  <!-- EN: wooed->courted -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.9>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.9>
+  <!-- EN: wootactic(p=4)->[complimenting] [OTHER_possessive] [PersonalCharacteristic] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.10>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.10>
+  <!-- EN: wootactic->telling a story about [TalkTopicAny] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.11>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.11>
+  <!-- EN: wootactic->telling a tale about [TalkTopicAny] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.12>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.12>
+  <!-- EN: wootactic->joking about [TalkTopicAny] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.13>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.13>
+  <!-- EN: wootactic->making an observation about [TalkTopicAny] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.14>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.14>
+  <!-- EN: wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.15>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.15>
+  <!-- EN: wootactic->comparing [OTHER_objective] to a [romantic_adj] [romantic_noun] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.16>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.16>
+  <!-- EN: wootactic->describing [OTHER_objective] as a [romantic_adj] [romantic_noun] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.17>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.17>
+  <!-- EN: boasting->boasting about -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.18>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.18>
+  <!-- EN: boasting->mentioning -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.19>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.19>
+  <!-- EN: boasting->implying good things about -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.20>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.20>
+  <!-- EN: boasting->exaggerating -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.21>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.21>
+  <!-- EN: boasting->talking about -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.22>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.22>
+  <!-- EN: boasting->drawing attention to -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.23>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.23>
+  <!-- EN: complimenting(p=3)->complimenting -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.24>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.24>
+  <!-- EN: complimenting->subtly complimenting -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.25>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.25>
+  <!-- EN: complimenting->lauding -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.26>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.26>
+  <!-- EN: complimenting->commending -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.27>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.27>
+  <!-- EN: complimenting->saying good things about -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.28>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.28>
+  <!-- EN: complimenting(p=2)->playfully making fun of -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.29>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.29>
+  <!-- EN: complimenting->jokingly poking at -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.30>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.30>
+  <!-- EN: complimenting->jokingly half-complimenting -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.31>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.31>
+  <!-- EN: complimenting->impishly questioning -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.32>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.32>
+  <!-- EN: complimenting->cheerfully making fun of -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.33>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.33>
+  <!-- EN: romantic_adj->beautiful -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.34>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.34>
+  <!-- EN: romantic_adj->shining -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.35>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.35>
+  <!-- EN: romantic_adj->glimmering -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.36>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.36>
+  <!-- EN: romantic_adj->heavenly -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.37>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.37>
+  <!-- EN: romantic_adj->golden -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.38>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.38>
+  <!-- EN: romantic_adj->bright -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.39>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.39>
+  <!-- EN: romantic_adj->breathtaking -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.40>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.40>
+  <!-- EN: romantic_adj->charming -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.41>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.41>
+  <!-- EN: romantic_adj->dazzling -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.42>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.42>
+  <!-- EN: romantic_adj->delicate -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.43>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.43>
+  <!-- EN: romantic_adj->fine -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.44>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.44>
+  <!-- EN: romantic_adj->magnificent -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.45>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.45>
+  <!-- EN: romantic_adj->lovely -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.46>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.46>
+  <!-- EN: romantic_adj->wonderful -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.47>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.47>
+  <!-- EN: romantic_adj(p=3)->[AdjectiveBadass] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.48>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.48>
+  <!-- EN: romantic_noun->flower -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.49>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.49>
+  <!-- EN: romantic_noun->spring -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.50>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.50>
+  <!-- EN: romantic_noun->river -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.51>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.51>
+  <!-- EN: romantic_noun->star -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.52>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.52>
+  <!-- EN: romantic_noun->moon -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.53>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.53>
+  <!-- EN: romantic_noun->sun -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.54>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.54>
+  <!-- EN: romantic_noun->house -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.55>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.55>
+  <!-- EN: romantic_noun->aurora -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.56>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.56>
+  <!-- EN: romantic_noun->[TreeType] tree -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.57>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.57>
+  <!-- EN: romantic_noun(p=2)->[TerrainFeature] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.58>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.58>
+  <!-- EN: romantic_noun(p=2)->[NaturalObject] -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings.59>TODO</RomanceAttempt.logRulesInitiator.rulesStrings.59>
+  
+  <!-- UNUSED -->
+  <RomanceAttempt.logRulesRecipient.rulesStrings.0>logentry->Беше обект на флирт от [other_nameShortIndef].</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+  
 </LanguageData>

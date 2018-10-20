@@ -1,20 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <YayoHigh.label>под въздействие на прахче</YayoHigh.label>
-  <YayoHigh.labelNoun>дрогиран от прахче</YayoHigh.labelNoun>
-
-
-  <!-- Psychite addiction -->
-
-  <PsychiteTolerance.label>толерантност към наркотика</PsychiteTolerance.label>
-  <PsychiteTolerance.stages.0.label>малък</PsychiteTolerance.stages.0.label>
-  <PsychiteTolerance.stages.1.label>малък</PsychiteTolerance.stages.1.label>
-  <PsychiteTolerance.stages.2.label>среден</PsychiteTolerance.stages.2.label>
-  <PsychiteTolerance.stages.3.label>силна</PsychiteTolerance.stages.3.label>
-
+  
+  <!-- EN: psychite addiction -->
   <PsychiteAddiction.label>зависим от наркотици</PsychiteAddiction.label>
-  <PsychiteAddiction.stages.1.label>абстиненция</PsychiteAddiction.stages.1.label>
-
-
+  <!-- EN: withdrawal -->
+  <PsychiteAddiction.stages.withdrawal.label>абстиненция</PsychiteAddiction.stages.withdrawal.label>
+  
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>толерантност към наркотика</PsychiteTolerance.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-0.label>малък</PsychiteTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-1.label>малък</PsychiteTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <PsychiteTolerance.stages.large.label>среден</PsychiteTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsychiteTolerance.stages.massive.label>силна</PsychiteTolerance.stages.massive.label>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.label>под въздействие на прахче</YayoHigh.label>
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>дрогиран от прахче</YayoHigh.labelNoun>
+  
 </LanguageData>

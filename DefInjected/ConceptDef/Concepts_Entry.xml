@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<WorldCameraMovement.label>Преместване и обзор</WorldCameraMovement.label>
-	<WorldCameraMovement.helpText>Приближете или отдалечете камерата с помощта на скролера на мишката или с клавиши {Key:MapZoomIn} и {Key:MapZoomOut}.\n\nМожете да преместите камерата с клавиши {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} или като натиснете средния бутон на мишката.</WorldCameraMovement.helpText>
-
+  
+  <!-- EN: World view camera movement -->
+  <WorldCameraMovement.label>Преместване и обзор</WorldCameraMovement.label>
+  <!-- EN: Zoom with the MOUSE WHEEL or {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nPan with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or by MIDDLE-CLICKING and DRAGGING. -->
+  <WorldCameraMovement.helpText>Приближете или отдалечете камерата с помощта на скролера на мишката или с клавиши {Key:MapZoomIn} и {Key:MapZoomOut}.\n\nМоже да преместите камерата с клавиши {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} или като натиснете средния бутон на мишката.</WorldCameraMovement.helpText>
+  
 </LanguageData>

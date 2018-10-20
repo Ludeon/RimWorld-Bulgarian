@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.label>земя</DirtInEyes.label>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>земя</DirtInEyes.labelNoun>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.label>баластра</GravelInEyes.label>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>баластра</GravelInEyes.labelNoun>
+  
+  <!-- EN: mud -->
+  <MudInEyes.label>кал</MudInEyes.label>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>кал</MudInEyes.labelNoun>
+  
+  <!-- EN: sand -->
+  <SandInEyes.label>пясък</SandInEyes.label>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>пясък</SandInEyes.labelNoun>
+  
+  <!-- EN: water -->
+  <WaterInEyes.label>вода</WaterInEyes.label>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>вода</WaterInEyes.labelNoun>
+  
+</LanguageData>

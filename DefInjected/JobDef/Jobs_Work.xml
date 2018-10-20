@@ -1,55 +1,145 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Item hauling -->
-
-  <HaulToCell.reportString>Носи TargetA.</HaulToCell.reportString>
-  <HaulToContainer.reportString>Носи TargetA.</HaulToContainer.reportString>
-
-  <!-- Pawn hauling -->
-
-  <Rescue.reportString>Спасява TargetA.</Rescue.reportString>
-  <CarryToCryptosleepCasket.reportString>Носи TargetA до ковчег за криптосън.</CarryToCryptosleepCasket.reportString>
-  <Capture.reportString>Пленява TargetA.</Capture.reportString>
-  <Arrest.reportString>Арестува TargetA.</Arrest.reportString>
-  <ReleasePrisoner.reportString>Освобождава TargetA.</ReleasePrisoner.reportString>
-  <EscortPrisonerToBed.reportString>Ескортира затворника TargetA.</EscortPrisonerToBed.reportString>
-  <TakeWoundedPrisonerToBed.reportString>Носи ранения затворник TargetA до леглото му.</TakeWoundedPrisonerToBed.reportString>
-  <TakeToBedToOperate.reportString>Носи TargetA за операция.</TakeToBedToOperate.reportString>
-  <Kidnap.reportString>Отвлича TargetA.</Kidnap.reportString>
-
-  <!-- Animal handling -->
-
-  <Slaughter.reportString>Коли TargetA.</Slaughter.reportString>
-  <Shear.reportString>Стриже TargetA.</Shear.reportString>
-  <Milk.reportString>Дои TargetA.</Milk.reportString>
-  <Tame.reportString>Опитомява TargetA.</Tame.reportString>
-  <Train.reportString>Дресира TargetA.</Train.reportString>
-
-  <!-- Misc -->
-
-  <DeliverFood.reportString>Носи TargetB на TargetA.</DeliverFood.reportString>
-  <FeedPatient.reportString>Храни TargetB с TargetA.</FeedPatient.reportString>
-  <TendPatient.reportString>Обгрижва TargetA.</TendPatient.reportString>
-  <PlaceNoCostFrame.reportString>Строи TargetA.</PlaceNoCostFrame.reportString>
-  <DoBill.reportString>Върши задача на TargetA.</DoBill.reportString>
-  <Clean.reportString>Почиства TargetA.</Clean.reportString>
-  <Research.reportString>Проучва.</Research.reportString>
-  <Hunt.reportString>Ловува TargetA.</Hunt.reportString>
-  <UseCommsConsole.reportString>Ползва ком-конзола.</UseCommsConsole.reportString>
-  <Mine.reportString>Копае TargetA.</Mine.reportString>
-  <SmoothFloor.reportString>Изравнява под.</SmoothFloor.reportString>
-  <RemoveFloor.reportString>Премахва под.</RemoveFloor.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <Arrest.reportString>арестува TargetA.</Arrest.reportString>
+  
+  <!-- EN: building roof. -->
+  <BuildRoof.reportString>строй покрив</BuildRoof.reportString>
+  
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>пленява TargetA.</Capture.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>отнася TargetA</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasket.reportString>носи TargetA до контейнер за криптосън.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: cleaning TargetA. -->
+  <Clean.reportString>почиства TargetA.</Clean.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlant.reportString>отрязва TargetA.</CutPlant.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlantDesignated.reportString>реже TargetA</CutPlantDesignated.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <Deconstruct.reportString>унищожава TargetA.</Deconstruct.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>носи TargetB на TargetA.</DeliverFood.reportString>
+  
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>върши задача на TargetA.</DoBill.reportString>
+  
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>ескортира затворника TargetA.</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>храни TargetB с TargetA.</FeedPatient.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>довършва TargetA.</FinishFrame.reportString>
+  
+  <!-- EN: replacing broken components in TargetA. -->
+  <FixBrokenDownBuilding.reportString>сменя повредените части на TargetA</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>събира TargetA.</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>събира TargetA.</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>носи TargetA.</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>носи TargetA.</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>ловува TargetA.</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>отвлича TargetA.</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>дои TargetA.</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>копае TargetA.</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>извършва сондаж с помощта на TargetA</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>сканира с TargetA</OperateScanner.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>строи TargetA.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>опитва да вербува TargetA.</PrisonerAttemptRecruit.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>екзекутира TargetA.</PrisonerExecution.reportString>
+  
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>освобождава TargetA.</ReleasePrisoner.reportString>
+  
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>премахва под.</RemoveFloor.reportString>
+  
+  <!-- EN: removing roof. -->
+  <RemoveRoof.reportString>премахва покрив.</RemoveRoof.reportString>
+  
+  <!-- EN: repairing TargetA. -->
   <Repair.reportString>поправя TargetA.</Repair.reportString>
-  <FinishFrame.reportString>Довършва TargetA.</FinishFrame.reportString>
-  <Sow.reportString>Сее TargetA.</Sow.reportString>
-  <Harvest.reportString>Събира TargetA.</Harvest.reportString>
-  <CutPlant.reportString>Отрязва TargetA.</CutPlant.reportString>
-  <Deconstruct.reportString>Унищожава TargetA.</Deconstruct.reportString>
-  <Uninstall.reportString>Премахва TargetA.</Uninstall.reportString>
-  <PrisonerFriendlyChat.reportString>Говори със затворник TargetA.</PrisonerFriendlyChat.reportString>
-  <PrisonerAttemptRecruit.reportString>Опитва да вербува TargetA.</PrisonerAttemptRecruit.reportString>
-  <PrisonerExecution.reportString>Екзекутира TargetA.</PrisonerExecution.reportString>
-  <BuryCorpse.reportString>Погребва TargetA.</BuryCorpse.reportString>
-
+  
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>спасява TargetA.</Rescue.reportString>
+  
+  <!-- EN: researching. -->
+  <Research.reportString>проучва.</Research.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>стриже TargetA.</Shear.reportString>
+  
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>коли TargetA.</Slaughter.reportString>
+  
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>изравнява под.</SmoothFloor.reportString>
+  
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>шлифова стени</SmoothWall.reportString>
+  
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>сее TargetA.</Sow.reportString>
+  
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>краде TargetA.</Steal.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>носи TargetA за операция.</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>носи ранения затворник TargetA до леглото му.</TakeWoundedPrisonerToBed.reportString>
+  
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>опитомява TargetA.</Tame.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendPatient.reportString>обгрижва TargetA.</TendPatient.reportString>
+  
+  <!-- EN: training TargetA. -->
+  <Train.reportString>дресира TargetA.</Train.reportString>
+  
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>премахва TargetA.</Uninstall.reportString>
+  
+  <!-- EN: using comms console. -->
+  <UseCommsConsole.reportString>ползва ком-конзола.</UseCommsConsole.reportString>
+  
 </LanguageData>

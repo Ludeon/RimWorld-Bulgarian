@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Implants -->
-
+  
+  <!-- EN: joywire -->
   <Joywire.label>чип за щастие</Joywire.label>
+  <!-- EN: a joywire -->
   <Joywire.labelNoun>чип за щастие</Joywire.labelNoun>
-
+  
+  <!-- EN: painstopper -->
   <Painstopper.label>чип за обезболяване</Painstopper.label>
+  <!-- EN: a painstopper -->
   <Painstopper.labelNoun>чип за обезболяване</Painstopper.labelNoun>
-
-
+  
 </LanguageData>

@@ -1,17 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Flame.label>огън</Flame.label>
-	<Flame.deathMessage>{0} изгорен до смърт.</Flame.deathMessage>
-
-	<!-- Burn is like Flame, but doesn't ignite anything -->
-	<Burn.label>изгаряне</Burn.label>
-	<Burn.deathMessage>{0} изгорен до смърт.</Burn.deathMessage>
-
-	<Frostbite.label>измръзване</Frostbite.label>
-	<Frostbite.deathMessage>{0} станал жертва на измръзване.</Frostbite.deathMessage>
-
-	<TornadoScratch.label>одран</TornadoScratch.label>
-	<TornadoScratch.deathMessage>{0} беше одран до смърт.</TornadoScratch.deathMessage>
-
+  
+  <!-- EN: burn -->
+  <Burn.label>изгаряне</Burn.label>
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>{0} получи смъртоносно изгаряне.</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>огън</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} изгоря до смърт.</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>измръзване</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>{0} станал жертва на измръзване.</Frostbite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>одран</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>{0} беше одран до смърт.</TornadoScratch.deathMessage>
+  
 </LanguageData>

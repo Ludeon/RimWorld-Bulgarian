@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up -->
+  <Chemical_WakeUp.label>бодрин</Chemical_WakeUp.label>
+  <!-- EN: Because of an wake-up addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_WakeUp.description>Заради зависимостта си от бодрин, този човек трябва редовно да употребява този наркотик, за да избегне Синдром на абстиненция.</Chemical_WakeUp.description>
+  
+</LanguageData>

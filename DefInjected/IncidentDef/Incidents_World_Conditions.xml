@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>полярно сияние</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>Полярно сияние</Aurora.letterLabel>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>Ярките полярни сияния озариха небето.\n\Завладяващ поразително красив танц на разноцветни светлини в небето и плени от пръв поглед онези който имаха късмета гледат сиянието.</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>слънчево затъмнение</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>Слънчево затъмнение</Eclipse.letterLabel>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>Една от луните на планетата предизвика слънчево затъмнение.</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>слънчево изригване</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Слънчево изригване</SolarFlare.letterLabel>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>Има слънчево изригване.\n\nСилното лъчение прави електрическите уреди неизползваеми.\n\nОчаква се да премине след около ден.</SolarFlare.letterText>
+  
+</LanguageData>

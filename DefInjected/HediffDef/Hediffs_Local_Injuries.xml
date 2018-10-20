@@ -1,120 +1,240 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Missing body part -->
-
-  <MissingBodyPart.label>липсваща част от тяло</MissingBodyPart.label>
-  <MissingBodyPart.labelNoun>липсваща част от тяло</MissingBodyPart.labelNoun>
-
-
-  <!-- Injuries -->
-
-  <Misc.label>разни</Misc.label>
-  <Misc.comps.0.labelTendedWell>превързан</Misc.comps.0.labelTendedWell>
-  <Misc.comps.0.labelTendedWellInner>зашит</Misc.comps.0.labelTendedWellInner>
-  <Misc.comps.0.labelSolidTendedWell>обработен</Misc.comps.0.labelSolidTendedWell>
-  <Misc.injuryProps.destroyedLabel>унищожен</Misc.injuryProps.destroyedLabel>
-  <Misc.labelNoun>ранен</Misc.labelNoun>
-
-  <Burn.label>изгаряне</Burn.label>
-  <Burn.comps.0.labelTendedWell>превързан</Burn.comps.0.labelTendedWell>
-  <Burn.comps.0.labelTendedWellInner>зашит</Burn.comps.0.labelTendedWellInner>
-  <Burn.comps.0.labelSolidTendedWell>обработен</Burn.comps.0.labelSolidTendedWell>
-  <Burn.comps.2.oldLabel>белези от изгаряния</Burn.comps.2.oldLabel>
-  <Burn.injuryProps.destroyedLabel>изгорен</Burn.injuryProps.destroyedLabel>
-  <Burn.injuryProps.destroyedOutLabel>напълно изгорен</Burn.injuryProps.destroyedOutLabel>
-  <Burn.labelNoun>изгаряне</Burn.labelNoun>
-
-  <Crush.label>контузия</Crush.label>
-  <Crush.comps.0.labelTendedWell>превързана</Crush.comps.0.labelTendedWell>
-  <Crush.comps.0.labelTendedWellInner>зашита</Crush.comps.0.labelTendedWellInner>
-  <Crush.comps.0.labelSolidTendedWell>обработена</Crush.comps.0.labelSolidTendedWell>
-  <Crush.comps.2.oldLabel>белези</Crush.comps.2.oldLabel>
-  <Crush.injuryProps.destroyedLabel>смачкан</Crush.injuryProps.destroyedLabel>
-  <Crush.labelNoun>контузия</Crush.labelNoun>
-
-  <Crack.label>фрактура</Crack.label>
-  <Crack.comps.0.labelTendedWell>излекувана</Crack.comps.0.labelTendedWell>
-  <Crack.comps.0.labelTendedWellInner>лошо излекувана</Crack.comps.0.labelTendedWellInner>
-  <Crack.comps.0.labelSolidTendedWell>наместена</Crack.comps.0.labelSolidTendedWell>
-  <Crack.injuryProps.destroyedLabel>разбит</Crack.injuryProps.destroyedLabel>
-  <Crack.labelNoun>фрактура</Crack.labelNoun>
-
-  <Cut.label>срез</Cut.label>
-  <Cut.comps.0.labelTendedWell>превързан</Cut.comps.0.labelTendedWell>
-  <Cut.comps.0.labelTendedWellInner>зашит</Cut.comps.0.labelTendedWellInner>
-  <Cut.comps.0.labelSolidTendedWell>обработен</Cut.comps.0.labelSolidTendedWell>
-  <Cut.comps.2.oldLabel>белег от срез</Cut.comps.2.oldLabel>
-  <Cut.injuryProps.destroyedLabel>отрязан</Cut.injuryProps.destroyedLabel>
-  <Cut.injuryProps.destroyedOutLabel>изрязан</Cut.injuryProps.destroyedOutLabel>
-  <Cut.labelNoun>срез</Cut.labelNoun>
-
-  <SurgicalCut.label>хирургически срез</SurgicalCut.label>
-  <SurgicalCut.comps.0.labelTendedWell>превързан</SurgicalCut.comps.0.labelTendedWell>
-  <SurgicalCut.comps.0.labelTendedWellInner>зашит</SurgicalCut.comps.0.labelTendedWellInner>
-  <SurgicalCut.comps.0.labelSolidTendedWell>обработен</SurgicalCut.comps.0.labelSolidTendedWell>
-  <SurgicalCut.comps.1.oldLabel>белег от операция</SurgicalCut.comps.1.oldLabel>
-  <SurgicalCut.labelNoun>хирургически срез</SurgicalCut.labelNoun>
-
-  <Scratch.label>разкъсана рана</Scratch.label>
-  <Scratch.comps.0.labelTendedWell>превързан</Scratch.comps.0.labelTendedWell>
-  <Scratch.comps.0.labelTendedWellInner>зашит</Scratch.comps.0.labelTendedWellInner>
-  <Scratch.comps.0.labelSolidTendedWell>обработена</Scratch.comps.0.labelSolidTendedWell>
-  <Scratch.comps.2.oldLabel>белег от разкъсана рана</Scratch.comps.2.oldLabel>
-  <Scratch.injuryProps.destroyedLabel>откъсната</Scratch.injuryProps.destroyedLabel>
-  <Scratch.injuryProps.destroyedOutLabel>изтръгната</Scratch.injuryProps.destroyedOutLabel>
-  <Scratch.labelNoun>разкъсана рана</Scratch.labelNoun>
-
+  
+  <!-- EN: bite -->
   <Bite.label>ухапване</Bite.label>
-  <Bite.comps.0.labelTendedWell>превързан</Bite.comps.0.labelTendedWell>
-  <Bite.comps.0.labelTendedWellInner>зашит</Bite.comps.0.labelTendedWellInner>
-  <Bite.comps.0.labelSolidTendedWell>обработен</Bite.comps.0.labelSolidTendedWell>
-  <Bite.comps.2.oldLabel>белег от ухапване</Bite.comps.2.oldLabel>
+  <!-- EN: set -->
+  <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>обработен</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Bite.comps.HediffComp_TendDuration.labelTendedWell>превързан</Bite.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>зашит</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: bite scar -->
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>белег от ухапване</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Bitten off -->
   <Bite.injuryProps.destroyedLabel>отхапан</Bite.injuryProps.destroyedLabel>
-  <Bite.injuryProps.destroyedOutLabel>захапан</Bite.injuryProps.destroyedOutLabel>
-  <Bite.labelNoun>ухапан</Bite.labelNoun>
-
-  <Stab.label>прободна рана</Stab.label>
-  <Stab.comps.0.labelTendedWell>превързана</Stab.comps.0.labelTendedWell>
-  <Stab.comps.0.labelTendedWellInner>зашита</Stab.comps.0.labelTendedWellInner>
-  <Stab.comps.0.labelSolidTendedWell>обработена</Stab.comps.0.labelSolidTendedWell>
-  <Stab.comps.2.oldLabel>белег от прободна рана</Stab.comps.2.oldLabel>
-  <Stab.injuryProps.destroyedLabel>отрязана</Stab.injuryProps.destroyedLabel>
-  <Stab.injuryProps.destroyedOutLabel>срязана</Stab.injuryProps.destroyedOutLabel>
-  <Stab.labelNoun>прободна рана</Stab.labelNoun>
-
-  <Gunshot.label>огнестрелна рана</Gunshot.label>
-  <Gunshot.comps.0.labelTendedWell>превързана</Gunshot.comps.0.labelTendedWell>
-  <Gunshot.comps.0.labelTendedWellInner>зашита</Gunshot.comps.0.labelTendedWellInner>
-  <Gunshot.comps.0.labelSolidTendedWell>обработена</Gunshot.comps.0.labelSolidTendedWell>
-  <Gunshot.comps.2.oldLabel>белег от куршум</Gunshot.comps.2.oldLabel>
-  <Gunshot.comps.2.instantlyOldLabel>огнестрелна рана</Gunshot.comps.2.instantlyOldLabel>
-  <Gunshot.injuryProps.destroyedLabel>отстрелян</Gunshot.injuryProps.destroyedLabel>
-  <Gunshot.injuryProps.destroyedOutLabel>прострелян</Gunshot.injuryProps.destroyedOutLabel>
-  <Gunshot.labelNoun>огнестрелна рана</Gunshot.labelNoun>
-
-  <Shredded.label>взривна травма</Shredded.label>
-  <Shredded.comps.0.labelTendedWell>превързана</Shredded.comps.0.labelTendedWell>
-  <Shredded.comps.0.labelTendedWellInner>зашита</Shredded.comps.0.labelTendedWellInner>
-  <Shredded.comps.0.labelSolidTendedWell>обработена</Shredded.comps.0.labelSolidTendedWell>
-  <Shredded.comps.2.oldLabel>белег</Shredded.comps.2.oldLabel>
-  <Shredded.injuryProps.destroyedLabel>откъсната</Shredded.injuryProps.destroyedLabel>
-  <Shredded.injuryProps.destroyedOutLabel>разкъсана</Shredded.injuryProps.destroyedOutLabel>
-  <Shredded.labelNoun>взривна травма</Shredded.labelNoun>
-
+  <!-- EN: Bitten out -->
+  <Bite.injuryProps.destroyedOutLabel>ухапан</Bite.injuryProps.destroyedOutLabel>
+  <!-- EN: a bite wound -->
+  <Bite.labelNoun>рана от ухапване</Bite.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Bite.labelNounPretty>{0} {1}</Bite.labelNounPretty>
+  
+  <!-- EN: bruise -->
   <Bruise.label>синина</Bruise.label>
-  <Bruise.comps.0.labelTendedWell>превързана</Bruise.comps.0.labelTendedWell>
-  <Bruise.comps.0.labelTendedWellInner>зашита</Bruise.comps.0.labelTendedWellInner>
-  <Bruise.comps.0.labelSolidTendedWell>обработена</Bruise.comps.0.labelSolidTendedWell>
+  <!-- EN: set -->
+  <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>обработена</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWell>превързана</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>зашита</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: Destroyed -->
   <Bruise.injuryProps.destroyedLabel>разбит</Bruise.injuryProps.destroyedLabel>
+  <!-- EN: a bruise -->
   <Bruise.labelNoun>синина</Bruise.labelNoun>
-
+  <!-- EN: {0} in the {1} -->
+  <Bruise.labelNounPretty>{0} на {1}</Bruise.labelNounPretty>
+  
+  <!-- EN: burn -->
+  <Burn.label>изгаряне</Burn.label>
+  <!-- EN: set -->
+  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>обработен</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Burn.comps.HediffComp_TendDuration.labelTendedWell>превързан</Burn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>зашит</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: burn scar -->
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>белег от изгаряне</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <Burn.injuryProps.destroyedLabel>изгорен</Burn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <Burn.injuryProps.destroyedOutLabel>напълно изгорен</Burn.injuryProps.destroyedOutLabel>
+  <!-- EN: a burn -->
+  <Burn.labelNoun>изгаряне</Burn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Burn.labelNounPretty>{0} на {1}</Burn.labelNounPretty>
+  
+  <!-- EN: crack -->
+  <Crack.label>фрактура</Crack.label>
+  <!-- EN: set -->
+  <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>наместена</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: healed -->
+  <Crack.comps.HediffComp_TendDuration.labelTendedWell>излекувана</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: healed -->
+  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>лошо излекувана</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent crack -->
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>неизлечима фрактура</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Shattered -->
+  <Crack.injuryProps.destroyedLabel>разбита</Crack.injuryProps.destroyedLabel>
+  <!-- EN: a crack wound -->
+  <Crack.labelNoun>фрактура</Crack.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Crack.labelNounPretty>{0} на {1}</Crack.labelNounPretty>
+  
+  <!-- EN: crush -->
+  <Crush.label>контузия</Crush.label>
+  <!-- EN: set -->
+  <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>обработена</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Crush.comps.HediffComp_TendDuration.labelTendedWell>превързана</Crush.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>зашита</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: mangled scar -->
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>белег</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Crushed -->
+  <Crush.injuryProps.destroyedLabel>смачкан</Crush.injuryProps.destroyedLabel>
+  <!-- EN: a crush wound -->
+  <Crush.labelNoun>контузия</Crush.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Crush.labelNounPretty>{0} на {1}</Crush.labelNounPretty>
+  
+  <!-- EN: cut -->
+  <Cut.label>срез</Cut.label>
+  <!-- EN: set -->
+  <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>обработен</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Cut.comps.HediffComp_TendDuration.labelTendedWell>превързан</Cut.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>зашит</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: cut scar -->
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>белег от срез</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <Cut.injuryProps.destroyedLabel>отрязан</Cut.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <Cut.injuryProps.destroyedOutLabel>изрязан</Cut.injuryProps.destroyedOutLabel>
+  <!-- EN: a cut -->
+  <Cut.labelNoun>срез</Cut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Cut.labelNounPretty>{0} на {1}</Cut.labelNounPretty>
+  
+  <!-- EN: frostbite -->
   <Frostbite.label>измръзване</Frostbite.label>
-  <Frostbite.comps.0.labelTendedWell>затоплян</Frostbite.comps.0.labelTendedWell>
-  <Frostbite.comps.0.labelTendedWellInner>обработен</Frostbite.comps.0.labelTendedWellInner>
-  <Frostbite.comps.0.labelSolidTendedWell>отоплен</Frostbite.comps.0.labelSolidTendedWell>
-  <Frostbite.comps.2.oldLabel>белези от измръзване</Frostbite.comps.2.oldLabel>
+  <!-- EN: set -->
+  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>отоплен</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>затоплен</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>обработен</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: frostbite scar -->
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>белег от измръзване</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Lost to frostbite -->
   <Frostbite.injuryProps.destroyedLabel>измръзване</Frostbite.injuryProps.destroyedLabel>
-
-
+  <!-- EN: {0} in the {1} -->
+  <Frostbite.labelNounPretty>{0} на {1}</Frostbite.labelNounPretty>
+  
+  <!-- EN: gunshot -->
+  <Gunshot.label>огнестрелна рана</Gunshot.label>
+  <!-- EN: set -->
+  <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>обработена</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>превързана</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>зашита</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent gunshot injury -->
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>огнестрелна рана</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old gunshot -->
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>белег от куршум</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Shot off -->
+  <Gunshot.injuryProps.destroyedLabel>изстрелян</Gunshot.injuryProps.destroyedLabel>
+  <!-- EN: Shot out -->
+  <Gunshot.injuryProps.destroyedOutLabel>прострелян</Gunshot.injuryProps.destroyedOutLabel>
+  <!-- EN: a gunshot wound -->
+  <Gunshot.labelNoun>огнестрелна рана</Gunshot.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Gunshot.labelNounPretty>{0} на {1}</Gunshot.labelNounPretty>
+  
+  <!-- EN: misc -->
+  <Misc.label>разни</Misc.label>
+  <!-- EN: set -->
+  <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>обработен</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Misc.comps.HediffComp_TendDuration.labelTendedWell>превързан</Misc.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>зашит</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: Destroyed -->
+  <Misc.injuryProps.destroyedLabel>унищожен</Misc.injuryProps.destroyedLabel>
+  <!-- EN: an injury -->
+  <Misc.labelNoun>ранен</Misc.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Misc.labelNounPretty>{0} на {1}</Misc.labelNounPretty>
+  
+  <!-- EN: missing body part -->
+  <MissingBodyPart.label>липсват част от тяло</MissingBodyPart.label>
+  <!-- EN: a missing body part -->
+  <MissingBodyPart.labelNoun>липсват част от тяло</MissingBodyPart.labelNoun>
+  <!-- EN: missing a {1} -->
+  <MissingBodyPart.labelNounPretty>{0} на {1}</MissingBodyPart.labelNounPretty>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>разкъсана рана</Scratch.label>
+  <!-- EN: set -->
+  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>обработена</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWell>превързана</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>зашита</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: scratch scar -->
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>белег от разкъсана рана</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Torn off -->
+  <Scratch.injuryProps.destroyedLabel>откъсната</Scratch.injuryProps.destroyedLabel>
+  <!-- EN: Torn out -->
+  <Scratch.injuryProps.destroyedOutLabel>изтръгната</Scratch.injuryProps.destroyedOutLabel>
+  <!-- EN: a scratch -->
+  <Scratch.labelNoun>разкъсана рана</Scratch.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Scratch.labelNounPretty>{0} на {1}</Scratch.labelNounPretty>
+  
+  <!-- EN: shredded -->
+  <Shredded.label>взривна травма</Shredded.label>
+  <!-- EN: set -->
+  <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>обработена</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWell>превързана</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>зашита</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: shredded scar -->
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>белег</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Torn off -->
+  <Shredded.injuryProps.destroyedLabel>откъсната</Shredded.injuryProps.destroyedLabel>
+  <!-- EN: Torn out -->
+  <Shredded.injuryProps.destroyedOutLabel>разкъсана</Shredded.injuryProps.destroyedOutLabel>
+  <!-- EN: a shredded wound -->
+  <Shredded.labelNoun>взривна травма</Shredded.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Shredded.labelNounPretty>{0} на {1}</Shredded.labelNounPretty>
+  
+  <!-- EN: stab -->
+  <Stab.label>прободна рана</Stab.label>
+  <!-- EN: set -->
+  <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>обработена</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Stab.comps.HediffComp_TendDuration.labelTendedWell>превързана</Stab.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>зашита</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: stab scar -->
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>белег от прободна рана</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <Stab.injuryProps.destroyedLabel>отрязана</Stab.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <Stab.injuryProps.destroyedOutLabel>срязана</Stab.injuryProps.destroyedOutLabel>
+  <!-- EN: a stab wound -->
+  <Stab.labelNoun>прободна рана</Stab.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Stab.labelNounPretty>{0} на {1}</Stab.labelNounPretty>
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>хирургически срез</SurgicalCut.label>
+  <!-- EN: set -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>обработен</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>превързан</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>зашит</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: surgical scar -->
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>белег от срез</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a surgical cut -->
+  <SurgicalCut.labelNoun>хирургически срез</SurgicalCut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <SurgicalCut.labelNounPretty>{0} на {1}</SurgicalCut.labelNounPretty>
+  
 </LanguageData>

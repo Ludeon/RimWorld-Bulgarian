@@ -1,21 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MechanoidFullyFormed.label>Напълно израстнал</MechanoidFullyFormed.label>
-
-  <HumanlikeBaby.label>Новородено</HumanlikeBaby.label>
-  <HumanlikeToddler.label>Пеленаче</HumanlikeToddler.label>
-  <HumanlikeChild.label>Дете</HumanlikeChild.label>
-  <HumanlikeTeenager.label>Млад човек</HumanlikeTeenager.label>
+  
+  <!-- EN: adult -->
+  <AnimalAdult.label>възрастен</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>бебе</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>новороден</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>младо</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>възрастен</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>млад</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>ларва</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>възрастен</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>новородено</HumanlikeBaby.label>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>дете</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>тийнейджър</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
   <HumanlikeTeenager.adjective>тийнейджър</HumanlikeTeenager.adjective>
-  <HumanlikeAdult.label>Възрастен</HumanlikeAdult.label>
-
-  <EusocialInsectLarva.label>Ларва</EusocialInsectLarva.label>
-  <EusocialInsectJuvenile.label>Млад</EusocialInsectJuvenile.label>
-  <EusocialInsectAdult.label>Възрастен</EusocialInsectAdult.label>
-
-  <AnimalBaby.label>Новородено</AnimalBaby.label>
-  <AnimalJuvenile.label>Младо</AnimalJuvenile.label>
-  <AnimalAdult.label>Възрастен</AnimalAdult.label>
-
+  
+  <!-- EN: toddler -->
+  <HumanlikeToddler.label>пеленаче</HumanlikeToddler.label>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>напълно оформен</MechanoidFullyFormed.label>
+  
 </LanguageData>

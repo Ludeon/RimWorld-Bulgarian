@@ -1,22 +1,34 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Peaceful.label>Свободна игра</Peaceful.label>
-	<Peaceful.description>За тези който искат да строят без ограничения в стил "Пясъчник".\n\nСъбития, опасности са изключени, но въпреки това заселниците все още могат да се ядосват, а животните понякога могат да полудеят.</Peaceful.description>
-
-	<VeryEasy.label>Строеж на База</VeryEasy.label>
-	<VeryEasy.description>Подходяща за тези който искат да се фокусират върху строежа на колонията.\n\nОпасности има, но много слаби. Част от опасните събития са изключени.</VeryEasy.description>
-
-	<Easy.label>Леко изпитание</Easy.label>
-	<Easy.description>За начинаещи или случайни играчи, жадуващи за малки предизвикателства.\n\nЗаплахите са опасни, но не и смъртоносни.</Easy.description>
-
-	<Medium.label>Трудно</Medium.label>
-	<Medium.description>Сурова и неприветлива планета.\n\nЗаплахите могат да бъдат много опасни. Не се препоръчва за начинаещи.</Medium.description>
-
-	<Hard.label>Предизвикателно</Hard.label>
-	<Hard.description>Сериозни предизвикателства.\n\nУспехът на това ниво изисква добри умения за оцеляване и малко късмет.</Hard.description>
-
-	<VeryHard.label>Екстремно</VeryHard.label>
-	<VeryHard.description>Дамоклевият меч постоянно виси над колонията.\n\nСилни врагове, незадоволителни цени, много малко храна, а заселниците ядосани. Самият цифров ад.</VeryHard.description>
-
+  
+  <!-- EN: builder -->
+  <Easy.label>Леко изпитание</Easy.label>
+  <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
+  <Easy.description>За начинаещи или случайни играчи, жадуващи за малки предизвикателства.\n\nЗаплахите са опасни, но не и смъртоносни.</Easy.description>
+  
+  <!-- EN: merciless struggle -->
+  <Extreme.label>кошмар</Extreme.label>
+  <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Players who want to face brutal, unfair situations that require the deployment of fluent and well-rounded skills and the sacrifice of treasured people just to avoid losing everything.\n\nThere is no clean game here. You'll spend a lot of time fighting wounded and recovering, you'll need to prepare carefully, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come to you at any time. This level is about dealing with losses, because preventing them is impossible. -->
+  <Extreme.description>Една кошмарна планета с истински нечовешки условия. Ще се нуждаете от най-високо ниво на умения във всички аспекти на играта.\n\nПрепоръчва се за опитни играчи ценящи потта, кръвта и сълзи (самият играч) който може да се справи в жестоките ситуации.\n\nЗабравете за чистата игра. Ще трябва да се биете постоянно, да изградите наново сгради от руйните, да се подготвите за всичко и да пожертвате най-скъпите си. Злата съдба и свирепата смърт ще бъдат ваши верни спътници на пътя ви.</Extreme.description>
+  
+  <!-- EN: survival struggle -->
+  <Hard.label>Предизвикателно</Hard.label>
+  <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Players with a lot of experience who want to push themselves.\n\nSucceeding at this level requires a well-rounded understanding of diverse strategies, and disciplined preparation, and luck. Threats can spike and combine in vicious ways.\n\nEven if you play well, many challenges will be impossible to overcome without either deliberate sacrifice or random, unexpected losses. You'll have to fight wounded and recover often. Be ready to lose many people in the struggle to survive. -->
+  <Hard.description>Сериозни предизвикателства.\n\nУспехът на това ниво изисква добри умения за оцеляване и малко късмет.</Hard.description>
+  
+  <!-- EN: medium -->
+  <Medium.label>Трудно</Medium.label>
+  <!-- EN: Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <Medium.description>Сурова и неприветлива планета.\n\nЗаплахите могат да бъдат много опасни. Не се препоръчва за начинаещи.</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>Свободна игра</Peaceful.label>
+  <!-- EN: Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
+  <Peaceful.description>За тези който искат да строят без ограничения в стил "Пясъчник".\n\nСъбития, опасности са изключени, но въпреки това заселниците все още могат да се ядосват, а животните понякога могат да полудеят.</Peaceful.description>
+  
+  <!-- EN: rough -->
+  <Rough.label>чужбина</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play an intense story requiring significant skill to survive.\n\nDo not expect to play a perfect clean game. You will lose people. Even if you play well, some challenges will be impossible to overcome without losses. You'll have to fight wounded, sacrifice to survive, and recover. It's all for the drama. -->
+  <Rough.description>Оцеляване на сурова и неприветлива планета.\n\Препоръчва се за опитни играчи, който търсят възможност да пробват уменията си и да участват в една вълнуваща история.\n\nТам ви очаква разцвет и упадък, триумф и трагедия. Всичко в името на драматизма.</Rough.description>
+   
 </LanguageData>

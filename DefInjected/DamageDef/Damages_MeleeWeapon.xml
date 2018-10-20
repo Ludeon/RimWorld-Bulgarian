@@ -1,29 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Cut.label>нарязан</Cut.label>
-	<Cut.deathMessage>{0} беше нарязан до смърт.</Cut.deathMessage>
-
-	<Crush.label>потрошен</Crush.label>
-	<Crush.deathMessage>{0} беше премазан до смърт.</Crush.deathMessage>
-
-	<Blunt.label>удар</Blunt.label>
-	<Blunt.deathMessage>{0} беше разбит до смърт.</Blunt.deathMessage>
-
-	<!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
-	<Poke.label>пребит</Poke.label>
-	<Poke.deathMessage>{0} беше пребит до смърт.</Poke.deathMessage>
-
-	<Stab.label>промушен</Stab.label>
-	<Stab.deathMessage>{0} беше промушен до смърт.</Stab.deathMessage>
-
-	<Scratch.label>разкъсан</Scratch.label>
-	<Scratch.deathMessage>{0} беше разкъсан до смърт.</Scratch.deathMessage>
-
-	<Bite.label>ухапан</Bite.label>
-	<Bite.deathMessage>{0} беше ухапан до смърт.</Bite.deathMessage>
-
-	<ToxicBite.label>отрова</ToxicBite.label>
-	<ToxicBite.deathMessage>{0} починал от отравяне.</ToxicBite.deathMessage>
-
+  
+  <!-- EN: bite -->
+  <Bite.label>ухапан</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} беше ухапан до смърт.</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>удар</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} беше разбит до смърт.</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>потрошен</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} беше премазан до смърт.</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>нарязан</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} беше нарязан до смърт.</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>пребит</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} беше пребит до смърт.</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>разкъсан</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} беше разкъсан до смърт.</Scratch.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>промушен</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} беше промушен до смърт.</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>отрова</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} починал от отравяне.</ToxicBite.deathMessage>
+  
 </LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf -->
+  <Chemical_Smokeleaf.label>димолист</Chemical_Smokeleaf.label>
+  <!-- EN: Because of a smokeleaf dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_Smokeleaf.description>Заради зависимостта си от димолист, този човек трябва редовно да употребява този наркотик, за да избегне Синдром на абстиненция.</Chemical_Smokeleaf.description>
+  
+</LanguageData>

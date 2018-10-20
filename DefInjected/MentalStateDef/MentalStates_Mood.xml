@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tantrum -->
+  <BedroomTantrum.label>истерия</BedroomTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <BedroomTantrum.baseInspectLine>Душевно състояние: истерия</BedroomTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
+  <BedroomTantrum.beginLetter>{0} изпада  в истерия.\n\n[PAWN_pronoun] може да разбие всички мебели в стаята.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>истерика</BedroomTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <BedroomTantrum.recoveryMessage>{0} вече няма истерия.</BedroomTantrum.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <Berserk.label>ярост</Berserk.label>
+  <!-- EN: Mental state: Berserk -->
+  <Berserk.baseInspectLine>Душевно състояние: пристъп на ярост</Berserk.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <Berserk.beginLetter>{0} изпада в ярост.\n\n[PAWN_pronoun] втурва се към всеки, който вижда.</Berserk.beginLetter>
+  <Berserk.beginLetterLabel>ярост</Berserk.beginLetterLabel>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <Berserk.recoveryMessage>{0} се успокой.</Berserk.recoveryMessage>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugExtreme.label>стремеж към наркотици</Binging_DrugExtreme.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugExtreme.baseInspectLine>Душевно състояние: стремеж {0}</Binging_DrugExtreme.baseInspectLine>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugMajor.label>стремеж към леки наркотици</Binging_DrugMajor.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugMajor.baseInspectLine>Душевно състояние: стремеж {0}</Binging_DrugMajor.baseInspectLine>
+  
+  <!-- EN: binging on food -->
+  <Binging_Food.label>лакомия</Binging_Food.label>
+  <!-- EN: Mental state: Pigging out -->
+  <Binging_Food.baseInspectLine>Душевно състояние: лакомия</Binging_Food.baseInspectLine>
+  <!-- EN: {0} is pigging out on food. -->
+  <Binging_Food.beginLetter>{0} се наяде.</Binging_Food.beginLetter>
+  <!-- EN: food binge -->
+  <Binging_Food.beginLetterLabel>лакомия</Binging_Food.beginLetterLabel>
+  <!-- EN: {0} is no longer pigging out on food. -->
+  <Binging_Food.recoveryMessage>{0} престана да яде.</Binging_Food.recoveryMessage>
+  
+  <!-- EN: corpse obsession -->
+  <CorpseObsession.label>подигравки с трупове</CorpseObsession.label>
+  <!-- EN: Mental state: Corpse obsession -->
+  <CorpseObsession.baseInspectLine>Душевно състояние: подигравки с трупове</CorpseObsession.baseInspectLine>
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetter>{0} явно не е на себе си.\n\nИзглежда, [PAWN_pronoun] опустошава гробове и пуска труповете на публични места.</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetterLabel>подигравки с трупове</CorpseObsession.beginLetterLabel>
+  <!-- EN: {0} is no longer having a corpse obsession. -->
+  <CorpseObsession.recoveryMessage>{0} повече не опустошава гробове.</CorpseObsession.recoveryMessage>
+  
+  <!-- EN: fire starting spree -->
+  <FireStartingSpree.label>пристъп на пиромания</FireStartingSpree.label>
+  <!-- EN: Mental state: Fire starting spree -->
+  <FireStartingSpree.baseInspectLine>Душевно състояние: пристъп на пиромания</FireStartingSpree.baseInspectLine>
+  <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
+  <FireStartingSpree.beginLetter>{0} изпитва пристъп на пиромания.\n\n[PAWN_pronoun] скита безцелно, стреляйки към всичко.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetterLabel>пиромания</FireStartingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on a fire starting spree. -->
+  <FireStartingSpree.recoveryMessage>{0} вече не стреля.</FireStartingSpree.recoveryMessage>
+  
+  <!-- EN: giving up and leaving -->
+  <GiveUpExit.label>напускане</GiveUpExit.label>
+  <!-- EN: Mental state: Given up and leaving -->
+  <GiveUpExit.baseInspectLine>Душевно състояние: напускане</GiveUpExit.baseInspectLine>
+  <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
+  <GiveUpExit.beginLetter>{0} е разочарован от тази колонияb.\n\n[PAWN_pronoun] реши са напусне в търсене на по-добър живот.</GiveUpExit.beginLetter>
+  <!-- EN: gave up -->
+  <GiveUpExit.beginLetterLabel>напускане</GiveUpExit.beginLetterLabel>
+  <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
+  <GiveUpExit.recoveryMessage>{0} промени мнението си и се върна в колонията.</GiveUpExit.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
+  <InsultingSpree.label>синдромът на турет</InsultingSpree.label>
+  <!-- EN: Mental state: Insulting spree -->
+  <InsultingSpree.baseInspectLine>Душевно състояние: синдромът на турет</InsultingSpree.baseInspectLine>
+  <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
+  <InsultingSpree.beginLetter>{0} не може да сдържа своите емоции.\n\n[PAWN_pronoun] безцелно скита около колонията и псува всеки.</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetterLabel>синдромът на турет</InsultingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on an insulting spree. -->
+  <InsultingSpree.recoveryMessage>{0} вече не обижда всеки подред.</InsultingSpree.recoveryMessage>
+  
+  <!-- EN: inducing prisoner to escape -->
+  <Jailbreaker.label>подстрекателство към бягство</Jailbreaker.label>
+  <!-- EN: Mental state: Jailbreaker -->
+  <Jailbreaker.baseInspectLine>Душевно състояние: подстрекателство към бягство</Jailbreaker.baseInspectLine>
+  <!-- EN: {0} has a mental breakdown and is going to induce prisoners to escape. -->
+  <Jailbreaker.beginLetter>{0} получи нервен срив, и [PAWN_pronoun] подстрекава затворниците към бягство.</Jailbreaker.beginLetter>
+  <!-- EN: jailbreaker -->
+  <Jailbreaker.beginLetterLabel>бягство</Jailbreaker.beginLetterLabel>
+  <!-- EN: {0} is no longer inducing prisoners to escape. -->
+  <Jailbreaker.recoveryMessage>{0} вече не подстрекава затворниците към бягство.</Jailbreaker.recoveryMessage>
+  
+  <!-- EN: murderous rage -->
+  <MurderousRage.label>неистов гняв</MurderousRage.label>
+  <!-- EN: Mental state: Murderous rage -->
+  <MurderousRage.baseInspectLine>Душевно състояние: неистов гняв</MurderousRage.baseInspectLine>
+  <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+  <MurderousRage.beginLetter>{0} изпитва неистов гняв!\n\n[PAWN_pronoun] иска да убие {1}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>неистов гняв</MurderousRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a murderous rage. -->
+  <MurderousRage.recoveryMessage>{0} вече не е изпитва гняв.</MurderousRage.recoveryMessage>
+  
+  <!-- EN: sadistic rage -->
+  <SadisticRage.label>садизъм</SadisticRage.label>
+  <!-- EN: Mental state: Sadistic rage -->
+  <SadisticRage.baseInspectLine>Душевно състояние: пристъп на садизъм</SadisticRage.baseInspectLine>
+  <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
+  <SadisticRage.beginLetter>{0} изпитва садистически гняв.\n\n[PAWN_pronoun] планира да изрази своята злоба към затворниците.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>садизъм</SadisticRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a sadistic rage. -->
+  <SadisticRage.recoveryMessage>{0} спира с подигравките над затворниците.</SadisticRage.recoveryMessage>
+  
+  <!-- EN: slaughterer -->
+  <Slaughterer.label>жестокост над животни</Slaughterer.label>
+  <!-- EN: Mental state: Slaughterer -->
+  <Slaughterer.baseInspectLine>Душевно състояние: жестокост над животни</Slaughterer.baseInspectLine>
+  <!-- EN: {0} has a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <Slaughterer.beginLetter>{0} получи нервен срив, и [PAWN_pronoun] изкарва своята злобност към животните.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetterLabel>жестокост над животни</Slaughterer.beginLetterLabel>
+  <!-- EN: {0} is no longer slaughtering random animals. -->
+  <Slaughterer.recoveryMessage>{0} повече не убива животни.</Slaughterer.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <Tantrum.label>истерия</Tantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <Tantrum.baseInspectLine>Душевно състояние: истерия</Tantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
+  <Tantrum.beginLetter>{0} изпада в истерия.\n\n[PAWN_pronoun] разбива мебели, предмети и стени.</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>истерика</Tantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <Tantrum.recoveryMessage>{0} вече не е в истерия.</Tantrum.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
+  <TargetedInsultingSpree.label>синдромът на турет</TargetedInsultingSpree.label>
+  <!-- EN: Mental state: Insulting spree against {0} -->
+  <TargetedInsultingSpree.baseInspectLine>Душевно състояние: синдромът на турет на адрес {0}</TargetedInsultingSpree.baseInspectLine>
+  <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.beginLetter>{0} насочи ругатнята си към {1}.\n\n[PAWN_pronoun] ще преследва жертвата си обсипвайки я с оскърбления.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetterLabel>синдромът на турет</TargetedInsultingSpree.beginLetterLabel>
+  <TargetedInsultingSpree.recoveryMessage>{0} прекрати своя поток от оскърбления.</TargetedInsultingSpree.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <TargetedTantrum.label>истерия</TargetedTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <TargetedTantrum.baseInspectLine>Душевно състояние: истерия</TargetedTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
+  <TargetedTantrum.beginLetter>{0} изпада в истерия.\n\n[PAWN_pronoun] ще разбие {1}.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>истерия</TargetedTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <TargetedTantrum.recoveryMessage>{0} вече не е в истерия.</TargetedTantrum.recoveryMessage>
+  
+  <!-- EN: sitting alone -->
+  <Wander_OwnRoom.label>отшелничество</Wander_OwnRoom.label>
+  <!-- EN: Mental state: Hiding in room -->
+  <Wander_OwnRoom.baseInspectLine>Душевно състояние: отшелничество</Wander_OwnRoom.baseInspectLine>
+  <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.beginLetter>{0} се крие в своята стая.</Wander_OwnRoom.beginLetter>
+  <!-- EN: hide in room -->
+  <Wander_OwnRoom.beginLetterLabel>отшелничество</Wander_OwnRoom.beginLetterLabel>
+  <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.recoveryMessage>{0} вече не се крие в стаята си.</Wander_OwnRoom.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic.label>обърканост</Wander_Psychotic.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic.baseInspectLine>Душевно състояние: обърканост</Wander_Psychotic.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic.beginLetter>{0} изпитва чувство на объркване и безцелно скита около колонията.</Wander_Psychotic.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic.beginLetterLabel>обърканост</Wander_Psychotic.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic.recoveryMessage>{0} вече не изпитва обърканост</Wander_Psychotic.recoveryMessage>
+  
+  <!-- EN: sad wandering -->
+  <Wander_Sad.label>тъга</Wander_Sad.label>
+  <!-- EN: Mental state: Sad wandering -->
+  <Wander_Sad.baseInspectLine>Душевно състояние: тъга</Wander_Sad.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around in sadness. -->
+  <Wander_Sad.beginLetter>{0} скита в скръб.</Wander_Sad.beginLetter>
+  <!-- EN: sad wander -->
+  <Wander_Sad.beginLetterLabel>тъга</Wander_Sad.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in sadness. -->
+  <Wander_Sad.recoveryMessage>{0} вече не е тъжен.</Wander_Sad.recoveryMessage>
+  
+</LanguageData>

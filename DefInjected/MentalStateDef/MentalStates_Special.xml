@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter -->
+  <Manhunter.label>жажда за кръв</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>Душевно състояние: жажда за кръв</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>{0} убива всеки безразборно!</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>жажда за кръв</Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>{0} се успокой.</Manhunter.recoveryMessage>
+  
+  <!-- EN: manhunter -->
+  <ManhunterPermanent.label>жажда за кръв</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>Душевно състояние: жажда за кръв</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>{0} убива всеки безразборно!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>жажда за кръв</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>{0} никога няма да се успокой, жаждата за кръв няма да изчезне.</ManhunterPermanent.recoveryMessage>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>бягство</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>Душевно състояние: бяга</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0} се намира в паника.</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>бягство</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0} вече не се паникьосва.</PanicFlee.recoveryMessage>
+  
+  <!-- EN: social fighting -->
+  <SocialFighting.label>меле</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>Душевно състояние: бие се</SocialFighting.baseInspectLine>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>обърканост</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>Душевно състояние: разсеяно се скита напред назад</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>{0} получи нервен срив и се скита объркан.</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>обърканост</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0} се възстанови.</WanderConfused.recoveryMessage>
+  
+</LanguageData>

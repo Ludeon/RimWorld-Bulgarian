@@ -1,125 +1,209 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<CreateWorldParams.text>Добре дошли в RimWorld! В това обучение ще научите основите на играта.\n\nПърва стъпка — създаване на свят.\n\nВ тази страница се определят параметрите за генериране на свят.\n\nНатисни бутона «Създай»!</CreateWorldParams.text>
-
-	<ChooseLandingSite.text>Тук избирате място за кацане.\n\nИма много разни биоми, но нека започнем с нещо по благоприятно.\n\nИзберете място с умерени гори и натиснете бутона «Напред».</ChooseLandingSite.text>
-	<ChooseLandingSite.rejectInputMessage>Моля, изберете място с равен релеф и умерена растителност.</ChooseLandingSite.rejectInputMessage>
-
-	<ReorderCharacters.text>Тук може да избирате вашите персонажи!\n\nЗа да отделиш персонаж, натисни по областта вляво. След това премести персонажът, който ти харесва в раздел «Избрани».</ReorderCharacters.text>
-	<ReorderCharacters.rejectInputMessage>Моля, изберете персонаж.</ReorderCharacters.rejectInputMessage>
-
-	<RandomizeCharacter.text>Ако не ви харесва персонаж!\n\nОпитайте друг персонаж с бутон «Случаен».</RandomizeCharacter.text>
-	<RandomizeCharacter.rejectInputMessage>Моля, опитайте да създадете случаен персонаж.</RandomizeCharacter.rejectInputMessage>
-
-	<AcceptStartingPawns.text>Чудесно!\n\nПробвайте още един път, ако искате друг персонаж. Всеки има недостатък, което прави историята по интересна!\n\nМожете да преименувате имената, като натиснете върху имената.\n\nНатиснете «Начало», когато сте готов.</AcceptStartingPawns.text>
-
-	<MapCameraDolly.text>Вие вече сте на повърхността!\n\nПробвайте да преместите камерата.\n\nИзползвайте клавиши {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} или натиснете средният бутон на мишката, за да преместите камерата.\n\nПробвайте!</MapCameraDolly.text>
-
-	<MapCameraZoom.text>Отлично!\n\nУвеличи и намали мащаба с помощта на колесника на мишката или с клавиш {Key:MapZoomIn} и {Key:MapZoomOut}.\n\nПробвайте!</MapCameraZoom.text>
-
-	<Pause.text>Пауза!\n\nНаправете пауза, когато се налага да давате заповед на заселници.\n\nПробвайте да поставите играта в пауза с клавиш {Key:TogglePause} или бутони за управляване в долната дясна част на екрана.</Pause.text>
-
-	<TimeControls.text>Ускори времето!\n\nПробвайте достъпни режими с помощта на клавиши {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} и {Key:TimeSpeedSuperfast} или бутони за управляване в долната дясна част на екрана.</TimeControls.text>
-
-	<MakeStockpile.text>Чудесно!\n\nСега направете склад, за да знаят заселниците къде да съхраняват ресурсите си.\n\n1. Изберете раздел «Проекти».\n2. В откриващото меню изберете раздел «Области».\n3. И накрая, изберете инструмента «Склад».\n4. Поставете я върху отбелязаната зона.</MakeStockpile.text>
-	<MakeStockpile.onMapInstruction>Направи склад тук\n(задръж и дръпни за поставяне)</MakeStockpile.onMapInstruction>
-	<MakeStockpile.rejectInputMessage>Моля, направете склад в отбелязаната зона.</MakeStockpile.rejectInputMessage>
-
-	<EndStockpileDesignating.text>Натиснете десният бутон на мишката за изход от режим проектиране.</EndStockpileDesignating.text>
-
-	<UnforbidStartingResources.text>Сега позволи на заселниците да преместят ресурсите в склада.\n\n1. Изберете един от ресурсите.\n2. Натиснете бутона «Забрани», за да се премахне забраната за преместване.\n\n(Съвет: Използвайте двоен клик върху ресурса, за да маркирате ресурси от същият тип, видими на екрана.)</UnforbidStartingResources.text>
-	<UnforbidStartingResources.onMapInstruction>Свали забраната</UnforbidStartingResources.onMapInstruction>
-	<UnforbidStartingResources.rejectInputMessage>Моля, разрешете подбор на разпръснатите ресурси.</UnforbidStartingResources.rejectInputMessage>
-
-	<BuildRoomWalls.text>Невероятно! А сега нека построим стая.\n\n1. Изберете раздел «Проекти».\n2. В откриващото меню изберете раздел «Постройка».\n3. Изберете инструмента «Стена».\n4. Посочете дървесината като материал.\n5. Поставете четири стени в отбелязаната зона.</BuildRoomWalls.text>
-	<BuildRoomWalls.onMapInstruction>Постройте стени</BuildRoomWalls.onMapInstruction>
-	<BuildRoomWalls.rejectInputMessage>Моля, постройте дървена стена в осветения правоъгълник.</BuildRoomWalls.rejectInputMessage>
-
-	<BuildRoomDoor.text>Постройте врата в стените.\n\nИнструмент «Врата» се намира в «Постройка» меню «Проекти».</BuildRoomDoor.text>
-	<BuildRoomDoor.onMapInstruction>Постройте врата в една от стените</BuildRoomDoor.onMapInstruction>
-	<BuildRoomDoor.rejectInputMessage>Моля, Постройте дървена врата в една от стените на стаята.</BuildRoomDoor.rejectInputMessage>
-
-	<BuildBeds.text>Заселниците скоро ще завършват стаята!\n\nНо те се нуждаят от почивка и сън. Постройте им три легла вътре в стаята.\n\nНамира се в раздел «Мебел».</BuildBeds.text>
-	<BuildBeds.onMapInstruction>Постройте три легла вътре в стаята</BuildBeds.onMapInstruction>
-	<BuildBeds.rejectInputMessage>Моля, поставете три легла вътре в стаята.</BuildBeds.rejectInputMessage>
-
-	<BuildTorchLamp.text>Ще трябва осветление вътре, иначе заселниците ще нервничат.\n\nПоставете факел вътре в помещението.</BuildTorchLamp.text>
-	<BuildTorchLamp.onMapInstruction>Поставете факел вътре в стая</BuildTorchLamp.onMapInstruction>
-	<BuildTorchLamp.rejectInputMessage>Моля, поставете факел вътре в стая.</BuildTorchLamp.rejectInputMessage>
-
-	<BuildAnimalSleepingSpot.text>За да спят домашните любимци близо до стопаните си, постройте легло.\n\nЛегло за животни - предназначени за животни.</BuildAnimalSleepingSpot.text>
-	<BuildAnimalSleepingSpot.onMapInstruction>Постройте легло за животни\nвътре в стаята</BuildAnimalSleepingSpot.onMapInstruction>
-	<BuildAnimalSleepingSpot.rejectInputMessage>Моля, поставете легло за животни вътре в стаята.</BuildAnimalSleepingSpot.rejectInputMessage>
-
-	<BuildHorseshoesPin.text>Заселниците се нуждаят от развлечение, иначе от време на време ще изпитват тъга.\n\nПоставете скоби за мятане на подкови навън, близо до сградата.</BuildHorseshoesPin.text>
-	<BuildHorseshoesPin.onMapInstruction>Поставете скоби за мятане на подкови навън\nблизо до сградата</BuildHorseshoesPin.onMapInstruction>
-	<BuildHorseshoesPin.rejectInputMessage>Моля, поставете скоби за мятане на подкови навън, близо до сградата.</BuildHorseshoesPin.rejectInputMessage>
-
-	<MakeGrowingZone.text>Къщата е построена!\n\nЗаселниците се нуждаят от храна, използвайте инструмента «Засаждане» на място, отбелязано на картата.\n\nТук заселниците ще огледат зърнени култури.</MakeGrowingZone.text>
-	<MakeGrowingZone.onMapInstruction>Моля, поставете зона за засаждане тук\n(задръжте и дръпнете за поставяне)</MakeGrowingZone.onMapInstruction>
-	<MakeGrowingZone.rejectInputMessage>Оставете зона за засаждане в отбелязаната зона.</MakeGrowingZone.rejectInputMessage>
-
-	<SetToGrowRice.text>Решете какво заселниците да засаждат в отбелязаната зона.\n\n1. Натиснете десният бутон на мишката за изход от режим проектиране.\n2. Натиснете върху полето за маркиране.\n3. След това изберете в списъка култура ОРИЗ.</SetToGrowRice.text>
-	<SetToGrowRice.onMapInstruction>Посочете оризова култура за засяване в отбелязаната зона</SetToGrowRice.onMapInstruction>
-	<SetToGrowRice.rejectInputMessage>Моля, изберете ориз за засаждане.</SetToGrowRice.rejectInputMessage>
-
-	<EquipWeapons.text>Дайте на заселници оръжия! За това:\n\n1. Изберете заселник.\n2. Натиснете десният бутон на мишката върху оръжието.\n3. Изберете «Вземи оръжие» в контекстното меню.\n\nПовторете това за всеки заселник.</EquipWeapons.text>
-	<EquipWeapons.onMapInstruction>Вземете това оръжие</EquipWeapons.onMapInstruction>
-	<EquipWeapons.rejectInputMessage>Моля, екипирайте своите заселници с оръжия.</EquipWeapons.rejectInputMessage>
-
-	<BuildFueledStove.text>Отлично!\n\nСега направете печка за готвене.\n\nПоставете печката вътре в стаята.</BuildFueledStove.text>
-	<BuildFueledStove.onMapInstruction>Постройте печка вътре в стаята</BuildFueledStove.onMapInstruction>
-	<BuildFueledStove.rejectInputMessage>Моля, постройте печка вътре в стаята.</BuildFueledStove.rejectInputMessage>
-
-	<AddBillSimpleMeal.text>Кажете на заселниците, какво да готвят.\n\nКулинарни поръчки се добавят чрез менюто на печката. След добавяне на поръчки, заселниците сами ще започнат да готвят.\n\n1. Изчакайте докато построяването на печката приключи.\n2. Изберете печката.\n3. Отворете раздел «Задачи».\n4. Натиснете «Добави задача».\n5. Изберете «Приготви просто блюдо» в контекстното меню.\n6. Натиснете на бутона "+" за увеличаване на порции до 10.\n\nАко задачата се проточва, ускорете времето.\n\nИли изберете заселник и му заповядвайте да готви, като натиснете с десният бутон на мишката върху печката.</AddBillSimpleMeal.text>
-	<AddBillSimpleMeal.onMapInstruction>Изберете това</AddBillSimpleMeal.onMapInstruction>
-	<AddBillSimpleMeal.rejectInputMessage>Моля, добавете задача за приготвяне на просто блюдо.</AddBillSimpleMeal.rejectInputMessage>
-
-	<MineSteel.text>Скоро заселниците ще започнат да готвят нещо вкусно!\n\nА сега нека се обърнем към полезни изкопаеми: по нататък те ще са ви необходими. Близо до базата се намират метални залежи.\n\nИзберете инструмент «Копай» и ограждайте залежите.</MineSteel.text>
-	<MineSteel.onMapInstruction>Маркирай това\nза добив</MineSteel.onMapInstruction>
-	<MineSteel.rejectInputMessage>Моля, използвайте инструмент «Копай» върху метални залежи.</MineSteel.rejectInputMessage>
-
-	<ChopTrees.text>Недостатъчна дървесина! Маркирайте няколко дървета за срязване.\n\nИзползвайте инструмент «Срежи» и изберете 10 дървета.\n\n(Съвет: Оградете дървета в правоъгълна форма за по-бързо срязване.)</ChopTrees.text>
-	<ChopTrees.rejectInputMessage>Моля, използвайте инструмента «Срежи» върху няколко дървета.</ChopTrees.rejectInputMessage>
-
-	<OpenMainTabWork.text>Можете да контролирате каква работа да извършва даден заселник.\n\nОтворете раздел «Работа» на панели в долната част на екрана.</OpenMainTabWork.text>
-	<OpenMainTabWork.rejectInputMessage>Моля, отворете раздел «Работа».</OpenMainTabWork.rejectInputMessage>
-
-	<ChangeWorkSettings.text>Посочете занятие за всеки заселник, като маркирате съответните полета. Заселника изпълнява задачи подред, от ляво на дясно.\n\nПробвайте да промените няколко настройки.\n\nБъдете внимателни: заселниците следят за приоритети в работата, дори ако води до глупости! Правилно планирайте задачи — ключово умение да играеш успешно в RimWorld. Внимателно задайте приоритети, и не забравяйте да проверите от време на време.</ChangeWorkSettings.text>
-	<ChangeWorkSettings.rejectInputMessage>Моля, отворете раздел «Работа» и променете някой настройки.</ChangeWorkSettings.rejectInputMessage>
-
-	<BuildSimpleResearchBench.text>Изучавайте нови технологии по пътя на прогреса.\n\nПостройте проста маса за изследване вътре в стая.</BuildSimpleResearchBench.text>
-	<BuildSimpleResearchBench.onMapInstruction>Постройте проста маса за изследване\nвътре в тази стая</BuildSimpleResearchBench.onMapInstruction>
-	<BuildSimpleResearchBench.rejectInputMessage>Моля, поставете проста дървена маса за изследване вътре в стая.</BuildSimpleResearchBench.rejectInputMessage>
-
-	<OpenMainTabResearch.text>Чудесно! Избери технология за изследване.\n\nОтворете раздел «Технологии».</OpenMainTabResearch.text>
-	<OpenMainTabResearch.rejectInputMessage>Моля, отворете раздел «Технологии».</OpenMainTabResearch.rejectInputMessage>
-
-	<SelectResearchProject.text>Сега изберете какво да се изследва.\n\nНо масата за изследвания не е готова все още.\n\nИзползвайте раздел «Работа» за да назначите някой заселници, за да ускорите построяването.</SelectResearchProject.text>
-	<SelectResearchProject.rejectInputMessage>Моля, изберете технология за изследване.</SelectResearchProject.rejectInputMessage>
-
-	<ExpandAreaHome.text>Понякога се налага да се разшири домашната зона.\n\nЗаселниците могат да чистят, потушават пожари само в домашната област, пренебрегвайки огъня и боклука извън зоната.\n\nДомашната зона се разширява автоматично при построяване на нови сгради — но при желание може да се добави ръчно.\n\nЗа това изберете «Добави домашна област» и оградете участък.</ExpandAreaHome.text>
-	<ExpandAreaHome.rejectInputMessage>Моля, разширете текущата домашна зона, за практика.</ExpandAreaHome.rejectInputMessage>
-
-	<ExpandAreaBuildRoof.text>Посочете на заселниците къде да строят покрив и къде не.\n\nПокриви се строят автоматично при построяване на нови сгради.\n\nИзберете инструмент «Разшири покрив» и оградете основата на сградата.</ExpandAreaBuildRoof.text>
-	<ExpandAreaBuildRoof.rejectInputMessage>Моля, практикувайте разширяване на покрив.</ExpandAreaBuildRoof.rejectInputMessage>
-
-	<BuildSandbags.text>Прекрасно! Заселниците ти работят! Един ден ще бъдете нападнат от врагове. Ще е добре да се подсигурете.\n\nИзберете инструмент «Чували с пясък» и поставете в обозначената зона.</BuildSandbags.text>
-	<BuildSandbags.onMapInstruction>Постройте тук чували с пясък</BuildSandbags.onMapInstruction>
-	<BuildSandbags.rejectInputMessage>Моля, постройте чували с пясък в отбелязаната зона.</BuildSandbags.rejectInputMessage>
-
-	<FinishSandbags.text>Нека изчакаме, докато построяването приключи.\n\nЗа ускоряване пробвайте «Работа» назначете още работници.\n\nИли ускорете времето, за да съкратите изчакването.\n\nСлед това ще ви нападат, за да се провери защитата на колонията!</FinishSandbags.text>
-	<FinishSandbags.rejectInputMessage>Моля, изчакайте докато заселниците достроят чували с пясък.</FinishSandbags.rejectInputMessage>
-
-	<DownRaider.text>Колонията е атакувана!\n\n1. Направете пауза, натиснете {Key:TogglePause}!\n2. Прочетете червеният текст в дясната долна част на екрана.\n3. Съберете заселниците, изберете един от тях и натиснете «На бой».\n4. Натиснете десният бутон на мишката върху кръгчетата вътре, където се намират чувалите с пясък.\n5. Свалете паузата.\n\nЧувалите им осигуряват прикритие и затрудняват противника, също така чакат противника да се приближава. Заселниците автоматично ще започнат да стрелят.</DownRaider.text>
-	<DownRaider.onMapInstruction>Изпрати заселниците тук,\nпод защитата на чували с пясък</DownRaider.onMapInstruction>
-	<DownRaider.rejectInputMessage>Моля, съсредоточете се към боя!</DownRaider.rejectInputMessage>
-
-	<UndraftAll.text>Успешно! Сега разпуснете заселниците, като използвате същият бутон.\n\nТова позволява да се върнат към предишните занятия.</UndraftAll.text>
-	<UndraftAll.rejectInputMessage>Моля, разпуснете заселниците.</UndraftAll.rejectInputMessage>
-
-	<ChooseStoryteller.text>Обучение е завършено!\n\nОсновните умения за оцеляване са изучени. Затворници, лов, търговия, опитомяване на животни и други нюанси на играта ще ги научите самостоятелно.\n\nСлучайни инциденти по време на обучението бяха изключени. За да започнете истинска игра:\n\n1. Отворете раздел «Меню» долу вдясно.\n2. Изберете «Настройки».\n3. Натиснете «Избери разказвач».\n4. Изберете сложност.\n\nУспех.</ChooseStoryteller.text>
-	<ChooseStoryteller.rejectInputMessage>Изберете разказвач, за да приключите обучението.</ChooseStoryteller.rejectInputMessage>
-
+  
+  <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
+  <AcceptStartingPawns.text>Чудесно!\n\nПробвайте още един път, ако искате друг персонаж. Всеки има недостатък, което прави историята по интересна!\n\nМожете да преименувате имената, като натиснете върху имената.\n\nНатиснете «Начало», когато сте готов.</AcceptStartingPawns.text>
+  
+  <!-- EN: Select this -->
+  <AddBillSimpleMeal.onMapInstruction>Изберете това</AddBillSimpleMeal.onMapInstruction>
+  <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
+  <AddBillSimpleMeal.rejectInputMessage>Моля, добавете задача за приготвяне на просто блюдо.</AddBillSimpleMeal.rejectInputMessage>
+  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
+  <AddBillSimpleMeal.text>Кажете на заселниците, какво да готвят.\n\nКулинарни поръчки се добавят чрез менюто на печката. След добавяне на поръчки, заселниците сами ще започнат да готвят.\n\n1. Изчакайте докато построяването на печката приключи.\n2. Изберете печката.\n3. Отворете раздел «Задачи».\n4. Натиснете «Добави задача».\n5. Изберете «Приготви просто блюдо» в контекстното меню.\n6. Натиснете на бутона "+" за увеличаване на порции до 10.\n\nАко задачата се проточва, ускорете времето.\n\nИли изберете заселник и му заповядвайте да готви, като натиснете с десният бутон на мишката върху печката.</AddBillSimpleMeal.text>
+  
+  <!-- EN: Build an animal sleeping spot\ninside the room -->
+  <BuildAnimalSleepingSpot.onMapInstruction>Постройте легло за животни\nвътре в стаята</BuildAnimalSleepingSpot.onMapInstruction>
+  <!-- EN: Please place an animal sleeping spot inside the room. -->
+  <BuildAnimalSleepingSpot.rejectInputMessage>Моля, поставете легло за животни вътре в стаята.</BuildAnimalSleepingSpot.rejectInputMessage>
+  <!-- EN: So your pet will sleep inside with you, place an ANIMAL SLEEPING SPOT inside the room.\n\nSleeping spots aren't real buildings - they're just spots on the ground designated for a sleeping. -->
+  <BuildAnimalSleepingSpot.text>За да спят домашните любимци близо до стопаните си, постройте легло.\n\nЛегло за животни - предназначени за животни.</BuildAnimalSleepingSpot.text>
+  
+  <!-- EN: Build three beds inside the room -->
+  <BuildBeds.onMapInstruction>Постройте три легла вътре в стаята</BuildBeds.onMapInstruction>
+  <!-- EN: Please build wooden beds inside the room. -->
+  <BuildBeds.rejectInputMessage>Моля, поставете три легла вътре в стаята.</BuildBeds.rejectInputMessage>
+  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
+  <BuildBeds.text>Заселниците скоро ще завършват стаята!\n\nНо те се нуждаят от почивка и сън. Постройте им три легла вътре в стаята.\n\nНамира се в раздел «Мебел».</BuildBeds.text>
+  
+  <!-- EN: Build a fueled stove inside the room -->
+  <BuildFueledStove.onMapInstruction>Постройте печка вътре в стаята</BuildFueledStove.onMapInstruction>
+  <!-- EN: Please build the fueled stove inside the room you built earlier. -->
+  <BuildFueledStove.rejectInputMessage>Моля, постройте печка вътре в стаята.</BuildFueledStove.rejectInputMessage>
+  <!-- EN: Excellent!\n\nNow you'll need to make a stove to cook food.\n\nBuild a FUELED STOVE inside the room. -->
+  <BuildFueledStove.text>Отлично!\n\nСега направете печка за готвене.\n\nПоставете печката вътре в стаята.</BuildFueledStove.text>
+  
+  <!-- EN: Build a horseshoes pin\noutside the room -->
+  <BuildHorseshoesPin.onMapInstruction>Поставете скоби за мятане на подкови навън\nблизо до сградата</BuildHorseshoesPin.onMapInstruction>
+  <!-- EN: Please place a horseshoes pin somewhere near the room. -->
+  <BuildHorseshoesPin.rejectInputMessage>Моля, поставете скоби за мятане на подкови навън, близо до сградата.</BuildHorseshoesPin.rejectInputMessage>
+  <!-- EN: Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room. -->
+  <BuildHorseshoesPin.text>Заселниците се нуждаят от развлечение, иначе от време на време ще изпитват тъга.\n\nПоставете скоби за мятане на подкови навън, близо до сградата.</BuildHorseshoesPin.text>
+  
+  <!-- EN: Build a door over one wall -->
+  <BuildRoomDoor.onMapInstruction>Постройте врата в една от стените</BuildRoomDoor.onMapInstruction>
+  <!-- EN: Please build a wooden door over one of your room walls. -->
+  <BuildRoomDoor.rejectInputMessage>Моля, Постройте дървена врата в една от стените на стаята.</BuildRoomDoor.rejectInputMessage>
+  <!-- EN: Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu. -->
+  <BuildRoomDoor.text>Постройте врата в стените.\n\nИнструмент «Врата» се намира в «Постройка» меню «Проекти».</BuildRoomDoor.text>
+  
+  <!-- EN: Build walls -->
+  <BuildRoomWalls.onMapInstruction>Постройте стени</BuildRoomWalls.onMapInstruction>
+  <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
+  <BuildRoomWalls.rejectInputMessage>Моля, постройте дървена стена в осветения правоъгълник.</BuildRoomWalls.rejectInputMessage>
+  <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
+  <BuildRoomWalls.text>Невероятно! А сега нека построим стая.\n\n1. Изберете раздел «Проекти».\n2. В откриващото меню изберете раздел «Постройка».\n3. Изберете инструмента «Стена».\n4. Посочете дървесината като материал.\n5. Поставете четири стени в отбелязаната зона.</BuildRoomWalls.text>
+  
+  <!-- EN: Build sandbags here -->
+  <BuildSandbags.onMapInstruction>Постройте тук чували с пясък</BuildSandbags.onMapInstruction>
+  <!-- EN: Please build sandbags in the highlighted area. -->
+  <BuildSandbags.rejectInputMessage>Моля, постройте чували с пясък в отбелязаната зона.</BuildSandbags.rejectInputMessage>
+  <!-- EN: Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area. -->
+  <BuildSandbags.text>Прекрасно! Заселниците ти работят! Един ден ще бъдете нападнат от врагове. Ще е добре да се подсигурете.\n\nИзберете инструмент «Чували с пясък» и поставете в обозначената зона.</BuildSandbags.text>
+  
+  <!-- EN: Build a wooden simple research bench\ninside the room -->
+  <BuildSimpleResearchBench.onMapInstruction>Постройте проста маса за изследване\nвътре в тази стая</BuildSimpleResearchBench.onMapInstruction>
+  <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
+  <BuildSimpleResearchBench.rejectInputMessage>Моля, поставете проста дървена маса за изследване вътре в стая.</BuildSimpleResearchBench.rejectInputMessage>
+  <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
+  <BuildSimpleResearchBench.text>Изучавайте нови технологии по пътя на прогреса.\n\nПостройте проста маса за изследване вътре в стая.</BuildSimpleResearchBench.text>
+  
+  <!-- EN: Build a torch lamp inside the room -->
+  <BuildTorchLamp.onMapInstruction>Поставете факел вътре в стая</BuildTorchLamp.onMapInstruction>
+  <!-- EN: Please build a torch lamp inside the room. -->
+  <BuildTorchLamp.rejectInputMessage>Моля, поставете факел вътре в стая.</BuildTorchLamp.rejectInputMessage>
+  <!-- EN: You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room. -->
+  <BuildTorchLamp.text>Ще трябва осветление вътре, иначе заселниците ще нервничат.\n\nПоставете факел вътре в помещението.</BuildTorchLamp.text>
+  
+  <!-- EN: Please open the 'Work' tab and change some settings. -->
+  <ChangeWorkSettings.rejectInputMessage>Моля, отворете раздел «Работа» и променете някой настройки.</ChangeWorkSettings.rejectInputMessage>
+  <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is a key skill for success in RimWorld. So set the work settings carefully, and review them often! -->
+  <ChangeWorkSettings.text>Посочете занятие за всеки заселник, като маркирате съответните полета. Заселника изпълнява задачи подред, от ляво на дясно.\n\nПробвайте да промените няколко настройки.\n\nБъдете внимателни: заселниците следят за приоритети в работата, дори ако води до глупости! Правилно планирайте задачи — ключово умение да играеш успешно в RimWorld. Внимателно задайте приоритети, и не забравяйте да проверите от време на време.</ChangeWorkSettings.text>
+  
+  <!-- EN: Please choose a temperate forest landing site with flat terrain. -->
+  <ChooseLandingSite.rejectInputMessage>Моля, изберете място с равен релеф и умерена растителност.</ChooseLandingSite.rejectInputMessage>
+  <!-- EN: Here, you choose your landing site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a landing site with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile. -->
+  <ChooseLandingSite.text>Тук избирате място за кацане.\n\nИма много разни биоми, но нека започнем с нещо по благоприятно.\n\nИзберете място с умерени гори и натиснете бутона «Напред».</ChooseLandingSite.text>
+  
+  <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
+  <ChooseStoryteller.rejectInputMessage>Изберете разказвач, за да приключите обучението.</ChooseStoryteller.rejectInputMessage>
+  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click CHOOSE STORYTELLER.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun. -->
+  <ChooseStoryteller.text>Обучение е завършено!\n\nОсновните умения за оцеляване са изучени. Затворници, лов, търговия, опитомяване на животни и други нюанси на играта ще ги научите самостоятелно.\n\nСлучайни инциденти по време на обучението бяха изключени. За да започнете истинска игра:\n\n1. Отворете раздел «Меню» долу вдясно.\n2. Изберете «Настройки».\n3. Натиснете «Избери разказвач».\n4. Изберете сложност.\n\nУспех.</ChooseStoryteller.text>
+  
+  <!-- EN: Please drag the 'chop wood' designator over some trees. -->
+  <ChopTrees.rejectInputMessage>Моля, използвайте инструмента «Срежи» върху няколко дървета.</ChopTrees.rejectInputMessage>
+  <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
+  <ChopTrees.text>Недостатъчна дървесина! Маркирайте няколко дървета за срязване.\n\nИзползвайте инструмент «Срежи» и изберете 10 дървета.\n\n(Съвет: Оградете дървета в правоъгълна форма за по-бързо срязване.)</ChopTrees.text>
+  
+  <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <CreateWorldParams.text>Добре дошли в RimWorld! В това обучение ще научите основите на играта.\n\nПърва стъпка — създаване на свят.\n\nВ тази страница се определят параметрите за генериране на свят.\n\nНатисни бутона «Създай»!</CreateWorldParams.text>
+  
+  <!-- EN: Send colonists here\ntouching sandbags for cover -->
+  <DownRaider.onMapInstruction>Изпрати заселниците тук,\nпод защитата на чували с пясък</DownRaider.onMapInstruction>
+  <!-- EN: Please focus on winning the fight! -->
+  <DownRaider.rejectInputMessage>Моля, съсредоточете се към боя!</DownRaider.rejectInputMessage>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.text>Колонията е атакувана!\n\n1. Направете пауза, натиснете {Key:TogglePause}!\n2. Прочетете червеният текст в дясната долна част на екрана.\n3. Съберете заселниците, изберете един от тях и натиснете «На бой».\n4. Натиснете десният бутон на мишката върху кръгчетата вътре, където се намират чувалите с пясък.\n5. Свалете паузата.\n\nЧувалите им осигуряват прикритие и затрудняват противника, също така чакат противника да се приближава. Заселниците автоматично ще започнат да стрелят.</DownRaider.text>
+  
+  <!-- EN: Right-click to get out of stockpile designating mode. -->
+  <EndStockpileDesignating.text>Натиснете десният бутон на мишката за изход от режим проектиране.</EndStockpileDesignating.text>
+  
+  <!-- EN: Equip this -->
+  <EquipWeapons.onMapInstruction>Вземете това оръжие</EquipWeapons.onMapInstruction>
+  <!-- EN: Please have your colonists equip weapons. -->
+  <EquipWeapons.rejectInputMessage>Моля, екипирайте своите заселници с оръжия.</EquipWeapons.rejectInputMessage>
+  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
+  <EquipWeapons.text>Дайте на заселници оръжия! За това:\n\n1. Изберете заселник.\n2. Натиснете десният бутон на мишката върху оръжието.\n3. Изберете «Вземи оръжие» в контекстното меню.\n\nПовторете това за всеки заселник.</EquipWeapons.text>
+  
+  <!-- EN: Please expand the build roof area a bit, just for practice. -->
+  <ExpandAreaBuildRoof.rejectInputMessage>Моля, практикувайте разширяване на покрив.</ExpandAreaBuildRoof.rejectInputMessage>
+  <!-- EN: The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house. -->
+  <ExpandAreaBuildRoof.text>Посочете на заселниците къде да строят покрив и къде не.\n\nПокриви се строят автоматично при построяване на нови сгради.\n\nИзберете инструмент «Разшири покрив» и оградете основата на сградата.</ExpandAreaBuildRoof.text>
+  
+  <!-- EN: Please expand the home area a bit, just for practice. -->
+  <ExpandAreaHome.rejectInputMessage>Моля, разширете текущата домашна зона, за практика.</ExpandAreaHome.rejectInputMessage>
+  <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
+  <ExpandAreaHome.text>Понякога се налага да се разшири домашната зона.\n\nЗаселниците могат да чистят, потушават пожари само в домашната област, пренебрегвайки огъня и боклука извън зоната.\n\nДомашната зона се разширява автоматично при построяване на нови сгради — но при желание може да се добави ръчно.\n\nЗа това изберете «Добави домашна област» и оградете участък.</ExpandAreaHome.text>
+  
+  <!-- EN: Please wait for your colonists to finish building the sandbags. -->
+  <FinishSandbags.rejectInputMessage>Моля, изчакайте докато заселниците достроят чували с пясък.</FinishSandbags.rejectInputMessage>
+  <!-- EN: Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses! -->
+  <FinishSandbags.text>Нека изчакаме, докато построяването приключи.\n\nЗа ускоряване пробвайте «Работа» назначете още работници.\n\nИли ускорете времето, за да съкратите изчакването.\n\nСлед това ще ви нападат, за да се провери защитата на колонията!</FinishSandbags.text>
+  
+  <!-- EN: Place growing zone here\n(drag corner-to-corner) -->
+  <MakeGrowingZone.onMapInstruction>Моля, поставете зона за засаждане тук\n(задръжте и дръпнете за поставяне)</MakeGrowingZone.onMapInstruction>
+  <!-- EN: Please make a growing zone on the indicated area. -->
+  <MakeGrowingZone.rejectInputMessage>Оставете зона за засаждане в отбелязаната зона.</MakeGrowingZone.rejectInputMessage>
+  <!-- EN: The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops. -->
+  <MakeGrowingZone.text>Къщата е построена!\n\nЗаселниците се нуждаят от храна, използвайте инструмента «Засаждане» на място, отбелязано на картата.\n\nТук заселниците ще огледат зърнени култури.</MakeGrowingZone.text>
+  
+  <!-- EN: Place stockpile here\n(drag corner-to-corner) -->
+  <MakeStockpile.onMapInstruction>Направи склад тук\n(задръж и дръпни за поставяне)</MakeStockpile.onMapInstruction>
+  <!-- EN: Please make a stockpile on the indicated area. -->
+  <MakeStockpile.rejectInputMessage>Моля, направете склад в отбелязаната зона.</MakeStockpile.rejectInputMessage>
+  <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
+  <MakeStockpile.text>Чудесно!\n\nСега направете склад, за да знаят заселниците къде да съхраняват ресурсите си.\n\n1. Изберете раздел «Проекти».\n2. В откриващото меню изберете раздел «Области».\n3. И накрая, изберете инструмента «Склад».\n4. Поставете я върху отбелязаната зона.</MakeStockpile.text>
+  
+  <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
+  <MapCameraDolly.text>Вие вече сте на повърхността!\n\nПробвайте да преместите камерата.\n\nИзползвайте клавиши {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} или натиснете средният бутон на мишката, за да преместите камерата.\n\nПробвайте!</MapCameraDolly.text>
+  
+  <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
+  <MapCameraZoom.text>Отлично!\n\nУвеличи и намали мащаба с помощта на колесника на мишката или с клавиш {Key:MapZoomIn} и {Key:MapZoomOut}.\n\nПробвайте!</MapCameraZoom.text>
+  
+  <!-- EN: Designate all this\nfor mining -->
+  <MineSteel.onMapInstruction>Маркирай това\nза добив</MineSteel.onMapInstruction>
+  <!-- EN: Please use the 'mine' designator on the compacted steel. -->
+  <MineSteel.rejectInputMessage>Моля, използвайте инструмент «Копай» върху метални залежи.</MineSteel.rejectInputMessage>
+  <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->
+  <MineSteel.text>Скоро заселниците ще започнат да готвят нещо вкусно!\n\nА сега нека се обърнем към полезни изкопаеми: по нататък те ще са ви необходими. Близо до базата се намират метални залежи.\n\nИзберете инструмент «Копай» и ограждайте залежите.</MineSteel.text>
+  
+  <!-- EN: Please open the 'Research' tab. -->
+  <OpenMainTabResearch.rejectInputMessage>Моля, отворете раздел «Технологии».</OpenMainTabResearch.rejectInputMessage>
+  <!-- EN: Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab. -->
+  <OpenMainTabResearch.text>Чудесно! Избери технология за изследване.\n\nОтворете раздел «Технологии».</OpenMainTabResearch.text>
+  
+  <!-- EN: Please open the 'Work' tab. -->
+  <OpenMainTabWork.rejectInputMessage>Моля, отворете раздел «Работа».</OpenMainTabWork.rejectInputMessage>
+  <!-- EN: You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen. -->
+  <OpenMainTabWork.text>Можете да контролирате каква работа да извършва даден заселник.\n\nОтворете раздел «Работа» на панели в долната част на екрана.</OpenMainTabWork.text>
+  
+  <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
+  <Pause.text>Пауза!\n\nНаправете пауза, когато се налага да давате заповед на заселници.\n\nПробвайте да поставите играта в пауза с клавиш {Key:TogglePause} или бутони за управляване в долната дясна част на екрана.</Pause.text>
+  
+  <!-- EN: Please try randomizing a character first. -->
+  <RandomizeCharacter.rejectInputMessage>Моля, опитайте да създадете случаен персонаж.</RandomizeCharacter.rejectInputMessage>
+  <!-- EN: If you don't like a character, you can regenerate it!\n\nTry randomizing a character with the RANDOMIZE button. -->
+  <RandomizeCharacter.text>Ако не ви харесва персонаж!\n\nОпитайте друг персонаж с бутон «Случаен».</RandomizeCharacter.text>
+  
+  <!-- EN: Please try choosing a character first. -->
+  <ReorderCharacters.rejectInputMessage>Моля, изберете персонаж.</ReorderCharacters.rejectInputMessage>
+  <!-- EN: Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label. -->
+  <ReorderCharacters.text>Тук може да избирате вашите персонажи!\n\nЗа да отделиш персонаж, натисни по областта вляво. След това премести персонажът, който ти харесва в раздел «Избрани».</ReorderCharacters.text>
+  
+  <!-- EN: Please choose a research project. -->
+  <SelectResearchProject.rejectInputMessage>Моля, изберете технология за изследване.</SelectResearchProject.rejectInputMessage>
+  <!-- EN: Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct. -->
+  <SelectResearchProject.text>Сега изберете какво да се изследва.\n\nНо масата за изследвания не е готова все още.\n\nИзползвайте раздел «Работа» за да назначите някой заселници, за да ускорите построяването.</SelectResearchProject.text>
+  
+  <!-- EN: Set this growing zone to grow rice -->
+  <SetToGrowRice.onMapInstruction>Посочете оризова култура за засяване в отбелязаната зона</SetToGrowRice.onMapInstruction>
+  <!-- EN: Please set your growing zone to grow rice. -->
+  <SetToGrowRice.rejectInputMessage>Моля, изберете ориз за засаждане.</SetToGrowRice.rejectInputMessage>
+  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the "Select plant" command at the bottom and change it to Rice. -->
+  <SetToGrowRice.text>Решете какво заселниците да засаждат в отбелязаната зона.\n\n1. Натиснете десният бутон на мишката за изход от режим проектиране.\n2. Натиснете върху полето за маркиране.\n3. След това изберете в списъка култура ОРИЗ.</SetToGrowRice.text>
+  
+  <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
+  <TimeControls.text>Ускори времето!\n\nПробвайте достъпни режими с помощта на клавиши {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} и {Key:TimeSpeedSuperfast} или бутони за управляване в долната дясна част на екрана.</TimeControls.text>
+  
+  <!-- EN: Please un-draft your colonists. -->
+  <UndraftAll.rejectInputMessage>Моля, разпуснете заселниците.</UndraftAll.rejectInputMessage>
+  <!-- EN: Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules. -->
+  <UndraftAll.text>Успешно! Сега разпуснете заселниците, като използвате същият бутон.\n\nТова позволява да се върнат към предишните занятия.</UndraftAll.text>
+  
+  <!-- EN: Unforbid this -->
+  <UnforbidStartingResources.onMapInstruction>Свали забраната</UnforbidStartingResources.onMapInstruction>
+  <!-- EN: Please unforbid your starting items. -->
+  <UnforbidStartingResources.rejectInputMessage>Моля, разрешете подбор на разпръснатите ресурси.</UnforbidStartingResources.rejectInputMessage>
+  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must unforbid the items.\n\n1. Clicking your starting items to select them.\n2. Click the TOGGLE FORBIDDEN command to unforbid them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
+  <UnforbidStartingResources.text>Сега позволи на заселниците да преместят ресурсите в склада.\n\n1. Изберете един от ресурсите.\n2. Натиснете бутона «Забрани», за да се премахне забраната за преместване.\n\n(Съвет: Използвайте двоен клик върху ресурса, за да маркирате ресурси от същият тип, видими на екрана.)</UnforbidStartingResources.text>
+  
 </LanguageData>

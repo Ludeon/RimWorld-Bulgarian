@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>алфабобри</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>увяхнала амброзия</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>Увяхнала амброзия</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>Загадъчен храсталак с амброзия е разположен наблизо. Ако изчаквате да узрее ще може да събирате нейните съблазнителни, вкусни и леко пристрастяващи плодове.</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>ниска температура</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Ниска температура</ColdSnap.letterLabel>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>Необичайно ниски температури тормозят заселниците. Пази тях и реколтата от измръзване.</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>болест по растенията</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>животни се присъединиха</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>опасни мълнии</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Опасни мълнии</Flashstorm.letterLabel>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>Необичайно голям брой мълнии падат върху малък регион. Има реална опасност от големи пожари.</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>жега</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Жега</HeatWave.letterLabel>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
+  <HeatWave.letterText>Необичайно високи температури тормозят заселниците. Пази ги от топлинни удари.</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>миграция на животни</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>{0} мигрират</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>Огромно стадо мигрира {0}.\n\nТе няма да ви нападат, освен ако не ги провокирате.</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>метеорит</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>Метеорит</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>Наблизо падна метеорит. На мястото може да намерите {0}.</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>психически дрон</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>умиротворителя</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>искания за откуп</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Искания за откуп</RansomDemand.letterLabel>
+  
+  <!-- EN: chased refugee -->
+  <RefugeeChased.label>преследван бежанец</RefugeeChased.label>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>катастрофа на капсула</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>товарни контейнери</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>опитомено животно</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>късо съединение</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>тръмбо</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>токсичен облак</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Токсичен облак</ToxicFallout.letterLabel>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
+  <ToxicFallout.letterText>Далечен химически огън предизвика токсичен облак над целия регион.\n\nВсеки човек или животно, които не се намира под покрив ще бъдат отровени.\n\nОчаква се да продължи от няколко дни до месец.</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>вулканична зима</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Вулканична зима</VolcanicWinter.letterLabel>
+  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>Далечен супервулкан е изригнал, разсипвайки милиони тонове пепел в атмосферата.\n\nПепелта отразява голяма част от слънчевите лъчи, което предизвиква своеобразен ледников период. Поради липсата на светлина растенията ще страдат и евентуално изсъхнат. Докато пепелта се разнесе, може да минат седмици, и дори месеци.</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>попълнение</WandererJoin.label>
+  <!-- EN: Wanderer joins -->
+  <WandererJoin.letterLabel>Попълнение</WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>В вашата колония пристигна нов {PAWN_kind}. {PAWN_possessive} е {PAWN_nameDef}, и {PAWN_pronoun} {PAWN_title}.\n\n{PAWN_nameDef} говори, че с радост ще ви помогне доколкото възможно и изглежда няма къде другаде да отиде. Ако не желаете да видите {PAWN_possessive} в вашата колония, може да {PAWN_possessive} го изгоните, продавате в робство или просто да го убиете. Въпреки, че за другите вероятно няма да бъдат доволни.</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>дивак</WildManWandersIn.label>
+  <!-- EN: Wild man wanders in -->
+  <WildManWandersIn.letterLabel>Дивак</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>В тази местност се разхожда човек, сред дивата природа. {PAWN_possessive} е {0}.\n\nМоже да опитате да опитомите {PAWN_possessive}.</WildManWandersIn.letterText>
+  
+</LanguageData>

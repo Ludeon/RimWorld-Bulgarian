@@ -1,23 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <WealthTotal.label>богатство (общо)</WealthTotal.label>
-  <WealthTotal.graphLabelY>Amount</WealthTotal.graphLabelY>
-
-  <WealthItems.label>предмети</WealthItems.label>
-  <WealthItems.graphLabelY>Amount</WealthItems.graphLabelY>
-
-  <WealthBuildings.label>постройки</WealthBuildings.label>
-  <WealthBuildings.graphLabelY>Amount</WealthBuildings.graphLabelY>
-
-  <FreeColonists.label>свободни заселници</FreeColonists.label>
-  <FreeColonists.graphLabelY>Colonists</FreeColonists.graphLabelY>
-
-  <Prisoners.label>затворници</Prisoners.label>
-  <Prisoners.graphLabelY>Prisoners</Prisoners.graphLabelY>
-
+  
+  <!-- EN: recovery -->
+  <Adaptation.label>възстановяване</Adaptation.label>
+  <!-- EN: Days -->
+  <Adaptation.graphLabelY>Дни</Adaptation.graphLabelY>
+  
+  <!-- EN: mood -->
   <ColonistMood.label>настроение</ColonistMood.label>
-  <ColonistMood.graphLabelY>Percent</ColonistMood.graphLabelY>
-
-
+  <!-- EN: Percent -->
+  <ColonistMood.graphLabelY>% настроения</ColonistMood.graphLabelY>
+  
+  <!-- EN: free colonists -->
+  <FreeColonists.label>заселници</FreeColonists.label>
+  <!-- EN: Colonists -->
+  <FreeColonists.graphLabelY>Заселници</FreeColonists.graphLabelY>
+  
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>възстановяване на население</PopAdaptation.label>
+  <!-- EN: Days -->
+  <PopAdaptation.graphLabelY>Дни</PopAdaptation.graphLabelY>
+  
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>напрежение по населението x10</PopIntent.label>
+  <!-- EN: Days -->
+  <PopIntent.graphLabelY>Дни</PopIntent.graphLabelY>
+  
+  <!-- EN: prisoners -->
+  <Prisoners.label>затворници</Prisoners.label>
+  <!-- EN: Prisoners -->
+  <Prisoners.graphLabelY>Затворници</Prisoners.graphLabelY>
+  
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>точки веселие /10</ThreatPoints.label>
+  <!-- EN: Points -->
+  <ThreatPoints.graphLabelY>Точки</ThreatPoints.graphLabelY>
+  
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>съоръжения</Wealth_Buildings.label>
+  <!-- EN: Amount -->
+  <Wealth_Buildings.graphLabelY>Стойност</Wealth_Buildings.graphLabelY>
+  
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>предмети</Wealth_Items.label>
+  <!-- EN: Amount -->
+  <Wealth_Items.graphLabelY>Стойност</Wealth_Items.graphLabelY>
+  
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>животни</Wealth_Pawns.label>
+  <!-- EN: Amount -->
+  <Wealth_Pawns.graphLabelY>Стойност</Wealth_Pawns.graphLabelY>
+  
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>богатство (общо)</Wealth_Total.label>
+  <!-- EN: Amount -->
+  <Wealth_Total.graphLabelY>Стойност</Wealth_Total.graphLabelY>
+  
 </LanguageData>

@@ -1,25 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GameMapCamera.label>Камера</GameMapCamera.label>
-  <GameMapCamera.description>За управление на камерата.</GameMapCamera.description>
-
-  <Game.label>Глобални заповеди (в играта)</Game.label>
-  <Game.description>Глобални заповеди на заселниците, които почти винаги са активни.</Game.description>
-
-  <MainTabs.label>Основни менюта</MainTabs.label>
-  <MainTabs.description>Бутони за извикване на основни менюта.</MainTabs.description>
-
-  <SelectionMisc.label>Разни</SelectionMisc.label>
-  <SelectionMisc.description>Основни бутони, които се ползват от много предмети и обекти в играта.</SelectionMisc.description>
-
-  <SelectionSpecial.label>Специални бутони</SelectionSpecial.label>
-  <SelectionSpecial.description>Специални бутони, които служат за специални функции на дефинирани обекти.</SelectionSpecial.description>
-
+  
+  <!-- EN: architect -->
   <Architect.label>Архитект</Architect.label>
-  <Architect.description>Основни бутони за менюто Архитект.</Architect.description>
-
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>Основни бутони за менюто «Проекти».</Architect.description>
+  
+  <!-- EN: developer tools -->
   <Development.label>Разработчик</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
   <Development.description>Бутони за разработчици и модификатори. Достъпни само в режим Разработчик.</Development.description>
-
+  
+  <!-- EN: in-game global -->
+  <Game.label>Глобални заповеди (в играта)</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>Глобални заповеди на заселниците, които почти винаги са активни.</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>Камера</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>За управление на камерата.</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>Основни менюта</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>Бутони за извикване на основни менюта.</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>модификатори</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>Клавиши за модифициране на други действия</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>Разни</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>Основни бутони, които се ползват от много предмети и обекти в играта.</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>Специални бутони</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>Специални бутони, които служат за специални функции на дефинирани обекти.</SelectionSpecial.description>
+  
 </LanguageData>

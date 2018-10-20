@@ -1,50 +1,84 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<SolarFlare.label>слънчево изригване</SolarFlare.label>
-	<SolarFlare.description>Слънчевото изригване достигна планетата. Заради силните електрически смущения, повечето електрически устройства няма да работят.</SolarFlare.description>
-	<SolarFlare.endMessage>Слънчевото изригване приключи.</SolarFlare.endMessage>
-
-	<Eclipse.label>затъмнение</Eclipse.label>
-	<Eclipse.description>Затъмнението засенчва повърхността на планетата. Ще бъде тъмно, дори през дневно време.</Eclipse.description>
-	<Eclipse.endMessage>Затъмнението приключи.</Eclipse.endMessage>
-
-	<PsychicDrone.label>психически дрон</PsychicDrone.label>
-	<PsychicDrone.description>Неизвестен мощен ИИ излъчва вълни от психоактивни енергии, от която хората могат да полудяват.</PsychicDrone.description>
-	<PsychicDrone.endMessage>Психическият дрон спря.</PsychicDrone.endMessage>
-
-	<PsychicSoothe.label>умиротворител</PsychicSoothe.label>
-	<PsychicSoothe.description>Неизвестен мощен ИИ излъчва вълни от психоактивни енергии, която успокоява хората и стабилизира емоционалното им състояние.</PsychicSoothe.description>
-	<PsychicSoothe.endMessage>Умиротворителя приключи.</PsychicSoothe.endMessage>
-
-	<ToxicFallout.label>токсични валежи</ToxicFallout.label>
-	<ToxicFallout.description>Далече от колонията е станал инцидент с химически отпадъци. Всяко същество, които не се намира под покрив ще получи химическо отравяне или изгаряния.</ToxicFallout.description>
-	<ToxicFallout.endMessage>Токсичните валежи спряха.</ToxicFallout.endMessage>
-
-	<VolcanicWinter.label>вулканична зима</VolcanicWinter.label>
-	<VolcanicWinter.description>Вулкан изригна!\n\nДалечен вулкан е изригнал, разсипвайки милиони тонове пепел в атмосферата, затъмнявайки небето.</VolcanicWinter.description>
-	<VolcanicWinter.endMessage>Вулкана спря да изригва пепел.</VolcanicWinter.endMessage>
-
-	<HeatWave.label>гореща вълна</HeatWave.label>
-	<HeatWave.description>Горещата вълна води до топлинни удари и изсъхване на земята.</HeatWave.description>
-	<HeatWave.endMessage>Горещата вълна премина.</HeatWave.endMessage>
-
-	<ColdSnap.label>рязко застудяване</ColdSnap.label>
-	<ColdSnap.description>Необичайното рязко застудяване замразява местността.</ColdSnap.description>
-	<ColdSnap.endMessage>застудяване приключи.</ColdSnap.endMessage>
-
-	<Flashstorm.label>гръмотевична буря</Flashstorm.label>
-	<Flashstorm.description>Голям брой светкавици върху малка площ.</Flashstorm.description>
-	<Flashstorm.endMessage>Гръмотевичната буря приключи.</Flashstorm.endMessage>
-
-	<ClimateCycle.label>климатичен цикъл</ClimateCycle.label>
-	<ClimateCycle.description>Десетилетия климатичен цикъл заради елиптичната орбита.</ClimateCycle.description>
-
-	<Planetkiller.label>разрушител на планети</Planetkiller.label>
-	<Planetkiller.description>Междузвездно оръжие за унищожаване на планети приближава. Когато удари тук на повърхността, всички живи същества ще бъдат изтребени.</Planetkiller.description>
-
-	<Aurora.label>полярно сияние</Aurora.label>
-	<Aurora.description>Разноцветни светлини озаряват небесата. Поразително красив танц на разноцветни светлини в небето пленява погледа и въображението на онези, който имат късмета да надзърват полярното сияние.</Aurora.description>
-	<Aurora.endMessage>Полярното сияние приключи.</Aurora.endMessage>
-
+  
+  <!-- EN: aurora -->
+  <Aurora.label>полярно сияние</Aurora.label>
+  <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
+  <Aurora.description>Разноцветни светлини озаряват небесата. Поразително красив танц на разноцветни светлини в небето пленява погледа и въображението на онези, който имат късмета да надзърват полярното сияние.</Aurora.description>
+  <!-- EN: The aurora is ending. -->
+  <Aurora.endMessage>Полярното сияние приключи.</Aurora.endMessage>
+  
+  <!-- EN: climate cycle -->
+  <ClimateCycle.label>климатичен цикъл</ClimateCycle.label>
+  <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
+  <ClimateCycle.description>Десетилетия климатичен цикъл заради елиптичната орбита.</ClimateCycle.description>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>рязко застудяване</ColdSnap.label>
+  <!-- EN: An unusual cold snap is freezing the region. -->
+  <ColdSnap.description>Необичайното рязко застудяване замразява местността.</ColdSnap.description>
+  <!-- EN: The cold snap is over. -->
+  <ColdSnap.endMessage>застудяване приключи.</ColdSnap.endMessage>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>затъмнение</Eclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
+  <Eclipse.description>Затъмнението засенчва повърхността на планетата. Ще бъде тъмно, дори през дневно време.</Eclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <Eclipse.endMessage>Затъмнението приключи.</Eclipse.endMessage>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>гръмотевична буря</Flashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <Flashstorm.description>Голям брой светкавици върху малка площ.</Flashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <Flashstorm.endMessage>Гръмотевичната буря приключи.</Flashstorm.endMessage>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>гореща вълна</HeatWave.label>
+  <!-- EN: An extreme wave of heat is baking the area. -->
+  <HeatWave.description>Горещата вълна води до топлинни удари и изсъхване на земята.</HeatWave.description>
+  <!-- EN: The heat wave is over. -->
+  <HeatWave.endMessage>Горещата вълна премина.</HeatWave.endMessage>
+  
+  <!-- EN: planetkiller -->
+  <Planetkiller.label>разрушител на планети</Planetkiller.label>
+  <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
+  <Planetkiller.description>Междузвездно оръжие за унищожаване на планети приближава. Когато удари тук на повърхността, всички живи същества ще бъдат изтребени.</Planetkiller.description>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>психически дрон</PsychicDrone.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
+  <PsychicDrone.description>Неизвестен мощен ИИ излъчва вълни от психоактивни енергии, от която хората могат да полудяват.</PsychicDrone.description>
+  <!-- EN: The psychic drone is ending. -->
+  <PsychicDrone.endMessage>Психическият дрон спря.</PsychicDrone.endMessage>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>умиротворител</PsychicSoothe.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds. -->
+  <PsychicSoothe.description>Неизвестен мощен ИИ излъчва вълни от психоактивни енергии, която успокоява хората и стабилизира емоционалното им състояние.</PsychicSoothe.description>
+  <!-- EN: The psychic soothe is ending. -->
+  <PsychicSoothe.endMessage>Умиротворителя приключи.</PsychicSoothe.endMessage>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>слънчево изригване</SolarFlare.label>
+  <!-- EN: A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working. -->
+  <SolarFlare.description>Слънчевото изригване достигна планетата. Заради силните електрически смущения, повечето електрически устройства няма да работят.</SolarFlare.description>
+  <!-- EN: The solar flare is ending. -->
+  <SolarFlare.endMessage>Слънчевото изригване приключи.</SolarFlare.endMessage>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>токсични валежи</ToxicFallout.label>
+  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>Далече от колонията е станал инцидент с химически отпадъци. Всяко същество, които не се намира под покрив ще получи химическо отравяне или изгаряния.</ToxicFallout.description>
+  <!-- EN: The worst of the toxic fallout has settled. -->
+  <ToxicFallout.endMessage>Токсичните валежи спряха.</ToxicFallout.endMessage>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>вулканична зима</VolcanicWinter.label>
+  <!-- EN: A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
+  <VolcanicWinter.description>Вулкан изригна!\n\nДалечен вулкан е изригнал, разсипвайки милиони тонове пепел в атмосферата, затъмнявайки небето.</VolcanicWinter.description>
+  <!-- EN: Most of the volcanic ash has settled. -->
+  <VolcanicWinter.endMessage>Вулкана спря да изригва пепел.</VolcanicWinter.endMessage>
+  
 </LanguageData>

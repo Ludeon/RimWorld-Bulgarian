@@ -1,19 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: heatstroke -->
   <Heatstroke.label>топлинен удар</Heatstroke.label>
-  <Heatstroke.stages.0.label>интермитентен</Heatstroke.stages.0.label>
-  <Heatstroke.stages.1.label>начален</Heatstroke.stages.1.label>
-  <Heatstroke.stages.2.label>лек</Heatstroke.stages.2.label>
-  <Heatstroke.stages.3.label>сериозен</Heatstroke.stages.3.label>
-  <Heatstroke.stages.4.label>силен</Heatstroke.stages.4.label>
-
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-0.label>интермитентен</Heatstroke.stages.initial-0.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-1.label>начален</Heatstroke.stages.initial-1.label>
+  <!-- EN: minor -->
+  <Heatstroke.stages.minor.label>лек</Heatstroke.stages.minor.label>
+  <!-- EN: serious -->
+  <Heatstroke.stages.serious.label>сериозен</Heatstroke.stages.serious.label>
+  <!-- EN: extreme -->
+  <Heatstroke.stages.extreme.label>силен</Heatstroke.stages.extreme.label>
+  
+  <!-- EN: hypothermia -->
   <Hypothermia.label>хипотермия</Hypothermia.label>
-  <Hypothermia.stages.0.label>интермитентна</Hypothermia.stages.0.label>
-  <Hypothermia.stages.1.label>настръхваща</Hypothermia.stages.1.label>
-  <Hypothermia.stages.2.label>лека</Hypothermia.stages.2.label>
-  <Hypothermia.stages.3.label>сериозна</Hypothermia.stages.3.label>
-  <Hypothermia.stages.4.label>тежка</Hypothermia.stages.4.label>
-
-
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-0.label>интермитентна</Hypothermia.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-1.label>настръхваща</Hypothermia.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <Hypothermia.stages.minor.label>лека</Hypothermia.stages.minor.label>
+  <!-- EN: serious -->
+  <Hypothermia.stages.serious.label>сериозна</Hypothermia.stages.serious.label>
+  <!-- EN: extreme -->
+  <Hypothermia.stages.extreme.label>тежка</Hypothermia.stages.extreme.label>
+  
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>забавен метаболизъм</HypothermicSlowdown.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-0.label>леко</HypothermicSlowdown.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-1.label>леко</HypothermicSlowdown.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <HypothermicSlowdown.stages.moderate.label>средно</HypothermicSlowdown.stages.moderate.label>
+  <!-- EN: serious -->
+  <HypothermicSlowdown.stages.serious.label>сериозно</HypothermicSlowdown.stages.serious.label>
+  <!-- EN: extreme -->
+  <HypothermicSlowdown.stages.extreme.label>критично</HypothermicSlowdown.stages.extreme.label>
+  
 </LanguageData>

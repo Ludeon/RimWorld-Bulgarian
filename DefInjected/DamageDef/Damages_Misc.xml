@@ -1,22 +1,39 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Deterioration.label>рана</Deterioration.label>
-	<Deterioration.deathMessage>{0} почина.</Deterioration.deathMessage>
-
-	<Mining.label>мина</Mining.label>
-	<Mining.deathMessage>{0} почина.</Mining.deathMessage>
-
-	<Rotting.label>разлагане</Rotting.label>
-	<Rotting.deathMessage>{0} почина.</Rotting.deathMessage>
-
-	<Extinguish.label>задушаване</Extinguish.label>
-	<Extinguish.deathMessage>{0} почина.</Extinguish.deathMessage>
-
-	<Bomb.label>взрив</Bomb.label>
-	<Bomb.deathMessage>{0} почина от експлозия.</Bomb.deathMessage>
-
-	<Smoke.label>дим</Smoke.label>
-	<Smoke.deathMessage>{0} задушен от дим.</Smoke.deathMessage>
-
+  
+  <!-- EN: bomb -->
+  <Bomb.label>взрив</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb.deathMessage>{0} загина по време на взрив.</Bomb.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombSuper.label>взирв</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>{0} загина по време на взрив.</BombSuper.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>рана</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>{0} почина.</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>задушаване</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>{0} почина.</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>мина</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>{0} почина.</Mining.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>разлагане</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>{0} почина.</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
+  <Smoke.label>дим</Smoke.label>
+  <!-- EN: {0} has been killed. -->
+  <Smoke.deathMessage>{0} задушен от дим.</Smoke.deathMessage>
+  
 </LanguageData>

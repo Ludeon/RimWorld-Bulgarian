@@ -1,25 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Mood.label>Настроение</Mood.label>
-  <Mood.description>Настроението показва колко доволен или стресиран е заселникът. Ако падне много ниско, може да доведе до нервен срив.</Mood.description>
-
-  <Food.label>Храна</Food.label>
-  <Food.description>Нивото на храна показва доколко заселникът е сит. Ако стигне до 0, може да доведе до телесни щети поради недохранване.</Food.description>
-
-  <Rest.label>Почивка</Rest.label>
-  <Rest.description>Почивката показва дали заселникът е имал достатъчно време за сън.</Rest.description>
-
-  <Joy.label>Радост</Joy.label>
-  <Joy.description>Радотта показва нуждата да се свърши нещо приятно през деня. Повтарянето на един и същ вид приятна дейност носи по-ниско ниво на Радост.</Joy.description>
-
+  
+  <!-- EN: beauty -->
   <Beauty.label>Красота</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
   <Beauty.description>Показателят красота индикира доколко заселникът намира обстановката си за визуално приятна.</Beauty.description>
-
+  
+  <!-- EN: comfort -->
   <Comfort.label>Комфорт</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
   <Comfort.description>Комфортът се повишава при редовно ползване на удобни мебели.</Comfort.description>
-
-  <Space.label>Пространство</Space.label>
-  <Space.description>Пространството рефлектира чувството за волност и способността за свободно движение. Прекарване на време в тясно пространство влияе негативно на заселника.</Space.description>
-
+  
+  <!-- EN: food -->
+  <Food.label>Храна</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>Нивото на храна показва доколко заселникът е сит. Ако стигне до 0, може да доведе до телесни щети поради недохранване.</Food.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>Радост</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Радостта показва нуждата да се свърши нещо приятно през деня. Повтарянето на един и същ вид приятна дейност носи по-ниско ниво на Радост.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>Настроение</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
+  <Mood.description>Настроението показва колко доволен или стресиран е заселникът. Ако падне много ниско, може да доведе до нервен срив.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>свеж въздух</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Отразява нуждата от слънчева светлина и свеж въздух. Пада, ако заселникът прекарва много време в затворени помещения, особено под земята. Увеличава се, ако заселникът прекарва повече време навън. Липсата на време под открито небе, ще бъде сериозно изпитание, за онези който живеят дълбоко в гората.</Outdoors.description>
+  
+  <!-- EN: rest -->
+  <Rest.label>Почивка</Rest.label>
+  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Почивката показва дали заселникът е имал достатъчно време за сън.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>размер на стая</RoomSize.label>
+  
 </LanguageData>

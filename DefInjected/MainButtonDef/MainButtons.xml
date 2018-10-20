@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>животни</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
+  <Animals.description>Правила за пребиваване в колонията за опитомени животни</Animals.description>
+  
+  <!-- EN: architect -->
+  <Architect.label>проекти</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>Инструкции за заселниците за строителство, отглеждане и хранене</Architect.description>
+  
+  <!-- EN: assign -->
+  <Assign.label>задачи</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>Правила за носене на дрехи и как да се реагира при заплаха</Assign.description>
+  
+  <!-- EN: factions -->
+  <Factions.label>фракции</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>Колонии и отношенията между тях</Factions.description>
+  
+  <!-- EN: history -->
+  <History.label>история</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>Историята на колонията в числа и диаграми</History.description>
+  
+  <!-- EN: inspect -->
+  <Inspect.label>инспектиране</Inspect.label>
+  
+  <!-- EN: menu -->
+  <Menu.label>меню</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
+  <Menu.description>Настройки, запазване, зареждане или изход от играта</Menu.description>
+  
+  <!-- EN: research -->
+  <Research.label>технологии</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>Достъпни и текущи изследвания</Research.description>
+  
+  <!-- EN: restrict -->
+  <Restrict.label>ограничения</Restrict.label>
+  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
+  <Restrict.description>Режим за заселници и достъпни области</Restrict.description>
+  
+  <!-- EN: wildlife -->
+  <Wildlife.label>фауна</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>Списък на диви животни разположени наблизо и обозначения за опитомяване или лов</Wildlife.description>
+  
+  <!-- EN: work -->
+  <Work.label>работа</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>Разпределяне на работа и задаване на приоритети</Work.description>
+  
+  <!-- EN: world -->
+  <World.label>мир</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>Карта на света</World.description>
+  
+</LanguageData>

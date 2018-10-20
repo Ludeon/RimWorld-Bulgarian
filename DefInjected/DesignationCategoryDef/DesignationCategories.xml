@@ -1,40 +1,52 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Orders.label>заповеди</Orders.label>
-	<Orders.description>За извършване на определени задачи.</Orders.description>
-
-	<Zone.label>области</Zone.label>
-	<Zone.description>Определя зони за определени видове задачи.</Zone.description>
-
-	<Structure.label>постройка</Structure.label>
-	<Structure.description>строеж на стени и поставяне на врати.</Structure.description>
-
-	<Production.label>производство</Production.label>
-	<Production.description>Работни маси, машини и други оборудвания за производство.</Production.description>
-
-	<Furniture.label>мебел</Furniture.label>
-	<Furniture.description>Предмети за обзавеждане на жилищни и обществени помещения.</Furniture.description>
-
-	<Power.label>енергия</Power.label>
-	<Power.description>Производство, пренос и управление на електроенергия.</Power.description>
-
-	<Security.label>защита</Security.label>
-	<Security.description>Защитни и боеви конструкции.</Security.description>
-
-	<Misc.label>разни</Misc.label>
-	<Misc.description>Разни конструкции.</Misc.description>
-
-	<Floors.label>покритие</Floors.label>
-	<Floors.description>Подови настилки.</Floors.description>
-
-	<Joy.label>развлечения</Joy.label>
-	<Joy.description>Занимателни или приятни вещи за забавление на заселници.</Joy.description>
-
-	<Ship.label>кораб</Ship.label>
-	<Ship.description>Компоненти за вашият спасителен кораб.</Ship.description>
-
-	<Temperature.label>температура</Temperature.label>
-	<Temperature.description>Средства за управляване на температурата.</Temperature.description>
-
+  
+  <!-- EN: floors -->
+  <Floors.label>покритие</Floors.label>
+  <Floors.description>Подови настилки.</Floors.description>
+  
+  <!-- EN: furniture -->
+  <Furniture.label>мебел</Furniture.label>
+  <Furniture.description>Предмети за обзавеждане на жилищни и обществени помещения.</Furniture.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>развлечения</Joy.label>
+  <Joy.description>Занимателни или приятни вещи за забавляване на заселници.</Joy.description>
+  
+  <!-- EN: misc -->
+  <Misc.label>разни</Misc.label>
+  <Misc.description>Разни конструкции.</Misc.description>
+  
+  <!-- EN: orders -->
+  <Orders.label>заповеди</Orders.label>
+  <Orders.description>За извършване на определени задачи.</Orders.description>
+  
+  <!-- EN: power -->
+  <Power.label>енергия</Power.label>
+  <Power.description>Производство, пренос и управление на електроенергия.</Power.description>
+  
+  <!-- EN: production -->
+  <Production.label>производство</Production.label>
+  <Production.description>Работни маси, машини и други оборудвания за производство.</Production.description>
+  
+  <!-- EN: security -->
+  <Security.label>защита</Security.label>
+  <Security.description>Защитни и боеви конструкции.</Security.description>
+  
+  <!-- EN: ship -->
+  <Ship.label>кораб</Ship.label>
+  <Ship.description>Компоненти за вашия спасителен кораб.</Ship.description>
+  
+  <!-- EN: structure -->
+  <Structure.label>постройка</Structure.label>
+  <Structure.description>строеж на стени и поставяне на врати.</Structure.description>
+  
+  <!-- EN: temperature -->
+  <Temperature.label>температура</Temperature.label>
+  <Temperature.description>Средства за управляване на температурата.</Temperature.description>
+  
+  <!-- EN: zone -->
+  <Zone.label>области</Zone.label>
+  <Zone.description>Определя зони за определени видове задачи.</Zone.description>
+  
 </LanguageData>

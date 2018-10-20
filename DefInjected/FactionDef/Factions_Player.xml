@@ -1,12 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<PlayerColony.label>новодошли</PlayerColony.label>
-	<PlayerColony.description>Собствената ви общност.</PlayerColony.description>
-	<PlayerColony.pawnsPlural>колонист</PlayerColony.pawnsPlural>
-
-	<PlayerTribe.label>племе</PlayerTribe.label>
-	<PlayerTribe.description>Собственото ви племе.</PlayerTribe.description>
-	<PlayerTribe.pawnsPlural>съплеменник</PlayerTribe.pawnsPlural>
-
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>колония</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>Собствената ви общност.</PlayerColony.description>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>колонист</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>колонисти</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>племе</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>Собственото ви племе.</PlayerTribe.description>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>член на племе</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>членове на племе</PlayerTribe.pawnsPlural>
+  
 </LanguageData>

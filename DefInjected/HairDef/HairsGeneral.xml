@@ -1,29 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Afro.label>Афро</Afro.label>
-    <Bob.label>Къса</Bob.label>
-    <Burgundy.label>Червена</Burgundy.label>
-    <Flowy.label>Пусната</Flowy.label>
-    <Long.label>Дълга</Long.label>
-    <Mohawk.label>Мохок</Mohawk.label>
-    <Mop.label>Рошава</Mop.label>
-    <Pigtails.label>Плитки</Pigtails.label>
-    <Shaved.label>Бръсната</Shaved.label>
-    <Spikes.label>На шипове</Spikes.label>
-    <Tuft.label>На кичури</Tuft.label>
-    <Wavy.label>Вълниста</Wavy.label>
-    <BraidedKnot.label>Плетени кичури</BraidedKnot.label>
-    <Topdog.label>Шеф</Topdog.label>
-    <Senorita.label>Сеньорита</Senorita.label>
-    <ScorpionTail.label>Опашка на скорпион</ScorpionTail.label>
-    <BriefPonytail.label>Къса конска опашка</BriefPonytail.label>
-    <Troubadour.label>Трубадур</Troubadour.label>
-    <Messy.label>Мръсна</Messy.label>
-    <Princess.label>Принцеса</Princess.label>
-    <Firestarter.label>Огнен дявол</Firestarter.label>
-    <GreasySwoop.label>Помпадур</GreasySwoop.label>
-    <Curly.label>Къдрава</Curly.label>
-    <Scatman.label>Гладка</Scatman.label>
-
+  
+  <!-- EN: afro -->
+  <Afro.label>Афро</Afro.label>
+  
+  <!-- EN: bob -->
+  <Bob.label>Къса</Bob.label>
+  
+  <!-- EN: braided knot -->
+  <BraidedKnot.label>Плетени кичури</BraidedKnot.label>
+  
+  <!-- EN: brief ponytail -->
+  <BriefPonytail.label>Къса конска опашка</BriefPonytail.label>
+  
+  <!-- EN: burgundy -->
+  <Burgundy.label>Червена</Burgundy.label>
+  
+  <!-- EN: curly -->
+  <Curly.label>Къдрава</Curly.label>
+  
+  <!-- EN: firestarter -->
+  <Firestarter.label>Огнен дявол</Firestarter.label>
+  
+  <!-- EN: flowy -->
+  <Flowy.label>Пусната</Flowy.label>
+  
+  <!-- EN: greasy swoop -->
+  <GreasySwoop.label>Помпадур</GreasySwoop.label>
+  
+  <!-- EN: long -->
+  <Long.label>Дълга</Long.label>
+  
+  <!-- EN: messy -->
+  <Messy.label>Мръсна</Messy.label>
+  
+  <!-- EN: mohawk -->
+  <Mohawk.label>Мохок</Mohawk.label>
+  
+  <!-- EN: mop -->
+  <Mop.label>Рошава</Mop.label>
+  
+  <!-- EN: pigtails -->
+  <Pigtails.label>Плитки</Pigtails.label>
+  
+  <!-- EN: princess -->
+  <Princess.label>Принцеса</Princess.label>
+  
+  <!-- EN: scatman -->
+  <Scatman.label>Гладка</Scatman.label>
+  
+  <!-- EN: scorpion tail -->
+  <ScorpionTail.label>Опашка на скорпион</ScorpionTail.label>
+  
+  <!-- EN: senorita -->
+  <Senorita.label>Сеньорита</Senorita.label>
+  
+  <!-- EN: shaved -->
+  <Shaved.label>Бръсната</Shaved.label>
+  
+  <!-- EN: spikes -->
+  <Spikes.label>На шипове</Spikes.label>
+  
+  <!-- EN: topdog -->
+  <Topdog.label>Шеф</Topdog.label>
+  
+  <!-- EN: troubadour -->
+  <Troubadour.label>Трубадур</Troubadour.label>
+  
+  <!-- EN: tuft -->
+  <Tuft.label>На кичури</Tuft.label>
+  
+  <!-- EN: wavy -->
+  <Wavy.label>Вълниста</Wavy.label>
+  
 </LanguageData>

@@ -1,39 +1,102 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Added body parts -->
-
-  <PegLeg.label>дървен крак</PegLeg.label>
-  <PegLeg.labelNoun>дървен крак</PegLeg.labelNoun>
-
-  <Denture.label>зъбна протеза</Denture.label>
-  <Denture.labelNoun>зъбна протеза</Denture.labelNoun>
-
-  <SimpleProstheticLeg.label>проста протеза на крак</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>проста протеза на крак</SimpleProstheticLeg.labelNoun>
-
-  <SimpleProstheticArm.label>проста протеза на ръка</SimpleProstheticArm.label>
-  <SimpleProstheticArm.comps.0.tools.0.label>юмрук</SimpleProstheticArm.comps.0.tools.0.label>
-  <SimpleProstheticArm.labelNoun>проста протеза на ръка</SimpleProstheticArm.labelNoun>
-
-  <BionicEye.label>бионични очи</BionicEye.label>
-  <BionicEye.labelNoun>бионични очи</BionicEye.labelNoun>
-
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>архоръка</ArchotechArm.label>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>юмрук</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>архоръка</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>архоко</ArchotechEye.label>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>архоко</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>архокрак</ArchotechLeg.label>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>архокрак</ArchotechLeg.labelNoun>
+  
+  <!-- EN: bionic arm -->
   <BionicArm.label>бионична ръка</BionicArm.label>
-  <BionicArm.comps.0.tools.0.label>юмрук</BionicArm.comps.0.tools.0.label>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>юмрук</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
   <BionicArm.labelNoun>бионична ръка</BionicArm.labelNoun>
-
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>бионично ухо</BionicEar.label>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>бионично ухо</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>бионично око</BionicEye.label>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>бионично око</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>бионично сърце</BionicHeart.label>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>бионично сърце</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic leg -->
   <BionicLeg.label>бионичен крак</BionicLeg.label>
+  <!-- EN: a bionic leg -->
   <BionicLeg.labelNoun>бионичен крак</BionicLeg.labelNoun>
-
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>бионичен гръбначен стълб</BionicSpine.label>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>бионичен гръбначен стълб</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>бионичен стомах</BionicStomach.label>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>бионичен стомах</BionicStomach.labelNoun>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>кохлеарен имплант</CochlearImplant.label>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>кохлеарен имплант</CochlearImplant.labelNoun>
+  
+  <!-- EN: denture -->
+  <Denture.label>зъбна протеза</Denture.label>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>зъбна протеза</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>дървен крак</PegLeg.label>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>дървен крак</PegLeg.labelNoun>
+  
+  <!-- EN: power claw -->
   <PowerClaw.label>силни нокти</PowerClaw.label>
-  <PowerClaw.comps.0.tools.0.label>нокти</PowerClaw.comps.0.tools.0.label>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>нокти</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
   <PowerClaw.labelNoun>силни нокти</PowerClaw.labelNoun>
-
-  <ScytherBlade.label>жътварски сърп</ScytherBlade.label>
-  <ScytherBlade.comps.0.tools.0.label>острие</ScytherBlade.comps.0.tools.0.label>
-  <ScytherBlade.comps.0.tools.1.label>остър</ScytherBlade.comps.0.tools.1.label>
-  <ScytherBlade.labelNoun>жътварски сърп</ScytherBlade.labelNoun>
-
-
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>проста протеза на ръка</SimpleProstheticArm.label>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>юмрук</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>проста протеза на ръка</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>изкуствено сърце</SimpleProstheticHeart.label>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>изкуствено сърце</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>проста протеза на крак</SimpleProstheticLeg.label>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>проста протеза на крак</SimpleProstheticLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>дървено ходило</WoodenFoot.label>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>дървено ходило</WoodenFoot.labelNoun>
+  
 </LanguageData>

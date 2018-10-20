@@ -1,18 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Consciousness.label>Съзнание</Consciousness.label>
-  <Consciousness.labelMechanoids>Компилиране на данни</Consciousness.labelMechanoids>
-  <Sight.label>Виждане</Sight.label>
-  <Hearing.label>Чуване</Hearing.label>
-  <Moving.label>Движение</Moving.label>
-  <Manipulation.label>Работа</Manipulation.label>
-  <Talking.label>Говор</Talking.label>
-  <Talking.labelMechanoids>Комуникация</Talking.labelMechanoids>
-  <Eating.label>Ядене</Eating.label>
-  <Breathing.label>Дишане</Breathing.label>
-  <BloodFiltration.label>Филтрация на кръвта</BloodFiltration.label>
-  <BloodPumping.label>Производство на кръв</BloodPumping.label>
-  <Metabolism.label>Обмяна на веществата</Metabolism.label>
-
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>филтриране на кръв</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>рециркуляция</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>кръвообращение</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>генериране на енергия</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>дишане</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>съзнание</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>обработка на данни</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>питание</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>слух</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>работа</Manipulation.label>
+  
+  <!-- EN: metabolism -->
+  <Metabolism.label>метаболизъм</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>движение</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>зрение</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>реч</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>комуникация</Talking.labelMechanoids>
+  
 </LanguageData>

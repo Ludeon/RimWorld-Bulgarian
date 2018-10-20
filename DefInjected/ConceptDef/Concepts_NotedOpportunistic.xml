@@ -1,55 +1,94 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<ReformCaravan.label>Продължение на пътя</ReformCaravan.label>
-	<ReformCaravan.helpText>След битка, караваната вече може да продължи пътешествието си, с помощта на съответстващата команда в секция «Свят».</ReformCaravan.helpText>
-
-	<Rescuing.label>Спасяване</Rescuing.label>
-	<Rescuing.helpText>За да спасите ранен, изберете здрав заселник и натиснете десния бутон на мишката върху ранения.\n\nХора, който не са част от колонията, няма да се присъединят към колонията. Те просто ще си ходят след възстановяне. Ако искате да са част от колонията ви, опитайте се да вербувате тези хора</Rescuing.helpText>
-
-	<Capturing.label>Хващане на пленници</Capturing.label>
-	<Capturing.helpText>Ако враг падне на земята, но не е мъртъв, пробвайте се да го плените.\n\nЗа пленяване изберете заселник, натиснете десния бутон на мишката върху неподвижния враг и изберете «Плени».\n\nИзисква се допълнително легло, специално назначен за затворници.</Capturing.helpText>
-
-	<ShieldBelts.label>Колан с Щит</ShieldBelts.label>
-	<ShieldBelts.helpText>Създава защитно поле, която блокира вътрешни и външни далечни атаки, но не оказва влияние при близък бой.\n\nЗа борба с врага, носещи колан с щит, концентирайте цялата стрелба върху тях или използвайте ръкопашен бой.</ShieldBelts.helpText>
-
-	<InteractingWithTraders.label>Търговци</InteractingWithTraders.label>
-	<InteractingWithTraders.helpText>Можете да разговаряте с хора с знак "?" над главите им.\n\nИзберете един от заселниците, след това натиснете десния бутон на мишката върху въпросния човек.</InteractingWithTraders.helpText>
-
-	<Drafting.label>Подготовка за бой</Drafting.label>
-	<Drafting.helpText>За да командвате заселниците в битка, изберете тях и натиснете бутона «на бой».\n\nЩе бъдете в боен режим, заселникът ще направи само това, което му се казва и може да изпълнява само бойни действия. Тези който имат оръжия, възползвайте се от тях.\n\nНе ги оставайте в боен режим дълго време, иначе ще започнат да огладняват и станат нещастни.</Drafting.helpText>
-
-	<BuildOrbitalTradeBeacon.label>Търговски маяк</BuildOrbitalTradeBeacon.label>
-	<BuildOrbitalTradeBeacon.helpText>За да изпратите товар или сребро на орбиталните търговци, е нужно да стройте търговски маяк на открита местност и склад с товари близо да маяка.</BuildOrbitalTradeBeacon.helpText>
-
-	<AnimalsDontAttackDoors.label>Животните не атакуват врати</AnimalsDontAttackDoors.label>
-	<AnimalsDontAttackDoors.helpText>Бесните животни обикновено не атакуват врати или неактивни турели.\n\nМожете да се криете от тях, вътре в сграда или зад стена. Те обаче ще чакат, докато заселниците не излязат.</AnimalsDontAttackDoors.helpText>
-
-	<BillsTab.label>Секция «Задачи»</BillsTab.label>
-	<BillsTab.helpText>За да определите задача, изберете маса и отворете секция задачи. Тук можете да укажете, какви блюда да готвят, какви вещи да направят и кой животни да колят.</BillsTab.helpText>
-
-	<OpeningComms.label>Комуникационна конзола</OpeningComms.label>
-	<OpeningComms.helpText>За да се свържете с някого, изберете заселник и натиснете десния бутон на мишката върху комуникационната конзола.</OpeningComms.helpText>
-
-	<DrugAddiction.label>Наркомания</DrugAddiction.label>
-	<DrugAddiction.helpText>Проверете нуждите на заселниците в секция «Нужди».\n\nАко индикаторът за нужда от наркотици спада до нула, може да промени състоянието на «въздържане», която пък може да доведе до странични ефекти.\n\nВъпреки това, след достатъчно въздържане от зависимостта, отпада необходимостта от наркотици.</DrugAddiction.helpText>
-
-	<DrugPolicies.label>Политика за прием на наркотици</DrugPolicies.label>
-	<DrugPolicies.helpText>Можете да контролирате приема на определени лекарства по разписание. Например, да им назначите регулярен прием на пеноксицилина. Или да пият бира веднъж в ден за добро настроение.\n\nОтворете секция «Назначения» и натиснете бутона «Управляване на прием за лекарства». Създайте нова политика. След това наложете политиката върху заселниците.\n\nЗаселниците все пак ще приемат наркотици извън предназначена за тях политика. Вие можете да им кажете какво да правят, но те също така могат да действат съгласно собствените си желания.</DrugPolicies.helpText>
-
-	<TVForSickPeople.label>ТВ за болни</TVForSickPeople.label>
-	<TVForSickPeople.helpText>За да забавлявате заселници, който са в процес на лечение, поставете недалеч от леглото, телевизор.</TVForSickPeople.helpText>
-
-	<PrisonerTab.label>Секция «Затвор»</PrisonerTab.label>
-	<PrisonerTab.helpText>Вижте секцията «Затвор», за да изберете как да се отнасят към затворника, каква медицинска помощ да му оказват и дали да бъде нахранен.\n\nИзисква се заселник с работа като надзирател, за да взаимодейства с затворник.</PrisonerTab.helpText>
-
-	<SetGrowingZonePlant.label>Задайте какво растение да се засажда</SetGrowingZonePlant.label>
-	<SetGrowingZonePlant.helpText>Изберете, какво да засаждат заселниците в определена зона.\n\nИзберете зона за засаждане, натиснете на бутона «Растение» и изберете култура, която искате да оглеждат.</SetGrowingZonePlant.helpText>
-
-	<DrugBurning.label>Изгаряне на наркотици</DrugBurning.label>
-	<DrugBurning.helpText>Наркотиците могат да бъдат полезни, но също така и могат да причинят пагубни пристрастявания.\n\nАко искате да колонията да избегне опасностите, свързани с наркотици, възползвайте се от възможността да ги изгаряте в огъня.</DrugBurning.helpText>
-
-	<DoorOpenSpeed.label>Скоростта на отваряне на вратата</DoorOpenSpeed.label>
-	<DoorOpenSpeed.helpText>Вратите се отварят с различни скорости, в зависимости от това какво са направени.\n\nВнимание: каменните врати се отварят много бавно. Те ще забавят значително всеки, който преминава.</DoorOpenSpeed.helpText>
-
+  
+  <!-- EN: Animals don't attack doors -->
+  <AnimalsDontAttackDoors.label>Животните не атакуват врати</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
+  <AnimalsDontAttackDoors.helpText>Бесните животни обикновено не атакуват врати или неактивни турели.\n\nМожете да се криете от тях, вътре в сграда или зад стена. Те обаче ще чакат, докато заселниците не излязат.</AnimalsDontAttackDoors.helpText>
+  
+  <!-- EN: Bills tab -->
+  <BillsTab.label>Секция «Задачи»</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>За да определите задача, изберете маса и отворете секция задачи. Тук можете да укажете, какви блюда да готвят, какви вещи да направят и кой животни да колят.</BillsTab.helpText>
+  
+  <!-- EN: Build orbital trade beacon -->
+  <BuildOrbitalTradeBeacon.label>Търговски маяк</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>За да изпратите товар или сребро на орбиталните търговци, е нужно да стройте търговски маяк на открита местност и склад с товари близо да маяка.</BuildOrbitalTradeBeacon.helpText>
+  
+  <!-- EN: Capturing -->
+  <Capturing.label>Хващане на пленници</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>Ако враг падне на земята, но не е мъртъв, пробвайте се да го плените.\n\nЗа пленяване изберете заселник, натиснете десния бутон на мишката върху неподвижния враг и изберете «Плени».\n\nИзисква се допълнително легло, специално назначен за затворници.</Capturing.helpText>
+  
+  <!-- EN: Door opening speeds -->
+  <DoorOpenSpeed.label>Скоростта на отваряне на вратата</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>Вратите се отварят с различни скорости, в зависимости от това какво са направени.\n\nВнимание: каменните врати се отварят много бавно. Те ще забавят значително всеки, който преминава.</DoorOpenSpeed.helpText>
+  
+  <!-- EN: Drafting for combat -->
+  <Drafting.label>Подготовка за бой</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>За да командвате заселниците в битка, изберете тях и натиснете бутона «на бой».\n\nЩе бъдете в боен режим, заселникът ще направи само това, което му се казва и може да изпълнява само бойни действия. Тези който имат оръжия, възползвайте се от тях.\n\nНе ги оставайте в боен режим дълго време, иначе ще започнат да огладняват и станат нещастни.</Drafting.helpText>
+  
+  <!-- EN: Drug addiction -->
+  <DrugAddiction.label>Наркомания</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>Проверете нуждите на заселниците в секция «Нужди».\n\nАко индикаторът за нужда от наркотици спада до нула, може да промени състоянието на «въздържане», която пък може да доведе до странични ефекти.\n\nВъпреки това, след достатъчно въздържане от зависимостта, отпада необходимостта от наркотици.</DrugAddiction.helpText>
+  
+  <!-- EN: Drug burning -->
+  <DrugBurning.label>Изгаряне на наркотици</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>Наркотиците могат да бъдат полезни, но също така и могат да причинят пагубни пристрастявания.\n\nАко искате да колонията да избегне опасностите, свързани с наркотици, възползвайте се от възможността да ги изгаряте в огъня.</DrugBurning.helpText>
+  
+  <!-- EN: Drug policies -->
+  <DrugPolicies.label>Политика за прием на наркотици</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take anti-malaria drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>Можете да контролирате приема на определени лекарства по разписание. Например, да им назначите регулярен прием на пеноксицилина. Или да пият бира веднъж в ден за добро настроение.\n\nОтворете секция «Назначения» и натиснете бутона «Управляване на прием за лекарства». Създайте нова политика. След това наложете политиката върху заселниците.\n\nЗаселниците все пак ще приемат наркотици извън предназначена за тях политика. Вие можете да им кажете какво да правят, но те също така могат да действат съгласно собствените си желания.</DrugPolicies.helpText>
+  
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>Търговци</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
+  <InteractingWithTraders.helpText>Можете да разговаряте с хора със знак "?" над главите им.\n\nИзберете един от заселниците, след това натиснете десния бутон на мишката върху въпросния човек.</InteractingWithTraders.helpText>
+  
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>Комуникационна конзола</OpeningComms.label>
+  <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
+  <OpeningComms.helpText>За да се свържете с някого, изберете заселник и натиснете десния бутон на мишката върху комуникационната конзола.</OpeningComms.helpText>
+  
+  <!-- EN: Prisoner tab -->
+  <PrisonerTab.label>Секция «Затвор»</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>Вижте секцията «Затвор», за да изберете как да се отнасят към затворника, каква медицинска помощ да му оказват и дали да бъде нахранен.\n\nИзисква се заселник с работа като надзирател, за да взаимодейства с затворник.</PrisonerTab.helpText>
+  
+  <!-- EN: Order queueing -->
+  <QueueOrders.label>Командна опашка</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>Може да задавате наведнъж няколко задачи на заселниците, като натиснете бутона "shift". Това работи и при не-боен режим.</QueueOrders.helpText>
+  
+  <!-- EN: Reforming caravans -->
+  <ReformCaravan.label>Продължение на пътя</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>След битка, караваната вече може да продължи пътешествието си с помощта на съответстващата команда в секция «Свят».</ReformCaravan.helpText>
+  
+  <!-- EN: Rescuing -->
+  <Rescuing.label>Спасяване</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and the right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>За да спасите ранен, изберете здрав заселник и натиснете десния бутон на мишката върху ранения.\n\nХора, който не са част от колонията няма да се присъединят към колонията. Те просто ще си ходят след възстановяне. Ако искате да са част от колонията ви, опитайте се да вербувате тези хора</Rescuing.helpText>
+  
+  <!-- EN: Set what plant to grow -->
+  <SetGrowingZonePlant.label>Задайте какво растение да се засажда</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>Изберете какво да засаждат заселниците в определена зона.\n\nИзберете зона за засаждане, натиснете на бутона «Растение» и изберете култура, която искате да оглеждат.</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shield belts -->
+  <ShieldBelts.label>Колан с Щит</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>Създава защитно поле, която блокира вътрешни и външни далечни атаки, но не оказва влияние при близък бой.\n\nЗа борба с врага, носещи колан с щит концентирайте цялата стрелба върху тях или използвайте ръкопашен бой.</ShieldBelts.helpText>
+  
+  <!-- EN: TV for sick people -->
+  <TVForSickPeople.label>ТВ за болни</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>За да забавлявате заселници, който са в процес на лечение поставете им наблизо телевизор.</TVForSickPeople.helpText>
+  
 </LanguageData>

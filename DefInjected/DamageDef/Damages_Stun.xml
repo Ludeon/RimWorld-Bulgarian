@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Stun.label>зашеметяване</Stun.label>
-	<Stun.deathMessage>{0} зашеметен(а) и убит(а).</Stun.deathMessage>
-
-	<EMP.label>ЕМИ</EMP.label>
-	<EMP.deathMessage>{0} убит от ЕМИ.</EMP.deathMessage>
-
+  
+  <!-- EN: EMP -->
+  <EMP.label>ЕМИ</EMP.label>
+  <!-- EN: {0} has been EMPed to death. -->
+  <EMP.deathMessage>{0} убит от ЕМИ.</EMP.deathMessage>
+  
+  <!-- EN: stun -->
+  <Stun.label>зашеметяване</Stun.label>
+  <!-- EN: {0} has been stunned to death. -->
+  <Stun.deathMessage>{0} зашеметен(а) и убит(а).</Stun.deathMessage>
+  
 </LanguageData>

@@ -1,26 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Spacer.label>космически скитници</Spacer.label>
-	<Spacer.description>Хора от дълбините на космоса.</Spacer.description>
-	<Spacer.pawnsPlural>космически скитници</Spacer.pawnsPlural>
-	<Spacer.fixedName>космически скитник</Spacer.fixedName>
-
-	<SpacerHostile.label>космически скитници</SpacerHostile.label>
-	<SpacerHostile.description>Хора от дълбините на космоса.</SpacerHostile.description>
-	<SpacerHostile.pawnsPlural>космически скитници</SpacerHostile.pawnsPlural>
-	<SpacerHostile.fixedName>космически скитник</SpacerHostile.fixedName>
-
-	<!-- Special sub-humanlike factions -->
-
-	<Mechanoid.label>механоиди</Mechanoid.label>
-	<Mechanoid.description>Древни, репликиращи машини.</Mechanoid.description>
-	<Mechanoid.pawnsPlural>механоиди</Mechanoid.pawnsPlural>
-	<Mechanoid.fixedName>механоид</Mechanoid.fixedName>
-
-	<Insect.label>насекоми</Insect.label>
-	<Insect.description>Агресивни и натрапчиви насекоми</Insect.description>
-	<Insect.pawnsPlural>насекоми</Insect.pawnsPlural>
-	<Insect.fixedName>насекоми</Insect.fixedName>
-
+  
+  <!-- EN: ancients -->
+  <Ancients.label>древни</Ancients.label>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Древни</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>древни</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>древни</Ancients.pawnsPlural>
+  
+  <!-- EN: ancients -->
+  <AncientsHostile.label>древни</AncientsHostile.label>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Древни</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>древен</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>древни</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
+  <Insect.label>насекоми</Insect.label>
+  <!-- EN: insects -->
+  <Insect.fixedName>насекоми</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>насекомо</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>насекоми</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>рояк механоиди</Mechanoid.label>
+  <!-- EN: a mechanoid hive -->
+  <Mechanoid.fixedName>рояк механоиди</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>механоид</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>механоиди</Mechanoid.pawnsPlural>
+  
 </LanguageData>

@@ -1,26 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Meditative -->
-
-  <Skygaze.reportString>Гледа облаците.</Skygaze.reportString>
-  <Meditate.reportString>Медитира.</Meditate.reportString>
-  <Pray.reportString>Моли се.</Pray.reportString>
-  <GoForWalk.reportString>Отива на разходка.</GoForWalk.reportString>
-  <BuildSnowman.reportString>Прави снежен човек.</BuildSnowman.reportString>
-  <VisitGrave.reportString>Посещава гроб.</VisitGrave.reportString>
-
-  <!-- Social -->
-
+  
+  <!-- EN: building snowman. -->
+  <BuildSnowman.reportString>прави снежен човек.</BuildSnowman.reportString>
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>отива на разходка.</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>медитира.</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>играе билярд.</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>играе шах.</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>играет в Ур</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>хвърля камъни.</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>играе на подкови.</Play_Horseshoes.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>играе покер.</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>моли се.</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>гледа облаци.</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
   <SocialRelax.reportString>Разговаря с другите.</SocialRelax.reportString>
-  <VisitSickPawn.reportString>Посещава пациента TargetA.</VisitSickPawn.reportString>
-
-  <!-- Building interaction -->
-
-  <PlayHorseshoes.reportString>Играе на подкови.</PlayHorseshoes.reportString>
-  <PlayChess.reportString>Играе шах.</PlayChess.reportString>
-  <PlayBilliards.reportString>Играе билярд.</PlayBilliards.reportString>
-  <WatchTelevision.reportString>Гледа телевизия.</WatchTelevision.reportString>
+  
+  <!-- EN: using telescope. -->
   <UseTelescope.reportString>Гледа през телескопа.</UseTelescope.reportString>
-
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>любува се на изкуството</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>посещава гроб.</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>посещава пациент TargetA.</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>гледа телевизия.</WatchTelevision.reportString>
+  
 </LanguageData>

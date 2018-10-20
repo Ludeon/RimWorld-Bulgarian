@@ -1,21 +1,59 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!-- Normal humanlike factions -->
-
-	<Outlander.label>съюз на чуждоземци</Outlander.label>
-	<Outlander.description>Малка общност от оцелели.\n\nТези хора живеят тук от десетилетия или векове. По-голямата част от технологиите, който донесли със себе си, са изгубени.Работят с обикновени механични инструменти и се защитават с подобрени барутни оръжия.\n\nТехните интереси са търговията, доверието и оцеляването.</Outlander.description>
-	<Outlander.pawnsPlural>чуждоземци</Outlander.pawnsPlural>
-	<Outlander.leaderTitle>върховен съветник</Outlander.leaderTitle>
-
-	<Tribe.label>племе</Tribe.label>
-	<Tribe.description>Тези хора обитават планетата от дълго време. Възможно е техните предци да се разбили тук преди хиляди години. А може би преживели катаклизъм, който разрушил развита цивилизация. Така или иначе, повечето аборигените водят номадски начин на живот, като използват примитивни оръжия и инструменти.\n\nНякой племена са агресивни, други пък са отворени за търговия и съюзи, дори с чуждоземците като вас. Но тясното сътрудничество или наемането ще бъде значително затруднено от колосалната социална технологическа и езикова бариера между аборигени и вас.\n\nВъпреки очевидната технологическа изостаналост, диваците могат да бъдат както и опасни врагове, така и ценни съюзници, благодарение на своята издържливост, численост и уменията за справяне с примитивни оръжия.</Tribe.description>
-	<Tribe.pawnsPlural>аборигени</Tribe.pawnsPlural>
-	<Tribe.leaderTitle>вожд</Tribe.leaderTitle>
-
-	<Pirate.label>банда пирати</Pirate.label>
-	<Pirate.description>Шайка бандити.\n\nПиратите не се занимават със земеделие и строителство, освен това рядко търгуват. Те извършват грабежи върху по-успешните групи в региона.\n\nТяхното ниво на технология зависи в по-голяма част от това, което наскоро успели да откраднат. Основно те са екипирани с огнестрелни оръжия, някой от тях имат подобрени енергийни оръжия. А някой от тях просто режат хората в близък бой.</Pirate.description>
-	<Pirate.pawnsPlural>пирати</Pirate.pawnsPlural>
-	<Pirate.leaderTitle>капитан на пиратите</Pirate.leaderTitle>
-
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>мирен съюз на чуждоземци</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>Малка общност от оцелели.\n\nТези хора живеят тук от десетилетия или векове. По-голямата част от технологиите, който донесли със себе си, са изгубени. Работят с обикновени механични инструменти и се защитават с подобрени барутни оръжия.\n\nТехните интереси са търговията, доверието и оцеляването.\n\Тази фракция високо цени цивилизованото общество.</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>върховен съветник</OutlanderCivil.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>чуждоземец</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>чуждоземци</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>войнствен съюз на чуждоземци</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>Малка общност от оцелели.\n\nТези хора живеят тук от десетилетия или векове. По-голямата част от технологиите, който донесли със себе си, са изгубени. Работят с обикновени механични инструменти и се защитават с подобрени барутни оръжия.\n\nТехните интереси са търговията, доверието и оцеляването.\n\Эта фракция е войнствена и е склонна към варварство.</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>върховен съветник</OutlanderRough.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>чуждоземец</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>чуждоземци</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate band -->
+  <Pirate.label>банда пирати</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>Шайка бандити.\n\nПиратите не се занимават със земеделие и строителство, освен това рядко търгуват. Те извършват грабежи върху по-успешните групи в региона.\n\nТяхното ниво на технология зависи в по-голяма част от това, което наскоро успели да откраднат. Основно те са екипирани с огнестрелни оръжия, някой от тях имат подобрени енергийни оръжия. А някой от тях просто режат хората в близък бой.</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>капитан на пиратите</Pirate.leaderTitle>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>пират</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>пирати</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>мирно племе</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>Тези хора обитават планетата от дълго време. Възможно е техните предци да се разбили тук преди хиляди години. А може би преживели катаклизъм, който разрушил развита цивилизация. Така или иначе, повечето аборигените водят номадски начин на живот, като използват примитивни оръжия и инструменти.\n\nНякой племена са агресивни, други пък са отворени за търговия и съюзи, дори с чуждоземците като вас. Но тясното сътрудничество или наемането ще бъде значително затруднено от колосалната социална технологическа и езикова бариера между аборигени и вас.\n\nТова племе предпочита да изгради мирни отношения с всеки, който е възможно. Те са открити за търговия и сключване на съюзи, даже със странни хора.</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>вожд</TribeCivil.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>член на племе</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>членове на племе</TribeCivil.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeRough.label>племе на варвари</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>Тези хора обитават планетата от дълго време. Възможно е техните предци да се разбили тук преди хиляди години. А може би преживели катаклизъм, който разрушил развита цивилизация. Така или иначе, повечето аборигените водят номадски начин на живот, като използват примитивни оръжия и инструменти.\n\nНякой племена са агресивни, други пък са отворени за търговия и съюзи, дори с чуждоземците като вас. Но тясното сътрудничество или наемането ще бъде значително затруднено от колосалната социална технологическа и езикова бариера между аборигени и вас.\n\nТова племе уважава грубата сила и военното доминиране; да спечелиш благоволението им няма да бъде лесно.</TribeRough.description>
+  <!-- EN: chief -->
+  <TribeRough.leaderTitle>вожд</TribeRough.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>член на племе</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>членове на племе</TribeRough.pawnsPlural>
+  
 </LanguageData>

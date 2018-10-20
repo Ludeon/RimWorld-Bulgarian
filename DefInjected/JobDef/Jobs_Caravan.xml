@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gathering supplies. -->
+  <PrepareCaravan_GatherItems.reportString>събира припаси.</PrepareCaravan_GatherItems.reportString>
+  
+  <!-- EN: preparing to leave. -->
+  <PrepareCaravan_GatherPawns.reportString>приготвя се за път.</PrepareCaravan_GatherPawns.reportString>
+  
+</LanguageData>
